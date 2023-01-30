@@ -5,6 +5,9 @@ of Minecraft.** It aims to provide a definitive and less buggy experience,
 including backports of some modern conveniences (such as item smearing and ctrl
 sprint) and retromods that didn't exist back in the day.
 
+**WARNING:** Rewind Upsilon is still an experimental beta! Please [report issues](https://git.sleeping.town/unascribed/RewindUpsilon/issues),
+and take regular backups!
+
 Rewind packs are compatible with the major FTB pack from their same version. You
 can load an FTB Ultimate world in Rewind Upsilon and it will upgrade seamlessly.
 You just get a less buggy and more featureful experience.
