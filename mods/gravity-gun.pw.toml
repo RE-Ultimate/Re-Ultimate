@@ -1,0 +1,13 @@
+name = "Gravity Gun"
+filename = "GravityGun1.4.7v2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df5043db4181038cf666ad7f1e6eafa4dbbd5c16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232137
+project-id = 229072

@@ -1,0 +1,13 @@
+name = "Portal Gun"
+filename = "PortalGun1.4.7v5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c7086d048c6e2c2dfcc28e1621814324bc460f6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2232241
+project-id = 229084

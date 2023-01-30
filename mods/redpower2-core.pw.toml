@@ -1,0 +1,13 @@
+name = "RedPower 2 Core"
+filename = "RedPowerCore-2.0pr6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOPtsKHD/versions/2.0pr6/RedPowerCore-2.0pr6.zip"
+hash-format = "sha1"
+hash = "7a047afc4e19148b0cb327f04c0397241a051734"
+
+[update]
+[update.modrinth]
+mod-id = "MOPtsKHD"
+version = "bixwcHlj"

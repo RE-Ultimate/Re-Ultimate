@@ -1,0 +1,231 @@
+/*
+ * UpsilonFixes configuration file
+ * Any unrecognized keys or comments you add will be lost!
+ */
+
+features {
+	/*
+	 * Allows the Flux bee from Thaumic Bees to provide Aer-type flux. The Aer
+	 * effect is often thought to be unused, but there are some obscure ways to
+	 * get it in Thaumcraft, so the Flux bee should be able to provide it.
+	 */
+	aer-from-flux-bee: on;
+
+	/*
+	 * Fixes the attacker yaw not syncing from server to client, to restore the
+	 * proper camera tilt animation when damaged.
+	 */
+	attacker-yaw-syncing: off;
+
+	/*
+	 * Makes GregTech Jack Hammers a lot better.
+	 */
+	buff-gregtech-jackhammers: on;
+
+	/*
+	 * Prevents CodeChickenCore from allocating a stencil buffer. May
+	 * cause rendering issues. Fixes the game not rendering at all on macOS.
+	 */
+	disable-codechicken-stencil: auto;
+
+	/*
+	 * Prevents XyCraft's quartz crystals from generating. They're a huge
+	 * performance hit and nobody likes them.
+	 */
+	disable-xycraft-quartz-crystal-worldgen: on;
+
+	/*
+	 * Allows pressing the drop key over a slot in an inventory to drop the
+	 * contents of the slot on the ground. 1.5 backport.
+	 */
+	drop-key-in-inventories: on;
+
+	/*
+	 * Prevents CodeChickenCore from exploding when prematurely reading classes.
+	 */
+	fix-codechickencore-hierarchy-check: on;
+
+	/*
+	 * Fixes the DartCraft Force Engine being effectively limited to 10MJ/t
+	 * due to an oversight. This is fixed in the 1.6 version of
+	 * DartCraft.
+	 */
+	fix-dartcraft-force-engine-limit: on;
+
+	/*
+	 * Removes DartCraft forcefully undoing GregTech's recipe tweaks.
+	 * This is misguided in the first place as GregTech lets you
+	 * disable its changes in its config.
+	 */
+	fix-dartcraft-force-disabling-gregtech-tweaks: on;
+
+	/*
+	 * Fixes transmutation crafting recipes in EE3 only working once, and being
+	 * broken by NEI.
+	 */
+	fix-ee-transmute-recipes: on;
+
+	/*
+	 * Allow texture packs to override the font.
+	 */
+	fix-fonts-in-texture-packs: on;
+
+	/*
+	 * Prevents registering null-fluid recipes in the Forestry fermenter.
+	 */
+	fix-forestry-fermenter-npe: on;
+
+	/*
+	 * Fixes an infinite loop with the Factorization mixer caused
+	 * by a minor oversight.
+	 */
+	fix-fz-mixer-infinite-loop: on;
+
+	/*
+	 * Configures remainder items for GregTech cells.
+	 */
+	fix-gregtech-cell-remainder: on;
+
+	/*
+	 * Attaches the LiteLoader logger to the FML logger, making it look less
+	 * ugly.
+	 */
+	fix-liteloader-log: on;
+
+	/*
+	 * Fixes misuse of the ASM API by MiscPeripherals breaking with newer ASM
+	 * libraries.
+	 */
+	fix-miscperipherals-asm: on;
+
+	/*
+	 * Fixes sounds and music for Portal Gun by replacing the asset index.
+	 */
+	fix-portal-gun-resources: on;
+
+	/*
+	 * Fixes RedPower2 non-full-block hitboxes.
+	 */
+	fix-redpower-hitboxes: on;
+
+	/*
+	 * Fixes Thermal Expansion tesseract ClassCastException crashes when
+	 * tile entity types are desynced - can be caused by frame machines,
+	 * turtles, etc.
+	 */
+	fix-thermal-tesseract-cast: on;
+
+	/*
+	 * Fixes XyCraft ore textures to actually use the correct parts
+	 * of the block atlas, instead of just recoloring the white one.
+	 */
+	fix-xycraft-ore-textures: on;
+
+	/*
+	 * Replace the "Performance" option with an FPS slider like modern
+	 * versions.
+	 */
+	fps-slider: on;
+
+	/*
+	 * Allows opening GUIs in Nether portals. This was a fix for a
+	 * dupe bug in Beta that is long gone.
+	 */
+	guis-in-portals: on;
+
+	/*
+	 * Increase the chat length limit from 100 to 256 to match modern versions.
+	 */
+	increase-chat-limit: on;
+
+	/*
+	 * Stores the frequency of a dismantled Tesseract in the resulting
+	 * item, and restores it on place.
+	 */
+	keep-tesseract-frequency-on-dismantle: on;
+
+	/*
+	 * Allows using multiple texture packs at once if they're marked as
+	 * layerable.
+	 */
+	layered-texture-packs: on;
+
+	/*
+	 * Adds a missing lang entry for the Rejuvenating bee's effect.
+	 */
+	localize-rejuvenating-effect: on;
+
+	/*
+	 * Adds a missing lang entry for the Trade-O-Mat's stock.
+	 */
+	localize-tradeomat-stock: on;
+
+	/*
+	 * Adds XyCraft's Fabricator as an importable tile entity in crafting logistics pipes.
+	 */
+	logistics-pipes-fabricator-import: on;
+
+	/*
+	 * Show nilmods in Voxel Menu's Mod Information screen.
+	 */
+	nilmods-in-voxelmenu: on;
+
+	/*
+	 * Ultimate/Hybrid Solar Helmets will eat filled tin cans just like the quantum helmet normally would.
+	 */
+	quantum-solar-helm-can-fix: on;
+
+	/*
+	 * RedPower2 can insert into BuildCraft pipes.
+	 */
+	redpower-pipe-integration: on;
+
+	/*
+	 * Re-enables SHA-1 jar signing in Java itself. This is necessary for many 1.4 mods to load on new Java 8 releases.
+	 */
+	reenable-sha1-signatures: on;
+
+	/*
+	 * Some mods add cosmetics (usually capes) that try to contact dead servers.
+	 */
+	remove-dead-cosmetics: on;
+
+	/*
+	 * Removes the vanilla snooper. The server is gone anyway.
+	 */
+	remove-snooper: on;
+
+	/*
+	 * 1.4.7 mods don't really get updates anymore, and many version checkers
+	 * try to contact dead servers.
+	 */
+	remove-version-checkers: on;
+
+	/*
+	 * Allows holding left/right click and dragging with an item on your cursor
+	 * to spread it between all the passed slots. 1.5 backport.
+	 */
+	smearing: on;
+
+	/*
+	 * Enables holding the IC2 boost key causing you to sprint.
+	 */
+	sprint-key: on;
+
+	/*
+	 * Swap the red and blue channels in the main framebuffer.
+	 * Fixes the game rendering with incorrect colors on M1 Macs.
+	 */
+	swap-red-blue: auto;
+
+	/*
+	 * Enables the Rewind Upsilon modpack branding.
+	 */
+	upsilon-branding: on;
+
+	/*
+	 * Backports the 1.5 'water source blocks fill in above water' fix.
+	 */
+	whirlpool-fix: on;
+
+}

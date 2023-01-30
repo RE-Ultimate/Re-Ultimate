@@ -1,0 +1,13 @@
+name = "RedPower 2 Mechanical"
+filename = "RedPowerMechanical-2.0pr6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7MJnd7L5/versions/2.0pr6/RedPowerMechanical-2.0pr6.zip"
+hash-format = "sha1"
+hash = "2bd1288dd1c00c19140387dfc1c7614ad1a5019f"
+
+[update]
+[update.modrinth]
+mod-id = "7MJnd7L5"
+version = "fmqDcdtN"

@@ -1,0 +1,13 @@
+name = "RedPower 2 Digital"
+filename = "RedPowerDigital-2.0pr6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IxpvJgdQ/versions/2.0pr6/RedPowerDigital-2.0pr6.zip"
+hash-format = "sha1"
+hash = "72170a09e7e9459d648bc47304ec0de73d7a3adb"
+
+[update]
+[update.modrinth]
+mod-id = "IxpvJgdQ"
+version = "QtfVbXnA"

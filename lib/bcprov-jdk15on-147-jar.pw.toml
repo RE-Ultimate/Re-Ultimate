@@ -1,0 +1,7 @@
+name = "bcprov-jdk15on-147.jar"
+filename = "bcprov-jdk15on-147.jar"
+
+[download]
+url = "https://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar"
+hash-format = "sha1"
+hash = "b6f5d9926b0afbde9f4dbe3db88c5247be7794bb"

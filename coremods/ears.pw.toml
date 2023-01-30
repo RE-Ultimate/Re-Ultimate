@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-forge-1.4-1.4.5_01.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.5_01%2Bforge-1.4.01/ears-forge-1.4-1.4.5_01.jar"
+hash-format = "sha1"
+hash = "2cfa7b07baec62bd0e8b922c614813bfdd3d21bf"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "kngtmhTB"

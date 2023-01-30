@@ -1,0 +1,13 @@
+name = "Mystcraft"
+filename = "mystcraft-uni-1.4.7-0.10.1.00.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00da11824bbc3eba0fd095460960490d29cabeff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2216733
+project-id = 224599

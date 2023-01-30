@@ -1,0 +1,5459 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "d0eae8fb7c1ff35c373875bbce33b812699d4cd3d3c5a686f216f808ef9fb676"
+
+[[files]]
+file = "animation.mpg"
+hash = "09089c560a08c7ef5cae81aa3b0242aec4c9804f1b3931c0a217a38dd4d4affe"
+
+[[files]]
+file = "config/AdvancedMachines.cfg"
+hash = "99c8f5c782c8ae52c9ab2193c60373bf946a5b138986562d6a03ee04814b6e4e"
+
+[[files]]
+file = "config/AdvancedSolarPanel.cfg"
+hash = "cefb0fe3897c42ed5f8712bbeb5f94a5757310d8630b3dbf7abe5fae9756e7d7"
+
+[[files]]
+file = "config/AppliedEnergistics.cfg"
+hash = "78879d6a95906f197d86982da61aefa69b0cfe0cf25b07aeb8857c6cd0ce9234"
+
+[[files]]
+file = "config/Autoutils.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "3ac7a8d7c0195dfae3ac2ea8ce37e74c9b64d11471b7f7ea5b166da1dd72c747"
+
+[[files]]
+file = "config/BlockHelper.cfg"
+hash = "5645f92934335cc5ef8a387d9dfff52ba8fcfbebd05af23ec0f4b9e094bac932"
+
+[[files]]
+file = "config/CCTurtle.cfg"
+hash = "b35390e9fd5906f63c5067e39228cc533f0b7019e53a23786b50712fccbf8b85"
+
+[[files]]
+file = "config/ChargePads.cfg"
+hash = "93770219c816ab37d6983c6e3846ac74010ef4e821e03a95ff6860787a42365f"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "d64c49475066257900e10046f6dfcbff80a52bae0f42ea2262f825be34dcf3e6"
+
+[[files]]
+file = "config/Chisel.cfg"
+hash = "5a22d65fb7874563e7702d67ef92e696d3d3add0fddda595c926effd69c4bf42"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "9a9c50c88639b46ad0f0d46829aa3b56fe9764e4d055ca31312bf6c3c2884df5"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "2253533a40dfbcd7df9dad6ba902bbd7937fee52520489dcbc134b7cd99f5d36"
+
+[[files]]
+file = "config/EE3.cfg"
+hash = "1fadc0b01ef14c3950fb34c32eea964555a333a58fab0c8763d12967ca9c5a4a"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "541b843f40420fa103a7ed899d505b7fb486a246b373de659013f5994ad1ba2f"
+
+[[files]]
+file = "config/Flamingo.cfg"
+hash = "8a4df2e52bba753786866109aa802a9beafb184b7487bbe3637a7fd87b2a2087"
+
+[[files]]
+file = "config/GraviGun.cfg"
+hash = "b9844adca1925fff2428c84eb74615d4afb05ef0deab5077af6046e3c456fa99"
+
+[[files]]
+file = "config/GraviSuite.cfg"
+hash = "d68c3309096776b488f6c83e6c1243b0768f257d6b1a73c327136f28d61f0b3a"
+
+[[files]]
+file = "config/GregTech/BlockItemIDs.cfg"
+hash = "8e2e5b90639d98076a8a3f82ff1a08e10549aa7ad6054d879760b725213ab331"
+
+[[files]]
+file = "config/GregTech/GregTech.cfg"
+hash = "7c9057d33b126e9e1d9ac14056e74683f43b59ece72a52eb104f1150f65d59cb"
+
+[[files]]
+file = "config/GregTech/GregTech.lang"
+hash = "99290f4ca00d1e7559450e39c9639128b7f0518ff164228ad18582e4c2169814"
+
+[[files]]
+file = "config/GregTech/Recipes.cfg"
+hash = "601a7d89bfa191c83299ac7dd3789ceb479e4415a34e0c847a965e38a65cf84e"
+
+[[files]]
+file = "config/GregTech/RecipesAdvancedConfig.cfg"
+hash = "982612788a32c15531cd1decc6c298090febfe9b18ffdee0aa1fd250519d6391"
+
+[[files]]
+file = "config/IC2.cfg"
+hash = "bc11fa072c6ce3789da1542f157edb5edb5c922e6008fb5d8f04f8b08f850172"
+
+[[files]]
+file = "config/IC2.lang"
+hash = "5d71759355d03f96e7cb3fd100894a0e22153c1f456d153e4bb96796fb8b54e3"
+
+[[files]]
+file = "config/IC2NuclearControl.cfg"
+hash = "a573fe3a826e4e5ada1f9569e989913235de18e0cee6ac21ef5fb09766f0fc4a"
+
+[[files]]
+file = "config/IC2NuclearControl.lang"
+hash = "1afcdaea23124ad94dedc53e9f25e872de4f7e62d84660a602f977c4d193e170"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "3b5eb2bbe8a278f83bc49902ed1b363af5c2265780a99015f542e4db378fa669"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "a87f3cd1bc42ecb4c0f7f1507e32a3b318d6572473f94d0edb87774fb4445e8e"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "dffd5fdc76033a987ebae22799b636d77d857c1663abcb250a349b480b108e75"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "36e45e7aeea1541b342a489d9899087ebe655e82be7cfe05d1cc9c99a9cefc47"
+
+[[files]]
+file = "config/LogisticsPipes.cfg"
+hash = "60a3b517076bd8242a7bbb3c2772d12df6f892fbbaa3c6f29144c6aff016632a"
+
+[[files]]
+file = "config/MFReloaded.cfg"
+hash = "ebef82a95b02bbc68806ca73184a2608666c85f8e9c697924058f6d17996c215"
+
+[[files]]
+file = "config/MiscPeripherals.cfg"
+hash = "1b3a0328c166d5b4ecad2280ff735bffcd3bf29758e9f8a3042fd5c5de3d2622"
+
+[[files]]
+file = "config/ModularForceFieldSystem.cfg"
+hash = "79c73160d2fd22d19ba6281d396a02d2c4253de792899585c04abd96f16c23b7"
+
+[[files]]
+file = "config/NEI.cfg"
+hash = "b32db8e4a61dede2255ac3b3e967bcfe27b5a9c61e5bf962acaaa47bde6ce74f"
+
+[[files]]
+file = "config/NEIServer.cfg"
+hash = "b43615ac349d709b67e3c5302654cee80a96c4e9b7d75970a3390e4d34348a98"
+
+[[files]]
+file = "config/NEISubset.cfg"
+hash = "45d6c2763a17ddfea15f846a2f5050de00e54f1eddc9b92fe8b225f138cfebb9"
+
+[[files]]
+file = "config/NetherOres.cfg"
+hash = "bdd6e041ff5c3d3c3e7278c366626e694bab987b968d71f556573ecac1f7c9d8"
+
+[[files]]
+file = "config/OCS.cfg"
+hash = "23492936acbc50485e2facac7ca45cc2cdaae5caab167fd31c00584c503dfd47"
+
+[[files]]
+file = "config/ObsidiPlates.cfg"
+hash = "692b503ea6e6b3e0c42d7dae6719722801461ba3b9dddb782517e1343d1b75ba"
+
+[[files]]
+file = "config/PLC.cfg"
+hash = "adccdb54ef92570fba8bce0970dcd62ac2ad59f03e2f04cd864a08c2a319b1f8"
+
+[[files]]
+file = "config/PortalGun.cfg"
+hash = "55ea973da4f6d29e6245aeec6a41da41ab53b56dccd903b696e25edd0f71292f"
+
+[[files]]
+file = "config/PowerConverters.cfg"
+hash = "142591e0884a77e76486ced1928572a9c2ae5fc7736cba0f84dea74665df8c58"
+
+[[files]]
+file = "config/PowerCrystalsCore.cfg"
+hash = "70a8d031215ce520daf9868634d420b2897e28dbd7c0123149ee2b5bf325ed4d"
+
+[[files]]
+file = "config/SecretRoomsMod.cfg"
+hash = "63c41ec994038d24f434f9c51414f53926e69ef060353bbf6ee4f3ca46b15efb"
+
+[[files]]
+file = "config/SoulShards.cfg"
+hash = "2f3c136dad2ff261d6ab6043ec0258a6f4b953632e22ffbe444cb63f2b38fabd"
+
+[[files]]
+file = "config/StevesCarts.cfg"
+hash = "629b9eb995cf9e3df9d4463a9e6b1da5ee0af9628df5f4e1b5302cec01bfd210"
+
+[[files]]
+file = "config/Thaumcraft.cfg"
+hash = "59206baf275f445cb7f10d26af87e7c25b7119cdac3bf8268680e3259c0e1839"
+
+[[files]]
+file = "config/ThaumicBees.cfg"
+hash = "1da3846739129f6d86094db71c6f69d4bee011e5cbddb8f1cd9f98c593814867"
+
+[[files]]
+file = "config/TwilightForest.cfg"
+hash = "d775237e9a4989f3388901502854016cb7945efdce64a9af2dc474032fa2b907"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "6ce65d4933369a9e50690173965b50ff374ff568314b583b5685bf27bf8f0ec2"
+
+[[files]]
+file = "config/XReliquary.cfg"
+hash = "d4ad0e8db1ad74619ceb923cb0b2734372086940066e2c1ca6507b18bbbea7bf"
+
+[[files]]
+file = "config/XyCraft.cfg"
+hash = "77418c44efd94554b13763643500ff3beefa9ff33034edae7f8482e27b59686b"
+
+[[files]]
+file = "config/buildcraft/main.conf"
+hash = "f5bc8a269ba3a04a6519ab581aef197ffea1ac66bdec407fba48caf29939835a"
+
+[[files]]
+file = "config/cofh/lexicon.whitelist"
+hash = "098e4aa6cd21f747244669c9ccb667f9aec05376735f93280ba10cdf31790f0a"
+
+[[files]]
+file = "config/cofh/omnitools.cfg"
+hash = "dc7b530d79ed7f3b506a792874d56ab2ac4007dbdb6aac0ab197c80745d386db"
+
+[[files]]
+file = "config/cofh/thermalexpansion.cfg"
+hash = "d36035c4a87ecdd26fc45596f8afec1a424ea5b381292ac709af3a1657308980"
+
+[[files]]
+file = "config/dartcraft.cfg"
+hash = "227f7835e1a06561a2f12711021ae42680e49dda4c7a63457b25577342a8edc2"
+
+[[files]]
+file = "config/drceph.petrogen.cfg"
+hash = "41498d583698f669bde685438b37d2a9455de69ea7365379861ae785457c94c4"
+
+[[files]]
+file = "config/extrabiomes/extrabiomes.cfg"
+hash = "26e30580fac0e2cc7d7c72181e9c881bac67dbca9391e155a3f205e8dea0df0a"
+
+[[files]]
+file = "config/extrabiomes/extrabiomes.cfg.ultimateCompat"
+hash = "84e0deddae8dff3c527636cf4d926ba7e3c0671a451c3936b1a8a1e3015a73ac"
+
+[[files]]
+file = "config/factorization.cfg"
+hash = "1c43ae2deea7348f86d3dcf56128216152d6c8f140c4a3cf3283f6a660801e24"
+
+[[files]]
+file = "config/forestry/apiculture.conf"
+hash = "68679c1dc96b3f7e568f13775447b133337e47865eb0bf4272ccb87bea2de28c"
+
+[[files]]
+file = "config/forestry/backpacks.conf"
+hash = "07832b3a0e58c5bc17b69833cc8dfa248316ea0669d44c5b29f3f197b31fcefb"
+
+[[files]]
+file = "config/forestry/base.conf"
+hash = "692dc9085860c2b769565f81456b54652ff0878a5585a3a462e1d36f582ac996"
+
+[[files]]
+file = "config/forestry/common.conf"
+hash = "56fad7921ec1c84cdc3a1dcfc16be4a7a5c046f5011610a04231ec2646dfe5f4"
+
+[[files]]
+file = "config/forestry/extrabees/machines.conf"
+hash = "f7564594901ca229c3bacad2190668f4c2a0f84c356958cfdb0517e300893598"
+
+[[files]]
+file = "config/forestry/extrabees/main.conf"
+hash = "24621720850aa674c26f9f56103c8dad64c2982ee3d4e05acf6a7ea7c9ddfc82"
+
+[[files]]
+file = "config/forestry/gamemodes/EASY.conf"
+hash = "c054363fda402651957fdd27826e5665c9f6c011ce53a93543e606c446e2fef1"
+
+[[files]]
+file = "config/forestry/gamemodes/HARD.conf"
+hash = "7b1707a8d79b920468e1ea57569e4d110c66f50f5929f962c64258ae829fda31"
+
+[[files]]
+file = "config/forestry/gamemodes/NORMAL.conf"
+hash = "fd38b8e0d0113f2990aa88979dd083d3deedcd6ac233cad8b753736e43b83c86"
+
+[[files]]
+file = "config/forestry/pipes.conf"
+hash = "dde52b3f2f9d5edef60a6ea46096cf06efaea3afcb70738c34d29c58b69d3180"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "d856f79e0b24b6c4481cef8d2db32327d529c162a79de23af09d1042b3cd2b84"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "c0e7e4d739b50a8ad635b71bf227d88a5832ee129af0c841d0028cca8b2fe2dc"
+
+[[files]]
+file = "config/immibis.cfg"
+hash = "4f96446c79c2e7b0ec8ca0d4ed9b6809c9275f3bce488a79cc5d295ab73a6660"
+
+[[files]]
+file = "config/mmmPowersuits.cfg"
+hash = "234830f098c39069fd745db51013f2730a99df45be5058602f1df9780ac2a25e"
+
+[[files]]
+file = "config/modstats.cfg"
+hash = "e9c8de1b013e0926499042501d9046001a07a8447f424b3ed5d42859ab8a923e"
+
+[[files]]
+file = "config/mystcraft_config.txt"
+hash = "3d6b26c34b941caf2d31424c2fae574e6ee777e7d897ba74db34f549ea25d3f9"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "8009f1a123cf9d854a2cbad48f3b449b7fa2219bce54a53bab4b20f1d7f97376"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "7590ea0eeda8492128624d0326babf5baf0eb57ab98abc02b7ba00d4cbc9ebda"
+
+[[files]]
+file = "config/redpower/redpower.cfg"
+hash = "32c6ac592af9987373e3006235162a9bc293137130a7ca56c8a1577aa323ea77"
+
+[[files]]
+file = "config/redpower/redpower.lang"
+hash = "441b3e320b3c5a9192d8c2c300d1b7a33b331592607e9fca0d4d224dd62f2f27"
+
+[[files]]
+file = "config/rptweaks.conf"
+hash = "b3b91dff201796cd623c9391083e0670ae2e2f960abdc2fbfa4c2b65adf89b5b"
+
+[[files]]
+file = "config/splash.properties"
+hash = "176e824e1d101c3cf0d510f8c59c61656947e558655783f4811a516e7328985f"
+
+[[files]]
+file = "config/splashanimation.cfg"
+hash = "bf8ec5e1c92afe4181e8091b7023bbd0129e854279e58c6364e1bee794e01b2b"
+
+[[files]]
+file = "config/upsilonfixes-enabled-layers.txt"
+hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
+
+[[files]]
+file = "config/upsilonfixes.css"
+hash = "238578bf78ac85d479e1c146b2c12d258b3822ada7428727d0f288b9c6f02324"
+
+[[files]]
+file = "coremods/MiscPeripherals.jar"
+hash = "76d6c7cc09a285f7b4855b9a187bda70cef4f16f937f1931afecf05a3ac812ce"
+
+[[files]]
+file = "coremods/NilInjector.jar"
+hash = "249bb4804fdc46c280374228607e4c4f43568b2658ab5c2f199fd157e759ac1c"
+
+[[files]]
+file = "coremods/PowerCrystalsCore.jar"
+hash = "56a0ec4f8d18025539269a750fdc0b1ac86b93ba1a93d7ba229c32d9e76038b2"
+
+[[files]]
+file = "coremods/RPTweaks.jar"
+hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
+
+[[files]]
+file = "coremods/SplashAnimation.jar"
+hash = "59f64914050fef3c94f16b2df7d6db61d774ccf81032843641ab06e1df84b186"
+
+[[files]]
+file = "coremods/VanillaNeiFix.jar"
+hash = "a654555943a335ebb58e297d72864ba40241f99d762aed648d0e603a6a759907"
+
+[[files]]
+file = "coremods/codechickencore.pw.toml"
+hash = "43997393305ab65652acbf6b0fdfca1422643439fd8a1e856f91237bc93d3791"
+metafile = true
+
+[[files]]
+file = "coremods/ears.pw.toml"
+hash = "0dbe89db09c5cd29f5cc863920c8b47bb410ae8445c5d063e4943a9fead6d6ce"
+metafile = true
+
+[[files]]
+file = "coremods/fallingfix.pw.toml"
+hash = "2240535197c95a7a5f91b0dd504ac1b26f83f609320784f2b86f678b92639212"
+metafile = true
+
+[[files]]
+file = "coremods/notenoughitems.pw.toml"
+hash = "b65969076f3282fdf779d5a74c3b4a687e9468a4a587af31c73a0e2a3cfcaf8c"
+metafile = true
+
+[[files]]
+file = "icon.png"
+hash = "ce38928b31fc18a9017603572ab0334a6c36af7be2f91c7bc241bb6ea9501e40"
+
+[[files]]
+file = "lib/argo-2-25.pw.toml"
+hash = "10ce8ac32de88282fefe52de9631f3c7c4687c20dd83420a6bfa947c41bb7cd2"
+metafile = true
+
+[[files]]
+file = "lib/asm-all-4-0.pw.toml"
+hash = "50dae3bd2201725fc19ecf8ae722700a4778d664b6f330830abf80dd224e1492"
+metafile = true
+
+[[files]]
+file = "lib/bcprov-jdk15on-147-jar.pw.toml"
+hash = "a9cea8f2dcd48e0932e5130e8c10bbb1438e141808cbe4660272c2b5f6627dce"
+metafile = true
+
+[[files]]
+file = "lib/guava-12-0-1-jar.pw.toml"
+hash = "e8087978e22173dcc8f2c80237ab9ab38b10497f66bf8254d0124f0e87188a73"
+metafile = true
+
+[[files]]
+file = "liteloader.properties"
+hash = "615fcca72514dd4983ca410ce71dd5a4f0d6dfdcc8a435f5566036a7ad073631"
+
+[[files]]
+file = "mods/AdvancedMachines.zip"
+hash = "0ccd2e0177f77053f4c2b03b384c6fa7e6846dc151ede71629bea4a779b4d229"
+
+[[files]]
+file = "mods/AdvancedSolarPanel.zip"
+hash = "190a2986ccd9494db89509a1a671c7de9bd4e18ac517375ad488833ab719050e"
+
+[[files]]
+file = "mods/AppliedEnergistics.zip"
+hash = "33c0376e3b88b844629fb37c1a046d4e378314c809ef7329756d620546393e02"
+
+[[files]]
+file = "mods/BuildCraft.jar"
+hash = "36efe00f9d072412ae462129270b19f82a42b8aee295a6316b9e7aa690c17e19"
+
+[[files]]
+file = "mods/ChickenChunks.jar"
+hash = "2764e24528291b25b00c4e56cb171703f93c36f150673facd1e4feb46a25b973"
+
+[[files]]
+file = "mods/CoFHCore.zip"
+hash = "a45cecc8bb559a6bd536bb7d66893caa2b9eb82ef8e3fc6676c7ed38063c99ce"
+
+[[files]]
+file = "mods/DartCraft.jar"
+hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
+
+[[files]]
+file = "mods/EE3.jar"
+hash = "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
+
+[[files]]
+file = "mods/EnderStorage.jar"
+hash = "a7687567bda81f62d1394a532f051eabf5959b4d9217a4f2c424367f973a36ed"
+
+[[files]]
+file = "mods/ExtraBees.zip"
+hash = "4a139a197766b0c49c4eb9eadbd47c70b811f2f28b0d78b1e273c0e322d04ec8"
+
+[[files]]
+file = "mods/ExtraBiomesXL.jar"
+hash = "46124272ed0aef136708cc19d52604380a02925680571f89f76e23fae4a2746d"
+
+[[files]]
+file = "mods/Flamingo.zip"
+hash = "e42cc8a458fb0efcd5f566c43142a07550a364a94913dd69a1e8a925f0c04ecd"
+
+[[files]]
+file = "mods/GraviSuite.zip"
+hash = "2b37f3a8d43311dc5189f98906c58fe5aef629d06fea931b1b763b81aa3eedeb"
+
+[[files]]
+file = "mods/GregTech.zip"
+hash = "bab3a934e3d67f4484d4f68985cba5eaefc86b00372c353ca871765fbbe1eeec"
+
+[[files]]
+file = "mods/IC2.jar"
+hash = "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513"
+
+[[files]]
+file = "mods/IC2NuclearControl.zip"
+hash = "4d4966eb7e49a1384bdc06c722c5c49b489bb8a29fe98c4859782d47b2f998b1"
+
+[[files]]
+file = "mods/ImmibisCore.jar"
+hash = "9efc4ec47957641308d6cae737e2116d1e55e5496a171809060a157e1515ad83"
+
+[[files]]
+file = "mods/InvTweaks.zip"
+hash = "38d245c9bfc659f7dd0905e2c55c0ebb0b62e0f50d6b027a5913b1c0076d3f69"
+
+[[files]]
+file = "mods/IronChest.zip"
+hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
+
+[[files]]
+file = "mods/LegacyJavaFixer.jar"
+hash = "056720325ac2c5031691fc2dbf9bd175cb0bc95d9ab6583b23fbace5b25c564a"
+
+[[files]]
+file = "mods/LogisticsPipes.jar"
+hash = "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542"
+
+[[files]]
+file = "mods/MineFactoryReloaded.jar"
+hash = "1ebe360d30ea10592d6a7eb4871a2d6e47ea6dcdadb77c15fbf888d05d26d5bc"
+
+[[files]]
+file = "mods/ModularForceFieldSystem.zip"
+hash = "f3b00376f67f0a2313fe4ecf7de13cb3495510eafde969912f04dac1e4318a69"
+
+[[files]]
+file = "mods/ModularPowersuits.jar"
+hash = "1a0b7a4ccfa2fc76a9704798d429a36a70ab413a8e99d92bc3860d467922dfe0"
+
+[[files]]
+file = "mods/MystNEIPlugin.jar"
+hash = "3d5d2304e44fb4f8b36f223e979eece63c4be61ed1feac32fa07a2ee054406b0"
+
+[[files]]
+file = "mods/NEIPlugins.jar"
+hash = "7602090e2e8a055eba3a72d6a05d91afbf53af3ac78c1a218bf8f9b4e9cc2e21"
+
+[[files]]
+file = "mods/NEIPluginsRedPower.jar"
+hash = "0fd1fa21e1e8951f751172898313340f01e7025c96a950eac56c4fa04ff55b72"
+
+[[files]]
+file = "mods/NetherOres.jar"
+hash = "69fffb8de08b51813072710a1194258b8059b2fa12ddeddf63aecf4b815c57d7"
+
+[[files]]
+file = "mods/ObsidiPlates.zip"
+hash = "df359d224dfe0a5de37bdaccf0cc7f1c04fd4ecbda5a8ebab9f8e9163d92995a"
+
+[[files]]
+file = "mods/OmniTools.zip"
+hash = "1a30bf87a9ef6df11b5873a9af24a28c057c0613014dce447a35a0e8f7ae00bf"
+
+[[files]]
+file = "mods/PetroGen.zip"
+hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
+
+[[files]]
+file = "mods/PowerConverters.jar.disabled"
+hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"
+
+[[files]]
+file = "mods/SecretRoomsMod.zip"
+hash = "1bb6b95939178e2e69845ce7bc4607fe29cf75a986f532a4518bfe8c093c03ff"
+
+[[files]]
+file = "mods/SoulShards.zip"
+hash = "f20812ab82bfda233fa0e1f3611453452c1b22402c139d91f1a80e413f56c302"
+
+[[files]]
+file = "mods/StevesCarts.zip"
+hash = "51ceba8ad7c3f043bf87f8dd4c2678b96e5d047af6271b11e75011f29afb03e9"
+
+[[files]]
+file = "mods/Thaumcraft.zip"
+hash = "ce010acb0a8016ff2606bc386735f2ae4d70ca6f9ef034e667b4d65dcfc3e727"
+
+[[files]]
+file = "mods/ThaumicBees.jar"
+hash = "f1c00fa25e9d78c7c54e6cb841a17d8b8d540a9ccd96e6966695ac242c9cc7af"
+
+[[files]]
+file = "mods/ThermalExpansion.zip"
+hash = "f24d706c37e525d8e7804968b7019b57b571cba98b4ffc0c32a9521731f69d4c"
+
+[[files]]
+file = "mods/TubeStuff.jar"
+hash = "6df3cbb2087823a5fab1af51354a0894e6b900a8a1dec5ea00b218ced324952c"
+
+[[files]]
+file = "mods/VoxelCommon.litemod"
+hash = "2d23ce596ff04285f729a60a57efe7bfbbb414cd68d127a10b25a385fa2f79e1"
+
+[[files]]
+file = "mods/VoxelMap.litemod"
+hash = "99364942c9b37b1159d55483cabdf8f5544690e0230aa4087ff1a42aa34f74ff"
+
+[[files]]
+file = "mods/VoxelMenu.litemod"
+hash = "8f83d8c08da35f65a00ac728fb3577b476ea2206141e788443e3adaafe66c5cf"
+
+[[files]]
+file = "mods/VoxelModPack/ModInfo.txt"
+hash = "d5b9dd7ced82fbab2674387fb426fa32177f68bdae6e4cf846a9237f908a534c"
+
+[[files]]
+file = "mods/VoxelModPack/ModsInfo/Music.txt"
+hash = "5c3b5dbc555422ddf82013372fa967087119fcc32c6f896d11b2f8424b26364d"
+
+[[files]]
+file = "mods/VoxelModPack/VoxelMenu.properties"
+hash = "8b91799defe0ecdd4a5dbed20993d9dd64a5004dbabcea21a83efa3581ab754d"
+
+[[files]]
+file = "mods/VoxelModPack/VoxelModPack.properties"
+hash = "174696e15d3c69c60bf610c37d062dd850cd41f095d466d864ac08c8503d6cea"
+
+[[files]]
+file = "mods/VoxelModPack/VoxelServer.properties"
+hash = "4c9ff333d0cdbe5de10111e65e7937533bedf41eb616bbb7d3278623e06eca12"
+
+[[files]]
+file = "mods/VoxelModPack/menu1.ogg"
+hash = "5f3956897f700ecf77200618c43419e766e94d30ee97cbda3db7376427230367"
+
+[[files]]
+file = "mods/VoxelModPack/menu2.ogg"
+hash = "77a6fd2e825911739c2e6ac598fcb91dc0d2d31b4da5c796e7f8a3cb42faf03d"
+
+[[files]]
+file = "mods/VoxelModPack/menu3.ogg"
+hash = "8ee81a98e38b4f0140048570d8b6e4fc21ba81bcf8d6b1262d32943a91b34d42"
+
+[[files]]
+file = "mods/VoxelModPack/menu4.ogg"
+hash = "331e3aa8f6f7829f9c8c0154d3007446f9ee83330ef87f721cfe188ef626820c"
+
+[[files]]
+file = "mods/VoxelModPack/nyan.ogg"
+hash = "dee33ef09d0e1c641614562f25743e3d808100a54f11df734b2fe8a7a2df7f7c"
+
+[[files]]
+file = "mods/VoxelMods/voxelmap.properties"
+hash = "5578ab58e76032da9fbe7bdb5351f7541d15cc960cf70543f872a7801fd77b35"
+
+[[files]]
+file = "mods/VoxelMods/voxelplayer.properties"
+hash = "10554a5138320bda60f6fec4c3c45b45072b14981aeb7122d263bc5ed51268df"
+
+[[files]]
+file = "mods/VoxelPacket.litemod"
+hash = "125206df6550d9f8d9a86b87957a2a7b7d993932c06ed23e36965ac246a5ccd3"
+
+[[files]]
+file = "mods/VoxelPlayer.litemod"
+hash = "403cc4b836a79276f26917b58ff190c73ee297cb21b55d10c1b95b639e54b7fe"
+
+[[files]]
+file = "mods/WirelessRedstoneAddons.jar"
+hash = "1a2df3658b2fd0869b71a2f09fcb68cc94da49318554d716c726438e79673edd"
+
+[[files]]
+file = "mods/WirelessRedstoneCore.jar"
+hash = "e6e991b7ec4444ae282c52b7f74a7817053970d10bcf1c3f8207fb2b55a28db7"
+
+[[files]]
+file = "mods/WirelessRedstoneRedpower.jar"
+hash = "a7db4872dff4988a2fb0a2157f68baf4eda236b1eb5a16d74d46db2902adbd3f"
+
+[[files]]
+file = "mods/XReliquary.jar"
+hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
+
+[[files]]
+file = "mods/XyCraft.zip"
+hash = "ed07abe0c990d38bff58f21d383acb448f3938a93da49df74e17a90313ec0157"
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+hash = "6baa5fdfbcdf80cea7a1deee8e6fa8f4d992c197a8b7e134d9dce4f0bc85d435"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
+metafile = true
+
+[[files]]
+file = "mods/block-helper.pw.toml"
+hash = "eb5991d5ed9b37a5ec4a0293af29fee6585ad1950b7150a9da2f499825b9a154"
+metafile = true
+
+[[files]]
+file = "mods/chargepads.pw.toml"
+hash = "23d4288ef415bb7324cdb286e932c4e5f27166dcb578ed868ab3d587d4238d15"
+metafile = true
+
+[[files]]
+file = "mods/chisel-retro.pw.toml"
+hash = "684bd6dccce581412969291ff299380b1c9e2d8816ce03973c34a86ee0524ece"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.pw.toml"
+hash = "ffc4e536127e2f51c586680376827aabe13acc655bfa4f77f346fca3961863e0"
+metafile = true
+
+[[files]]
+file = "mods/factorization.pw.toml"
+hash = "7dc67278f3ff0658125311ba761019ce41cf2fe12d5d60e136711ccc1440a534"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "38b3aab1246d8400784b0362c1822bf4b7827cf6cf50085e65b11e5ec248b1d1"
+metafile = true
+
+[[files]]
+file = "mods/gravity-gun.pw.toml"
+hash = "523750c096bb9c641dbe39cbbfb1ed65be188ef6d489530dcfd4df7d4a1bfe4c"
+metafile = true
+
+[[files]]
+file = "mods/legacycustompublish.pw.toml"
+hash = "e12b6492f1615b18e20c99d4f3ec17b1f6370032495b2f8d074a4feb8193a607"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft.pw.toml"
+hash = "b1553993bdf2aeeec0f0ea698a16bc443f12dd9594e81ad1b4144e1511435d51"
+metafile = true
+
+[[files]]
+file = "mods/portal-gun.pw.toml"
+hash = "0f3b069cf614a94919ed7351d0e3d9d3e2e6cddb46a39d42685aed7010b7625c"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-compat.pw.toml"
+hash = "5e89f80222f6a94ae24080d9dfb772c281fddeaba2d5eac236f06940af85bb86"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-core.pw.toml"
+hash = "baefb03f3203000ac6858cd7c2499bfb13ee1a57be7bd455fba90ddf5c248dc1"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-digital.pw.toml"
+hash = "aeb6fe3a5f15e994e6bdbc0b873c490802e0d2e7f350629476b8fbda6c257d1d"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-mechanical.pw.toml"
+hash = "c1d4289f18af41c204b6286a3cb933e9b1240dc558143cb21a757ae81d35aa48"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "ea0c72cdb1d8bccbf3232022abee2d9fd2347417483f2b5e81ca186669538908"
+metafile = true
+
+[[files]]
+file = "nilmods/NiteLoader.jar"
+hash = "376151ccec637a43325fd843c092f73a633afa49fd46f113dc49a8464659dd7f"
+
+[[files]]
+file = "nilmods/UpsilonFixes.jar"
+hash = "848147f9e234c90ef0de357873962d3000f777fcb01c9acef070959116d03399"
+
+[[files]]
+file = "options.txt"
+hash = "59f4887c28b4282bd99c328676aeb67fcba6ef407507a0be87fae09c6e41ddd5"
+
+[[files]]
+file = "resources/READ_ME_I_AM_VERY_IMPORTANT"
+hash = "c2647878875af13400df92a4131204e27d522018b42f99c13c0d2037983a40a8"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood11.ogg"
+hash = "43073a0a742b7cdd06e1506850f208e081b7ecc692b7dbf408951b566cf0ff5a"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood2.ogg"
+hash = "3cefdfcec539fbe89dec8a2e2a8c23b0b6c872a09c8f71e299f4b1a493a10110"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood3.ogg"
+hash = "b9546fe69eba704b3fd286491d326255a7ccbf69da6d33f4408907f794b7c672"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood4.ogg"
+hash = "c9f8b00ee9b69a994de88812fa68f0386397e9c5abe7273b77b39e1fa0110ebf"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood5.ogg"
+hash = "ad0570e540622325cad75b27352a49a6515e3371380f436fb501a9b505f7af6d"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood8.ogg"
+hash = "b6556a0c887a136bff2bb88fa3ed2c6f9952f8deefab950610cc13c4ab17e605"
+
+[[files]]
+file = "resources/chiselretro/chisel-wood9.ogg"
+hash = "b6af615ef2a9aa671d822b22c3c08e4724c78310793b7307aa680fd99909e349"
+
+[[files]]
+file = "resources/chiselretro/chisel.ogg"
+hash = "cae6f7580295f9167f6c580eb73a48dca681ac1cc868b1f0f8e0cce739c69e9a"
+
+[[files]]
+file = "resources/chiselretro/holystone1.ogg"
+hash = "5915bd7a93253c656f9ae03ae60ce9f2e2c8a2c19cfa337c8e3ebe3b850728f1"
+
+[[files]]
+file = "resources/chiselretro/holystone2.ogg"
+hash = "ac8ba6e4a36bcc6de8e0a7ce49011d3492a2f095d3a2a61bd0b9310b7edd998c"
+
+[[files]]
+file = "resources/chiselretro/holystone3.ogg"
+hash = "477b880c34838f7795a622cb6cb3cad81399e48792923d8085429f404cd7d85f"
+
+[[files]]
+file = "resources/chiselretro/holystone5.ogg"
+hash = "2a73b1b1a55dc2de6cc90707d0b4941f1a454aa70d0ea8c783c1d71f092609b5"
+
+[[files]]
+file = "resources/chiselretro/holystone7.ogg"
+hash = "be6b693839de537b36fc355d7c9e1ff7925f52ac3b2965d16e930640051ecde7"
+
+[[files]]
+file = "resources/chiselretro/metal1.ogg"
+hash = "356cede294ad27378c6db577107f174706127663ab93b6486c8438ee877d10d5"
+
+[[files]]
+file = "resources/chiselretro/metal2.ogg"
+hash = "471991898b04e10be1a84708059a2becf5fba6adf2102113244b81700f44e844"
+
+[[files]]
+file = "resources/chiselretro/metal3.ogg"
+hash = "3994d79b84a97b8512d87dfefd9e796931f39a766fc4bd41373c6c184958292b"
+
+[[files]]
+file = "resources/chiselretro/metal4.ogg"
+hash = "a4ed99a11d8cee669c884ff8c27ebf24d26495fcaf7b89f0abc6105f77a65c3e"
+
+[[files]]
+file = "resources/chiselretro/metal5.ogg"
+hash = "b937afae4a64f3b63462640c37a8a0746b1c7bad478b82b322f48dfe59eeb518"
+
+[[files]]
+file = "resources/chiselretro/metal6.ogg"
+hash = "bd155c2bae93b31564d8ce39ab34ee3e5b441eb7a4238af091136cf5a87d9bd0"
+
+[[files]]
+file = "resources/chiselretro/metal7.ogg"
+hash = "7e5e8262ddaba138e528cdbe76c45d06c296fe7397e6c03b131c2a0a003a8710"
+
+[[files]]
+file = "resources/chiselretro/metal8.ogg"
+hash = "4c5fbff398ecde4affb2f761e21952b8c6d8bdf2c7ac2799051a24949332e345"
+
+[[files]]
+file = "resources/chiselretro/metal9.ogg"
+hash = "f1ae1015d4b40fef8d64e01af54e83b13b0d288f80b74b7f406ac1a39fcd6f55"
+
+[[files]]
+file = "resources/chiselretro/squash.ogg"
+hash = "c989912b02914085047e3da12b80268fcffc9f54201a5ee1234c5d3d3331dd4a"
+
+[[files]]
+file = "resources/chiselretro/squash2.ogg"
+hash = "bc0a0af3e7e9fb76437347e50e32e59ef57fe468d31fac7021d8320f77edd1fc"
+
+[[files]]
+file = "resources/chiselretro/temple-footstep1.ogg"
+hash = "aa81016bc5dc95a79bc6236c68271613cb1b89812a4b458cbee7629c27c07244"
+
+[[files]]
+file = "resources/chiselretro/temple-footstep2.ogg"
+hash = "fb1f89c23f55c57c7f3619ef93860a9773b32d33393c4d8b9a126a51b65a9c1d"
+
+[[files]]
+file = "resources/chiselretro/temple-footstep3.ogg"
+hash = "4dbb059393959378cb085ab89b1399976f8e5b58b620acd480f0d75bb3f815d0"
+
+[[files]]
+file = "resources/chiselretro/temple-footstep4.ogg"
+hash = "cfbcd8fb8b990f2b06662f82f5dd4417666073c76075ac74b7a270cbe02b2172"
+
+[[files]]
+file = "resources/chiselretro/temple-footstep5.ogg"
+hash = "00ccb4cf7ad6192972fc5704b2c3c08b481b8a9bbc34b03e09bd1fa9835845f6"
+
+[[files]]
+file = "resources/gravigun/sounds/drop.ogg"
+hash = "bc34f04e0d24048d2fc1c3daddd14c2e38c802704d15015de61c104b6d502003"
+
+[[files]]
+file = "resources/gravigun/sounds/equip.ogg"
+hash = "5f0bd351ca4b85e086c3fb4b746ee9d11dcf5594cbd1103073ad83191ef98120"
+
+[[files]]
+file = "resources/gravigun/sounds/fail.ogg"
+hash = "89778749eceb8e8094b907c9a1751e818c3fe7775c6d454f2a33af41ff577ea1"
+
+[[files]]
+file = "resources/gravigun/sounds/fire.ogg"
+hash = "5395a1d74d62d80c80bfadf287c5ccd7676acb7a8e11b7e841d92f9183357a31"
+
+[[files]]
+file = "resources/gravigun/sounds/pickup.ogg"
+hash = "b62bb040764674d69574842615e969cb26432c152acf2f7a2a4f1b73c80af813"
+
+[[files]]
+file = "resources/icons/icon_16x16.png"
+hash = "6c51d4ef0405f5b7ca5d7ee505ce6160783588926dcdff8099169f7e2b10165b"
+
+[[files]]
+file = "resources/icons/icon_32x32.png"
+hash = "2496adc8631bb3ab42ea5a737e2b39242e6a1ca86a90855f7d204a086de35fe9"
+
+[[files]]
+file = "resources/icons/minecraft.icns"
+hash = "0f46844a070fee1837def1de876629340fe9e8e781913afc539d17d929475308"
+
+[[files]]
+file = "resources/music/calm1.ogg"
+hash = "e4a8945cceea9765b5541617423404cc48069cab2bce34bb44e76c1413ae26e5"
+
+[[files]]
+file = "resources/music/calm2.ogg"
+hash = "1627b63a2529370b5fc87fe8a6faf16c364d913ec78e748827ae9b57f138ae5b"
+
+[[files]]
+file = "resources/music/calm3.ogg"
+hash = "25984ac6655998148d10ab249ef2724f4cf1638aa67dbd0471fde0939d8db368"
+
+[[files]]
+file = "resources/myst/sound/link-disarm.ogg"
+hash = "7b7ff786c88dc30cb9417fad85de45d9ebfa5a204084571a21298761b6e765e2"
+
+[[files]]
+file = "resources/myst/sound/link-fissure.ogg"
+hash = "7daaf6530f19d2f10a58ed0c5cd6f4632bd87ae24a9d6a4e686ed82de599c2b0"
+
+[[files]]
+file = "resources/myst/sound/link-following.ogg"
+hash = "58e089ebbe72a7f986220a9c65e3c648e5eeb6987b14850537228a6de5d64b9c"
+
+[[files]]
+file = "resources/myst/sound/link-intra.ogg"
+hash = "c6edb6608f1307cafb56fb9657a9ac1e27bb783585792fe8f34dfa44c7dfe2d6"
+
+[[files]]
+file = "resources/myst/sound/link-portal.ogg"
+hash = "5bcb21c6f77905475119475eafebbba3e60915c3f2fdf169cf47a903c805d600"
+
+[[files]]
+file = "resources/myst/sound/link.ogg"
+hash = "97f272a86819edc056d16ea2f5b0dc6bf9610f0e9bc338cce8d7eb3befb32fc6"
+
+[[files]]
+file = "resources/myst/sound/pop.wav"
+hash = "3bc29bded2194d8f58c59f011f2648704911f5cd9bcabb3749ec682278c97fc4"
+
+[[files]]
+file = "resources/newmusic/hal1.ogg"
+hash = "8ccf58af8af93a6dc97ac0f8c05dedaee0b7ee7e555cf4f75d973c47bea4994d"
+
+[[files]]
+file = "resources/newmusic/hal2.ogg"
+hash = "ef489e0e0f6d2b38c5a7ce77a5aea8a6513872bdd0a1421a5bca94474c6620e9"
+
+[[files]]
+file = "resources/newmusic/hal3.ogg"
+hash = "2642662e7fdd7ecea15c59d8f48e012831317a075b8ac4cd3642cf5415a2fb1e"
+
+[[files]]
+file = "resources/newmusic/hal4.ogg"
+hash = "7cd5e5908c5c06ece08336742e28921130cf0fb6cffc4968309509b945de236a"
+
+[[files]]
+file = "resources/newmusic/nuance1.ogg"
+hash = "0ebe569d1356041e77250e8aa325210df4bbe6eb3170b7ee2fe959cebf2071e0"
+
+[[files]]
+file = "resources/newmusic/nuance2.ogg"
+hash = "2133f1bf1d04d0fd3ca22fa29096571294e275d3d304bc1cb3318d3ac903433f"
+
+[[files]]
+file = "resources/newmusic/piano1.ogg"
+hash = "0bfc170ab3395cbd55307cb38314713c3eed442fe35acb7299d052a11c967387"
+
+[[files]]
+file = "resources/newmusic/piano2.ogg"
+hash = "349da439a36b5285e9162c6d300d76d1db9028f4d5048fd5f912af177e2663d1"
+
+[[files]]
+file = "resources/newmusic/piano3.ogg"
+hash = "a47cf88c0fdfe5de1e3f2cd8a1f1b955b474622e1b3b07269783f9755f902b05"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave1.ogg"
+hash = "1a1c3ea102275ecea6521ba7212b2403dbbda1f2b5d3ae6c9f06201c93c2e8de"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave10.ogg"
+hash = "32b41dfc267327b418273ef69fa4132d2a517a49f14a0280747a4bc53e2bacf4"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave11.ogg"
+hash = "f86545beb8e89327c5600ed1b3d28fdc08a89c95afc8a9cd7818bdda570fcdaa"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave12.ogg"
+hash = "255f98ac90fc31841a5df5291203061d4bb1a8c878f88c396530f17845d41184"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave13.ogg"
+hash = "509c9516d7086b7ae85753ed888c466332c251578604946dcc32e41b3d7816a8"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave2.ogg"
+hash = "86589a436adeedaf4ef6584d7bd6bef4ff31a70fa7ed4c4323a6d9292c042292"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave3.ogg"
+hash = "8fb59144400fb9d512b35fa3d63be080c447dc9c1717c073c1b4fa0d38ae92df"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave4.ogg"
+hash = "d54c4c5037edb082750394697f70320d88999ca21d0c510bfb558dd0caed65c5"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave5.ogg"
+hash = "f210f15abce8ffe6805fcf68dbfa92e46933293d8eaf9bfed58a347f7f3f4aaa"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave6.ogg"
+hash = "f97030e0c8f8f0e28ebb489eef652c3261bc0e46c011f5b31bc3d5b9f5228925"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave7.ogg"
+hash = "5db5d586a86d92ab701af6fd9be47cb4d89c8390488da94c7f2bce4b73bd5019"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave8.ogg"
+hash = "eb308c43743e3520d2d1350e8ea0cf34e4489aec1c1ff3625d5202588b39c513"
+
+[[files]]
+file = "resources/newsound/ambient/cave/cave9.ogg"
+hash = "d71c83205a6afc85be92d763629297b336deb4a904c77802283e709095b24083"
+
+[[files]]
+file = "resources/newsound/ambient/weather/rain1.ogg"
+hash = "5828b3955af49344778533612c804c967078ec1a9f349d65250023f920a52ade"
+
+[[files]]
+file = "resources/newsound/ambient/weather/rain2.ogg"
+hash = "3f19f2a6383dabb9b51ab2d4ddbf423fe16fc53336a267de6eafc9a69b77eb92"
+
+[[files]]
+file = "resources/newsound/ambient/weather/rain3.ogg"
+hash = "7fa8cf62bb46906c38980ec246e51eee8dfb857f3e51373ca20b2c04397054e3"
+
+[[files]]
+file = "resources/newsound/ambient/weather/rain4.ogg"
+hash = "3cab2d8ff2cb3412ca136a6802b9c0cfe32caa4f1f58b61d9dfd5744b71ede6f"
+
+[[files]]
+file = "resources/newsound/ambient/weather/thunder1.ogg"
+hash = "a361a1586e1c3d410e9062939d0ff568aa14849ceb2b7dde5fca20ab24a73ff8"
+
+[[files]]
+file = "resources/newsound/ambient/weather/thunder2.ogg"
+hash = "c6618caf8747f96ae355ac1199bab35e8b7da65ddc3000dd9093fe4ee78f6d96"
+
+[[files]]
+file = "resources/newsound/ambient/weather/thunder3.ogg"
+hash = "236cf94a65827ac9cfa5740caa84aaf2240877366819be6770d6324cedc21467"
+
+[[files]]
+file = "resources/newsound/damage/fallbig1.ogg"
+hash = "9223cd4835cb054988d507fbf9c6a03be96dcd5079ab5c148818994800ac0238"
+
+[[files]]
+file = "resources/newsound/damage/fallbig2.ogg"
+hash = "01b520d5b7826af6ae3c78db247d6c363dc728207ac624c6758e0b1f33278c19"
+
+[[files]]
+file = "resources/newsound/damage/fallsmall.ogg"
+hash = "81067dd35c1e8cb2d58907a349ef3835c66de7e4c6cf0f0bd3682a28983bf966"
+
+[[files]]
+file = "resources/newsound/damage/hurtflesh1.ogg"
+hash = "9ab7f37abc60aa1111809131ddabddb2dd1b51a905acf1076ee23c50c512b8e5"
+
+[[files]]
+file = "resources/newsound/damage/hurtflesh2.ogg"
+hash = "b146bcf1052df301e26b72c9942cabc50a8590d488c08518e11037f825c98468"
+
+[[files]]
+file = "resources/newsound/damage/hurtflesh3.ogg"
+hash = "787ecab6f53d415d60870143abe6ec54355e4213e093f0e50e1987b01e80c4d1"
+
+[[files]]
+file = "resources/newsound/fire/fire.ogg"
+hash = "d7c0af67c93206baaefe10e1d55968412b1e1367858b2d940366abcee4e794cc"
+
+[[files]]
+file = "resources/newsound/fire/ignite.ogg"
+hash = "10fe6637d8fa3a9256d367b16f89e9b6313d28e8a3d7ffc9d8136a202512a4ea"
+
+[[files]]
+file = "resources/newsound/ic2nuclearControl/alarm-default.ogg"
+hash = "535fa0b607f39a65a46690ee636db8b27354e7d0f0727d15cfe959fb666bfac2"
+
+[[files]]
+file = "resources/newsound/ic2nuclearControl/alarm-sci-fi.ogg"
+hash = "782f8960f2c89f0a7adc594f18b6e80aece1fe7cdc6b5007cce14e4fa806966c"
+
+[[files]]
+file = "resources/newsound/liquid/lava.ogg"
+hash = "018aad624cd42452fb62de54d5e5481635534729d73c3400616bb49d50d3c69a"
+
+[[files]]
+file = "resources/newsound/liquid/lavapop.ogg"
+hash = "36ea4ed27e7ccee174e560e89bb5b1686d49f98136463b9ca1bccfa0d6c37f71"
+
+[[files]]
+file = "resources/newsound/liquid/splash.ogg"
+hash = "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
+
+[[files]]
+file = "resources/newsound/liquid/water.ogg"
+hash = "80903e62e3081674799acb05f34991042ef4a053822075f720870b76bc3a306a"
+
+[[files]]
+file = "resources/newsound/mob/blaze/breathe1.ogg"
+hash = "a49e4572828f3c6db314d6eeabcb37d88b48969f2513e494766d95d46da62b7a"
+
+[[files]]
+file = "resources/newsound/mob/blaze/breathe2.ogg"
+hash = "ced1f87d6a68c111db875da8c59fc562d77108299f143978320d94f6dcfcc8ee"
+
+[[files]]
+file = "resources/newsound/mob/blaze/breathe3.ogg"
+hash = "7b4309bf9db4f5556a2fce43fff014ca1b8543c14ba96815b8a644a9ad53dd7b"
+
+[[files]]
+file = "resources/newsound/mob/blaze/breathe4.ogg"
+hash = "9232175464c58079b0dd40fa915710c4cf522d49213cf441864a57c41a566865"
+
+[[files]]
+file = "resources/newsound/mob/blaze/death.ogg"
+hash = "9ef443fb83d9a729a1711eb5498ffadd3d06b1a01b3977404035badbd72468fa"
+
+[[files]]
+file = "resources/newsound/mob/blaze/hit1.ogg"
+hash = "0d40ec7e31f5670ddb5ac1c84aec351b7ea65a8a09dd6f645c7c8ebbfac54817"
+
+[[files]]
+file = "resources/newsound/mob/blaze/hit2.ogg"
+hash = "a3a8661fb794fa68079ee417574021d5f38a26cc65e7caee6139b5a4bfdd9f2c"
+
+[[files]]
+file = "resources/newsound/mob/blaze/hit3.ogg"
+hash = "4766b1ec816fa1cd9a2b55985f088d87ae3380e94f20e3cc590619c52dc5caf9"
+
+[[files]]
+file = "resources/newsound/mob/blaze/hit4.ogg"
+hash = "91ea30d417fb4fc4e590e543fe6ae4d53ed528545c5e488643be2385bde6780f"
+
+[[files]]
+file = "resources/newsound/mob/cat/hiss1.ogg"
+hash = "f798aa5d716ca36cee25f2ce5e972e2241647a70be4dff2fd83d1ade0db99ddb"
+
+[[files]]
+file = "resources/newsound/mob/cat/hiss2.ogg"
+hash = "832f521f4bc36fe4c2e87df24736b118cdc86953dcfa98a02dbf258efa64a478"
+
+[[files]]
+file = "resources/newsound/mob/cat/hiss3.ogg"
+hash = "1a0a4c1e680824cf881e95ff1a0ef621a7e7602e231f3e36ded93420c8644fae"
+
+[[files]]
+file = "resources/newsound/mob/cat/hitt1.ogg"
+hash = "d18f5d2b21ce32c10712aec53271a6ebe7632195b4f00d781b550d27a2549e9f"
+
+[[files]]
+file = "resources/newsound/mob/cat/hitt2.ogg"
+hash = "440fc7435bff46930fda42a8460f74ee33f7b10ee50e949b5dbae2108088b209"
+
+[[files]]
+file = "resources/newsound/mob/cat/hitt3.ogg"
+hash = "05f6666aa781a0cf2cb73bafaf829985ec37e6aa87ae01c9060c5c0898affbff"
+
+[[files]]
+file = "resources/newsound/mob/cat/meow1.ogg"
+hash = "00e2d8f59dce15a76b40e9177bb297f6e5d2866045c3ef0a2b8eb739546ed967"
+
+[[files]]
+file = "resources/newsound/mob/cat/meow2.ogg"
+hash = "edfbb41105592ea5d076c098ca2b39b1ceb5a813048a8467fdedd42f7968fdc4"
+
+[[files]]
+file = "resources/newsound/mob/cat/meow3.ogg"
+hash = "98ca7a929fad537254bc3bac30c1c3c0fefe813bdf35e2c96aedbc40dd8166f7"
+
+[[files]]
+file = "resources/newsound/mob/cat/meow4.ogg"
+hash = "5e1c91402becfe78e80ad40826439776b123d642aeafbdb39a936dc9df8f42ba"
+
+[[files]]
+file = "resources/newsound/mob/cat/purr1.ogg"
+hash = "1c21da9a9c3771b2410e8d197aebc6a2fc72a87924dfc88ea1f03d605ebb7609"
+
+[[files]]
+file = "resources/newsound/mob/cat/purr2.ogg"
+hash = "14fd7dcbd5939afc0713907dfaccc619693fe16c61c667663a24204b6bfea6e2"
+
+[[files]]
+file = "resources/newsound/mob/cat/purr3.ogg"
+hash = "8192d4212d7f24937b6a70c89e3dfa3aed006123d32c41433261dd97ef98df9b"
+
+[[files]]
+file = "resources/newsound/mob/cat/purreow1.ogg"
+hash = "c39741cc1ef5460d29ae5fb43fa5b85e07d2ed02d6c4d4b91007e58479da848d"
+
+[[files]]
+file = "resources/newsound/mob/cat/purreow2.ogg"
+hash = "c9cc0aabd14a112d41681d011675dd27bdc14a3bd399414f32abc1457170ee18"
+
+[[files]]
+file = "resources/newsound/mob/chicken1.ogg"
+hash = "5396aa9aebab2533f5b0df30f37280672c614499da4d1c73c553696afad62d2a"
+
+[[files]]
+file = "resources/newsound/mob/chicken2.ogg"
+hash = "0ab57724579519794592587f5118cb33219eb3c9e01ebdaed5f44785995e143e"
+
+[[files]]
+file = "resources/newsound/mob/chicken3.ogg"
+hash = "f7117947467cd443b6b4db869044fc0ca401dcdd130082805912ed4336ec5fe2"
+
+[[files]]
+file = "resources/newsound/mob/chickenhurt1.ogg"
+hash = "f8db356a0f474ac9b907485c760314fb8ad963fc2b1aa97ad01efe42e5f063b3"
+
+[[files]]
+file = "resources/newsound/mob/chickenhurt2.ogg"
+hash = "b76ce1f898495f4d178e552ac63d18ba86661317c3f5fa42e425e51abb330f8a"
+
+[[files]]
+file = "resources/newsound/mob/chickenplop.ogg"
+hash = "89b7ceb1d18d2c3d3d462a8409db0e6db34e0dc29b8164ccbb211bd1be72e390"
+
+[[files]]
+file = "resources/newsound/mob/cow1.ogg"
+hash = "5179706ef6f6afe0fa548568b8221c9967d31d0b3579ee7d5b6ff4fab4d4b09e"
+
+[[files]]
+file = "resources/newsound/mob/cow2.ogg"
+hash = "748c848476f631946c329b451a2f841f2f1aa5c2ed418f89f87eb9ae597ad076"
+
+[[files]]
+file = "resources/newsound/mob/cow3.ogg"
+hash = "70883b349cbbdfab28dc354def4cc604585c3023395b094713f8f095f7699cb0"
+
+[[files]]
+file = "resources/newsound/mob/cow4.ogg"
+hash = "e578c5ac24d6c931a24f4c8506739310a5aaf0feac2758dc7f60ea79aaa551e8"
+
+[[files]]
+file = "resources/newsound/mob/cowhurt1.ogg"
+hash = "42fdeeb8399a471796ae1c74713aed0da91ff038fd8f5d85cc2cb3db3b8b5ed8"
+
+[[files]]
+file = "resources/newsound/mob/cowhurt2.ogg"
+hash = "7e02494277841c6cadc677df078ce81876cc8652a734179dc54d75d5ac4f8c1e"
+
+[[files]]
+file = "resources/newsound/mob/cowhurt3.ogg"
+hash = "3a3d0416e0aa63b3314b499f36a3334a23e945029a8ebfb3a357948c87db6ffe"
+
+[[files]]
+file = "resources/newsound/mob/creeper1.ogg"
+hash = "a5f3b96b194f124b1c4fcd7d0f1754c62c35705ff936c8d6c054fdecb00604f3"
+
+[[files]]
+file = "resources/newsound/mob/creeper2.ogg"
+hash = "1154ea9daaffcc5a96220732b8be5ffedfaf90341dd1d9ac98e91b172070fc96"
+
+[[files]]
+file = "resources/newsound/mob/creeper3.ogg"
+hash = "ffcc84fa087b845dfc5a3c980753f294fb6beceb28117f64119ca466718f97b9"
+
+[[files]]
+file = "resources/newsound/mob/creeper4.ogg"
+hash = "72dbbc987301c203ceb1a9f41fd229e2ec65e151d08efc7651b58bebfab57885"
+
+[[files]]
+file = "resources/newsound/mob/creeperdeath.ogg"
+hash = "f5373a0dad28c21d52349be7c1d06403e198bdef6054dd86fd3a9efb0d450123"
+
+[[files]]
+file = "resources/newsound/mob/endermen/death.ogg"
+hash = "19761b3960f609352f4577aea96cd6c42cc26aab7caca7feeff3b786e958fb03"
+
+[[files]]
+file = "resources/newsound/mob/endermen/hit1.ogg"
+hash = "78a14a0de4d4fc6712b0270de11a421c2cacafe9817b1ecde24d4e0c8e0a7ee4"
+
+[[files]]
+file = "resources/newsound/mob/endermen/hit2.ogg"
+hash = "a8e2b9ca38609bb825f951592cda82162bd905379e0724542763c79d2ad5a9ae"
+
+[[files]]
+file = "resources/newsound/mob/endermen/hit3.ogg"
+hash = "c9119bd892ff84c2c56723a4a2da2ad283872efd4b8ac01af148fc8a3d5cfa3f"
+
+[[files]]
+file = "resources/newsound/mob/endermen/hit4.ogg"
+hash = "471c3427f930e5d945b6d03a7d7e49c5c2a50f65642e3a6ccae9aadc91d36327"
+
+[[files]]
+file = "resources/newsound/mob/endermen/idle1.ogg"
+hash = "fecf3abdb2e5c076405a7900b4f30715ccac4ef73beb04ddd1731aec67a0cdcd"
+
+[[files]]
+file = "resources/newsound/mob/endermen/idle2.ogg"
+hash = "20bffdffd29fa0acc3c87b6a8c6cb78b6ff78f7d7b9612d48e217a86510cdf1a"
+
+[[files]]
+file = "resources/newsound/mob/endermen/idle3.ogg"
+hash = "2edd1e3762498b8965fb2260350f5126f41a3146820f4efd3499cc0e3104bf0e"
+
+[[files]]
+file = "resources/newsound/mob/endermen/idle4.ogg"
+hash = "db85f0582aa1fec21b264034e6c11107df8032a12b92f67eaee0b1fe274aeacd"
+
+[[files]]
+file = "resources/newsound/mob/endermen/idle5.ogg"
+hash = "90da52e61fa75b9c9536cf91387375a76a08af72519bc256ca7aea61864c9c58"
+
+[[files]]
+file = "resources/newsound/mob/endermen/portal.ogg"
+hash = "22ea617abb6797d10040baaa64bc4d6e7debc7f08840f1f21e55b5b69c555bbb"
+
+[[files]]
+file = "resources/newsound/mob/endermen/portal2.ogg"
+hash = "af6d05f3202d0ae1292b8c12600244a4b1da07ae6f757ab719ed6a8f1bed9244"
+
+[[files]]
+file = "resources/newsound/mob/endermen/scream1.ogg"
+hash = "8faba65a5bbdc4a958e4316d327dbd1e94e87dbb4ed32055fd75b49f46f32a49"
+
+[[files]]
+file = "resources/newsound/mob/endermen/scream2.ogg"
+hash = "6b143f0d93bc7670d0097df52b9d4e7be4bbc9283ad5bb7ba4f5fef0645d89e1"
+
+[[files]]
+file = "resources/newsound/mob/endermen/scream3.ogg"
+hash = "c933de47f9dc2abe2eb840240cd208cb9f19aa62e82b010f0ea73b9b7203a98b"
+
+[[files]]
+file = "resources/newsound/mob/endermen/scream4.ogg"
+hash = "bc534d99d901a86da0402e40e9b1e5c4ec2f2c1bf361a357e061bba73b1cabc5"
+
+[[files]]
+file = "resources/newsound/mob/endermen/stare.ogg"
+hash = "ea9e4f8441f7f248c668d21485727996b6a5725dfbbee5815b628cea75eb4cd1"
+
+[[files]]
+file = "resources/newsound/mob/ghast/affectionate scream.ogg"
+hash = "bfc0660825d8b843e7efbdf03c0f45677e4a94a5059748851284895c03b8385d"
+
+[[files]]
+file = "resources/newsound/mob/ghast/charge.ogg"
+hash = "a32bd38cfff32eec72480793fa50520bec898fd33626f6de3fa47cf778adc1db"
+
+[[files]]
+file = "resources/newsound/mob/ghast/death.ogg"
+hash = "999ae12476dc0e077fa3b49e0ea3cb35b608e070cb72135f692da7831ca68a1a"
+
+[[files]]
+file = "resources/newsound/mob/ghast/fireball4.ogg"
+hash = "d88d1eea0f64ebbe1eae9faf2826ad26298d0f1844f1f94ff98b5b5a51b33f89"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan1.ogg"
+hash = "ff215e12398bab7a86f775dcaa365c2176c601fc467d4b1c9b3e09cac62bb32d"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan2.ogg"
+hash = "b39c036b1f17500a8cc488a0dfd4dc0fb4bc8b42e0094a34534fed34e9192f74"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan3.ogg"
+hash = "64e6be9a3d7cd973c9b1601afeb2fe05c116b4ef00e27eb658b16c5dd83430b9"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan4.ogg"
+hash = "048fd373a7aacfc694bfc0c55732212448379d8329d00a2a5c6e9a8d3e309981"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan5.ogg"
+hash = "0f447ab71dda002e561338034fc77ef614426293bae93e9204ad3126f2b81424"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan6.ogg"
+hash = "5d6343ffc03c11fd2dfe5abf1f24c762109187b72f83a3c7ec7c2e9716ab056f"
+
+[[files]]
+file = "resources/newsound/mob/ghast/moan7.ogg"
+hash = "306864e7d1f290489ed73241b69c8af8cdea7f12b4c36be61d2a9b6264136bdb"
+
+[[files]]
+file = "resources/newsound/mob/ghast/scream1.ogg"
+hash = "109d6ebea55ddccfa3054b1876ae8663ab2efef62f825e9630100807ec6c4c03"
+
+[[files]]
+file = "resources/newsound/mob/ghast/scream2.ogg"
+hash = "ecb73ac0f886a2ab3aa62ab1fa9bfca23c0552726b4e5615d0db5b3511fd68c9"
+
+[[files]]
+file = "resources/newsound/mob/ghast/scream3.ogg"
+hash = "58ec87b2b24a2e4eb09894f090a95a14e64f3a1a4192b31c3adb85248b6f2c84"
+
+[[files]]
+file = "resources/newsound/mob/ghast/scream4.ogg"
+hash = "039aed69cd4b2aa4b3c8f1e9db0214bd63be6d2c426c6546485bbd3566f57093"
+
+[[files]]
+file = "resources/newsound/mob/ghast/scream5.ogg"
+hash = "0124311f75e3282034d5ba15d7ce3c354925bc1c68ab31985d8452fe58a82aba"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/death.ogg"
+hash = "2bf02ebfcd22a354433af59da0e3f69ef08c2987ec7cf7524573b47aca7ce327"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/hit1.ogg"
+hash = "7a765cef7580718760963b0c2a88d1c5737d248c154f529e4be721b73dc69a23"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/hit2.ogg"
+hash = "6f936f042e36883a6124317a2e5f1394408544b1fd2449ed81e399bfb8bed6fd"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/hit3.ogg"
+hash = "7746a543f0aa218bdc95078dbc4c8056a1bc4b429756edcc96f512aaf745a345"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/hit4.ogg"
+hash = "e589a7c29e532bb9d62c7eecb681726d4006d9d2a1d78923cc8955fa2b329832"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/throw.ogg"
+hash = "3a3fe1e4433602a7ad443bd4fd7f2f6b49a8d6c21f9eb84912c29236c7bc12c8"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/walk1.ogg"
+hash = "2b1b1ffe8760744d7acffc90250349234efb6e5022d16a61ef17f41c770c653a"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/walk2.ogg"
+hash = "50b6963bc60d47d43d492c35c61b10d411b248cc7c3655dcba141f353a3841d3"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/walk3.ogg"
+hash = "1813629a16b482dc72141851e7c14de6344d83c7a63515479825cd9c8c3c86a5"
+
+[[files]]
+file = "resources/newsound/mob/irongolem/walk4.ogg"
+hash = "a7c5b2e7286a14ef57f0b8c15c8ec2e0d057953104ae52115bb17f0f03a3ff62"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/big1.ogg"
+hash = "f022e8cfda1b5c7c3b2adee2f7ece205caf00e1bfef784a7ccb5a662bb3d35d8"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/big2.ogg"
+hash = "7a1a6633e88debdcb6dc8bffe57d80c2d6cb9f64c44cd475c7d7c6a698136ecb"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/big3.ogg"
+hash = "67f07439240134669802cd3ec95907b588dd05d83166568b08e62c73b21d5aeb"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/big4.ogg"
+hash = "2b0b4d21164e96646bfbcce0e7f8ec499f61f75976514cc868e56a9cbf869f3a"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/jump1.ogg"
+hash = "18d02b78ad938c3ae2670c81de41efbb688a7693c0609c6c15eb29d3f2175cc1"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/jump2.ogg"
+hash = "fa099ef9d3a05dc2d31ca90ac725b86883f0f85bd64d7f89e4301388018519b6"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/jump3.ogg"
+hash = "4df9716c540b202f1b98aa2c1ef41301318839c166ad10c313a405b9e118925f"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/jump4.ogg"
+hash = "3ee91c03c5c9da728e7ed046f859aaf3779d7b3a3db48491fc7f235f7fe7906f"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/small1.ogg"
+hash = "2b83239976d2ea2a9cb9f82f67480ba0261ddf6dbe70b241de2753faa214e137"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/small2.ogg"
+hash = "715ecf390cc6e55c384575fab6fe2da510d612d198e7c6c39e9711bb8b06c1d7"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/small3.ogg"
+hash = "1a63b5010120aeba4a289dd5ff6f22b2d52824665a0ac2b529ce924fc2a0eacf"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/small4.ogg"
+hash = "7e112e9b50616858c21009780a4745d7b21cf133355e3138f28bce99273f4a67"
+
+[[files]]
+file = "resources/newsound/mob/magmacube/small5.ogg"
+hash = "8fb1368e378bf250b047654d799f71fb1eea236b5f07b779f4dc43e319b6364f"
+
+[[files]]
+file = "resources/newsound/mob/pig1.ogg"
+hash = "a6d53f56193788d32344d615db34d203f3060aa579ca7a572738178db94c9faf"
+
+[[files]]
+file = "resources/newsound/mob/pig2.ogg"
+hash = "46a7eb96fb0eb120419d894b9b9d003a3ec6dc1e5ea12a5b8b1e09bd624bcc76"
+
+[[files]]
+file = "resources/newsound/mob/pig3.ogg"
+hash = "172d6d666dd6c4506ed6313bbe3d8f0baea506f981d669509da0d1946568d26b"
+
+[[files]]
+file = "resources/newsound/mob/pigdeath.ogg"
+hash = "3fe52ae493581b67313461f95d2119a36cf346de2ff846946cd2e224a5228171"
+
+[[files]]
+file = "resources/newsound/mob/sheep1.ogg"
+hash = "3138381f5a3d51a6bb9f61b36e45afb0e769281433d4b4e4b7b0191471edb74c"
+
+[[files]]
+file = "resources/newsound/mob/sheep2.ogg"
+hash = "3a81accff735f48eb4ddb631ae74e903d619f0f0803a792f895a149d7be082d9"
+
+[[files]]
+file = "resources/newsound/mob/sheep3.ogg"
+hash = "0147bcae0c1907b6a2f34c7f1c4c848424f8f558c9960a38c20198a917b601c8"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/hit1.ogg"
+hash = "a00f6c37084491b6bc381de34c843dfa02d2d27101c65547ebb95026fccbed7e"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/hit2.ogg"
+hash = "10491ae19332d24e50109ea81e00664b6d825f8af9fb4b7625850f7825f82333"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/hit3.ogg"
+hash = "753ecbddb763d45f23d8ce2a24eaf933e144448a3db93da407bf7f05f45b9d28"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/kill.ogg"
+hash = "94182307d9b66d8e0029ec3b1ea4b8071a28f6f5bc240f21399e886f1e3bc382"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/say1.ogg"
+hash = "df81d1547db8403e4c2a93ef5a63b60ab7489c09544910610e5be40c108d211b"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/say2.ogg"
+hash = "1b41758b85004e8868dcd702f988263bc9b1bea1a345a889ac67b244c5ee5668"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/say3.ogg"
+hash = "9e8c35e59b79bb29fd43840ffb1b26b9108dfd9ec9082a314c3b8794bd3826f3"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/say4.ogg"
+hash = "ee5c41c079c0a2940adcec91ba65678a021930d2569f9b140e03826678ab9190"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/step1.ogg"
+hash = "ac021d3a83e0dcd5c13020b0a56e0f209db5e4252221d67df8e82e066d3eaf40"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/step2.ogg"
+hash = "ad3983e4f5fb5bb7afe28c1a130f5b165462fd0a8fa0d8e405de2a6cbbd80403"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/step3.ogg"
+hash = "9ef93dde57e47710ba7cfc268df4606942ee386710d6b166dd13d21489274acb"
+
+[[files]]
+file = "resources/newsound/mob/silverfish/step4.ogg"
+hash = "c580c3897afe86ff8215053a61fdd03aef87d55229c89efcaa4f125159a51f22"
+
+[[files]]
+file = "resources/newsound/mob/skeleton1.ogg"
+hash = "7543f97233eb091dd2aa7a6705b88dd060105e845e9b8489b4aff2d844efb4c3"
+
+[[files]]
+file = "resources/newsound/mob/skeleton2.ogg"
+hash = "ae40502715776c3dc36b232a81f5f973fe8f70a0e2cf5dcba328e9b002db8e80"
+
+[[files]]
+file = "resources/newsound/mob/skeleton3.ogg"
+hash = "c7dee0f2702ebfa1e6ed08b50fd753906d9c22fc79c8f4582de2d229b2d33552"
+
+[[files]]
+file = "resources/newsound/mob/skeletondeath.ogg"
+hash = "5ea5e1cc0edf0b6093210a7440a5cec43f8a9ef906e258795fe4160a1a102ec5"
+
+[[files]]
+file = "resources/newsound/mob/skeletonhurt1.ogg"
+hash = "e1cb8cb6a5d8dc85243c16b9bdaafe9b44f9503e53607a61a937ffa66908636f"
+
+[[files]]
+file = "resources/newsound/mob/skeletonhurt2.ogg"
+hash = "0591a9b410107d7f1eb6b2406dd3c1e1c76095f7c1b675b42ad6d97b087bf123"
+
+[[files]]
+file = "resources/newsound/mob/skeletonhurt3.ogg"
+hash = "216ae23e644725fadafdfa1b329d0ac7741013447cc9e8f9bcf6d84bd51a4fe0"
+
+[[files]]
+file = "resources/newsound/mob/skeletonhurt4.ogg"
+hash = "9dfaae48099c2cd82b1687c56ab79ba3c09e74302b901840dc1c34a9dbe919db"
+
+[[files]]
+file = "resources/newsound/mob/slime1.ogg"
+hash = "0dbc30393e8527033e3bc74c277f6ef712e803d861ea1ca9bad91d33321781fc"
+
+[[files]]
+file = "resources/newsound/mob/slime2.ogg"
+hash = "41132e31f04d56f52e21fffb764f9a242e7a23a585bd6e50e6251eda3016305e"
+
+[[files]]
+file = "resources/newsound/mob/slime3.ogg"
+hash = "120796709985182d1b823670d0a2bfda367a7fbfcd585771caa535c65bd6ec01"
+
+[[files]]
+file = "resources/newsound/mob/slime4.ogg"
+hash = "32ba6331a560f3ae199c2521dbef8f489ef3d8e314e2f6b52dc04805b58ceea7"
+
+[[files]]
+file = "resources/newsound/mob/slime5.ogg"
+hash = "def8113c8f9cf78525fdcd0b516b0d4d4684a2ffc3ff00ebc7261d79a7a8173b"
+
+[[files]]
+file = "resources/newsound/mob/slimeattack1.ogg"
+hash = "a953ff5cf25dfccae2a7dce104663671143150ea149ce4f6b157b9ccc6d8a74c"
+
+[[files]]
+file = "resources/newsound/mob/slimeattack2.ogg"
+hash = "5941ed2db72663d081148649e0b5f75a3b8b057794145edc3399f56a5d24f569"
+
+[[files]]
+file = "resources/newsound/mob/spider1.ogg"
+hash = "12bdac5ab8b092987b3e090bc11563af39f7e81e6a1cda905ca72582e66583dc"
+
+[[files]]
+file = "resources/newsound/mob/spider2.ogg"
+hash = "fc21014580e7501e400a3679617e7ab0d5b9729b6bbb4cb356d0ad0d0bc5c94b"
+
+[[files]]
+file = "resources/newsound/mob/spider3.ogg"
+hash = "a6a41a152090fa334a63ce48132bd82123c541817cac46700702ba6cfb28adca"
+
+[[files]]
+file = "resources/newsound/mob/spider4.ogg"
+hash = "0b8cd1e6db3a92fe03934249934ca739a38509d517388d26e3ab2c10cbc1d7dc"
+
+[[files]]
+file = "resources/newsound/mob/spiderdeath.ogg"
+hash = "0ad281aa0a056f015c392bbec569ca1f9fbc985f24d4c34bbdc3414ca95fb752"
+
+[[files]]
+file = "resources/newsound/mob/wolf/bark1.ogg"
+hash = "7a7c717c1477513ff7fda28d9dcc86713a4374583893d2b1581b1995078c71f3"
+
+[[files]]
+file = "resources/newsound/mob/wolf/bark2.ogg"
+hash = "46d29a911a558e1ba7fe06030f354d9606607636c536f06ed60964148b29ac69"
+
+[[files]]
+file = "resources/newsound/mob/wolf/bark3.ogg"
+hash = "66c643cb2fe191f6c37e9a0c0b2852de8ce8e118a42306a79ca20675f781582c"
+
+[[files]]
+file = "resources/newsound/mob/wolf/death.ogg"
+hash = "eaf00c1d455786d235767e452489f8eb399f5f289a49b2bd5cd7fc6ca5628cf1"
+
+[[files]]
+file = "resources/newsound/mob/wolf/growl1.ogg"
+hash = "0389ada7c74a150982e4b93b42c413780a672874f407f992bdfb6ffc35281f34"
+
+[[files]]
+file = "resources/newsound/mob/wolf/growl2.ogg"
+hash = "52cc0f0e9bff46189af5673ddda8fc441da03a722ac7b10e67df07173dc0eae1"
+
+[[files]]
+file = "resources/newsound/mob/wolf/growl3.ogg"
+hash = "5d4815bb97d6aa66be74f9d778615af6a25b548f3cda5860272583effe7a1bf5"
+
+[[files]]
+file = "resources/newsound/mob/wolf/howl1.ogg"
+hash = "e20b0d4dc8a13d955c5c2e7a94683b6340be4f34986b470bb268ac339a4d168f"
+
+[[files]]
+file = "resources/newsound/mob/wolf/howl2.ogg"
+hash = "4b59670d8d061e624fab66b71a164c170c36360628b894a2baca496a6568d757"
+
+[[files]]
+file = "resources/newsound/mob/wolf/hurt1.ogg"
+hash = "149b2042d2e00721eedf6b4561d5dacdeab24069fc572a4b498953b297cb38fe"
+
+[[files]]
+file = "resources/newsound/mob/wolf/hurt2.ogg"
+hash = "2f1e5cb0cd10ea9518cd3edaed4a93c2cdcd4ac80e7e91f41d6d9e2d088c7b2e"
+
+[[files]]
+file = "resources/newsound/mob/wolf/hurt3.ogg"
+hash = "e75590c84aadfe8491a006ad90b34d4b7ef6705db6ea25b6fc3ea04c415ccd53"
+
+[[files]]
+file = "resources/newsound/mob/wolf/panting.ogg"
+hash = "876d6c695624352260cf125664d889891104aed72021e95b6b2fb330930d5878"
+
+[[files]]
+file = "resources/newsound/mob/wolf/shake.ogg"
+hash = "56fc1b38d8e73d23e899e078ac89a08a8c82b8ef3af45dfefb4637d219c3bdfb"
+
+[[files]]
+file = "resources/newsound/mob/wolf/whine.ogg"
+hash = "c21e827bbc0abb4ca079f4dd677bd3c7e5f0df428cbb414883fb6db8600d1286"
+
+[[files]]
+file = "resources/newsound/mob/zombie/metal1.ogg"
+hash = "58bf0e05478b197b04f74cc1bd181fef1376eaf8ee1d5fda30f2b4f492ec4e70"
+
+[[files]]
+file = "resources/newsound/mob/zombie/metal2.ogg"
+hash = "b5b02ab0fc751dddc4855e7113310c58d60a01a5f0e606a5b9a0aaaa001653db"
+
+[[files]]
+file = "resources/newsound/mob/zombie/metal3.ogg"
+hash = "1d05c0fdc85d83a1541c298f3bac23136605994e48ec5dcb12d57d1411a279d8"
+
+[[files]]
+file = "resources/newsound/mob/zombie/wood1.ogg"
+hash = "2067240e60b98536e241b386f00e846bba7977433e2efa4e9a29f1c919414559"
+
+[[files]]
+file = "resources/newsound/mob/zombie/wood2.ogg"
+hash = "e793516a865123ee896dc4d04d1a474a4ea076dd1efeedc56d2c164a513e50e4"
+
+[[files]]
+file = "resources/newsound/mob/zombie/wood3.ogg"
+hash = "4f28ca06444938bd91939435dcbe10f1220e20803e78970c8f4a339d1d352d18"
+
+[[files]]
+file = "resources/newsound/mob/zombie/wood4.ogg"
+hash = "c073e39be2c9be3da084d813eb2a5c694965c998ac21f5fed448f48108c02648"
+
+[[files]]
+file = "resources/newsound/mob/zombie/woodbreak.ogg"
+hash = "bf1f722bda05b390f2ee9f0cb116afffddcd020ee6e6c79fb87d650012b93c38"
+
+[[files]]
+file = "resources/newsound/mob/zombie1.ogg"
+hash = "b1f2b64cc2639c869d57955aabf9d46206ae7a8def97ebb68865b1743c5528e2"
+
+[[files]]
+file = "resources/newsound/mob/zombie2.ogg"
+hash = "626e0f7a5bb15fb82729bf7d1abee398bda35fdce29f369d554061c96be38d1c"
+
+[[files]]
+file = "resources/newsound/mob/zombie3.ogg"
+hash = "d0e981ec22dd8a6927d1621c990b182789a712f30ad00108ab4f01f974fe6383"
+
+[[files]]
+file = "resources/newsound/mob/zombiedeath.ogg"
+hash = "052cce2dea9fec085c9bd1c1541b60b6f1b9f2f5f5b69014e1e7310c761d3c30"
+
+[[files]]
+file = "resources/newsound/mob/zombiehurt1.ogg"
+hash = "fd2cbce6b58ab65e3dba73b2aa8d86b6e5753fd5c8d543e1b691e5c364bc4a6e"
+
+[[files]]
+file = "resources/newsound/mob/zombiehurt2.ogg"
+hash = "e91a2ace7d09d3bce417c5694308bc63243541ec23dce15d004432f32f5fdec8"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpig1.ogg"
+hash = "57fdeea11f34b97d7a3c894d2db69d60ba078dca94a7ec23b5b73e92c2fddd8c"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpig2.ogg"
+hash = "7e0b4bf25a0f5d3cc7ea192c0b51bdc37b21b365b3a2d102e08834b7ecbb27f6"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpig3.ogg"
+hash = "bdd44aca52225f2cc3a7034b46bd393d6d147df28ebe3a3bc460e3c99378e545"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpig4.ogg"
+hash = "17487cce5ff083b47eee1a6de6994451033dbb5fef4b2a1b9cdfaa71e60f32e1"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpigangry1.ogg"
+hash = "1d1514b285a32d30472942791757adc3d892cde8c4c1ee0cc9f410f0e65b9b72"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpigangry2.ogg"
+hash = "8010ee10e882f2edc472995e1b64514cf47f999ce45c2297db5f045b52c7340a"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpigangry3.ogg"
+hash = "ae9f09525815c565eeccb455172e3788b168dea9e3599d1f937a505cc850c2c0"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpigangry4.ogg"
+hash = "07fe9793a277d07944a5c4951670786760c2afa11607e93864659c9cae71e9f1"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpigdeath.ogg"
+hash = "1a5030004c1fc20f7af95253651bdc2e24df6c0034dc6bb17d6dec53b038185f"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpighurt1.ogg"
+hash = "e28d1459b24673a8922a039a94acad1e051fc47dc2932407daa99ce5c49b56c4"
+
+[[files]]
+file = "resources/newsound/mob/zombiepig/zpighurt2.ogg"
+hash = "05b632aab1c50232259f218119a82618ed35634d196280dbb25fecd145f62e55"
+
+[[files]]
+file = "resources/newsound/note/bass.ogg"
+hash = "7a9581ad340672efc6a77bf990175fb2a725fec400c39417cac783452562b247"
+
+[[files]]
+file = "resources/newsound/note/bassattack.ogg"
+hash = "7261568b63fea6a5763335479d16980329ae0c8db35f1b743eb86005d1a12150"
+
+[[files]]
+file = "resources/newsound/note/bd.ogg"
+hash = "829e1ff33546ef3de4e1e1a38ca3e0dc8a582227c284052868963333ed790686"
+
+[[files]]
+file = "resources/newsound/note/harp.ogg"
+hash = "d775e11718dba8dd601e76bee5958aa02ed0d56c26481881d4c28226f7bd4477"
+
+[[files]]
+file = "resources/newsound/note/hat.ogg"
+hash = "8139400f63c0bc7114e960826a11bb1cd561e8f0c01dce077dbc6424ae51ab6c"
+
+[[files]]
+file = "resources/newsound/note/pling.ogg"
+hash = "d7e3638d4c0fba4614f24ba94d6380935ae2341536d76989e44f00ffd94a1459"
+
+[[files]]
+file = "resources/newsound/note/snare.ogg"
+hash = "a2a5168e70548dcddd5015204cec586365e611854e83bf634b42f2a6ddd8c3b7"
+
+[[files]]
+file = "resources/newsound/portal/portal.ogg"
+hash = "e99e597079059f33b1e926728c99ff145eb36097de77c0f66ee87236c0fddcda"
+
+[[files]]
+file = "resources/newsound/portal/travel.ogg"
+hash = "2a78858744fa32d2ee9531b666dc9b2d89866bf69a6a2bb8b9436092a8127768"
+
+[[files]]
+file = "resources/newsound/portal/trigger.ogg"
+hash = "58ec8b9d6c81c738b300073456e13fe898d80d415ef5439f5f94454c11092603"
+
+[[files]]
+file = "resources/newsound/random/bow.ogg"
+hash = "9492b523393851444789a0befcb1c0c5f382638b9b87e56dfa4da6dcb61dd3f3"
+
+[[files]]
+file = "resources/newsound/random/bowhit1.ogg"
+hash = "31e05e73edb52ff6871f60d60ce1ed8912cf1f6c85ba68a571808efba3d9890e"
+
+[[files]]
+file = "resources/newsound/random/bowhit2.ogg"
+hash = "fa7acce9893cd8ae274bf57453d782d825915e31999a21f0c38713116a100b45"
+
+[[files]]
+file = "resources/newsound/random/bowhit3.ogg"
+hash = "5904f027d0db3f29434fc5840ab25b5115abfb11dfc858ddc339380554f24713"
+
+[[files]]
+file = "resources/newsound/random/bowhit4.ogg"
+hash = "1f5dfd0b9a203ea49c1f90a91bd8da23839748bc7fbe00424dae703046684b59"
+
+[[files]]
+file = "resources/newsound/random/break.ogg"
+hash = "5f6a07395aff066ab493beb36cec9e40879a1c70e66f181878b10ef7568be581"
+
+[[files]]
+file = "resources/newsound/random/breath.ogg"
+hash = "d72a45fe2628a78366289e9d6abfd43b910bbda97c1b961b58a40b37d2175e35"
+
+[[files]]
+file = "resources/newsound/random/burp.ogg"
+hash = "e49f343cf4289dc1c25f9932075a6b07a89bb13c885fea4ebc2634f43ba35c8d"
+
+[[files]]
+file = "resources/newsound/random/chestclosed.ogg"
+hash = "cabd102798e979d06e369f50b82c32a873c97a730fbe501b2207a9caf5e9e0cd"
+
+[[files]]
+file = "resources/newsound/random/chestopen.ogg"
+hash = "0071c94ea25dc346cc6f8e5cfdef4bb1788131634de459a3374bab16803e3200"
+
+[[files]]
+file = "resources/newsound/random/click.ogg"
+hash = "f69421ba05229236c7a4efbc9a5e18c4aeb0621feb95471241ef0063c21b865a"
+
+[[files]]
+file = "resources/newsound/random/door_close.ogg"
+hash = "09a032fa28c0ded8a4b27d3b59db26ca9a0fc21bc97fd0bc269477fc475db6e3"
+
+[[files]]
+file = "resources/newsound/random/door_open.ogg"
+hash = "b60716ee3bb4b9bd971f63ef06d7cb1282539801f3fced860df715f80c4f0754"
+
+[[files]]
+file = "resources/newsound/random/drink.ogg"
+hash = "05cac0f8c7e3d002254b2b73d31d2457c39c0a1791e47dc319b5cab13dd23206"
+
+[[files]]
+file = "resources/newsound/random/drr.ogg"
+hash = "2f177dd9e7b9a710ee2e04d75bf3cb51864d04e03dafb859c730c1965f476fb0"
+
+[[files]]
+file = "resources/newsound/random/eat1.ogg"
+hash = "b2c679f3a7c177a94134cbaa11dfe08ddefee439c1cffc448d7621f3e4229e82"
+
+[[files]]
+file = "resources/newsound/random/eat2.ogg"
+hash = "71a4b8035a72e7c881219b6419bb7de66ffd128c10743448fc1c69cdfb3b8a35"
+
+[[files]]
+file = "resources/newsound/random/eat3.ogg"
+hash = "3c6f012d2ceb63062d2705c4892a53970ed504c20b08d82e113fa876e734c5f0"
+
+[[files]]
+file = "resources/newsound/random/explode1.ogg"
+hash = "ec6fe52205a861046bc6a45d284fbe8233b05f87bda87a67a7d4c24b74acc997"
+
+[[files]]
+file = "resources/newsound/random/explode2.ogg"
+hash = "c6438fb756b69367d9c4262def4d0c1836d6ecd4d0b6a831168c2e705253c688"
+
+[[files]]
+file = "resources/newsound/random/explode3.ogg"
+hash = "6178b31e2001591c67a019ed8176d76095f821e9a869f5f2418f41ed09f7adca"
+
+[[files]]
+file = "resources/newsound/random/explode4.ogg"
+hash = "0524d95e0f8d537dcc7b9f585e0f99975a0676162cc722f96c05ab47c45c7a76"
+
+[[files]]
+file = "resources/newsound/random/fizz.ogg"
+hash = "32c42c9c46b99b40191ab10dca9096ff7d7fc05f69276b418a4ae244f08e319e"
+
+[[files]]
+file = "resources/newsound/random/fuse.ogg"
+hash = "4cf9560e566bcf200f61e460e47cd18f6002304a28d376c6ba2139ec96628828"
+
+[[files]]
+file = "resources/newsound/random/glass1.ogg"
+hash = "ac96668c1b15115e362b2d7d033c46df1575535da06cbcb8bed2fa3b740ab446"
+
+[[files]]
+file = "resources/newsound/random/glass2.ogg"
+hash = "7288bb874add42719964c87a232c2897f3e965e33ca55652b4744b4fad87fcea"
+
+[[files]]
+file = "resources/newsound/random/glass3.ogg"
+hash = "062c3175b3ab2b7e44b52a10bb9ff60eb6c01f5b19f165e90df0ab0c215b07d6"
+
+[[files]]
+file = "resources/newsound/random/hurt.ogg"
+hash = "f087f1373227cdfa745bd43d977492fd875cf193b41dec6837ba331e74c0a818"
+
+[[files]]
+file = "resources/newsound/random/levelup.ogg"
+hash = "550ca1fecca230f6dfea6ecab62a617b4b7a6d0ac9cdd371ea9085caf0e9097a"
+
+[[files]]
+file = "resources/newsound/random/old_explode.ogg"
+hash = "5d996493c8829e5126cc25e4c16f6c06f1a0cff88f79abdff213e7179a111481"
+
+[[files]]
+file = "resources/newsound/random/orb.ogg"
+hash = "5998bf8ee2eecc2779ef896f04a540f9d48d4e96cc9227aae4646f4d9b817749"
+
+[[files]]
+file = "resources/newsound/random/pop.ogg"
+hash = "5e3baf518a0104760dc06a2e0088b377433997b46511c1730db0e3ba6f2b0ca7"
+
+[[files]]
+file = "resources/newsound/random/splash.ogg"
+hash = "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
+
+[[files]]
+file = "resources/newsound/random/wood click.ogg"
+hash = "7dce4248fec6971e31c9a5fa644b3a93449eeab010c79cf732d24ba95887d0ba"
+
+[[files]]
+file = "resources/newsound/step/cloth1.ogg"
+hash = "8a716f2a3cbfb5d330d3aa9999ff56f0636cf388991caa06d866576989c9f36e"
+
+[[files]]
+file = "resources/newsound/step/cloth2.ogg"
+hash = "139fc234e51f7825fcdedf10c93d8d60c59df9b4955334f409a624e4b3e6bfbb"
+
+[[files]]
+file = "resources/newsound/step/cloth3.ogg"
+hash = "ac49293ab32aa3154eb5c1251e3175a55d28f9e6866bf74fa76c2cefdf6cc40e"
+
+[[files]]
+file = "resources/newsound/step/cloth4.ogg"
+hash = "09d5879722c54c86d39d83df919f7f712ed92044ffb5b0a6757b9fc2e02281a3"
+
+[[files]]
+file = "resources/newsound/step/grass1.ogg"
+hash = "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
+
+[[files]]
+file = "resources/newsound/step/grass2.ogg"
+hash = "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
+
+[[files]]
+file = "resources/newsound/step/grass3.ogg"
+hash = "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
+
+[[files]]
+file = "resources/newsound/step/grass4.ogg"
+hash = "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
+
+[[files]]
+file = "resources/newsound/step/gravel1.ogg"
+hash = "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
+
+[[files]]
+file = "resources/newsound/step/gravel2.ogg"
+hash = "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
+
+[[files]]
+file = "resources/newsound/step/gravel3.ogg"
+hash = "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
+
+[[files]]
+file = "resources/newsound/step/gravel4.ogg"
+hash = "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
+
+[[files]]
+file = "resources/newsound/step/sand1.ogg"
+hash = "1260ef32a374eb6ca23da821764886b67d655bd2ee34a71a1520e90c308aa63e"
+
+[[files]]
+file = "resources/newsound/step/sand2.ogg"
+hash = "74ef2fa1b6c52356ffa9bce77c826681be52d73f0deaa423e87694a2fd79fffd"
+
+[[files]]
+file = "resources/newsound/step/sand3.ogg"
+hash = "0441e996d75a0d2d67cec2ef60251f2a9cde6e15299589db79f4690ea8cc580e"
+
+[[files]]
+file = "resources/newsound/step/sand4.ogg"
+hash = "42ac91167d26014e04fa8c50435d655e2b0c6168f319c9c99ea7377b4df912a5"
+
+[[files]]
+file = "resources/newsound/step/snow1.ogg"
+hash = "f7e03bb5bcc487cea313bfd72ded4cfd4e215b82228cf9744760f61da4c496bb"
+
+[[files]]
+file = "resources/newsound/step/snow2.ogg"
+hash = "a0d603f69ad58662e688d74b9ca2f345eebc0938b4af954f16840adf436fe8d9"
+
+[[files]]
+file = "resources/newsound/step/snow3.ogg"
+hash = "ae97513c5bcac9d08f5c8bcbaf55b7a3112134603c141b5de70e15a06c77e325"
+
+[[files]]
+file = "resources/newsound/step/snow4.ogg"
+hash = "c7918a0b58c45a6f0d29fa990bbd31a7b482ef61387c83a02eb7f70b672e4761"
+
+[[files]]
+file = "resources/newsound/step/stone1.ogg"
+hash = "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
+
+[[files]]
+file = "resources/newsound/step/stone2.ogg"
+hash = "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
+
+[[files]]
+file = "resources/newsound/step/stone3.ogg"
+hash = "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
+
+[[files]]
+file = "resources/newsound/step/stone4.ogg"
+hash = "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
+
+[[files]]
+file = "resources/newsound/step/wood1.ogg"
+hash = "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
+
+[[files]]
+file = "resources/newsound/step/wood2.ogg"
+hash = "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
+
+[[files]]
+file = "resources/newsound/step/wood3.ogg"
+hash = "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
+
+[[files]]
+file = "resources/newsound/step/wood4.ogg"
+hash = "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
+
+[[files]]
+file = "resources/newsound/tile/piston/in.ogg"
+hash = "8cb549c666fea3e34101a5765907009696a76d32104012ed547adb2e9130ce66"
+
+[[files]]
+file = "resources/newsound/tile/piston/out.ogg"
+hash = "ab7a8f3ab45c2375bc7412b496ee80a94e79fa14a226d838e2dd38c6c8c0f91c"
+
+[[files]]
+file = "resources/pack.mcmeta"
+hash = "06d05b9e7b198a2711cf5611922c05ec073bd618723d87328adda90f1c5ae37f"
+
+[[files]]
+file = "resources/pe/humble.png"
+hash = "3caf2a7372c46252807061359b144514e6c29c5656b5d38b5852d7f8fe9ee8de"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/afp_launch.ogg"
+hash = "781de383f29c64cb483503bb29adb34cf2c965d0fa6f64829636329d60551c26"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/apg_firing.ogg"
+hash = "3e487eb5591be84529f30c406aa457ce1e44f0ea217ff5b1b312e95e0f652154"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/apg_turn.ogg"
+hash = "a2d8116135325ed08f55f102cb3187640c7a2521d95d15a5600ebff13bced317"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur_fizzle1.ogg"
+hash = "bd28b8bde1c4ff318283d16f258a26a94f382c78d7a3bb170dc59e44d3627c9a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur_fizzle2.ogg"
+hash = "60196c834cf33f115f1dfb994e6a955f48337fb3e25816fd08b70c6ffc825a98"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dinosaur_fizzle3.ogg"
+hash = "26ad7dd7910f0944b2f6c6d5cfce5a4fc1145fc451143038914f99f1b4a31459"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper_iris_close_01.ogg"
+hash = "56691d98f1e56f5d2fcfb63b73fea8264830e101b564af236b8ff1453a281a6c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper_iris_open_01.ogg"
+hash = "845613194cb4d72b74f7b8a1f5554262e277d4307cb972a6f0626040e98fdb9f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/dropper_iris_open_02.ogg"
+hash = "86224e70dfee0068f8e5b63bd3a901c237a3586d939c3c45170dbf4274bb9a21"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy_bounce1.ogg"
+hash = "e72ad7c3b13f0136c554f8aa46306b6a17f25dbf1c93c8889c543512fac63f99"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy_bounce2.ogg"
+hash = "29c096b25865d89275afd490079dd15c9ce63187c39ed3b4b93852610e738a83"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy_sing_explosion1.ogg"
+hash = "a0e441fad50db01e9f7ade69ad3da297df225606569158f1748a78d52a26217d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy_sing_flyby1.ogg"
+hash = "9c834628f059f26b7f21d08f71ab7a7dff42b9de7e03e4b9b08de76007043c20"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/energy_sing_flyby2.ogg"
+hash = "da3bdd556d2bd0fdba298ffe5b04c069f1dc836b04373e9e4c578c3a3be3e401"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/fizzler_shutdown_01.ogg"
+hash = "352a8e1a0920036367f5983d2c9479073f1083281a9b0cdcb090087073ebfd05"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/fizzler_start_01.ogg"
+hash = "db51b1e938ef9adda013e89601a3514760edce131918dd39fa4a515a5aa0a736"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_10_loop.ogg"
+hash = "35209e0efd5d7fe6c7bb0fe82cecff8332c5341726fe60743f23c3604c71a2ac"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_11_loop.ogg"
+hash = "6bba629fe845e153627070a26fdc4a90e5d804b2207fdd20ace86e79657a09d0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_12_loop.ogg"
+hash = "12a835b5451c9fcf35d4e4987b4defbde61dd8f0e14686ae21832aa1204614cb"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_13_loop.ogg"
+hash = "664e408f39d9f8042b27dc116f21818385b159c69a370819588e150d00e7d641"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_14_loop.ogg"
+hash = "0f40580bd46896519f6a779836baca298cd82a8d37742f25ee73e1864e1d8d17"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_15_loop.ogg"
+hash = "35644af1e039d0b71eb994f53b16c863dec8a2460a5e6dcc3db1c954bf700840"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_16_loop.ogg"
+hash = "23b98a455f7431c9585cb4339538b52f1f1abf3bf00b6bb8d2af9d67a50e752d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_17_loop.ogg"
+hash = "55784cecdb5730fe2efc3a821f59c95805bffdac69532553577fc247523199f2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_1_loop.ogg"
+hash = "b9c1e97ff17f336d36f64a24d8350f3ab50aa2be5005a783d6b0e33be258c00c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_2_loop.ogg"
+hash = "a70800cbd3eeb8e9b15207f8cbd4b607ea40f436466bfbf0f0845d215c1ec9a8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_3_loop.ogg"
+hash = "6c0dcf443d52cb559ca929c319d1b9a2f28dca43ba42c2cfc880e6fdd43a3476"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_4_loop.ogg"
+hash = "b88154a3a6576f0f9d454e3d16a5e3f60ba5c17097873c8b0d103e76bef8983b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_5_loop.ogg"
+hash = "a829570f3cd8c078fa566ada7515d52bb890372616c7c60dc2928bf7a58e1c50"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_6_loop.ogg"
+hash = "139dfb81c8b98629a320e96d27482ba6d3314cba8cf7c9932605c23c449c7c8a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_7_loop.ogg"
+hash = "1f5304303d525507f49fb2eacbf48d08b8895c41e46ba75aa0f0381b13804dcf"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_8_loop.ogg"
+hash = "bdacc184f78402ab36f4730f31a04a2d230d45daa5157a5ebf5c5d579316cee1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/heploop/energy_sing_9_loop.ogg"
+hash = "23c8ba15dd6756700c537859681c7244932c7e6dce3cf4cd2ea5a0b2a0cae38a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser_activation_01.ogg"
+hash = "e32f710612abebdfa5eaba9e19c604c9db5975399687d8005598f72059373c10"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser_node_power_off.ogg"
+hash = "073f1dcda36fc64ae5cc76b2b1fcd7ebf73fa280858b7f7c687bdf9905bb46e1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/laser_node_power_on.ogg"
+hash = "e3681750183dc9c672046da23f86fff98102c1c005fec64848a51e7f97d825a8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object_use_failure_01.ogg"
+hash = "e30d926ff3cef7a778c963df273afb1f600cb12140172ebc15ac7fcdecc82991"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object_use_start_01.ogg"
+hash = "5b3f8c82a4fce0b64f7d29b7a58a398ce288f17e7694165a933398abebd8ac4e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/object_use_stop_01.ogg"
+hash = "427d4c787e31568805d2d6e4fbda83167a3b8a4349b454b5aa08db8328d23b53"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_01.ogg"
+hash = "0d4464affb2f0f4d0cf6a43dea8a39fbdb95a5d67ab906c708db6cf95153dc8b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_02.ogg"
+hash = "0487dd5082ae3cc2ba65f49020a7cfe8c9f2c8062ca6a4d2b1478d7d5c15399b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_03.ogg"
+hash = "a84b2d51689ee46ea02f2c12131f24e44cf101b1745942cf5e3167d73d2fa3e5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_04.ogg"
+hash = "eb298f8b03f1603ba3a06e500a933576a7780d5e4c116d32be3b56b9fbaa156c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl_burnpain1.ogg"
+hash = "6839c7ad3818d25ceb5be998cbcc98f66e08652e6f1903dfb1a4be7b89f54199"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl_burnpain2.ogg"
+hash = "153c8a266f593ea5a4ab7cee8f57865356fe5c98c3d2692812b0bc5e2a6bbebe"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/pl_burnpain3.ogg"
+hash = "1907c72c2460ba33c6d5276665a94e2d4606f7e0615453d83e24fe6ea3141cb2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_enter_01.ogg"
+hash = "783a231a6f79132e181108a6d0e717342d28206ca4f4ff3431c3c6ad2f91e2d4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_enter_02.ogg"
+hash = "9e3284a75bc699200ec3e453d815505b7cb06a6eef59059553f84fd07140451a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_enter_03.ogg"
+hash = "1240d05466f1d49770ec21e28eadf3f381e08f6b996a82cee0ee15450baf6b6f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_exit_01.ogg"
+hash = "ba03d91661e482808e49c576bc75bc57895246259cbad22dad40752a79ceb03a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_exit_02.ogg"
+hash = "7692ab150d4fe01830c9d249572638a394e8e06899a32b38ef26ae0f58f4e78b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_fizzle_01.ogg"
+hash = "1bd24d5bab5aa8eaaf30e8f66a5027db6ded33192d4689d152c82f859e58a922"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_fizzle_02.ogg"
+hash = "f314bf4119622f8b6376b4508755b63d0fc6307baed9308db2e4641093e17188"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_invalid_01.ogg"
+hash = "24c37fd2ebe871d05c45f23ba65b566e2d829959a10652f507c0c8e30eeddf4b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_invalid_02.ogg"
+hash = "9d5efd3272df558e86118818c0b7c0ef774aa69ac2e4b5ead1c20b56cfa89131"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_invalid_03.ogg"
+hash = "c49a25189adc5d0cffdd5c0075614661db15de4783b538341a3993b149396eb9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_invalid_04.ogg"
+hash = "ef6c639f0bab815cb074cf83efb65b14a720241e35797ac592e9d11057e13294"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_open_blue_01.ogg"
+hash = "39661441925037b022048895a6ad29ea80ee2854651003aa359401f092844fb8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_open_red_01.ogg"
+hash = "ddb2bed4407d94a5379c72d0d1d72dae7980748950080d9b0376d9cebcd87ee2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/portal_open_red_02.ogg"
+hash = "dd79b64a8a4cf22c017d0b2344366e0b40481e54d8e02b6f7e4246a118a94e5e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/cake.ogg"
+hash = "871e888f95468f1f0c26deaf82e8cea3d7cf27b5d1751a759b50dfe0edc388b4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/classicalmusic.ogg"
+hash = "7f9e55df07c63ca8380e9b08bda49ea006dc5acc0585817df2f42f371db3b0f6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/creeper1.ogg"
+hash = "6e6a62ef803c81c34fd4968a453219baed07f918a13c8a5078ae4bdb94a7863b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/creeper2.ogg"
+hash = "ef2469e7f3ddc88203d4182ae91b915c099776ffe7f35b6cf458770abedb5d04"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying1.ogg"
+hash = "21ce1bc6b9e3b6ea0f8fdf139a6030988250c8226d47a4bc82131526fe048ba8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying2.ogg"
+hash = "cf4209fc478fb21e73834b9a7b0ddafce7db5c94023bfdda9e0896426c305f24"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying3.ogg"
+hash = "8d6b1e55efc8ded0bcde543bd956646d43b91273099903972aadb21c1a690bdc"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/dying_seecreeper.ogg"
+hash = "bfeb2c99c4fb9d3efdef7ea6d59bd06f73183abf32d7ee7c79369c287aa7b4cb"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/insult.ogg"
+hash = "b908bbc79e6a4d8d080e30e2ede55e7aba806d13bd8cd375cd56087470d845b5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introa.ogg"
+hash = "ff941c1ad8e22fd72532ff01cede5a36cfe808e3d1fc74d1ea181bfeec462178"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introb.ogg"
+hash = "c99706f43d7e523433f42e8d8852cde3338d61963518a084a80ad919aa932eb6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/introc.ogg"
+hash = "39d904bfdf3aaf6e75d901f5a5a9cf09f2522a6ea6bd4702211ffb9d143ac9a0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow1.ogg"
+hash = "3b45ad0d7eac7978b8f8210a4e108b1fb78ec02404276b67a17d81dd398ecca8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow2.ogg"
+hash = "5c22900cf728704fd938aafe1d559cd42f7159fbf5e485cfb5cf3395c99c835b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow3.ogg"
+hash = "0db81ca9283afec08cf8003e925238230d78d7c8899eb3565e92484417e16c0c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/ow4.ogg"
+hash = "81658bd3222087513b7281b5c2c114cafc2df85edb1efb5d1a53e7f01d8d6b8f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/paradox.ogg"
+hash = "9c647730945783970ef8245bf7c46e8bdaeac52181156fabbbf088770b8eb440"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic_gosee1.ogg"
+hash = "bcaf69482da7adb691b0eeaeeb40e56965c533207a6b00c45cdbb07062bf2dc6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic_nowait1.ogg"
+hash = "86a3c0246303cb70060d6e775cddf2280402e23baffddbb0b1c0ac21770df10f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic_see1.ogg"
+hash = "57066c0035c39098fe107c65684afd1b01f573e15e6986e9d3f16c882c9bc843"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pic_see2.ogg"
+hash = "07a1edbe07011088dd6f0db4f92e959ebce16ddf6f057ac3aa9ec0c509519826"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton1.ogg"
+hash = "31cb331af154493832f5af19c7af4f72a579e70aaf0d96ebd5bd6e5308ddb0b7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton2.ogg"
+hash = "67fabf5955a9639b61c819008b2b455ae7411eb2724913a8d390ee7e666c2460"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton3.ogg"
+hash = "cc6c3d5a10e6d17987e5f94f928c30d096b5a47227d8155d0c104ed583a2b4a3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton4.ogg"
+hash = "7863f3bd33f4d8b9a96aadd29303eb722f1b8b22ee278072aba398c93cf312ea"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton5.ogg"
+hash = "7022e04da8782d7891f5f5830c4d2b50c3aca10f07672b26f61422c8040a69f8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton6.ogg"
+hash = "bfb4677973d916f69a4ca4ef717752c2d9703532c7c8910d6f0e7fd96ce76728"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/see_chicken1.ogg"
+hash = "99376effd4daf8b52f72a929b9e0918967afe41073b1bf4dcb64187e9ad1321f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/see_mobspawner.ogg"
+hash = "c99f780254b2fa8a663400a77a64d5ae09fd7ea3cf1982f0cf291af927af049f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclap1.ogg"
+hash = "3c7d6204f3e7608d0f0d60b5663a0370a12fcd676c3576cf532faeeec41509b0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclap2.ogg"
+hash = "4f976db0ab9ddffc1d017748c3dbaa9f5a47e206b7fabc5c16e76faa5dcd53aa"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclapa.ogg"
+hash = "74bfb171f3d44d2633875a980d7134926c37075f944dcc6ede6b39cf90e434a3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/slowclapb.ogg"
+hash = "69a2e7a5f6b1126917783a4e903e5900b0118ee58a4aee1c040391cc9f4d98fc"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/stabbed.ogg"
+hash = "41d33425317a5dd88cc6b18ca2ac5228fb29826790f1d9ef8b85da4d5df307d4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/thanks1.ogg"
+hash = "47c1bbf436f15c9c23537c67c6c804f5ae2590ec0e7a86c8c22f6fa09b98e754"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/wakeup1.ogg"
+hash = "3be972e8dbd9947e938117128256ec4538d4a987c7c6ce136213478a387b103b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/potatos/wakeup2.ogg"
+hash = "f322dff35652b9e5845a116c16dd69c00281f8b632efdaa6f8bb75f0ed8039b2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop10a.wav"
+hash = "5e278c01aa80611d8289752b3a455a4257b8ee26f08d15159eea1e97aea0cdf0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop11a.wav"
+hash = "a49d09facd7e02dbaf41110937fd1146d55af1be0fb20419273d2b208c0c24a8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop12a.wav"
+hash = "245ca0da40e26b3ef9a047524b55c2d6c646f78205351bad1c4d8b33297950b7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop13a.wav"
+hash = "3dfe469bbeb4e975f0c1f7d8f94f61e9d99320340a4b0adeb96eae37c5a158c6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop14a.wav"
+hash = "4e17e8c380f5180d8a407ba535acfce49c53883e247a702d0a894f63d31859a2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop15a.wav"
+hash = "3135df9c6c075c002a3d23cfd492ca436d1517a3b54eda4a94c072645c1b5aff"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop16a.wav"
+hash = "8647729836579abd808c6d0e3d85d174d06a70b9990823150eaeebbb286182f9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop17a.wav"
+hash = "6b5246641e90c1d328fc11717233eecfb0e1b2c8e3dd5edbe2284b7dde5f8849"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop18a.wav"
+hash = "62e52cad131f4ad2a57d8293eb4a8b8f1917b4172b7492de2d9a570f8934ad1d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop19a.wav"
+hash = "53ef315cf44f572abf9cdb85d4518d0d2dae94ea1977a7e0b2322a0ecb66bcd6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop1a.wav"
+hash = "ab1e85076321072a956644fcbdd6805743a74ed8e97e03901b8ca22f890bdae3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop20a.wav"
+hash = "17a1cd5b1697ccd059d5d1ac96d372371ea6d59ad7a39a0196d4e21ba3f0114a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop21a.wav"
+hash = "7877b3037b3a62e2f8874667149c4ca8d1f8b00f22daf10e833ce23a32f9d048"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop22a.wav"
+hash = "96597f610153f51ec42f8a18583b4d6ea7fde21f8034ba34dc687e84f91b6839"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop2a.wav"
+hash = "2f1aa5cc61c5f981d87b376f1b1ce9d4e8a41268d302da4c837ca79b5c986c5c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop3a.wav"
+hash = "d9b3f948fcd8164e0ddafb2bddfafeaca16b57d407f92a51efbe2dde1b5653a6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop4a.wav"
+hash = "63de73961c53881bb1fe39978e3ae5b0829b02ae92c6db9cca1569d7ceb7c980"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop5a.wav"
+hash = "d410d7bd714af7cc9b912a18d5829479427b2a80b4189f6aca19738c0b191e5e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop6a.wav"
+hash = "af8406ebe0cbdbffe0a15353bd49d9f30e9c6ec3b5432cb5c08beeae761fb4bf"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop7a.wav"
+hash = "07088c3ff1fbf2bd942ff62e5a8afe676119d80a4ae1b5ce7fe2f86d71c7f1b2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop8a.wav"
+hash = "33fa6d0611693679da80debb56a1732c865596cf8a5349f31e946195a9d9f695"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop9a.wav"
+hash = "d92fe569d00b11ef87602aadc1e6a8780b70c2215dde08fea1d425d3bf44daf9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys_small_zap1.ogg"
+hash = "39081d72331daed2ad74b93049b3cd6fa73dec42ebe8d48e34074d89c3bc35f7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys_small_zap2.ogg"
+hash = "c47a1e6a268bbc49b735e55befbab80b48aa38bb890a51d481cf1b8fe1ed2857"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys_small_zap3.ogg"
+hash = "936ba41a20d7447f4faacc3faf9ea44d8eba0b2189ca59024c249832836e95f1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/superphys_small_zap4.ogg"
+hash = "4af16a9526db4a5c1531c706910c3d4458b0ddde3f792da7a7567bbbfe4b294f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor1.ogg"
+hash = "ef6501ade2ffc4b374f8f4e51c595fa396f6eb89c27faa0debd593004eaf1631"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor10.ogg"
+hash = "ca111449ced35404de36b40db04cb97b4fa4b22efc37b135383b50eb67fca012"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor11.ogg"
+hash = "d08f7296b1d0a8ea8fb88e33017667f594f320f4ade6ecd3ff0fcb64008028bb"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor2.ogg"
+hash = "ea72fe7e8db155de7bd75a7875dd6557866c8d7b832bc7bd60481feac9b28161"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor3.ogg"
+hash = "32fff3e6d1eab382c31e88bb762f2d868cd3c696048c2125b84e7091b09ba67c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor4.ogg"
+hash = "5b35c3e38d338de34ac5c8a098dc453379bef18c9f32148c87cbd2029b0c2f3e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor5.ogg"
+hash = "a356a123aef1f886c91d68cb8d097988c19f71d148437761827f6ece663245ef"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor6.ogg"
+hash = "6cd6905fccb55fdea5ee67c16ed247ee2ab9a2b1a1bba2e832ffcc8ac3a5e693"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor7.ogg"
+hash = "cd7588db93be8be1b7aae63a481343111379b7a22e0cd59714b5df2f68a39f6a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor8.ogg"
+hash = "6854c6142782ab68afdd84579045efd7428a8ff5c13bdc2caa905b113af02c0c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/bulletltor9.ogg"
+hash = "a6f342a935684758d2700ad518c93503aedfabc91ee14cd4766ca3e25ed6e672"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce1.ogg"
+hash = "1132c68d06f435e52a4c243521a29021ed60f19e11c93fd6f796784b90c65b00"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce2.ogg"
+hash = "fcb24040eee3d3b28ef7c6dc9065639893238fc9931144f5727dd5e25f622b7d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce3.ogg"
+hash = "6461369cd1d1bbf5aa4fbba909721ae249bf28ad60c28993cca6a1777378fdee"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce4.ogg"
+hash = "210b044cceaf2e4b2ec7c4e9b7fa6f083f304e1054f129e735f782490ab0b65c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce5.ogg"
+hash = "24a9955fe507ad68c282d6caf4fc28e0a3fbb7578fb81440a6132d20222cd8a9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce6.ogg"
+hash = "11e56e0352f5228b58916dee2b6879f83094bad047c4ef844a089a10a163547a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce7.ogg"
+hash = "4ee6b894812fbac69403f86e0b9ed4572b9350d253638ea27f206d5899c4961c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_bounce8.ogg"
+hash = "9c2be89857cae97c27a76e34195e944c69fc043abf8b5850c0bcb82bd36203e8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy1.ogg"
+hash = "8569efbb184ea28bbb64082ed5577354ef0a8b362aa50872467bacae6dd9cb07"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy2.ogg"
+hash = "dfea4e87c083ac8553e8ec7dd3c322cb925e1942709fe742cb086afa21c5e615"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy3.ogg"
+hash = "06caa9a01d781be6b3045dcb236751d27997e440b7dbcbe414f674d91cf0e15d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy4.ogg"
+hash = "db203ea421b254a1f1a159f2a9e890fd597913f93e4e35695b1386426d9bdfce"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy5.ogg"
+hash = "6de5c882b716d0dc4cb62170efb070888fd27bc0cecb95ea8909c1ad029a93d2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy6.ogg"
+hash = "f55058df377d097a4017c28d502dd188c26a80d165e814f04757a159aaf26f06"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_deploy7.ogg"
+hash = "0d56cd086cc2c3b49b12a71004212425f2e7e2a7a69db381bd4a0bd4f7e16758"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire1.ogg"
+hash = "e8adbc17806f7008ef87bfb79a5df088cfcf7b9ad58c552461ca096165ea7cbd"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire2.ogg"
+hash = "7247232f4c126660263854b4fac352edc125f421d4da3542dc973213534a9784"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire3.ogg"
+hash = "2ae9bb84c87dc4dbe2df7efaf62de072a2b7b2a16a9af3dd106043260b50f44b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire4.ogg"
+hash = "4412d847785fe4adbc5c9618d651045eef37824475b0da3d3ef4aa353676b7a4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire5.ogg"
+hash = "15d15959df7730282be964795ec00386aa570416b75b5ecafcc8f4b571e47d5e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire6.ogg"
+hash = "ebc606a832bf93818ccd9fe551a71a898171369e63bfbe046757d074536b9ef3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire7.ogg"
+hash = "7cee6845e2fd096eccb453083cddb5da09d7daefc8804769b0afa788d258ffd6"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire8.ogg"
+hash = "3004d7150eee67a2fd38a6260865e7c9233e6a39658a0df644415f90c6a3466c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_dryfire9.ogg"
+hash = "e382e0256085b3e42d3b792c1f9f1110e4a8b9a0d814612ea962ad8916090d8a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_entityaround1.ogg"
+hash = "9e113fba943acfedd10c819c5ba81f15d11b697b3059db08bba7fd0fe8551a17"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_entityaround2.ogg"
+hash = "bf06ac894f8f3826322a3aaac25f603a6380204e74be3733b79c4ccdb1a2446d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_entityaround3.ogg"
+hash = "f47b26380c6daaf30d388b7f0c17aebb452768364698292732b0c6f948c13577"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_entityaround4.ogg"
+hash = "54813a734c8b80cdeb35eadc5e3be189080267cc53937e08057453c17d2105ac"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_entityaround5.ogg"
+hash = "116d2c897c74c24ac554d54d685d442c83c47a92d5a20328e23a36f6bc0bbe13"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro1.ogg"
+hash = "b6f4da9e7121d6fbdd59066a76f4bfc1b5c25e5c6917fb7a92f115482b71f990"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro2.ogg"
+hash = "9393ac0555a9f3c98215a4f7deab4f94747d25329d20331915fd55a989e4b89d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro3.ogg"
+hash = "917423dfbb1928e1cf48016546c9952be0f7bf0ac9125ad2ddb511ce5699f104"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro4.ogg"
+hash = "801886e1d6f7207573dd8500065d20d51694be76befde193a45d6b5261788200"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro5.ogg"
+hash = "27129888f737b0271e91ac43f3df7c8fc8a8a2ae5c70ed741c3a52438c3c66d3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_intro6.ogg"
+hash = "dbc4ecfb12a2834f2fed98d7e812183731bfe830130cb92651dce67ec2fda690"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget1.ogg"
+hash = "9cb9e06834fc9ba297d58a63709bf78f40af5283111de04926156757850f5eef"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget10.ogg"
+hash = "5f3925a14a8a87fdf06313b045fc698531c5970088a2966c036f1fd1f27855de"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget11.ogg"
+hash = "bceaf13b7b1bddee12d80736e91c38c39b31b2e11e263b64818b6cd7c96a67d2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget2.ogg"
+hash = "8bdf8dfbe19b4c788fcc7c9b831a4f9f559582052b52850c46b570f5568ace26"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget3.ogg"
+hash = "d39bea548de994690c4e868d5c0287c0e293c41d28ca7e7ba93cf14e5513f74d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget4.ogg"
+hash = "f92e62f3e4a2cfa62b2d60c34a6743cbe1d4b3d91ef7c683547f8986e1fd8ea7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget5.ogg"
+hash = "ae16440942cc46988b8e6fa68a7737ccdaf91efbd135b82c4af67ea0249ee9b0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget6.ogg"
+hash = "97239432bbe86c3a5b35ffc587952dc51ca10213df8e7fc88032366ad3bfa212"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget7.ogg"
+hash = "369404245cd5be0728d094dc7f543de452cb06a63f42f0047b9a7bdd76d87f63"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget8.ogg"
+hash = "d4f30ba838f426026b67257f93dc74761dc67ba046c8144c4ccc01e5b679990a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_losttarget9.ogg"
+hash = "6fc33018a6b5775ac2367b599d192221f90f5bda43364ce9b9e6a11bc81b0886"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_pickup1.ogg"
+hash = "62a8d65de62cbaf76e205c7849c5eefa11ec7dabbc55630180f9d9611f08ae89"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_pickup2.ogg"
+hash = "63ee8663e429590f163fb46dd7f509074b3a2cb48958a8189b2b411dc640aaec"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_pickup3.ogg"
+hash = "169ae2c87e0cc54c0b1fc2863d92291d18b8bfa6a48c7f3677eec583e459251b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_pickup4.ogg"
+hash = "32f568dae41fef21ea3aa494a707ad0e37618e81dbae55f57dd956daafad2f6f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_pickup5.ogg"
+hash = "84b499fc785df6a3255698c0cfbea30a8bd61d14ea40137d7841614e0ec0e0eb"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire1.ogg"
+hash = "47d86f587953682fb17eb1f48a539f0907164c504a2ce46406edfc2cab195e1d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire2.ogg"
+hash = "d09beb60442cac81a487c9a996c85bd2c095ea73d688430cffd9cfae324fdc76"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire3.ogg"
+hash = "14e64a5f6d3cfa27766c14cbdde6ee7f68a3b0b930590e73c20d394a390a1a14"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire4.ogg"
+hash = "b4dbb4562d5191a5cb29950c3fe7034b8664f3a873eca7e83e9d2159fbc851f4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire5.ogg"
+hash = "0750ed05d29af248bfaacaacf88bdbdc97228775ea1ad087be5ec224b1bf09a3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_retire6.ogg"
+hash = "e79055eea63ec760e10f83a5cb6c83ff060859c5f2cf4a871916732e5d142e04"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound1.ogg"
+hash = "9d25bbdc80eb33b00e3010a6178aff5ddf765640ab16caa71db0cefe71c011a2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound10.ogg"
+hash = "cb8c637ac33ff69e49e1ded5ff0cc11be3f51f288d994099afb4123ae10ff90d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound2.ogg"
+hash = "6e0430eac10422b9bbb09010d4a8d38343dc6812a5038e92967dda57211a8dfe"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound3.ogg"
+hash = "bcb1dcaabfd302b0beae6daa1ae71200d6b95462ada339bd19b022ee3805531d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound4.ogg"
+hash = "56566d45ad92267d87c3b53302f28611811a668b87693418215ca0f48fffe06e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound5.ogg"
+hash = "0c9dcd8e516ce2ced16610c516493a5713f1489236eb9be3002846214dc07b58"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound6.ogg"
+hash = "9a014296b677c39bea725229c4e127a122bd07726cc51f978c400e0ccbf6c368"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound7.ogg"
+hash = "f6109138b3cfc775d714a57e000cddee7750a4e7017cfb0d524f977a173083ce"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound8.ogg"
+hash = "1a0325994a471057dedeb51595020265d4e8b5fa1b5f54a2e8ec331466425ede"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/defective_targetfound9.ogg"
+hash = "5a4de76c2219c613a7533db65561abd5d3cecb9744305a7a1ffa7e7f77065354"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/deploy.ogg"
+hash = "6a2cae86b4aa1a28b5e3e837bfb78a56e9d6820075460a54ea3a819356fe84ec"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_death.ogg"
+hash = "8e260e128bb948e0b76f95c805374eeef8193dd9aecf10c12f53f4c16dc27e03"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_intro.ogg"
+hash = "86c947c0906af98a0d4de5871ee5b217748af6a1fc739bc56c7e3f97f9ade9c0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret1.ogg"
+hash = "3cbf8ae86d0ea8830561a6ecb7ef5c60d54f68a949a000f3a0cbfac71216ff53"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret10.ogg"
+hash = "7312ceb6cd2fc65b02f74f9a1257cab81999a5d64fd439cd39c24b4294265c28"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret11.ogg"
+hash = "9fbae4dc9cf76e000e77fd39fe675cdc863633dfbc0c9eec1ac9c7db743eda8e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret2.ogg"
+hash = "47d986a62de6fbc0031607e7e9251507c6f4dbbccd09defcec13eb0c74ee1cc4"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret3.ogg"
+hash = "8db5a57f5ee94b6b2aaa5c67efcb50fe4ad4507879cc0fd8bb4ff786ffaa97e8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret4.ogg"
+hash = "0f982be424ee5221ada67900a57912c909334fdd7ff31d741d5030a134819e9b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret5.ogg"
+hash = "8082c1af82434621a05ef7d5b7068f3b5f1605ac8ade57aa59a7e613b8f2eec9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret6.ogg"
+hash = "88d1596d61f9097ce4711f9404fc554b698dc254ff159353e2a0e9bbe5968669"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret7.ogg"
+hash = "291a12a99cc0bdc290afa77844aed17b3806182a00707e199bfe21c0a9e6f347"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret8.ogg"
+hash = "21c028f9132a0edfadd54f532095af5fabcd1a4fd090cdb10d1e4c8ea6a18d0c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/different_turret9.ogg"
+hash = "e8dd34c939ced0d40f980257dc7451628e74be0bfca67d879d0a81fa1bfe702a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet1.ogg"
+hash = "026340a3133dd1ce43a6e6618b47a0c986f35112993e6d285f24ad6c5e65e921"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet2.ogg"
+hash = "a0fd8033014fa866db48ae9a615a4040cf5b170ce151291f80fa07047afbf799"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet3.ogg"
+hash = "9f009809a366469da10f15bbe9a217638dcc3f9afcf5285aab60dc8c14fecf70"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet4.ogg"
+hash = "01acfe8c833b6ad363e511b0bd92b1b82def8b3bd13d8719c0d137eef9f5232f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet5.ogg"
+hash = "66baca774313c661d5a907f0bfa05d4799944e9a8f741b34f7df443c5994e402"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/retract.ogg"
+hash = "8ced1c08b2e37748cbaf0fb00ef5bebbd1fa5c043ec6c0c632fabd249c0dd061"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric1.ogg"
+hash = "dcb0f4d53de6777b096985b225afc8c9422738515d20751d5e7999b8ee2f64b3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric2.ogg"
+hash = "ba59cabd82ea61e5ea02f23152504723a719f1cf6042e4467f9707b6fe8f2b7a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric3.ogg"
+hash = "a172e81f486a6dc27902dcc870d6d9a47d8f9947b64f7710e3d44205b9f49ed1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric4.ogg"
+hash = "553c5043f3f00441d29169f07367997246cde8ea13cdf5e4d87ea19ae724f4c5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/ric5.ogg"
+hash = "3a0691f2500a0379e9fe88d726e7c876e4e5223f94bb92077d2bc67f131a780d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot1.ogg"
+hash = "b5fe06bf7c58008ea4020f5ce1bc5401a28cf8453934f9039d4438fcc78479a8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot2.ogg"
+hash = "b078a5a811d3cdf5ace1a5e3cb764a065988739d7cda312697a8ed3f4dbfc48c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/shoot3.ogg"
+hash = "6b0fd03fa0b5725861561c90de2a09124b78fcac22b8800604ac30449b669556"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active1.ogg"
+hash = "0585619d7862454871a33fe9e31ec2f24c594ebe490a16c322c00c9036d89376"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active2.ogg"
+hash = "19dd1fd88a2bc03388054a63c9a7c2fe3d314342245aad0d873621df7233113a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active3.ogg"
+hash = "76984efb9cf79c409a1d88fa4c21b37f39982dff2c5bd2e5bb6b7caa3c7f5a3b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active4.ogg"
+hash = "0922ea28f0916df62f8cd7a7d9918013b5eab030502d41b3a9bc39d7f7426b6d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active5.ogg"
+hash = "9d7fb628b0e4fd0befea768c39edf5d075e4cd1026636a0060ba4e83b60f017d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active6.ogg"
+hash = "e292ac29728f74f306589cd7d1bd1bb4e73ac2c9acd9579faad3a36c3d05aeee"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_active7.ogg"
+hash = "9f187e00e7d9dc40c6960592b815378d204806a11c68576b5839092a1213da9f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_autosearch1.ogg"
+hash = "50f8ab66f4c86418d0eb4f2a7dcd355ff707911d03ee3dfac5709492359e84ce"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_autosearch2.ogg"
+hash = "06b41c9fbd7548f37c4c2c2af7f2a0e58b902fea68d65ad109a3ad226e2580f7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_autosearch3.ogg"
+hash = "01583dbad049ab082b003d19fd94210b8f195fd33381a2c254f8ad92df75919c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_autosearch4.ogg"
+hash = "658cebdf3577df8e10c190827e2c9ca79f6c5812ba25cbc746773fab4cc604a9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_autosearch5.ogg"
+hash = "0b0ec9aef95e3db7ebeee63990f50bc3c8bd9e1b302c7379092c7a92864041d5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_collide1.ogg"
+hash = "6b9a6c8d1899f12f2053bc1ae749c38184a01afeece9476a74c00af6d220812d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_collide2.ogg"
+hash = "55e4178e1b4ca90fca364a27352243b0084d28bb1b14e3e8f4811ce5dc1a7868"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_collide3.ogg"
+hash = "ea798d7c394011d46627555fdc2048259cbcc20ff9effca1390550e6f540833c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_collide4.ogg"
+hash = "e7af6f57516e91c17c05200563812f6d63c4e22fed4537d61956fcccc07801a0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_collide5.ogg"
+hash = "eddcf8247299cad598c4240a28988b480e96176042b64364ce81bf72c26d0064"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_deploy1.ogg"
+hash = "016ab172438935d83f84ad16975cfdb6fda5ee262ea3c2ce8e60c772a3ae6bfa"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_deploy2.ogg"
+hash = "0544efbfdd09f0be00e39635966a2e9e7a4fc22658171a27365a565814e9de13"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_deploy3.ogg"
+hash = "6c6d3f950d8a7a2547d40589c958ad78e6e53ca592d8d9e77f4034cc9fbfa978"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_deploy4.ogg"
+hash = "a61657b68205cdb734373e3844dd4a0aa66f92a4771e71c87475787becd88ea7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_deploy5.ogg"
+hash = "b6c00f229a6e4d8e588c1c2d713a195d0901096cf8b17f42a10c06839cf6a377"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled1.ogg"
+hash = "dbbf75d47e521bb70525f50d34b55d90b144f280b54243efa94ace158a93f945"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled2.ogg"
+hash = "619335fba6bb8281c3f019901dec0e8e4ae04c21c68244ce02498585719d62ad"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled3.ogg"
+hash = "e5f248d4cf41bc5a0c027aa3e4818349de47b46482472c764389b4698e039fba"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled4.ogg"
+hash = "35c9e8c359894feb6476b5c66e13fb5c8d7f67e5543bf2c49a2f9cfd95ac6932"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled5.ogg"
+hash = "43616b7bf58dbf94bb48968d0ecb17eb275542044cfbf935547f953927c8e954"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_disabled6.ogg"
+hash = "19dd0ba808bc7b977047a6a6597d912ed160f45b154debf89a95aac8ae2511e0"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_fizzler1.ogg"
+hash = "77e6be71b18db4adb1351866c8604d139561891c494f2704dcfdafd61b893c37"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire1.ogg"
+hash = "f90e5168ee757feff782ac91a1d29656eef4f32a9228541b73e47720079d3e19"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire10.ogg"
+hash = "b55991da487fef63be0d34151b26654fe7c6b687f9aa1d7f5dbc2c5b84dea146"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire2.ogg"
+hash = "191114d495c58f6402fb3560d76dc15db755c0d1ed163b4c79b5b661a6f8881d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire3.ogg"
+hash = "b29455f44415af0f83290e5d266819d599a084d48d26a35a0a80751ff1324d9c"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire4.ogg"
+hash = "dd5cc9c90ca2a03ef260a9f387d87e463a3f03a9294477a5632184cd40afae79"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire5.ogg"
+hash = "573d2493bbf9e500d7d84431806761eb97a5f865702d914633cdf1f352cb0990"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire6.ogg"
+hash = "84d8eee5b7159213e2d763db0b9e4fe1b17eff76e0654336c72c5135f3712a68"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire7.ogg"
+hash = "3d291eb6c4d945fb46bd240d8c758bb1303e928e159e513c2790bde3f3bc87fa"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire8.ogg"
+hash = "cbee011b0a70a64a243017ae866ad20724539bb21b5bc9eb162d5772805cedb1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_onfire9.ogg"
+hash = "164077a8edb0636d211b863373bfe6904a7d297e635c127f34fccc5f788b994b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_1.ogg"
+hash = "aa2ac56afc1bb72dd2db5a59e24ca57bc2b0eddfde5176f2f27ce77187186ce8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_10.ogg"
+hash = "274c0f402d021397f6afdaba8f66063cf74835df885690d54639b46960ba5017"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_2.ogg"
+hash = "db64b2ef5fb0fc965ea21251bd43d8a553b15214799454566eeecc05e4857fe1"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_3.ogg"
+hash = "185dcf3e2ff5ef661dab6fe983f0469fbb7728a3e48cf0c21ec5e3eb7af27032"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_4.ogg"
+hash = "acf5e52349ec9d74cefe3062def5d5f3e3d3ef9e36352204e39d65c10c8c9a83"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_5.ogg"
+hash = "6881b475afe998f2b355c788bf03c249f99e1de925ca4ae0e22189985fb47055"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_6.ogg"
+hash = "48865450dfb658c2effc7bd80ad2a50586c4a398dee5adda2556be7fc140983f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_7.ogg"
+hash = "e25bf2d9b1b8d5140afb42ae6f4c83e8ffff8cea504fa16c350a0f25f4d320c3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_8.ogg"
+hash = "a4c187ce6e9c9ed19d5d52a5319be6c6dbaaaaf7b4f5aa4ea5dfca018238b923"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_pickup_9.ogg"
+hash = "dc9c2c340a156aa4820065eace9e8d0791430c0879603e7ba726b92e3df1d7ea"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire1.ogg"
+hash = "84fe1a4779b5d3f741d94660a0746a66464eb2639bd08645f72800d13c857461"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire2.ogg"
+hash = "7d2735e4f34822f1aa1ce23b3ba834c9686dd34898d7118592d77f9c9d629f23"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire3.ogg"
+hash = "262cb5f2ba509a67ac5faea79441f25e9b233a6df0f9651c15fbfd7dbab458c8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire4.ogg"
+hash = "82f557692bfc09cafb9dda8110a9500f0e76af824c1c1b168b7abc20bfa1ab4a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire5.ogg"
+hash = "81f71ad3716d3cb8d84900099e71318f6eba83914db386e5f2bd102a3eb3f95a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_retire6.ogg"
+hash = "d0b81adf348b1f30a26dbc5824b8d30434ffa30c9103556955017bb5a01efb64"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_search1.ogg"
+hash = "caad2f46e82775387f9c3bc5540d76826dbed3da6bb6c648e62ec5e8c32f32d7"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_search2.ogg"
+hash = "5f3f9e6422db61d00df92e6b7f6f1b9c2adac8bfa8f190778ece2f6fae1497e2"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_search3.ogg"
+hash = "a754926758b970c2ebc5e643a1ffee80800fccfc0c23c4a4be8022f849a9b4af"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_shotat1.ogg"
+hash = "9a6443941942b8113a5766a5198ad21386a6a2edd62a5b6210b950ca50deeccb"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_shotat2.ogg"
+hash = "c837faf7ea9526b36c35496c5d7891bd32fc3d241b39b64ee1b39a64170ddcf5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turret_shotat3.ogg"
+hash = "c981890fc034eae6795051f13f7a229b83049f1fab14ace481f181c3fb93dc88"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched1.ogg"
+hash = "57efdeef1c1245214682296ef4c424f1f13676d76e463f18831f72333239f15b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched10.ogg"
+hash = "df1fc445815187422c2b6f0d0c61225328c5faf1c0be49f89d03a2b198dead99"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched11.ogg"
+hash = "bec0c7b06884aecb6e66e18e41cd84e6dfb3de6e9a70eabb830af41981a77108"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched2.ogg"
+hash = "f1bf9ee09c47244b9333de730fd0b082907e6c7398fcf30f9acd03ae5351d3f3"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched3.ogg"
+hash = "923cb949b3550fce78c06375f941ecf2f09915699bd0d4505e5a6d14e633576a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched4.ogg"
+hash = "2eb4a77649d30bdb80294381e2f2cb38d097d55e8ee4080a5c2fa8270b5d7d7d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched5.ogg"
+hash = "839ea98d65553e2e0ffb09f0aa710a759e9bdd05e283e030e38d329808016bf8"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched6.ogg"
+hash = "36239d7813fade367c9763f6010799e43e61cfaf38081c072fa190dd262ccec9"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched7.ogg"
+hash = "6902e424d5b05e0c028db46e08ce10df1de02b28778e4612ce971bd821a3f04b"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched8.ogg"
+hash = "be5677d7f8ab0a77a1f86b84a24c6a3a1583b50d726768ed01466fd877758219"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched9.ogg"
+hash = "8a74245bbca8e0c9bf253b674832e8532e6585dd9900cfcacece1392d499d71a"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b01.ogg"
+hash = "a7f01688959e8e4627e55507e9a38078a20c37418dd481d49ded5bec427ea95f"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b02.ogg"
+hash = "4f8fa20c044bb651ff576636d143675d028c34b9985704192ed242db6bb2d6bf"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b03.ogg"
+hash = "ee7c467353aff8aa8db42c717acf2c2b611554051ee4e6dbfdcae4d57750f395"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r01.ogg"
+hash = "9cc057db978373f594de1849c099def6e39ceffeb7e6a0bc594e6b53d6a878a5"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r02.ogg"
+hash = "f1710bec60d2012ad181255f349cae27483b3632ef7246b791cee1c375aa7829"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r03.ogg"
+hash = "cd76b3c922ad06b703f46da411f9fe2691772362ce161baf02b1f638194e484d"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portal_reset_01.ogg"
+hash = "606ee307566ffacc13da4d5fe27cf409eafd39d74e5d585fd3a4ab1b59b71c0e"
+
+[[files]]
+file = "resources/portalgun/sound/portalgun/wpn_portalgun_active_01.ogg"
+hash = "0029180b853b78ca43c318e5e6d7ebf559010fae9126ab02a796762e105f50c2"
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/radioloop.ogg"
+hash = "99548423bc5c68261f83e5392e3ac500ddb3fa8eb53fbb78a67be19655e037fd"
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/stillalive.ogg"
+hash = "ee9c476887223a296219d4891b7abc08eb44a9a8f5073d920b796595c96f41cc"
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/turret_wife_serenade.ogg"
+hash = "eb299d8bb9bd19d0b88a79fa5d9d6a2b488d947bc68de69c476eb6004fd72a66"
+
+[[files]]
+file = "resources/portalgun/streaming/portalgun/wantyougone.ogg"
+hash = "937595eb0a1af5cb2cdd39470a6825b71995cc8f59d44bd03e116348bae673bd"
+
+[[files]]
+file = "resources/sound/step/grass1.ogg"
+hash = "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
+
+[[files]]
+file = "resources/sound/step/grass2.ogg"
+hash = "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
+
+[[files]]
+file = "resources/sound/step/grass3.ogg"
+hash = "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
+
+[[files]]
+file = "resources/sound/step/grass4.ogg"
+hash = "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
+
+[[files]]
+file = "resources/sound/step/gravel1.ogg"
+hash = "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
+
+[[files]]
+file = "resources/sound/step/gravel2.ogg"
+hash = "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
+
+[[files]]
+file = "resources/sound/step/gravel3.ogg"
+hash = "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
+
+[[files]]
+file = "resources/sound/step/gravel4.ogg"
+hash = "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
+
+[[files]]
+file = "resources/sound/step/stone1.ogg"
+hash = "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
+
+[[files]]
+file = "resources/sound/step/stone2.ogg"
+hash = "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
+
+[[files]]
+file = "resources/sound/step/stone3.ogg"
+hash = "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
+
+[[files]]
+file = "resources/sound/step/stone4.ogg"
+hash = "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
+
+[[files]]
+file = "resources/sound/step/wood1.ogg"
+hash = "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
+
+[[files]]
+file = "resources/sound/step/wood2.ogg"
+hash = "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
+
+[[files]]
+file = "resources/sound/step/wood3.ogg"
+hash = "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
+
+[[files]]
+file = "resources/sound/step/wood4.ogg"
+hash = "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave1.ogg"
+hash = "1a1c3ea102275ecea6521ba7212b2403dbbda1f2b5d3ae6c9f06201c93c2e8de"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave10.ogg"
+hash = "32b41dfc267327b418273ef69fa4132d2a517a49f14a0280747a4bc53e2bacf4"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave11.ogg"
+hash = "f86545beb8e89327c5600ed1b3d28fdc08a89c95afc8a9cd7818bdda570fcdaa"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave12.ogg"
+hash = "255f98ac90fc31841a5df5291203061d4bb1a8c878f88c396530f17845d41184"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave13.ogg"
+hash = "509c9516d7086b7ae85753ed888c466332c251578604946dcc32e41b3d7816a8"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave2.ogg"
+hash = "86589a436adeedaf4ef6584d7bd6bef4ff31a70fa7ed4c4323a6d9292c042292"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave3.ogg"
+hash = "8fb59144400fb9d512b35fa3d63be080c447dc9c1717c073c1b4fa0d38ae92df"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave4.ogg"
+hash = "d54c4c5037edb082750394697f70320d88999ca21d0c510bfb558dd0caed65c5"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave5.ogg"
+hash = "f210f15abce8ffe6805fcf68dbfa92e46933293d8eaf9bfed58a347f7f3f4aaa"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave6.ogg"
+hash = "f97030e0c8f8f0e28ebb489eef652c3261bc0e46c011f5b31bc3d5b9f5228925"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave7.ogg"
+hash = "5db5d586a86d92ab701af6fd9be47cb4d89c8390488da94c7f2bce4b73bd5019"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave8.ogg"
+hash = "eb308c43743e3520d2d1350e8ea0cf34e4489aec1c1ff3625d5202588b39c513"
+
+[[files]]
+file = "resources/sound3/ambient/cave/cave9.ogg"
+hash = "d71c83205a6afc85be92d763629297b336deb4a904c77802283e709095b24083"
+
+[[files]]
+file = "resources/sound3/ambient/weather/rain1.ogg"
+hash = "5828b3955af49344778533612c804c967078ec1a9f349d65250023f920a52ade"
+
+[[files]]
+file = "resources/sound3/ambient/weather/rain2.ogg"
+hash = "3f19f2a6383dabb9b51ab2d4ddbf423fe16fc53336a267de6eafc9a69b77eb92"
+
+[[files]]
+file = "resources/sound3/ambient/weather/rain3.ogg"
+hash = "7fa8cf62bb46906c38980ec246e51eee8dfb857f3e51373ca20b2c04397054e3"
+
+[[files]]
+file = "resources/sound3/ambient/weather/rain4.ogg"
+hash = "3cab2d8ff2cb3412ca136a6802b9c0cfe32caa4f1f58b61d9dfd5744b71ede6f"
+
+[[files]]
+file = "resources/sound3/ambient/weather/thunder1.ogg"
+hash = "a361a1586e1c3d410e9062939d0ff568aa14849ceb2b7dde5fca20ab24a73ff8"
+
+[[files]]
+file = "resources/sound3/ambient/weather/thunder2.ogg"
+hash = "c6618caf8747f96ae355ac1199bab35e8b7da65ddc3000dd9093fe4ee78f6d96"
+
+[[files]]
+file = "resources/sound3/ambient/weather/thunder3.ogg"
+hash = "236cf94a65827ac9cfa5740caa84aaf2240877366819be6770d6324cedc21467"
+
+[[files]]
+file = "resources/sound3/damage/fallbig.ogg"
+hash = "abd98f86021018e2d448759135059e71e51f0a5b415b07fde0271f27bd359577"
+
+[[files]]
+file = "resources/sound3/damage/fallsmall.ogg"
+hash = "f6c607669ba75d517d7d7af994fb10f94a07d997b28b7fabf29f0b02c358e5f7"
+
+[[files]]
+file = "resources/sound3/damage/hit1.ogg"
+hash = "5e190650c27cc38dce750ac7d5fb5044c3cf714bc116d0bdc3e9e93cdeffdc35"
+
+[[files]]
+file = "resources/sound3/damage/hit2.ogg"
+hash = "67ceec1f40e125adcfa44c2af4c66ca6f0278c6b8ac917c5a0f508bcc6af9091"
+
+[[files]]
+file = "resources/sound3/damage/hit3.ogg"
+hash = "637b73c4218d190c0e405737f85b86ec5fae59ff0a211f5e7e2e005e887336e0"
+
+[[files]]
+file = "resources/sound3/dig/cloth1.ogg"
+hash = "8a716f2a3cbfb5d330d3aa9999ff56f0636cf388991caa06d866576989c9f36e"
+
+[[files]]
+file = "resources/sound3/dig/cloth2.ogg"
+hash = "139fc234e51f7825fcdedf10c93d8d60c59df9b4955334f409a624e4b3e6bfbb"
+
+[[files]]
+file = "resources/sound3/dig/cloth3.ogg"
+hash = "ac49293ab32aa3154eb5c1251e3175a55d28f9e6866bf74fa76c2cefdf6cc40e"
+
+[[files]]
+file = "resources/sound3/dig/cloth4.ogg"
+hash = "09d5879722c54c86d39d83df919f7f712ed92044ffb5b0a6757b9fc2e02281a3"
+
+[[files]]
+file = "resources/sound3/dig/grass1.ogg"
+hash = "3619fdb8f8aad57a48d45e02a3e8be90a9ca5d0ab8c8802961c78fd59c1f84fa"
+
+[[files]]
+file = "resources/sound3/dig/grass2.ogg"
+hash = "b0763cf2c5b4d49602cb143e457b6206b6b101113a525795ef9c622ae31149df"
+
+[[files]]
+file = "resources/sound3/dig/grass3.ogg"
+hash = "9ac02803710f8556be3501d021ca2120d121339fa07f0a18a0b63ba5547508fd"
+
+[[files]]
+file = "resources/sound3/dig/grass4.ogg"
+hash = "dd73335714e52237ef6ebc05035418367b4785cfef749b5ea1cd9b6b1c523b93"
+
+[[files]]
+file = "resources/sound3/dig/gravel1.ogg"
+hash = "55a610c8739c045a65343b8447c6b95c1e54465939aab666001af2d4869c1e83"
+
+[[files]]
+file = "resources/sound3/dig/gravel2.ogg"
+hash = "60ebf0ed49f258a62adb9849386b2795f7e409d21ff958a803eb0727d7e98913"
+
+[[files]]
+file = "resources/sound3/dig/gravel3.ogg"
+hash = "ab5e4b408d1eca44546e86c11f5fcc66d3a4c035910ab14736f952d1e8ce98fd"
+
+[[files]]
+file = "resources/sound3/dig/gravel4.ogg"
+hash = "fd4aa7553a4f99fe435b2df57bf9ec1040ee2409d09fbd15dbc7049f0e261ddb"
+
+[[files]]
+file = "resources/sound3/dig/sand1.ogg"
+hash = "1260ef32a374eb6ca23da821764886b67d655bd2ee34a71a1520e90c308aa63e"
+
+[[files]]
+file = "resources/sound3/dig/sand2.ogg"
+hash = "74ef2fa1b6c52356ffa9bce77c826681be52d73f0deaa423e87694a2fd79fffd"
+
+[[files]]
+file = "resources/sound3/dig/sand3.ogg"
+hash = "0441e996d75a0d2d67cec2ef60251f2a9cde6e15299589db79f4690ea8cc580e"
+
+[[files]]
+file = "resources/sound3/dig/sand4.ogg"
+hash = "42ac91167d26014e04fa8c50435d655e2b0c6168f319c9c99ea7377b4df912a5"
+
+[[files]]
+file = "resources/sound3/dig/snow1.ogg"
+hash = "f7e03bb5bcc487cea313bfd72ded4cfd4e215b82228cf9744760f61da4c496bb"
+
+[[files]]
+file = "resources/sound3/dig/snow2.ogg"
+hash = "a0d603f69ad58662e688d74b9ca2f345eebc0938b4af954f16840adf436fe8d9"
+
+[[files]]
+file = "resources/sound3/dig/snow3.ogg"
+hash = "ae97513c5bcac9d08f5c8bcbaf55b7a3112134603c141b5de70e15a06c77e325"
+
+[[files]]
+file = "resources/sound3/dig/snow4.ogg"
+hash = "c7918a0b58c45a6f0d29fa990bbd31a7b482ef61387c83a02eb7f70b672e4761"
+
+[[files]]
+file = "resources/sound3/dig/stone1.ogg"
+hash = "97f2a8a73b6f577b85c1a162c31810c7aff1ad1f34564dfdacebb64b26d1c7c6"
+
+[[files]]
+file = "resources/sound3/dig/stone2.ogg"
+hash = "98a5c3197845526e6ca9e8a669ffda843cfae3f5c7ac842ee6aac8896bae03b2"
+
+[[files]]
+file = "resources/sound3/dig/stone3.ogg"
+hash = "19273f0e7e25b459ea29511dcbc4f7f209c04cea2fd1c34a16250737469ca51c"
+
+[[files]]
+file = "resources/sound3/dig/stone4.ogg"
+hash = "b164e7324510480abac9518090e48439123ea05ebc48970e48fc59406729a197"
+
+[[files]]
+file = "resources/sound3/dig/wood1.ogg"
+hash = "cb6071c83a7f19ee555e9d661dc9e564c77ad9fcf2d1a6848aab21bc3b1c0289"
+
+[[files]]
+file = "resources/sound3/dig/wood2.ogg"
+hash = "59edca84840951f2d6f0ad9ff5fd439a6dc916b2cc50164569b94ee107b4bc3f"
+
+[[files]]
+file = "resources/sound3/dig/wood3.ogg"
+hash = "cf6be2314c08ea3fd311bdaebe14d0c73ca189bbbda09f96d26a3dea7e711cf6"
+
+[[files]]
+file = "resources/sound3/dig/wood4.ogg"
+hash = "de868b3119b03ad42cbe502805e895a5fd8565f059f991f542b4ee68d6556bfe"
+
+[[files]]
+file = "resources/sound3/fire/fire.ogg"
+hash = "d7c0af67c93206baaefe10e1d55968412b1e1367858b2d940366abcee4e794cc"
+
+[[files]]
+file = "resources/sound3/fire/ignite.ogg"
+hash = "6d3cc135c6beefcc097e63785e691063db8598b2ccad8d20374b53b474165171"
+
+[[files]]
+file = "resources/sound3/fireworks/blast1.ogg"
+hash = "9377171cf33d982af07afee8969bbb2211516c287d579bb1ba49ab75c06a9232"
+
+[[files]]
+file = "resources/sound3/fireworks/blast_far1.ogg"
+hash = "3efd82093b66879fcd4d23700586892348789f156c7f62d85e3b534b06327acb"
+
+[[files]]
+file = "resources/sound3/fireworks/largeBlast1.ogg"
+hash = "f54e5fc9a0822cc562f1e7c1130fbcefbdc3f99f53c84879c05e79c3e57efb73"
+
+[[files]]
+file = "resources/sound3/fireworks/largeBlast_far1.ogg"
+hash = "19310246b566935c237b0aa52c3cf95bb664767fe48cb880b6ec6e165be7aefb"
+
+[[files]]
+file = "resources/sound3/fireworks/launch1.ogg"
+hash = "1505700bf51d55c1b99505edc3e3d4cd2158376ef88885c9ea4544f36dbc618f"
+
+[[files]]
+file = "resources/sound3/fireworks/twinkle1.ogg"
+hash = "0c2eaff9130e2ed5fec3543e0d7e156b5d4489245fb4a7c591fc6020aed8147d"
+
+[[files]]
+file = "resources/sound3/fireworks/twinkle_far1.ogg"
+hash = "75c20b3cc3224ce6e48725d222b5a653046f57ea424b29e34533dbba214671ef"
+
+[[files]]
+file = "resources/sound3/liquid/lava.ogg"
+hash = "bd2024d6210d36d8d05b2d90d6ad28d69f80c4874772e2bf85d856675c7eff6e"
+
+[[files]]
+file = "resources/sound3/liquid/lavapop.ogg"
+hash = "36ea4ed27e7ccee174e560e89bb5b1686d49f98136463b9ca1bccfa0d6c37f71"
+
+[[files]]
+file = "resources/sound3/liquid/splash.ogg"
+hash = "a53b581f86541dbcc3c0a1d8527cc72d967e2f401943fcabce2886584b900414"
+
+[[files]]
+file = "resources/sound3/liquid/splash2.ogg"
+hash = "d063a59e43bcd505d1b756fc136a766ab49f6b1b6b2a828e46fefa3b2ac86de8"
+
+[[files]]
+file = "resources/sound3/liquid/swim1.ogg"
+hash = "7e1199a39e8c088612dffc5b4ab172bbc6cdb6213c6912cbd61bece1c688c9b5"
+
+[[files]]
+file = "resources/sound3/liquid/swim2.ogg"
+hash = "0cb98a5f26379959daf5710f40adee69aa6f6bd0d607267ca43f9677ad31cffc"
+
+[[files]]
+file = "resources/sound3/liquid/swim3.ogg"
+hash = "a3e41dc0e455cd84ce622aa658dfd69db3e0c6b9a40e1047db8be93ebce5887e"
+
+[[files]]
+file = "resources/sound3/liquid/swim4.ogg"
+hash = "bdf31938067bc0e93acbc4ea0c122e6811d6192ac783505f8a28154f97811949"
+
+[[files]]
+file = "resources/sound3/liquid/water.ogg"
+hash = "80903e62e3081674799acb05f34991042ef4a053822075f720870b76bc3a306a"
+
+[[files]]
+file = "resources/sound3/minecart/base.ogg"
+hash = "eb1eab87b5ec779f976bc91b35665997870936ffcf111f3fc9a187b380bd5197"
+
+[[files]]
+file = "resources/sound3/minecart/inside.ogg"
+hash = "fac373e9fc2d1e1d1e701188af3eda737ebcbb059d32623432caf9162561c0a6"
+
+[[files]]
+file = "resources/sound3/mob/bat/death.ogg"
+hash = "773121594804520c081abf9a33d585a174a48526c3bd1b4bef69341d37ace5e3"
+
+[[files]]
+file = "resources/sound3/mob/bat/hurt1.ogg"
+hash = "bce9c945d011a3812fc6e7a20146ca9693fbd646a4583b6f795b1b2c308b707d"
+
+[[files]]
+file = "resources/sound3/mob/bat/hurt2.ogg"
+hash = "23c51047607095a9b8edaad7b514b1b5c7add81d4e8cce2f301c4ab287a117ca"
+
+[[files]]
+file = "resources/sound3/mob/bat/hurt3.ogg"
+hash = "d5eabeb1da85da3498c55755ac34e6cf956f0a5bbb579814fc01381b18d243c8"
+
+[[files]]
+file = "resources/sound3/mob/bat/hurt4.ogg"
+hash = "b5bae15ac2529ac7cb8a001eb4945fa2cb866573bf54ef2c28cfad310d7848c5"
+
+[[files]]
+file = "resources/sound3/mob/bat/idle1.ogg"
+hash = "b2ab0987b48f28b990bf13d1da09609a31f79f12ccddf548a6d14a4ed3b8babd"
+
+[[files]]
+file = "resources/sound3/mob/bat/idle2.ogg"
+hash = "9b9ae1cc8a65d552ac0a455c0bf1de5fa699ebec794077be4f09c1c533702306"
+
+[[files]]
+file = "resources/sound3/mob/bat/idle3.ogg"
+hash = "fe4ec9860cb6dbccff1c3d5acc5521e7860b1e9f83effaad6f766f29040c5e1e"
+
+[[files]]
+file = "resources/sound3/mob/bat/idle4.ogg"
+hash = "c0de3179fe10eba2b469f9fe58519f1e9db011edd4adb673c66e3a24d9947a32"
+
+[[files]]
+file = "resources/sound3/mob/bat/loop.ogg"
+hash = "9e9976835869b709af146db70d21ea0c0dadd7cab861a1733da85731a80cf382"
+
+[[files]]
+file = "resources/sound3/mob/bat/takeoff.ogg"
+hash = "d097ed1538c5965d3b2bcf01ce78a15d4a98a7a1f9f2b362a742ede1dc320eef"
+
+[[files]]
+file = "resources/sound3/mob/blaze/breathe1.ogg"
+hash = "a49e4572828f3c6db314d6eeabcb37d88b48969f2513e494766d95d46da62b7a"
+
+[[files]]
+file = "resources/sound3/mob/blaze/breathe2.ogg"
+hash = "ced1f87d6a68c111db875da8c59fc562d77108299f143978320d94f6dcfcc8ee"
+
+[[files]]
+file = "resources/sound3/mob/blaze/breathe3.ogg"
+hash = "7b4309bf9db4f5556a2fce43fff014ca1b8543c14ba96815b8a644a9ad53dd7b"
+
+[[files]]
+file = "resources/sound3/mob/blaze/breathe4.ogg"
+hash = "9232175464c58079b0dd40fa915710c4cf522d49213cf441864a57c41a566865"
+
+[[files]]
+file = "resources/sound3/mob/blaze/death.ogg"
+hash = "9ef443fb83d9a729a1711eb5498ffadd3d06b1a01b3977404035badbd72468fa"
+
+[[files]]
+file = "resources/sound3/mob/blaze/hit1.ogg"
+hash = "0d40ec7e31f5670ddb5ac1c84aec351b7ea65a8a09dd6f645c7c8ebbfac54817"
+
+[[files]]
+file = "resources/sound3/mob/blaze/hit2.ogg"
+hash = "a3a8661fb794fa68079ee417574021d5f38a26cc65e7caee6139b5a4bfdd9f2c"
+
+[[files]]
+file = "resources/sound3/mob/blaze/hit3.ogg"
+hash = "4766b1ec816fa1cd9a2b55985f088d87ae3380e94f20e3cc590619c52dc5caf9"
+
+[[files]]
+file = "resources/sound3/mob/blaze/hit4.ogg"
+hash = "91ea30d417fb4fc4e590e543fe6ae4d53ed528545c5e488643be2385bde6780f"
+
+[[files]]
+file = "resources/sound3/mob/cat/hiss1.ogg"
+hash = "f798aa5d716ca36cee25f2ce5e972e2241647a70be4dff2fd83d1ade0db99ddb"
+
+[[files]]
+file = "resources/sound3/mob/cat/hiss2.ogg"
+hash = "832f521f4bc36fe4c2e87df24736b118cdc86953dcfa98a02dbf258efa64a478"
+
+[[files]]
+file = "resources/sound3/mob/cat/hiss3.ogg"
+hash = "1a0a4c1e680824cf881e95ff1a0ef621a7e7602e231f3e36ded93420c8644fae"
+
+[[files]]
+file = "resources/sound3/mob/cat/hitt1.ogg"
+hash = "d18f5d2b21ce32c10712aec53271a6ebe7632195b4f00d781b550d27a2549e9f"
+
+[[files]]
+file = "resources/sound3/mob/cat/hitt2.ogg"
+hash = "440fc7435bff46930fda42a8460f74ee33f7b10ee50e949b5dbae2108088b209"
+
+[[files]]
+file = "resources/sound3/mob/cat/hitt3.ogg"
+hash = "05f6666aa781a0cf2cb73bafaf829985ec37e6aa87ae01c9060c5c0898affbff"
+
+[[files]]
+file = "resources/sound3/mob/cat/meow1.ogg"
+hash = "00e2d8f59dce15a76b40e9177bb297f6e5d2866045c3ef0a2b8eb739546ed967"
+
+[[files]]
+file = "resources/sound3/mob/cat/meow2.ogg"
+hash = "edfbb41105592ea5d076c098ca2b39b1ceb5a813048a8467fdedd42f7968fdc4"
+
+[[files]]
+file = "resources/sound3/mob/cat/meow3.ogg"
+hash = "98ca7a929fad537254bc3bac30c1c3c0fefe813bdf35e2c96aedbc40dd8166f7"
+
+[[files]]
+file = "resources/sound3/mob/cat/meow4.ogg"
+hash = "5e1c91402becfe78e80ad40826439776b123d642aeafbdb39a936dc9df8f42ba"
+
+[[files]]
+file = "resources/sound3/mob/cat/purr1.ogg"
+hash = "1c21da9a9c3771b2410e8d197aebc6a2fc72a87924dfc88ea1f03d605ebb7609"
+
+[[files]]
+file = "resources/sound3/mob/cat/purr2.ogg"
+hash = "14fd7dcbd5939afc0713907dfaccc619693fe16c61c667663a24204b6bfea6e2"
+
+[[files]]
+file = "resources/sound3/mob/cat/purr3.ogg"
+hash = "8192d4212d7f24937b6a70c89e3dfa3aed006123d32c41433261dd97ef98df9b"
+
+[[files]]
+file = "resources/sound3/mob/cat/purreow1.ogg"
+hash = "c39741cc1ef5460d29ae5fb43fa5b85e07d2ed02d6c4d4b91007e58479da848d"
+
+[[files]]
+file = "resources/sound3/mob/cat/purreow2.ogg"
+hash = "c9cc0aabd14a112d41681d011675dd27bdc14a3bd399414f32abc1457170ee18"
+
+[[files]]
+file = "resources/sound3/mob/chicken/hurt1.ogg"
+hash = "f8db356a0f474ac9b907485c760314fb8ad963fc2b1aa97ad01efe42e5f063b3"
+
+[[files]]
+file = "resources/sound3/mob/chicken/hurt2.ogg"
+hash = "b76ce1f898495f4d178e552ac63d18ba86661317c3f5fa42e425e51abb330f8a"
+
+[[files]]
+file = "resources/sound3/mob/chicken/plop.ogg"
+hash = "89b7ceb1d18d2c3d3d462a8409db0e6db34e0dc29b8164ccbb211bd1be72e390"
+
+[[files]]
+file = "resources/sound3/mob/chicken/say1.ogg"
+hash = "5396aa9aebab2533f5b0df30f37280672c614499da4d1c73c553696afad62d2a"
+
+[[files]]
+file = "resources/sound3/mob/chicken/say2.ogg"
+hash = "0ab57724579519794592587f5118cb33219eb3c9e01ebdaed5f44785995e143e"
+
+[[files]]
+file = "resources/sound3/mob/chicken/say3.ogg"
+hash = "f7117947467cd443b6b4db869044fc0ca401dcdd130082805912ed4336ec5fe2"
+
+[[files]]
+file = "resources/sound3/mob/chicken/step1.ogg"
+hash = "f069ab8d61731565a9353830e0db4cb633cb5bfaa0930365d4431d472cce8882"
+
+[[files]]
+file = "resources/sound3/mob/chicken/step2.ogg"
+hash = "0202550bcd316d5087cc838f26d481702c3b55afa309ecd4cf2cd6fa44af7b97"
+
+[[files]]
+file = "resources/sound3/mob/cow/hurt1.ogg"
+hash = "64ae6f38e43887d15e3378beecba6be48ffff5f3fb00c8a04a8a25c3d695698b"
+
+[[files]]
+file = "resources/sound3/mob/cow/hurt2.ogg"
+hash = "90043c5ac292ba4477d66e240cf22372364c1e5ddf5d6fee45ba3d3634c05215"
+
+[[files]]
+file = "resources/sound3/mob/cow/hurt3.ogg"
+hash = "e53e8ab4a4b3bf51ccb252f3cd8299524a423f422538401415067b341a434694"
+
+[[files]]
+file = "resources/sound3/mob/cow/say1.ogg"
+hash = "24acaae2e89ca52a913177222ad37b36385267e85e52f3e320dbd34d295efde8"
+
+[[files]]
+file = "resources/sound3/mob/cow/say2.ogg"
+hash = "efe992562b1fc7c03fd02ff720ac9d4564b047bce25b8afb4636db990d7f26dd"
+
+[[files]]
+file = "resources/sound3/mob/cow/say3.ogg"
+hash = "4c693c4cf38212c6a34f5bf27f1290bf67c25a688a6cb0d2fae15be6c6db02f2"
+
+[[files]]
+file = "resources/sound3/mob/cow/say4.ogg"
+hash = "13605ec89e48f2fbc3b5605ec52ad826b6a97e298112d01623f043ff329df935"
+
+[[files]]
+file = "resources/sound3/mob/cow/step1.ogg"
+hash = "f8ae9a17a9f622cc3ca1b85888a24c6b4fc03a84803c4e0b72a53dede3b56c81"
+
+[[files]]
+file = "resources/sound3/mob/cow/step2.ogg"
+hash = "e7bfe425913a6d70392ca37b329078d3d59cf6ac0b7344f5482a0f0e3fc9ccd3"
+
+[[files]]
+file = "resources/sound3/mob/cow/step3.ogg"
+hash = "45ee1c5109612b2db284d8490811d4fb8ee1c07d20119319fced10666707d186"
+
+[[files]]
+file = "resources/sound3/mob/cow/step4.ogg"
+hash = "534ae3bd903ccb2ff231eabe8f1b0bc5f61bd2b66f8759aebea353cc93774cd3"
+
+[[files]]
+file = "resources/sound3/mob/creeper/death.ogg"
+hash = "f5373a0dad28c21d52349be7c1d06403e198bdef6054dd86fd3a9efb0d450123"
+
+[[files]]
+file = "resources/sound3/mob/creeper/say1.ogg"
+hash = "a5f3b96b194f124b1c4fcd7d0f1754c62c35705ff936c8d6c054fdecb00604f3"
+
+[[files]]
+file = "resources/sound3/mob/creeper/say2.ogg"
+hash = "1154ea9daaffcc5a96220732b8be5ffedfaf90341dd1d9ac98e91b172070fc96"
+
+[[files]]
+file = "resources/sound3/mob/creeper/say3.ogg"
+hash = "ffcc84fa087b845dfc5a3c980753f294fb6beceb28117f64119ca466718f97b9"
+
+[[files]]
+file = "resources/sound3/mob/creeper/say4.ogg"
+hash = "72dbbc987301c203ceb1a9f41fd229e2ec65e151d08efc7651b58bebfab57885"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/end.ogg"
+hash = "5d05d4220b605a19c8289c05aaf78e475c873453699a5ea8693ff3f4094ff3ea"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/growl1.ogg"
+hash = "d36f423c43d3a476f3eea476fb9c15731b3630629a31cf1ceb7b6c138be4d7bc"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/growl2.ogg"
+hash = "76dfe6a8994de0f4c35eb4ea2a210150c867e1729c8afa48f38c9e501f5593b1"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/growl3.ogg"
+hash = "2fb317913a7ef13554f08a5f3f47d536fd52c8e96dbfd4570268bf1f42d27088"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/growl4.ogg"
+hash = "78461ca1b8fed437987ea7a3a9bc3b31b5eacb198370175ffbea462fc3b2edc1"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/hit1.ogg"
+hash = "9f2a175fd42e9fe23662edb80ffd280b8d34f765c2b2d8597a5b8e520debf685"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/hit2.ogg"
+hash = "c33f631eb3fe8dc9cf345c41d052f4e1c09b1ad0bb573378893296b6048443d4"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/hit3.ogg"
+hash = "c25f30fd9f7a9fcff2a0b5dc32554c3fdad0fafbc0af7e47ebf41fa70b51a5b7"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/hit4.ogg"
+hash = "853bd77f9d7c1e9fed901beccc30b2224317378216d81dbf99fa84d924aefa5c"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings1.ogg"
+hash = "972bcd70a397f4e5c9bc70788d6962c7b2363694da1cd038adf8cd6900698c0c"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings2.ogg"
+hash = "0c4629052f056ac79af47188fe10024933db974cb57038e9c5202b2885ee3486"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings3.ogg"
+hash = "caa228114ea1fcf1f528eb24c84615b40a7298afab97a5aba3f0a1603e107873"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings4.ogg"
+hash = "87bd4d71e618b7377d17ed9bc9d9445dbe6aa72ba9cc3d08a88d4895e98c9dc5"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings5.ogg"
+hash = "f2e380e9b55170a9c5f17a94d923a342078019b7b44919aac739764e0c0be4d9"
+
+[[files]]
+file = "resources/sound3/mob/enderdragon/wings6.ogg"
+hash = "3152395288f2acb7966d4812f2bec9af1f3af1fc39bb94048d3e4a8b5295723b"
+
+[[files]]
+file = "resources/sound3/mob/endermen/death.ogg"
+hash = "19761b3960f609352f4577aea96cd6c42cc26aab7caca7feeff3b786e958fb03"
+
+[[files]]
+file = "resources/sound3/mob/endermen/hit1.ogg"
+hash = "78a14a0de4d4fc6712b0270de11a421c2cacafe9817b1ecde24d4e0c8e0a7ee4"
+
+[[files]]
+file = "resources/sound3/mob/endermen/hit2.ogg"
+hash = "a8e2b9ca38609bb825f951592cda82162bd905379e0724542763c79d2ad5a9ae"
+
+[[files]]
+file = "resources/sound3/mob/endermen/hit3.ogg"
+hash = "c9119bd892ff84c2c56723a4a2da2ad283872efd4b8ac01af148fc8a3d5cfa3f"
+
+[[files]]
+file = "resources/sound3/mob/endermen/hit4.ogg"
+hash = "471c3427f930e5d945b6d03a7d7e49c5c2a50f65642e3a6ccae9aadc91d36327"
+
+[[files]]
+file = "resources/sound3/mob/endermen/idle1.ogg"
+hash = "fecf3abdb2e5c076405a7900b4f30715ccac4ef73beb04ddd1731aec67a0cdcd"
+
+[[files]]
+file = "resources/sound3/mob/endermen/idle2.ogg"
+hash = "20bffdffd29fa0acc3c87b6a8c6cb78b6ff78f7d7b9612d48e217a86510cdf1a"
+
+[[files]]
+file = "resources/sound3/mob/endermen/idle3.ogg"
+hash = "2edd1e3762498b8965fb2260350f5126f41a3146820f4efd3499cc0e3104bf0e"
+
+[[files]]
+file = "resources/sound3/mob/endermen/idle4.ogg"
+hash = "db85f0582aa1fec21b264034e6c11107df8032a12b92f67eaee0b1fe274aeacd"
+
+[[files]]
+file = "resources/sound3/mob/endermen/idle5.ogg"
+hash = "90da52e61fa75b9c9536cf91387375a76a08af72519bc256ca7aea61864c9c58"
+
+[[files]]
+file = "resources/sound3/mob/endermen/portal.ogg"
+hash = "22ea617abb6797d10040baaa64bc4d6e7debc7f08840f1f21e55b5b69c555bbb"
+
+[[files]]
+file = "resources/sound3/mob/endermen/portal2.ogg"
+hash = "af6d05f3202d0ae1292b8c12600244a4b1da07ae6f757ab719ed6a8f1bed9244"
+
+[[files]]
+file = "resources/sound3/mob/endermen/scream1.ogg"
+hash = "8faba65a5bbdc4a958e4316d327dbd1e94e87dbb4ed32055fd75b49f46f32a49"
+
+[[files]]
+file = "resources/sound3/mob/endermen/scream2.ogg"
+hash = "6b143f0d93bc7670d0097df52b9d4e7be4bbc9283ad5bb7ba4f5fef0645d89e1"
+
+[[files]]
+file = "resources/sound3/mob/endermen/scream3.ogg"
+hash = "c933de47f9dc2abe2eb840240cd208cb9f19aa62e82b010f0ea73b9b7203a98b"
+
+[[files]]
+file = "resources/sound3/mob/endermen/scream4.ogg"
+hash = "bc534d99d901a86da0402e40e9b1e5c4ec2f2c1bf361a357e061bba73b1cabc5"
+
+[[files]]
+file = "resources/sound3/mob/endermen/stare.ogg"
+hash = "ea9e4f8441f7f248c668d21485727996b6a5725dfbbee5815b628cea75eb4cd1"
+
+[[files]]
+file = "resources/sound3/mob/ghast/affectionate scream.ogg"
+hash = "bfc0660825d8b843e7efbdf03c0f45677e4a94a5059748851284895c03b8385d"
+
+[[files]]
+file = "resources/sound3/mob/ghast/charge.ogg"
+hash = "a32bd38cfff32eec72480793fa50520bec898fd33626f6de3fa47cf778adc1db"
+
+[[files]]
+file = "resources/sound3/mob/ghast/death.ogg"
+hash = "999ae12476dc0e077fa3b49e0ea3cb35b608e070cb72135f692da7831ca68a1a"
+
+[[files]]
+file = "resources/sound3/mob/ghast/fireball4.ogg"
+hash = "d88d1eea0f64ebbe1eae9faf2826ad26298d0f1844f1f94ff98b5b5a51b33f89"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan1.ogg"
+hash = "ff215e12398bab7a86f775dcaa365c2176c601fc467d4b1c9b3e09cac62bb32d"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan2.ogg"
+hash = "b39c036b1f17500a8cc488a0dfd4dc0fb4bc8b42e0094a34534fed34e9192f74"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan3.ogg"
+hash = "64e6be9a3d7cd973c9b1601afeb2fe05c116b4ef00e27eb658b16c5dd83430b9"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan4.ogg"
+hash = "048fd373a7aacfc694bfc0c55732212448379d8329d00a2a5c6e9a8d3e309981"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan5.ogg"
+hash = "0f447ab71dda002e561338034fc77ef614426293bae93e9204ad3126f2b81424"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan6.ogg"
+hash = "5d6343ffc03c11fd2dfe5abf1f24c762109187b72f83a3c7ec7c2e9716ab056f"
+
+[[files]]
+file = "resources/sound3/mob/ghast/moan7.ogg"
+hash = "306864e7d1f290489ed73241b69c8af8cdea7f12b4c36be61d2a9b6264136bdb"
+
+[[files]]
+file = "resources/sound3/mob/ghast/scream1.ogg"
+hash = "109d6ebea55ddccfa3054b1876ae8663ab2efef62f825e9630100807ec6c4c03"
+
+[[files]]
+file = "resources/sound3/mob/ghast/scream2.ogg"
+hash = "ecb73ac0f886a2ab3aa62ab1fa9bfca23c0552726b4e5615d0db5b3511fd68c9"
+
+[[files]]
+file = "resources/sound3/mob/ghast/scream3.ogg"
+hash = "58ec87b2b24a2e4eb09894f090a95a14e64f3a1a4192b31c3adb85248b6f2c84"
+
+[[files]]
+file = "resources/sound3/mob/ghast/scream4.ogg"
+hash = "039aed69cd4b2aa4b3c8f1e9db0214bd63be6d2c426c6546485bbd3566f57093"
+
+[[files]]
+file = "resources/sound3/mob/ghast/scream5.ogg"
+hash = "0124311f75e3282034d5ba15d7ce3c354925bc1c68ab31985d8452fe58a82aba"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/death.ogg"
+hash = "2bf02ebfcd22a354433af59da0e3f69ef08c2987ec7cf7524573b47aca7ce327"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/hit1.ogg"
+hash = "7a765cef7580718760963b0c2a88d1c5737d248c154f529e4be721b73dc69a23"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/hit2.ogg"
+hash = "6f936f042e36883a6124317a2e5f1394408544b1fd2449ed81e399bfb8bed6fd"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/hit3.ogg"
+hash = "7746a543f0aa218bdc95078dbc4c8056a1bc4b429756edcc96f512aaf745a345"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/hit4.ogg"
+hash = "e589a7c29e532bb9d62c7eecb681726d4006d9d2a1d78923cc8955fa2b329832"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/throw.ogg"
+hash = "3a3fe1e4433602a7ad443bd4fd7f2f6b49a8d6c21f9eb84912c29236c7bc12c8"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/walk1.ogg"
+hash = "2b1b1ffe8760744d7acffc90250349234efb6e5022d16a61ef17f41c770c653a"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/walk2.ogg"
+hash = "50b6963bc60d47d43d492c35c61b10d411b248cc7c3655dcba141f353a3841d3"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/walk3.ogg"
+hash = "1813629a16b482dc72141851e7c14de6344d83c7a63515479825cd9c8c3c86a5"
+
+[[files]]
+file = "resources/sound3/mob/irongolem/walk4.ogg"
+hash = "a7c5b2e7286a14ef57f0b8c15c8ec2e0d057953104ae52115bb17f0f03a3ff62"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/big1.ogg"
+hash = "f022e8cfda1b5c7c3b2adee2f7ece205caf00e1bfef784a7ccb5a662bb3d35d8"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/big2.ogg"
+hash = "7a1a6633e88debdcb6dc8bffe57d80c2d6cb9f64c44cd475c7d7c6a698136ecb"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/big3.ogg"
+hash = "67f07439240134669802cd3ec95907b588dd05d83166568b08e62c73b21d5aeb"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/big4.ogg"
+hash = "2b0b4d21164e96646bfbcce0e7f8ec499f61f75976514cc868e56a9cbf869f3a"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/jump1.ogg"
+hash = "18d02b78ad938c3ae2670c81de41efbb688a7693c0609c6c15eb29d3f2175cc1"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/jump2.ogg"
+hash = "fa099ef9d3a05dc2d31ca90ac725b86883f0f85bd64d7f89e4301388018519b6"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/jump3.ogg"
+hash = "4df9716c540b202f1b98aa2c1ef41301318839c166ad10c313a405b9e118925f"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/jump4.ogg"
+hash = "3ee91c03c5c9da728e7ed046f859aaf3779d7b3a3db48491fc7f235f7fe7906f"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/small1.ogg"
+hash = "2b83239976d2ea2a9cb9f82f67480ba0261ddf6dbe70b241de2753faa214e137"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/small2.ogg"
+hash = "715ecf390cc6e55c384575fab6fe2da510d612d198e7c6c39e9711bb8b06c1d7"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/small3.ogg"
+hash = "1a63b5010120aeba4a289dd5ff6f22b2d52824665a0ac2b529ce924fc2a0eacf"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/small4.ogg"
+hash = "7e112e9b50616858c21009780a4745d7b21cf133355e3138f28bce99273f4a67"
+
+[[files]]
+file = "resources/sound3/mob/magmacube/small5.ogg"
+hash = "8fb1368e378bf250b047654d799f71fb1eea236b5f07b779f4dc43e319b6364f"
+
+[[files]]
+file = "resources/sound3/mob/pig/death.ogg"
+hash = "3fe52ae493581b67313461f95d2119a36cf346de2ff846946cd2e224a5228171"
+
+[[files]]
+file = "resources/sound3/mob/pig/say1.ogg"
+hash = "a6d53f56193788d32344d615db34d203f3060aa579ca7a572738178db94c9faf"
+
+[[files]]
+file = "resources/sound3/mob/pig/say2.ogg"
+hash = "46a7eb96fb0eb120419d894b9b9d003a3ec6dc1e5ea12a5b8b1e09bd624bcc76"
+
+[[files]]
+file = "resources/sound3/mob/pig/say3.ogg"
+hash = "172d6d666dd6c4506ed6313bbe3d8f0baea506f981d669509da0d1946568d26b"
+
+[[files]]
+file = "resources/sound3/mob/pig/step1.ogg"
+hash = "ba052ef96d6f488b6d298e4dd77e99d565f5c4d43c162708534f315b6b97cc3d"
+
+[[files]]
+file = "resources/sound3/mob/pig/step2.ogg"
+hash = "b9ffe20520214a859ac6312cfe21807d51311f4a02b0d34dfa150d8d53642d36"
+
+[[files]]
+file = "resources/sound3/mob/pig/step3.ogg"
+hash = "29c842e9815252079190938de3d29d015a14635888f9af21b5916edaadeef1e9"
+
+[[files]]
+file = "resources/sound3/mob/pig/step4.ogg"
+hash = "d97a58ff50e33c276a3b48fe2e200263da7d5aea035286d95753b2f3cb58a910"
+
+[[files]]
+file = "resources/sound3/mob/pig/step5.ogg"
+hash = "890b578fc31d04f901e5ed538a58ee2c850cc2b7602a14ebcdae5eb3731d230d"
+
+[[files]]
+file = "resources/sound3/mob/sheep/say1.ogg"
+hash = "3138381f5a3d51a6bb9f61b36e45afb0e769281433d4b4e4b7b0191471edb74c"
+
+[[files]]
+file = "resources/sound3/mob/sheep/say2.ogg"
+hash = "3a81accff735f48eb4ddb631ae74e903d619f0f0803a792f895a149d7be082d9"
+
+[[files]]
+file = "resources/sound3/mob/sheep/say3.ogg"
+hash = "0147bcae0c1907b6a2f34c7f1c4c848424f8f558c9960a38c20198a917b601c8"
+
+[[files]]
+file = "resources/sound3/mob/sheep/shear.ogg"
+hash = "eef052be8e48ed418b5f9c983181807afe74b2fd3969e85d422ea10703231abc"
+
+[[files]]
+file = "resources/sound3/mob/sheep/step1.ogg"
+hash = "8ec849cc7a28c4296da42936ae77e37da5ea81ff09e8643b472924c47badb2ad"
+
+[[files]]
+file = "resources/sound3/mob/sheep/step2.ogg"
+hash = "6547f39a5b4b5a3868d1b03a7caff2fce2221a24263637b1ebb69cc0d43105c4"
+
+[[files]]
+file = "resources/sound3/mob/sheep/step3.ogg"
+hash = "49d89b03207f94462ce16101bd3baf896a41ca563de47266814b0de462901441"
+
+[[files]]
+file = "resources/sound3/mob/sheep/step4.ogg"
+hash = "2c77b0fc59c740b2d077f1d058b570fc7407af1fdc1777329198808ed617095c"
+
+[[files]]
+file = "resources/sound3/mob/sheep/step5.ogg"
+hash = "e9ae71a3ae9cc36f1467afb79e951cbed3eeddb1206fefd6e8767b39f646a273"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/hit1.ogg"
+hash = "a00f6c37084491b6bc381de34c843dfa02d2d27101c65547ebb95026fccbed7e"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/hit2.ogg"
+hash = "10491ae19332d24e50109ea81e00664b6d825f8af9fb4b7625850f7825f82333"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/hit3.ogg"
+hash = "753ecbddb763d45f23d8ce2a24eaf933e144448a3db93da407bf7f05f45b9d28"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/kill.ogg"
+hash = "94182307d9b66d8e0029ec3b1ea4b8071a28f6f5bc240f21399e886f1e3bc382"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/say1.ogg"
+hash = "df81d1547db8403e4c2a93ef5a63b60ab7489c09544910610e5be40c108d211b"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/say2.ogg"
+hash = "1b41758b85004e8868dcd702f988263bc9b1bea1a345a889ac67b244c5ee5668"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/say3.ogg"
+hash = "9e8c35e59b79bb29fd43840ffb1b26b9108dfd9ec9082a314c3b8794bd3826f3"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/say4.ogg"
+hash = "ee5c41c079c0a2940adcec91ba65678a021930d2569f9b140e03826678ab9190"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/step1.ogg"
+hash = "ac021d3a83e0dcd5c13020b0a56e0f209db5e4252221d67df8e82e066d3eaf40"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/step2.ogg"
+hash = "ad3983e4f5fb5bb7afe28c1a130f5b165462fd0a8fa0d8e405de2a6cbbd80403"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/step3.ogg"
+hash = "9ef93dde57e47710ba7cfc268df4606942ee386710d6b166dd13d21489274acb"
+
+[[files]]
+file = "resources/sound3/mob/silverfish/step4.ogg"
+hash = "c580c3897afe86ff8215053a61fdd03aef87d55229c89efcaa4f125159a51f22"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/death.ogg"
+hash = "3609453ee7beacd8fdccbc4d2aa1412969a45bfcf759db324f359f97c87ede5b"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/hurt1.ogg"
+hash = "0876596506aa05a9b8b19016a6a544f1b8d0914f1d30c6a9807d645bd2d57cff"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/hurt2.ogg"
+hash = "c1955df755c8f5062771b081f171e7978112748382f3e9d4de3441154d520da5"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/hurt3.ogg"
+hash = "1fc32ebc0ec5211fec1b9febf1f404c2bc49087a60573d7d2a5ea092a1c4abe2"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/hurt4.ogg"
+hash = "00a94883ce5d064d0d519c959219e72671bedbd1cfdef4f2b3eaec91ef163c28"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/say1.ogg"
+hash = "7543f97233eb091dd2aa7a6705b88dd060105e845e9b8489b4aff2d844efb4c3"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/say2.ogg"
+hash = "ae40502715776c3dc36b232a81f5f973fe8f70a0e2cf5dcba328e9b002db8e80"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/say3.ogg"
+hash = "c7dee0f2702ebfa1e6ed08b50fd753906d9c22fc79c8f4582de2d229b2d33552"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/step1.ogg"
+hash = "6178308293fd1ea0cdadfcf08ebcc36a53bd43f83bf48d37c51051817a800644"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/step2.ogg"
+hash = "bd37bb0ab0639a6132a4c9738a781a244081362eac81e55700b38252912f7958"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/step3.ogg"
+hash = "3c4ead70afef1bb53c6a0b6fe61071bf4a25b105e4563b7b7b8eb4e9dc2067e4"
+
+[[files]]
+file = "resources/sound3/mob/skeleton/step4.ogg"
+hash = "2f88f6a571b6a1553ad64043877631c75d114043fa9e789643b0b4ec510c95a1"
+
+[[files]]
+file = "resources/sound3/mob/slime/attack1.ogg"
+hash = "a953ff5cf25dfccae2a7dce104663671143150ea149ce4f6b157b9ccc6d8a74c"
+
+[[files]]
+file = "resources/sound3/mob/slime/attack2.ogg"
+hash = "5941ed2db72663d081148649e0b5f75a3b8b057794145edc3399f56a5d24f569"
+
+[[files]]
+file = "resources/sound3/mob/slime/big1.ogg"
+hash = "cbb259fba6ec5032bc3707bcf556c248f3878772097ea311202ea10cc896040c"
+
+[[files]]
+file = "resources/sound3/mob/slime/big2.ogg"
+hash = "79196d31b6d4fff4b8cf981ecde1d906aef60e229e7d7157aec7f96bbe246697"
+
+[[files]]
+file = "resources/sound3/mob/slime/big3.ogg"
+hash = "980752f0ae5cb9007259e859278815b71a033ded9cae34b08e2587740a548045"
+
+[[files]]
+file = "resources/sound3/mob/slime/big4.ogg"
+hash = "2e3a5b5da98a39be781e8b33a517574b507477ff25f6c37c298eb6921252f2f8"
+
+[[files]]
+file = "resources/sound3/mob/slime/small1.ogg"
+hash = "b8e870bb9d5416191ac0e90ca494c8e35bfcc2ad4181518c30184666495aa5e1"
+
+[[files]]
+file = "resources/sound3/mob/slime/small2.ogg"
+hash = "5e715b90d8ea3b7b76c9f9e225b36da10a14c989b7a7a0b13ce204506c2d9aee"
+
+[[files]]
+file = "resources/sound3/mob/slime/small3.ogg"
+hash = "6b450a567cf7556e7ed9c21854a5ceec3ad3db45b28ce3255962b7ba35021c54"
+
+[[files]]
+file = "resources/sound3/mob/slime/small4.ogg"
+hash = "8b4d703ebb6d41ec9249d0247316a43f20cca82f515a7a069341dadde0d14cf2"
+
+[[files]]
+file = "resources/sound3/mob/slime/small5.ogg"
+hash = "dc0551c4d6b5eed7065c22ad944e0f056d7ba2d847d22d01d8fb876a7f18c841"
+
+[[files]]
+file = "resources/sound3/mob/spider/death.ogg"
+hash = "0ad281aa0a056f015c392bbec569ca1f9fbc985f24d4c34bbdc3414ca95fb752"
+
+[[files]]
+file = "resources/sound3/mob/spider/say1.ogg"
+hash = "12bdac5ab8b092987b3e090bc11563af39f7e81e6a1cda905ca72582e66583dc"
+
+[[files]]
+file = "resources/sound3/mob/spider/say2.ogg"
+hash = "fc21014580e7501e400a3679617e7ab0d5b9729b6bbb4cb356d0ad0d0bc5c94b"
+
+[[files]]
+file = "resources/sound3/mob/spider/say3.ogg"
+hash = "a6a41a152090fa334a63ce48132bd82123c541817cac46700702ba6cfb28adca"
+
+[[files]]
+file = "resources/sound3/mob/spider/say4.ogg"
+hash = "0b8cd1e6db3a92fe03934249934ca739a38509d517388d26e3ab2c10cbc1d7dc"
+
+[[files]]
+file = "resources/sound3/mob/spider/step1.ogg"
+hash = "7831072cbcaf930b80a7f1897b464cb7a591848c15c547514558b6840f7c0437"
+
+[[files]]
+file = "resources/sound3/mob/spider/step2.ogg"
+hash = "6f2fac7e8b9726a008d4cad84c20ab847f04204bb42c9acb7517180876e6d4ed"
+
+[[files]]
+file = "resources/sound3/mob/spider/step3.ogg"
+hash = "8dc7ac61d2f90eb6728cf94706589d8deaa34254259af73f0dbc28a689df3e0e"
+
+[[files]]
+file = "resources/sound3/mob/spider/step4.ogg"
+hash = "7b6f72439349aefc962e4eaa43b33494b3f19a49fe19c35919ac93ce9d734cd5"
+
+[[files]]
+file = "resources/sound3/mob/wither/death.ogg"
+hash = "697eabf258f0ac3a72d46424bba956d71be5b43076096d23681ed54f69bacf26"
+
+[[files]]
+file = "resources/sound3/mob/wither/hurt1.ogg"
+hash = "ea141159a9623302a4ffa16db8ce3366966d9cfeda7b74c5afae621b571b4ac5"
+
+[[files]]
+file = "resources/sound3/mob/wither/hurt2.ogg"
+hash = "002768710073c2f0db1fcd56ddaea3c5db789464859a59de20658f17b967d061"
+
+[[files]]
+file = "resources/sound3/mob/wither/hurt3.ogg"
+hash = "2ecf54f0254e3218c37150719bde4285a886a377f8f0a472df72addbb6e9d8d7"
+
+[[files]]
+file = "resources/sound3/mob/wither/hurt4.ogg"
+hash = "41db03108b49f46b80e6bfe88d7e74a1d3a7d66989484663e95d5854bea83445"
+
+[[files]]
+file = "resources/sound3/mob/wither/idle1.ogg"
+hash = "9a238c6dbf4cb36219fcd01b3e54d7fc5b48ac94e83c41bf4ce534ada0e9ce5d"
+
+[[files]]
+file = "resources/sound3/mob/wither/idle2.ogg"
+hash = "d23aa5ea87565a90ecebad135e00f3a26ec4eef94b579d1ebc42fc703e0f31a1"
+
+[[files]]
+file = "resources/sound3/mob/wither/idle3.ogg"
+hash = "fa7e883fd2b58b153e304a282cfb66e440d22977548d29e32ead823836c4ec24"
+
+[[files]]
+file = "resources/sound3/mob/wither/idle4.ogg"
+hash = "9240e362a64caf2f037fafc43f2ba7702d31a830ec9042312d5446151d144770"
+
+[[files]]
+file = "resources/sound3/mob/wither/shoot.ogg"
+hash = "a29d10700537cc069d905fa248a7ec4ed9c749d1181690eea7e00ceb7317dc8d"
+
+[[files]]
+file = "resources/sound3/mob/wither/spawn.ogg"
+hash = "c18e5e35b6c6e588bb13346203de9a7c3acf677a5aa101def5b9434ad1d989c5"
+
+[[files]]
+file = "resources/sound3/mob/wolf/bark1.ogg"
+hash = "7a7c717c1477513ff7fda28d9dcc86713a4374583893d2b1581b1995078c71f3"
+
+[[files]]
+file = "resources/sound3/mob/wolf/bark2.ogg"
+hash = "46d29a911a558e1ba7fe06030f354d9606607636c536f06ed60964148b29ac69"
+
+[[files]]
+file = "resources/sound3/mob/wolf/bark3.ogg"
+hash = "66c643cb2fe191f6c37e9a0c0b2852de8ce8e118a42306a79ca20675f781582c"
+
+[[files]]
+file = "resources/sound3/mob/wolf/death.ogg"
+hash = "eaf00c1d455786d235767e452489f8eb399f5f289a49b2bd5cd7fc6ca5628cf1"
+
+[[files]]
+file = "resources/sound3/mob/wolf/growl1.ogg"
+hash = "0389ada7c74a150982e4b93b42c413780a672874f407f992bdfb6ffc35281f34"
+
+[[files]]
+file = "resources/sound3/mob/wolf/growl2.ogg"
+hash = "52cc0f0e9bff46189af5673ddda8fc441da03a722ac7b10e67df07173dc0eae1"
+
+[[files]]
+file = "resources/sound3/mob/wolf/growl3.ogg"
+hash = "5d4815bb97d6aa66be74f9d778615af6a25b548f3cda5860272583effe7a1bf5"
+
+[[files]]
+file = "resources/sound3/mob/wolf/howl1.ogg"
+hash = "e20b0d4dc8a13d955c5c2e7a94683b6340be4f34986b470bb268ac339a4d168f"
+
+[[files]]
+file = "resources/sound3/mob/wolf/howl2.ogg"
+hash = "4b59670d8d061e624fab66b71a164c170c36360628b894a2baca496a6568d757"
+
+[[files]]
+file = "resources/sound3/mob/wolf/hurt1.ogg"
+hash = "149b2042d2e00721eedf6b4561d5dacdeab24069fc572a4b498953b297cb38fe"
+
+[[files]]
+file = "resources/sound3/mob/wolf/hurt2.ogg"
+hash = "2f1e5cb0cd10ea9518cd3edaed4a93c2cdcd4ac80e7e91f41d6d9e2d088c7b2e"
+
+[[files]]
+file = "resources/sound3/mob/wolf/hurt3.ogg"
+hash = "e75590c84aadfe8491a006ad90b34d4b7ef6705db6ea25b6fc3ea04c415ccd53"
+
+[[files]]
+file = "resources/sound3/mob/wolf/panting.ogg"
+hash = "876d6c695624352260cf125664d889891104aed72021e95b6b2fb330930d5878"
+
+[[files]]
+file = "resources/sound3/mob/wolf/shake.ogg"
+hash = "56fc1b38d8e73d23e899e078ac89a08a8c82b8ef3af45dfefb4637d219c3bdfb"
+
+[[files]]
+file = "resources/sound3/mob/wolf/step1.ogg"
+hash = "cdae9241670173d5b6fb81e965058bf44a9e51fbbdfe34e4da114d7cba9e278a"
+
+[[files]]
+file = "resources/sound3/mob/wolf/step2.ogg"
+hash = "8ed5bda7a1bc519be472e476817c3b0554dfd1dcc204612bb62a0a6285b8173a"
+
+[[files]]
+file = "resources/sound3/mob/wolf/step3.ogg"
+hash = "4c056121e532ce0c856b4182b02669dabffbbcdcf4c1d27ef7b6bf638c72a759"
+
+[[files]]
+file = "resources/sound3/mob/wolf/step4.ogg"
+hash = "6f7476d4652ef240f636e063c950f26c4e2fd69f3f1827f4233af30d9689ae03"
+
+[[files]]
+file = "resources/sound3/mob/wolf/step5.ogg"
+hash = "2f3a4be4ca717bd6ea507061c24acb7d02479cf7695a460ee33285a1aca18a7c"
+
+[[files]]
+file = "resources/sound3/mob/wolf/whine.ogg"
+hash = "c21e827bbc0abb4ca079f4dd677bd3c7e5f0df428cbb414883fb6db8600d1286"
+
+[[files]]
+file = "resources/sound3/mob/zombie/death.ogg"
+hash = "052cce2dea9fec085c9bd1c1541b60b6f1b9f2f5f5b69014e1e7310c761d3c30"
+
+[[files]]
+file = "resources/sound3/mob/zombie/hurt1.ogg"
+hash = "fd2cbce6b58ab65e3dba73b2aa8d86b6e5753fd5c8d543e1b691e5c364bc4a6e"
+
+[[files]]
+file = "resources/sound3/mob/zombie/hurt2.ogg"
+hash = "e91a2ace7d09d3bce417c5694308bc63243541ec23dce15d004432f32f5fdec8"
+
+[[files]]
+file = "resources/sound3/mob/zombie/infect.ogg"
+hash = "dab4bf91560c8fc850eb690c2023a53c6b8334976df92f3ab64933028ee13a43"
+
+[[files]]
+file = "resources/sound3/mob/zombie/metal1.ogg"
+hash = "58bf0e05478b197b04f74cc1bd181fef1376eaf8ee1d5fda30f2b4f492ec4e70"
+
+[[files]]
+file = "resources/sound3/mob/zombie/metal2.ogg"
+hash = "b5b02ab0fc751dddc4855e7113310c58d60a01a5f0e606a5b9a0aaaa001653db"
+
+[[files]]
+file = "resources/sound3/mob/zombie/metal3.ogg"
+hash = "1d05c0fdc85d83a1541c298f3bac23136605994e48ec5dcb12d57d1411a279d8"
+
+[[files]]
+file = "resources/sound3/mob/zombie/remedy.ogg"
+hash = "7e28982f102969a0695f414f927609f3f79cec348f74dcdbe60bd9b0dd9f56b7"
+
+[[files]]
+file = "resources/sound3/mob/zombie/say1.ogg"
+hash = "b1f2b64cc2639c869d57955aabf9d46206ae7a8def97ebb68865b1743c5528e2"
+
+[[files]]
+file = "resources/sound3/mob/zombie/say2.ogg"
+hash = "626e0f7a5bb15fb82729bf7d1abee398bda35fdce29f369d554061c96be38d1c"
+
+[[files]]
+file = "resources/sound3/mob/zombie/say3.ogg"
+hash = "d0e981ec22dd8a6927d1621c990b182789a712f30ad00108ab4f01f974fe6383"
+
+[[files]]
+file = "resources/sound3/mob/zombie/step1.ogg"
+hash = "0f0198cf7cbc869601655e03770ab2d98f054e47a83aacaae1e9b986716af110"
+
+[[files]]
+file = "resources/sound3/mob/zombie/step2.ogg"
+hash = "eb535ae1638e4dc57fff502bbec6d9329ded7a226a6bf589ba930449d0ef7176"
+
+[[files]]
+file = "resources/sound3/mob/zombie/step3.ogg"
+hash = "0df2968ca5c17bf185e02e5ca97dd1acf55d15e4c02ba4add1f1ee951e9328d4"
+
+[[files]]
+file = "resources/sound3/mob/zombie/step4.ogg"
+hash = "ca119e31c534f786d80fa945f26223096e5d35229f97d91f09ac79556e92fa01"
+
+[[files]]
+file = "resources/sound3/mob/zombie/step5.ogg"
+hash = "ec1a43d0bdb79f5146a39c2d8c6a7d3419a245add55b4988ff01ebd436d9ede6"
+
+[[files]]
+file = "resources/sound3/mob/zombie/unfect.ogg"
+hash = "917f49f10591e3f221194a53485619c6fff4a76f6dc5e1483750add74212dce9"
+
+[[files]]
+file = "resources/sound3/mob/zombie/wood1.ogg"
+hash = "2067240e60b98536e241b386f00e846bba7977433e2efa4e9a29f1c919414559"
+
+[[files]]
+file = "resources/sound3/mob/zombie/wood2.ogg"
+hash = "e793516a865123ee896dc4d04d1a474a4ea076dd1efeedc56d2c164a513e50e4"
+
+[[files]]
+file = "resources/sound3/mob/zombie/wood3.ogg"
+hash = "4f28ca06444938bd91939435dcbe10f1220e20803e78970c8f4a339d1d352d18"
+
+[[files]]
+file = "resources/sound3/mob/zombie/wood4.ogg"
+hash = "c073e39be2c9be3da084d813eb2a5c694965c998ac21f5fed448f48108c02648"
+
+[[files]]
+file = "resources/sound3/mob/zombie/woodbreak.ogg"
+hash = "bf1f722bda05b390f2ee9f0cb116afffddcd020ee6e6c79fb87d650012b93c38"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpig1.ogg"
+hash = "57fdeea11f34b97d7a3c894d2db69d60ba078dca94a7ec23b5b73e92c2fddd8c"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpig2.ogg"
+hash = "7e0b4bf25a0f5d3cc7ea192c0b51bdc37b21b365b3a2d102e08834b7ecbb27f6"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpig3.ogg"
+hash = "bdd44aca52225f2cc3a7034b46bd393d6d147df28ebe3a3bc460e3c99378e545"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpig4.ogg"
+hash = "17487cce5ff083b47eee1a6de6994451033dbb5fef4b2a1b9cdfaa71e60f32e1"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpigangry1.ogg"
+hash = "1d1514b285a32d30472942791757adc3d892cde8c4c1ee0cc9f410f0e65b9b72"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpigangry2.ogg"
+hash = "8010ee10e882f2edc472995e1b64514cf47f999ce45c2297db5f045b52c7340a"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpigangry3.ogg"
+hash = "ae9f09525815c565eeccb455172e3788b168dea9e3599d1f937a505cc850c2c0"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpigangry4.ogg"
+hash = "07fe9793a277d07944a5c4951670786760c2afa11607e93864659c9cae71e9f1"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpigdeath.ogg"
+hash = "1a5030004c1fc20f7af95253651bdc2e24df6c0034dc6bb17d6dec53b038185f"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpighurt1.ogg"
+hash = "e28d1459b24673a8922a039a94acad1e051fc47dc2932407daa99ce5c49b56c4"
+
+[[files]]
+file = "resources/sound3/mob/zombiepig/zpighurt2.ogg"
+hash = "05b632aab1c50232259f218119a82618ed35634d196280dbb25fecd145f62e55"
+
+[[files]]
+file = "resources/sound3/note/bass.ogg"
+hash = "7a9581ad340672efc6a77bf990175fb2a725fec400c39417cac783452562b247"
+
+[[files]]
+file = "resources/sound3/note/bassattack.ogg"
+hash = "7261568b63fea6a5763335479d16980329ae0c8db35f1b743eb86005d1a12150"
+
+[[files]]
+file = "resources/sound3/note/bd.ogg"
+hash = "829e1ff33546ef3de4e1e1a38ca3e0dc8a582227c284052868963333ed790686"
+
+[[files]]
+file = "resources/sound3/note/harp.ogg"
+hash = "d775e11718dba8dd601e76bee5958aa02ed0d56c26481881d4c28226f7bd4477"
+
+[[files]]
+file = "resources/sound3/note/hat.ogg"
+hash = "8139400f63c0bc7114e960826a11bb1cd561e8f0c01dce077dbc6424ae51ab6c"
+
+[[files]]
+file = "resources/sound3/note/pling.ogg"
+hash = "d7e3638d4c0fba4614f24ba94d6380935ae2341536d76989e44f00ffd94a1459"
+
+[[files]]
+file = "resources/sound3/note/snare.ogg"
+hash = "a2a5168e70548dcddd5015204cec586365e611854e83bf634b42f2a6ddd8c3b7"
+
+[[files]]
+file = "resources/sound3/portal/portal.ogg"
+hash = "e99e597079059f33b1e926728c99ff145eb36097de77c0f66ee87236c0fddcda"
+
+[[files]]
+file = "resources/sound3/portal/travel.ogg"
+hash = "2a78858744fa32d2ee9531b666dc9b2d89866bf69a6a2bb8b9436092a8127768"
+
+[[files]]
+file = "resources/sound3/portal/trigger.ogg"
+hash = "58ec8b9d6c81c738b300073456e13fe898d80d415ef5439f5f94454c11092603"
+
+[[files]]
+file = "resources/sound3/random/anvil_break.ogg"
+hash = "0fd06b9299c1d7f3c165955807a052d5036e62213395468b53c7e03eaf2ceb65"
+
+[[files]]
+file = "resources/sound3/random/anvil_land.ogg"
+hash = "51b7b453134f98de0b5d5a4d351ac37e5b050727098cb5b77a6a2863825543cf"
+
+[[files]]
+file = "resources/sound3/random/anvil_use.ogg"
+hash = "2a36ba49acd34967ecb30baf4aa892317b6bc4128131f61a91a08af11db07ab5"
+
+[[files]]
+file = "resources/sound3/random/bow.ogg"
+hash = "9492b523393851444789a0befcb1c0c5f382638b9b87e56dfa4da6dcb61dd3f3"
+
+[[files]]
+file = "resources/sound3/random/bowhit1.ogg"
+hash = "31e05e73edb52ff6871f60d60ce1ed8912cf1f6c85ba68a571808efba3d9890e"
+
+[[files]]
+file = "resources/sound3/random/bowhit2.ogg"
+hash = "fa7acce9893cd8ae274bf57453d782d825915e31999a21f0c38713116a100b45"
+
+[[files]]
+file = "resources/sound3/random/bowhit3.ogg"
+hash = "5904f027d0db3f29434fc5840ab25b5115abfb11dfc858ddc339380554f24713"
+
+[[files]]
+file = "resources/sound3/random/bowhit4.ogg"
+hash = "1f5dfd0b9a203ea49c1f90a91bd8da23839748bc7fbe00424dae703046684b59"
+
+[[files]]
+file = "resources/sound3/random/break.ogg"
+hash = "5f6a07395aff066ab493beb36cec9e40879a1c70e66f181878b10ef7568be581"
+
+[[files]]
+file = "resources/sound3/random/breath.ogg"
+hash = "d72a45fe2628a78366289e9d6abfd43b910bbda97c1b961b58a40b37d2175e35"
+
+[[files]]
+file = "resources/sound3/random/burp.ogg"
+hash = "e49f343cf4289dc1c25f9932075a6b07a89bb13c885fea4ebc2634f43ba35c8d"
+
+[[files]]
+file = "resources/sound3/random/chestclosed.ogg"
+hash = "cabd102798e979d06e369f50b82c32a873c97a730fbe501b2207a9caf5e9e0cd"
+
+[[files]]
+file = "resources/sound3/random/chestopen.ogg"
+hash = "0071c94ea25dc346cc6f8e5cfdef4bb1788131634de459a3374bab16803e3200"
+
+[[files]]
+file = "resources/sound3/random/classic_hurt.ogg"
+hash = "f087f1373227cdfa745bd43d977492fd875cf193b41dec6837ba331e74c0a818"
+
+[[files]]
+file = "resources/sound3/random/click.ogg"
+hash = "f69421ba05229236c7a4efbc9a5e18c4aeb0621feb95471241ef0063c21b865a"
+
+[[files]]
+file = "resources/sound3/random/door_close.ogg"
+hash = "09a032fa28c0ded8a4b27d3b59db26ca9a0fc21bc97fd0bc269477fc475db6e3"
+
+[[files]]
+file = "resources/sound3/random/door_open.ogg"
+hash = "b60716ee3bb4b9bd971f63ef06d7cb1282539801f3fced860df715f80c4f0754"
+
+[[files]]
+file = "resources/sound3/random/drink.ogg"
+hash = "05cac0f8c7e3d002254b2b73d31d2457c39c0a1791e47dc319b5cab13dd23206"
+
+[[files]]
+file = "resources/sound3/random/eat1.ogg"
+hash = "b2c679f3a7c177a94134cbaa11dfe08ddefee439c1cffc448d7621f3e4229e82"
+
+[[files]]
+file = "resources/sound3/random/eat2.ogg"
+hash = "71a4b8035a72e7c881219b6419bb7de66ffd128c10743448fc1c69cdfb3b8a35"
+
+[[files]]
+file = "resources/sound3/random/eat3.ogg"
+hash = "3c6f012d2ceb63062d2705c4892a53970ed504c20b08d82e113fa876e734c5f0"
+
+[[files]]
+file = "resources/sound3/random/explode1.ogg"
+hash = "ec6fe52205a861046bc6a45d284fbe8233b05f87bda87a67a7d4c24b74acc997"
+
+[[files]]
+file = "resources/sound3/random/explode2.ogg"
+hash = "c6438fb756b69367d9c4262def4d0c1836d6ecd4d0b6a831168c2e705253c688"
+
+[[files]]
+file = "resources/sound3/random/explode3.ogg"
+hash = "6178b31e2001591c67a019ed8176d76095f821e9a869f5f2418f41ed09f7adca"
+
+[[files]]
+file = "resources/sound3/random/explode4.ogg"
+hash = "0524d95e0f8d537dcc7b9f585e0f99975a0676162cc722f96c05ab47c45c7a76"
+
+[[files]]
+file = "resources/sound3/random/fizz.ogg"
+hash = "32c42c9c46b99b40191ab10dca9096ff7d7fc05f69276b418a4ae244f08e319e"
+
+[[files]]
+file = "resources/sound3/random/fuse.ogg"
+hash = "4cf9560e566bcf200f61e460e47cd18f6002304a28d376c6ba2139ec96628828"
+
+[[files]]
+file = "resources/sound3/random/glass1.ogg"
+hash = "ac96668c1b15115e362b2d7d033c46df1575535da06cbcb8bed2fa3b740ab446"
+
+[[files]]
+file = "resources/sound3/random/glass2.ogg"
+hash = "7288bb874add42719964c87a232c2897f3e965e33ca55652b4744b4fad87fcea"
+
+[[files]]
+file = "resources/sound3/random/glass3.ogg"
+hash = "062c3175b3ab2b7e44b52a10bb9ff60eb6c01f5b19f165e90df0ab0c215b07d6"
+
+[[files]]
+file = "resources/sound3/random/levelup.ogg"
+hash = "550ca1fecca230f6dfea6ecab62a617b4b7a6d0ac9cdd371ea9085caf0e9097a"
+
+[[files]]
+file = "resources/sound3/random/orb.ogg"
+hash = "5998bf8ee2eecc2779ef896f04a540f9d48d4e96cc9227aae4646f4d9b817749"
+
+[[files]]
+file = "resources/sound3/random/pop.ogg"
+hash = "5e3baf518a0104760dc06a2e0088b377433997b46511c1730db0e3ba6f2b0ca7"
+
+[[files]]
+file = "resources/sound3/random/splash.ogg"
+hash = "7a04c68c956f4fe67935e6665666e603de918f64683a79f9e5d5700e6a4c2765"
+
+[[files]]
+file = "resources/sound3/random/successful_hit.ogg"
+hash = "5998bf8ee2eecc2779ef896f04a540f9d48d4e96cc9227aae4646f4d9b817749"
+
+[[files]]
+file = "resources/sound3/random/wood click.ogg"
+hash = "7dce4248fec6971e31c9a5fa644b3a93449eeab010c79cf732d24ba95887d0ba"
+
+[[files]]
+file = "resources/sound3/step/cloth1.ogg"
+hash = "8a716f2a3cbfb5d330d3aa9999ff56f0636cf388991caa06d866576989c9f36e"
+
+[[files]]
+file = "resources/sound3/step/cloth2.ogg"
+hash = "139fc234e51f7825fcdedf10c93d8d60c59df9b4955334f409a624e4b3e6bfbb"
+
+[[files]]
+file = "resources/sound3/step/cloth3.ogg"
+hash = "ac49293ab32aa3154eb5c1251e3175a55d28f9e6866bf74fa76c2cefdf6cc40e"
+
+[[files]]
+file = "resources/sound3/step/cloth4.ogg"
+hash = "09d5879722c54c86d39d83df919f7f712ed92044ffb5b0a6757b9fc2e02281a3"
+
+[[files]]
+file = "resources/sound3/step/grass1.ogg"
+hash = "2959b1742d6f62692eab8b39e6f715520e639e8a6ee24f22975df93c00b4792c"
+
+[[files]]
+file = "resources/sound3/step/grass2.ogg"
+hash = "226e6e9270b4c64481a1ad9838523707bffc34017d6e0d95ffbf335e903dfe2d"
+
+[[files]]
+file = "resources/sound3/step/grass3.ogg"
+hash = "6e06a73583c8f09c6fb444c06213c02cd5e2d60ff24b21b4e8cef2e5257b706d"
+
+[[files]]
+file = "resources/sound3/step/grass4.ogg"
+hash = "ba77cb905a8470c616e98a7f7745823d362278e1113bb2bd0c96dcf25f3298ea"
+
+[[files]]
+file = "resources/sound3/step/grass5.ogg"
+hash = "21bd69b639eb2cddd3cd39f381007b92938c1dec57dad241872bd42f07d36e00"
+
+[[files]]
+file = "resources/sound3/step/grass6.ogg"
+hash = "e7078d68311e58aa4648248cd2fdd4830de841df5b46d2951b1b4843f50e1acf"
+
+[[files]]
+file = "resources/sound3/step/gravel1.ogg"
+hash = "0ab687ad74071c1ee9e836b7538222528ebee3a1d41c3550f60d2ced7cbaa2e3"
+
+[[files]]
+file = "resources/sound3/step/gravel2.ogg"
+hash = "f3d5531fe16ff4d1ef36c1e9468d504cee699d9932c8b5213d615f378e4f74dc"
+
+[[files]]
+file = "resources/sound3/step/gravel3.ogg"
+hash = "cffef11c1c93b087b355a2e486675f3b22d8be837b3151bf1761384a299824e0"
+
+[[files]]
+file = "resources/sound3/step/gravel4.ogg"
+hash = "ec03b8fedb57670eb6762f10c415300f947281205c1412cbedd8f0bc094f400a"
+
+[[files]]
+file = "resources/sound3/step/ladder1.ogg"
+hash = "e98664c54ad466110e855d696d3364ab12818309347d5b19cf72736fc2f5fa75"
+
+[[files]]
+file = "resources/sound3/step/ladder2.ogg"
+hash = "99c68047f987b1a5c020f6f4d53b18a6ce7994b148befb5d95f574732dd846a4"
+
+[[files]]
+file = "resources/sound3/step/ladder3.ogg"
+hash = "e9d01d73a70e82666b37e79a77a902276c475c1eb836e2e6233a749d7a277cd3"
+
+[[files]]
+file = "resources/sound3/step/ladder4.ogg"
+hash = "8ff5c119ee51073e38ef197662a980341950c12c9062af5956025db373939f5d"
+
+[[files]]
+file = "resources/sound3/step/ladder5.ogg"
+hash = "87214c02fc9656fad0525c0e2b7a952857563bd979afc90e1f008c5203e85b93"
+
+[[files]]
+file = "resources/sound3/step/sand1.ogg"
+hash = "177318136100ec8bd5d52182df43b0fbb37de4752c50467927137f7b1e4fb418"
+
+[[files]]
+file = "resources/sound3/step/sand2.ogg"
+hash = "d1280a9dd5e69e96b47d9d8fa4d5d03df6eb96e813813be8c324c4d45ea57760"
+
+[[files]]
+file = "resources/sound3/step/sand3.ogg"
+hash = "3bd1c35f6f3c2b4280782cd30a0e0b81b0ec02f4a45bff2ceb0827c61d4ebdd0"
+
+[[files]]
+file = "resources/sound3/step/sand4.ogg"
+hash = "67c8515d5778bfdfd95d08a9912631a4fdd834381157d9c1529d7b4e802b3a0f"
+
+[[files]]
+file = "resources/sound3/step/sand5.ogg"
+hash = "1315a12dde4e9473a17746c2b5444b37c35fa580addfb236cb3cfd67ead2d228"
+
+[[files]]
+file = "resources/sound3/step/snow1.ogg"
+hash = "f7e03bb5bcc487cea313bfd72ded4cfd4e215b82228cf9744760f61da4c496bb"
+
+[[files]]
+file = "resources/sound3/step/snow2.ogg"
+hash = "a0d603f69ad58662e688d74b9ca2f345eebc0938b4af954f16840adf436fe8d9"
+
+[[files]]
+file = "resources/sound3/step/snow3.ogg"
+hash = "ae97513c5bcac9d08f5c8bcbaf55b7a3112134603c141b5de70e15a06c77e325"
+
+[[files]]
+file = "resources/sound3/step/snow4.ogg"
+hash = "c7918a0b58c45a6f0d29fa990bbd31a7b482ef61387c83a02eb7f70b672e4761"
+
+[[files]]
+file = "resources/sound3/step/stone1.ogg"
+hash = "e94a295a876421dd8a2fa5b211210f66668c31deaff43fc036f7fb6abc98ecae"
+
+[[files]]
+file = "resources/sound3/step/stone2.ogg"
+hash = "2cfbf878743612960d8d7eecacc1644b1558a547d8533e22ed7ebd2c9a9625c7"
+
+[[files]]
+file = "resources/sound3/step/stone3.ogg"
+hash = "c5d71e8d3251f6c7087e1a45bb6ff244ad5af307c90e1e29a08666f3531842ac"
+
+[[files]]
+file = "resources/sound3/step/stone4.ogg"
+hash = "95820d0b75e8d223bb5ed1af93125beb30270e36a2f39d9bb36ae179e6bedf36"
+
+[[files]]
+file = "resources/sound3/step/stone5.ogg"
+hash = "67b1e50426b2c94cdc46308cead018caf9844e36dd5ef4e111e324adcd232113"
+
+[[files]]
+file = "resources/sound3/step/stone6.ogg"
+hash = "2b65e1bdb942e083d282742e8a832fd5c606caf83a3dad4fb9446f2f246354da"
+
+[[files]]
+file = "resources/sound3/step/wood1.ogg"
+hash = "758bb16b7d13504f5e6a719846777bfbcac6c1b85bba4a91db3c9d1c4824bec8"
+
+[[files]]
+file = "resources/sound3/step/wood2.ogg"
+hash = "945d531e8da5b2da3e0b0a9a033f7907c72988c2eec214397ac916b2e1890da2"
+
+[[files]]
+file = "resources/sound3/step/wood3.ogg"
+hash = "a690bafee344513807b123e4ace54411dac52749a8f003734d592c87f0496690"
+
+[[files]]
+file = "resources/sound3/step/wood4.ogg"
+hash = "cb585daa9449b1e91e0bc818f188646ae44ba628c4bcd05deba36cb9da2740d9"
+
+[[files]]
+file = "resources/sound3/step/wood5.ogg"
+hash = "bd64f90e7c65952a00b43aed289f2e6f9e72adc8217a7f1318eb13961c06aabc"
+
+[[files]]
+file = "resources/sound3/step/wood6.ogg"
+hash = "5e113d9c376153284e64e5128b5350d2311c1ddeada68c61982ac1498de25d6c"
+
+[[files]]
+file = "resources/sound3/tile/piston/in.ogg"
+hash = "8cb549c666fea3e34101a5765907009696a76d32104012ed547adb2e9130ce66"
+
+[[files]]
+file = "resources/sound3/tile/piston/out.ogg"
+hash = "ab7a8f3ab45c2375bc7412b496ee80a94e79fa14a226d838e2dd38c6c8c0f91c"
+
+[[files]]
+file = "resources/streaming/11.mus"
+hash = "546b47bae3185a96b33b5c82b0b7926c3574c583345edc0ada61d85b1483506f"
+
+[[files]]
+file = "resources/streaming/13.mus"
+hash = "34f8b6009ecd8467459c102dfcc5ae450d0109d5b28b7a8d67dd1eada9fa52e3"
+
+[[files]]
+file = "resources/streaming/13.ogg"
+hash = "6ffa34f875e05882d39b191e4608794ef009b4444cd95b940de682e1d631a93a"
+
+[[files]]
+file = "resources/streaming/blocks.mus"
+hash = "1be5e48004e53ae5ca7cb3f38340c4de22a4ef842aee7ae2c1460913b35cde1d"
+
+[[files]]
+file = "resources/streaming/cat.mus"
+hash = "e16455a7b74a548ad69c580b47ba6edede62a32746323ab759c7206b088b582e"
+
+[[files]]
+file = "resources/streaming/cat.ogg"
+hash = "cfdcd419da8ab1aac21804f04c674a58bce6a417845e669bf5d49080f28147d5"
+
+[[files]]
+file = "resources/streaming/chirp.mus"
+hash = "dcca5b9b5dc10cab811cb984a5a62a51e960b4991a35015b3c79d233d3056df8"
+
+[[files]]
+file = "resources/streaming/far.mus"
+hash = "870c83212cba5d163bbd7a2b21b276fc991db57d4e28465d59699595cd9ad19a"
+
+[[files]]
+file = "resources/streaming/mall.mus"
+hash = "1b95e25acf1b7e2750d182e028c713cc3984a0b59dedfc05783975161210a704"
+
+[[files]]
+file = "resources/streaming/mellohi.mus"
+hash = "8ab9266b24111ab9486bc05bfe4263191a35a2d57710db4babc8d711fab9b56b"
+
+[[files]]
+file = "resources/streaming/stal.mus"
+hash = "efa2f263e5af30292cb54a22249169900e07605d5a4772d1c6ded3ee00ec23a9"
+
+[[files]]
+file = "resources/streaming/strad.mus"
+hash = "061992b208e2cba642bbfadf43b5e6c2028339e6282a611c753ad698c3b21be4"
+
+[[files]]
+file = "resources/streaming/wait.mus"
+hash = "69483fe4d54b1d8b062facb1f51da657ac62a965673585e17cce82dca9da1666"
+
+[[files]]
+file = "resources/streaming/ward.mus"
+hash = "16f3c275248463d689de3ecdcc8af78edf128ab7fe90ee2087df5c837a141135"
+
+[[files]]
+file = "resources/streaming/where are we now.mus"
+hash = "1cbd81ccdc07c906eae7a8778f5b9d1b29dce66cdf305328b0e98e1b56a9fb4f"
+
+[[files]]
+file = "resources/thaumcraft/brain1.ogg"
+hash = "65bfca50eba44be44b52f76f8fd2fb0b7b7797d2380700ca4368e592957fb61d"
+
+[[files]]
+file = "resources/thaumcraft/brain2.ogg"
+hash = "e100241330e24c989893f874ad8d0f23fff36db2bd93808109a809e7e0fe49f1"
+
+[[files]]
+file = "resources/thaumcraft/brain3.ogg"
+hash = "e03b9bdf56da97c4c6031932a16a4ecd1cf60b0575cb226ebc6d9da58368a4bb"
+
+[[files]]
+file = "resources/thaumcraft/brain4.ogg"
+hash = "48b8197949bf294eba3e98dae191bc3dc901d3f87cb804694b7c1026e0b8c6af"
+
+[[files]]
+file = "resources/thaumcraft/bubble1.ogg"
+hash = "26695ed941417db796b07ce79b82e6c5bb2a1711f10ce9b4615d708a1e20d18e"
+
+[[files]]
+file = "resources/thaumcraft/bubble2.ogg"
+hash = "1e0c5c8382399f2b4fd84cbcf40a86bf4b475f3bd645d06d6b0b73e41afa2c1c"
+
+[[files]]
+file = "resources/thaumcraft/bubble3.ogg"
+hash = "952783f66953352d022d31817507d60a018a0f3add78a806d8361950a7cd2934"
+
+[[files]]
+file = "resources/thaumcraft/bubble4.ogg"
+hash = "d830033fbfcd0a1a5b9260db706848761db7aca5bc534d7713f2f93959991272"
+
+[[files]]
+file = "resources/thaumcraft/crystal1.ogg"
+hash = "2737cd4dcda0d15e79c99a15b134e81f643cfff9235ff1277bc51651263fd0d7"
+
+[[files]]
+file = "resources/thaumcraft/doorfail.ogg"
+hash = "a77cc28398d67cf97a3e303f608095cb9b71a7d112a9e0166a2c605a33178565"
+
+[[files]]
+file = "resources/thaumcraft/dw.ogg"
+hash = "f9d7cd907921b70b850ae0aff21fbcaa263b3d1dbb38006a8f4ee3e59b050e14"
+
+[[files]]
+file = "resources/thaumcraft/fireloop.ogg"
+hash = "cefe48e49dfb2d3d30fe3e90c0a4dcd1cd00e61dfcf4b9bf346ff5da787a5f35"
+
+[[files]]
+file = "resources/thaumcraft/golemiron1.ogg"
+hash = "533f42e91a0bf98f5ef2b0abae7d35144c3a419b493e5b87c5e8e548b1418fb5"
+
+[[files]]
+file = "resources/thaumcraft/golemiron2.ogg"
+hash = "d14e6108f171e5a40e5520e638424e2b129cfeb247ca65e9ddac84c44b699264"
+
+[[files]]
+file = "resources/thaumcraft/golemiron3.ogg"
+hash = "b30a548822aca5dfcfd1ee32aa1b50ae3dc728e117a45b4e9f301385a6d35e98"
+
+[[files]]
+file = "resources/thaumcraft/golemironshoot.ogg"
+hash = "7fc2d1f40b429e2e64fe760bbaaeb3f1334befd851b081e192bc6c9f3d1336d7"
+
+[[files]]
+file = "resources/thaumcraft/golemstone1.ogg"
+hash = "88e3869b7c678962f0a2930cb233be75af02331c429e7c839ba086db534c5f16"
+
+[[files]]
+file = "resources/thaumcraft/golemstone2.ogg"
+hash = "ad46e60c64c1ecf4f4113badc80117b80a668f841b3356a66d3ecde3f7c0cde5"
+
+[[files]]
+file = "resources/thaumcraft/golemstone3.ogg"
+hash = "821de08beba20d20c6d4c1c65ce15a8dd75243e34812abc0df4b19b2b81b6fd8"
+
+[[files]]
+file = "resources/thaumcraft/golemwood1.ogg"
+hash = "ccc7905818075c315f7c76274d003f9880a6bff4f620547d6be1bf385f062849"
+
+[[files]]
+file = "resources/thaumcraft/golemwood2.ogg"
+hash = "129f3cf47c86be38a3c74b96ec812491718eb3f6c728ed13bc368172984b352c"
+
+[[files]]
+file = "resources/thaumcraft/golemwood3.ogg"
+hash = "aaee040ee97296a69ba6eb2229c4c9502972081657d92e608329e7aff941039a"
+
+[[files]]
+file = "resources/thaumcraft/ice1.ogg"
+hash = "b9ec487c15a4131dc6d543722858f44c4b45a89fc1eed5417774a07af8940328"
+
+[[files]]
+file = "resources/thaumcraft/ice2.ogg"
+hash = "d2f626a1342723692ee912255775b2300a0eaa8c95d8de173c1cb258e4f6792b"
+
+[[files]]
+file = "resources/thaumcraft/ice3.ogg"
+hash = "0f81b16c7fe6ed4cb7271052e99bf947aeb1f222b79502af2cb842f49ad0f5da"
+
+[[files]]
+file = "resources/thaumcraft/jar1.ogg"
+hash = "3d2a75e5dfa5e1afd963692c9d31b89faea48e26df6d55578a52728cfcf3e9e4"
+
+[[files]]
+file = "resources/thaumcraft/jar2.ogg"
+hash = "b62c39158f4f01cc8d85d642a25401f2c8ce1af645b8fdffe9708535b03037ee"
+
+[[files]]
+file = "resources/thaumcraft/jar3.ogg"
+hash = "2d776e3469d34e26777d12f1166a4bf22bda8f6dd83d3bc10aec43f4d5247585"
+
+[[files]]
+file = "resources/thaumcraft/jar4.ogg"
+hash = "c8484342dd475bdff8ffb5b27619fffe82b024a7bcc1aa99624d8d73968fdaf5"
+
+[[files]]
+file = "resources/thaumcraft/key.ogg"
+hash = "ce60a007926541a1241b2c9c3a948518fb9abb4dfcd1cae1879d3bbf2f28c95c"
+
+[[files]]
+file = "resources/thaumcraft/learn.ogg"
+hash = "dc2fec19574704c5dd8ae05bc90f642a4e847ae95405b4d3b103678251a40112"
+
+[[files]]
+file = "resources/thaumcraft/page1.ogg"
+hash = "c11c681a40ab579918195dd2c8dcf07a3032d3d8d0d077daef42cf9aa12d8a27"
+
+[[files]]
+file = "resources/thaumcraft/page2.ogg"
+hash = "8fe9b145a2b5e42ba38fbe3646119f69bb8e11afde1df2102bfe1a5e52c4d240"
+
+[[files]]
+file = "resources/thaumcraft/rumble.ogg"
+hash = "e7cf1830a5da153e60ebdf4208d3bf13ddfc2edd2f9f195f3dc8ee2bf256bb11"
+
+[[files]]
+file = "resources/thaumcraft/shock1.ogg"
+hash = "cca7bb74168c4b296058a2c082a6f5d1e8641503d01260f2c75609b99bd93b4f"
+
+[[files]]
+file = "resources/thaumcraft/shock2.ogg"
+hash = "f80271c3ee06481680a528189a7b29fb9d2809ec5285319d6019835ab52e40d9"
+
+[[files]]
+file = "resources/thaumcraft/spill.ogg"
+hash = "391ca41969cc0ef25a362d25736577a45b69ea80d3a6a66217edc13a6fbdfac3"
+
+[[files]]
+file = "resources/thaumcraft/swing1.ogg"
+hash = "59a5d0ffb27bbc599fbb48fedd0063b94cc5a338e124b24a1549c967d23c074a"
+
+[[files]]
+file = "resources/thaumcraft/swing2.ogg"
+hash = "f0467f4cfe7b4b5170253083171898d752d503c50fb6a40ed801815dd94fdb61"
+
+[[files]]
+file = "resources/thaumcraft/tool1.ogg"
+hash = "c5ab8d94fe89f94514d9b27922266b6ef2335a2c7feffb4547a3d43682c830e8"
+
+[[files]]
+file = "resources/thaumcraft/tool2.ogg"
+hash = "b4881997f97c62de46e1e4477e2f5643edb15307ef5191672717215aeca4bec3"
+
+[[files]]
+file = "resources/thaumcraft/wand1.ogg"
+hash = "b3a2b2f94599e1189fc82d5086f33aa2b048bff8387cf148f916417ab6b971da"
+
+[[files]]
+file = "resources/thaumcraft/wand2.ogg"
+hash = "d690d1947b3226685bfd6fb00c6509fab8a6814aa41eb0992e2e9a76689e41cf"
+
+[[files]]
+file = "resources/thaumcraft/wand3.ogg"
+hash = "fad1a12fd2d0edcbb51d31da51215667438cc76dace8f40f8bdb276fd4ba19ab"
+
+[[files]]
+file = "resources/thaumcraft/wandfail.ogg"
+hash = "b3e461a29a58c066b4e68cadac60be34dd677dea66d33f212a1f405fb7937cc8"
+
+[[files]]
+file = "resources/thaumcraft/wind1.ogg"
+hash = "9157693e4d3a65055a782593f45c6bcf61cbe1f28d64c2ac66b373acacb1d420"
+
+[[files]]
+file = "resources/thaumcraft/wind2.ogg"
+hash = "6729e4920ceb7b460f9ca4351efb60b3e893438ed0f8c7a27752b86ea5c8e39b"
+
+[[files]]
+file = "resources/thaumcraft/wispdead.ogg"
+hash = "7bc39ddd405caed265561babd068cbdd21e2aefe8408038fa5de529ee83de0af"
+
+[[files]]
+file = "resources/thaumcraft/wisplive1.ogg"
+hash = "6b82a28746e26ff02797b7b493eceabed57fd2d3605ad5279ebd7c415e3f8ad2"
+
+[[files]]
+file = "resources/thaumcraft/wisplive2.ogg"
+hash = "35ac9d0d0c9d4fa9fc0fdcfe1a235ae03681eeb186d073f0f6212adaab506f06"
+
+[[files]]
+file = "resources/thaumcraft/wisplive3.ogg"
+hash = "33df220eb34cba2566d773b6e9b6514dd4d37e1d32e8ce5f74fc5b43daac1c35"
+
+[[files]]
+file = "resources/thaumcraft/zap1.ogg"
+hash = "65aba6a1c2fd085c3c4092d3b07b8fc1224586b1efddf91d65ba1a765077a20a"
+
+[[files]]
+file = "resources/thaumcraft/zap2.ogg"
+hash = "306fcca62dfccbb7e80a9798db313019e51ef3a87eadca7b6dfa307dbea61128"
+
+[[files]]
+file = "texturepacks/Unsanded/font/default.png"
+hash = "b546fcf527bdde9d36464139e483064deedd959f69d597f1d7268037bfddd2e4"
+
+[[files]]
+file = "texturepacks/Unsanded/pack.png"
+hash = "0c76c42193561b0c487b663227f0010a229da34b8610302672a266d4e0cfc473"
+
+[[files]]
+file = "texturepacks/Unsanded/pack.txt"
+hash = "6b551607c86cc68c6fe579c5818a77b1ba4130face592805e412885e5032bc31"
+
+[[files]]
+file = "texturepacks/Unsanded/upsilon-layerable"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "texturepacks/Upsilon/pack.png"
+hash = "d0cedf28d1e17b7928ef60a5abb9130ef37dd100a68d8e33f1467e543268c51b"
+
+[[files]]
+file = "texturepacks/Upsilon/pack.txt"
+hash = "66853a33d11fb49d5eb691809a3e8cc8e3be0f9a6e83e2e0ba1e0e815516dff8"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama0.png"
+hash = "33fdf3f2f2daf8f498ebd3a04f87441ea64112bbc95ee2167d6ea13059e2eab0"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama1.png"
+hash = "0284211b6047f094d521b02de088ccb32209933c33b7bdc89f198917b6512612"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama2.png"
+hash = "6eeb400939a464cb0a20390f70d3bba75fb3ce6dca11140f136ddf27a5ce81cf"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama3.png"
+hash = "57a5edb6b8c58c2e6f0c9c91b00db3a709436c9f9ed39f47e77879ce6bb6a1fc"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama4.png"
+hash = "c2d2af1f78b118a97b3e1048eaaa25498dffcbc396eea5db598d1913a657e944"
+
+[[files]]
+file = "texturepacks/Upsilon/title/bg/panorama5.png"
+hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
+
+[[files]]
+file = "texturepacks/Upsilon/upsilon-layerable"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
