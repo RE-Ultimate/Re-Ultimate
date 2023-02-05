@@ -409,10 +409,6 @@ hash = "923ca3f9caefab716bc08f6cb5d48c19e2e8dfec838622a8a56ffdf769b0810b"
 metafile = true
 
 [[files]]
-file = "icon.png"
-hash = "ce38928b31fc18a9017603572ab0334a6c36af7be2f91c7bc241bb6ea9501e40"
-
-[[files]]
 file = "lib/argo-2-25.pw.toml"
 hash = "10ce8ac32de88282fefe52de9631f3c7c4687c20dd83420a6bfa947c41bb7cd2"
 metafile = true
@@ -571,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.pw.toml"
-hash = "bc92d77bf2d782105d0ddc251e982acc6acc174d9ca0be06bef108e78e1ca405"
+hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
 metafile = true
 
 [[files]]
@@ -581,12 +577,12 @@ metafile = true
 
 [[files]]
 file = "mods/chargepads.pw.toml"
-hash = "cd6be99994a4530801d4322ec6e49d450a598686945cb82755511f4b746c1904"
+hash = "23d4288ef415bb7324cdb286e932c4e5f27166dcb578ed868ab3d587d4238d15"
 metafile = true
 
 [[files]]
 file = "mods/chickenchunks.pw.toml"
-hash = "474a746c95eb5aeeed163246c433c1e9a59343ba2c0a121e1dfcdc8741dd5028"
+hash = "27cd3b9a0f06d345ded699a681e77cee5b1e5d28ebdb0fe364c3698f4b4da55e"
 metafile = true
 
 [[files]]
@@ -606,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage.pw.toml"
-hash = "f6fc45524d70778c3508006bdd5ac0bf2ef0c51b5b95c8644678d57fc4060550"
+hash = "dbf9bc4f6d309d9d9d6e1f655b1598d8210c7d804c0f3e21a18b2341819e7adb"
 metafile = true
 
 [[files]]
@@ -621,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-gun.pw.toml"
-hash = "8a508a83c6b7570c4a45fc5f461f7b434bee5309555f2a64d93fb765f62fe6b0"
+hash = "523750c096bb9c641dbe39cbbfb1ed65be188ef6d489530dcfd4df7d4a1bfe4c"
 metafile = true
 
 [[files]]
@@ -641,27 +637,27 @@ metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "d347a414bbeed5aba4ec03bcaedd532286286e32c4ed12b86a05724780676e39"
+hash = "a6871c8b70343d47e52e05c32dda7cdc0d7a60c9764f1bcf5b5ba826cb6202b0"
 metafile = true
 
 [[files]]
 file = "mods/nei-redpower-plugin.pw.toml"
-hash = "09351382e0ff6aba30c88796e5b2f2bf7b2d7e483b84af11fc6e84981559cc62"
+hash = "f343a245f89fb1d2d80d88f5a02388271d68b6e90fa5ebcd2898368e2b342e99"
 metafile = true
 
 [[files]]
 file = "mods/obsidiplates.pw.toml"
-hash = "ce8a6b54640b2a3d5c7f183a34d6550ddfe3592e2e5cf3e279c7c84c2bd92693"
+hash = "550d0ca761ca26d2ab37c9c25175469a9be493c4ff24e6b33b2895664afe19f3"
 metafile = true
 
 [[files]]
 file = "mods/portal-gun.pw.toml"
-hash = "264be5f56abe4489b3b7fdf6eed49b16d76fce5b2e3c8b6ea66db3d410d31062"
+hash = "0f3b069cf614a94919ed7351d0e3d9d3e2e6cddb46a39d42685aed7010b7625c"
 metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "f378c27643d653e8a56c57fc5a8518885a8bfb742ce8fd1cf84de5482006282a"
+hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
 metafile = true
 
 [[files]]
@@ -691,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "542272d28d96d9e2af5da66bf5b3b9ad52ebae26cd30ad58361dbd3025ba517c"
+hash = "ea0c72cdb1d8bccbf3232022abee2d9fd2347417483f2b5e81ca186669538908"
 metafile = true
 
 [[files]]
@@ -701,17 +697,17 @@ metafile = true
 
 [[files]]
 file = "mods/wr-cbe-addons.pw.toml"
-hash = "fe3d09ba6cc77d3dfb9b0dbf0c1b89db14f3b25a8176184f108c8fdd5bacd79c"
+hash = "9104cec986f62d604059ab845af851b37a3b804422ecef160bdbab656b6f23c4"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-core.pw.toml"
-hash = "211a39ef128bf4bcc5f0fed3a6600279e3eee8aa9e5d806a7d95cb45049f2377"
+hash = "ee4602a4161417be134babf9388b6e4c1adfd5b356222a039f32d95c51905c75"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-redpower.pw.toml"
-hash = "98c30a30dd663adc919505c2350927fcb5ff425b0b522c980a273fc1b9aa11ff"
+hash = "27e8c25a5ad43e901e3205876bc15b3bacd001ec8155a2f030de47ec6c375ffc"
 metafile = true
 
 [[files]]
