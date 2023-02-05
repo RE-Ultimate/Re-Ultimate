@@ -8,3 +8,4 @@ config/extrabiomes/extrabiomes.cfg
 config/extrabiomes/extrabiomes.cfg.ultimateCompat
 icon.png
 README.md
+unsup.toml

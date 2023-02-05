@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "9f1a522fac8d202384a90fd2fdfa7b71697e2faf0e84b7ed08199a317a639296"
+hash = "ab9f10f64fd8b605c68a77aa66765044fe5e9df31322e9440328ce62d2590d29"
 
 [[files]]
 file = "options.txt"
@@ -2422,7 +2422,3 @@ hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
 [[files]]
 file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "unsup.toml"
-hash = "e1aeae4339780357e027151c579e55ac1d3a20943eb0dfa0129be7aaf5e9377a"
