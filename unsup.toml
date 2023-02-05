@@ -1,0 +1,44 @@
+[flavor_groups.flavor]
+name = "Flavor"
+description = "How do you want to play Rewind Upsilon?"
+side = "both"
+[[flavor_groups.flavor.choices]]
+id = "standard"
+name = "Standard"
+description = "You want to create a new world with normal terrain generation, or join a server using this flavor.<ul><li>PowerConverters disabled</li><li>All ExtraBiomesXL biomes enabled</li></ul>"
+[[flavor_groups.flavor.choices]]
+id = "compatible"
+name = "Compatible"
+description = "You want to load an existing FTB Ultimate world and continue where you left off, or join a server using this flavor.<ul><li>PowerConverters enabled</li><li>Same biomes as FTB Ultimate</li></ul>"
+[[flavor_groups.flavor.choices]]
+id = "skyblock"
+name = "Skyblock"
+description = "You want to create a new world with Emi's 1.4.7 skyblock challenge, or join a server using this flavor.\n<ul><li>PowerConverters disabled</li><li>Emi's Skyblock enabled</li></ul><b>Emi's skyblock challenge is <i>very hard</i>.</b> You will need an intimate familiarity with the mods and judicious use of NEI to get anywhere."
+
+[flavor_groups.minimap]
+name = "Minimap"
+description = "Which minimap mod do you want?"
+side = "client"
+[[flavor_groups.minimap.choices]]
+id = "reis_minimap"
+name = "Rei's Minimap"
+description = "Use Rei's Minimap. This was removed from FTB packs at the time due to it exposing the IP of private servers in YouTube videos, but in general is a very good mod. UpsilonFixes fixes its IP printing issue."
+[[flavor_groups.minimap.choices]]
+id = "voxelmap"
+name = "VoxelMap"
+description = "Use VoxelMap. This is the mod that was included in FTB Ultimate, but it's a little janky and has fewer features than Rei's.\n\n<i>Requires LiteLoader. NiteLoader will be installed.</i>"
+
+[metafile.extrabiomes-standard]
+flavors = ["standard", "skyblock"]
+[metafile.extrabiomes-ultimatecompat]
+flavors = "compatible"
+[metafile.ultimateskyblock]
+flavors = "skyblock"
+
+[metafile.reiminimap]
+flavors = "reis_minimap"
+
+[metafile.niteloader]
+flavors = "voxelmap"
+[metafile.voxelmap]
+flavors = "voxelmap"

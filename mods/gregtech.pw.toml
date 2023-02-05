@@ -1,0 +1,12 @@
+name = "GregTech"
+filename = "GregTech.zip"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/mods/GregTech.zip"
+hash-format = "sha1"
+hash = "adb389d947aa919f38c9edf77e13994e696c38fa"
+
+[option]
+optional = true
+default = true
+description = "GregTech is a sprawling addon to IndustrialCraft2 with a lot of interesting and powerful machinery. It makes some sweeping balance changes to other mods, and was not included in Ultimate. However, it was included in the MindCrack Pack, and was the main difference between that and Ultimate."

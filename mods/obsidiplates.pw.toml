@@ -1,0 +1,13 @@
+name = "ObsidiPlates"
+filename = "ObsidiPlates.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4eeddb25744a6c348db6e07644d3cd195cccba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 712869
+project-id = 59769

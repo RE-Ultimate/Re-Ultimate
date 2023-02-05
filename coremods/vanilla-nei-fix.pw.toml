@@ -1,0 +1,13 @@
+name = "Vanilla NEI Fix"
+filename = "VanillaNeiFix_mc147_1.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2500014099"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2307923
+project-id = 246259

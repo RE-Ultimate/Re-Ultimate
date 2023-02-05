@@ -1,0 +1,12 @@
+name = "ExtraBiomesXL Config (Ultimate-Compatible)"
+filename = "extrabiomes.cfg"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0c881bd874016b52a214e57b6530bbff82b36bc"
+url = "https://rewindmc.com/packwiz/upsilon/config/extrabiomes/extrabiomes.cfg.ultimateCompat"
+
+[option]
+optional = true
+default = false

@@ -1,0 +1,13 @@
+name = "WR-CBE - RedPower"
+filename = "WRCBERedPower.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "132031140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233239
+project-id = 229315

@@ -1,0 +1,13 @@
+name = "WR-CBE- Core"
+filename = "WRCBECore.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d55ce7f59f315309eadc1690be8af77f38d9de9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233226
+project-id = 229310

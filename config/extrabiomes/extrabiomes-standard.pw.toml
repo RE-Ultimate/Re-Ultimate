@@ -1,0 +1,12 @@
+name = "ExtraBiomesXL Config (Standard)"
+filename = "extrabiomes.cfg"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62b3b481b1724a8689e8dffa5bb3ee1ab827870d"
+url = "https://rewindmc.com/packwiz/upsilon/config/extrabiomes/extrabiomes.cfg"
+
+[option]
+optional = true
+default = true

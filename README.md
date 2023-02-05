@@ -28,6 +28,7 @@ It is also the first ever modpack to use [NilLoader](https://git.sleeping.town/u
 - Updated BuildCraft to 3.4.5
   - The Builder is disabled by default, as in 3.4.3 and 3.4.4, but can be enabled in the BuildCraft config (use caution)
 - Added Ears
+  - This includes a backport of modern skin features and a skin fix
 - Added LegacyCustomPublish
 - Added LogisticsPipes
 - Added DartCraft
@@ -49,12 +50,18 @@ It is also the first ever modpack to use [NilLoader](https://git.sleeping.town/u
   - Fixes some blocks dropping twice
   - Adds a Clear button to the Project Table
   - Fixes crashes when opening a logic tile GUI while holding a block
+- Removed VoxelBox mods due to licensing issues
+  - VoxelMenu has been rewritten from scratch and is part of UpsilonFixes
+  - VoxelMap replaced with Rei's Minimap
+  - VoxelPlayer has no replacement
+- Removed LiteLoader, as it was only used by the VoxelBox mods
 
 All of the following are done by UpsilonFixes, and can be disabled in its config:
 - **Fixed water whirlpools (backported 1.5 water fill behavior) ([MC-916](https://bugs.mojang.com/browse/MC-916))**
 - **PortalGun sounds fixed**
 - **Fixed EE3 Minium stone recipes being broken after using them once or after NEI recipe lookup**
 - **Items can be dragged over slots to spread them out (1.5 backport)**
+- **Re-enabled SHA-1 jar signing to fix mods like Railcraft on latest Java 8 versions**
 - Double/triple-clicking a slot will collect all items of that type to your cursor (1.5 backport)
 - Holding the IC2 Boost Key (lctrl by default) will cause you to sprint
 - Pressing the drop key over a slot in an inventory will drop the item in that slot (1.5 backport)
@@ -75,8 +82,74 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - GregTech capes removed as they contact broken Dropbox links
 - Steve's Carts capes removed for the same reason
 - Fixed MiscPeripherals ASM API misuse
-- Added Rewind Upsilon logo to main menu
-- Fixed LiteLoader logger to look consistent with the Forge one
 - Fixed a CodeChickenCore transformer bug (only really visible alongside NilLoader)
-- Nilmods are shown in VoxelMenu Mod Info
 - Patched ObjectWeb ASM to not explode on Java 8 classes
+
+## Included Mods
+
+- (Core) [CodeChickenCore](https://www.curseforge.com/minecraft/mc-mods/codechickencore) by Chicken_Bones
+- (Core) [Ears](https://modrinth.com/mod/ears) by unascribed
+- (Core) [FallingFix](https://www.curseforge.com/minecraft/mc-mods/fallingfix) by FyberOptic
+- (Core) [MiscPeripherals](https://www.computercraft.info/forums2/index.php?/topic/4587-cc153mc152-miscperipherals-33/) by RichardG867
+- (Core) [NilInjector](https://git.sleeping.town/unascribed/NilInjector) by unascribed
+- (Core) [NotEnoughItems](https://www.curseforge.com/minecraft/mc-mods/notenoughitems) by Chicken_Bones
+- (Core) [PowerCrystalsCore](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded) by PowerCrystals
+- (Core) [RPTweaks](https://pastehtml.com/view/cr72r0hhu.html) by an anonymous author
+- (Core) [SplashAnimation](https://www.curseforge.com/minecraft/mc-mods/splashanimation) by asiekierka (ported by unascribed)
+- (Core) [VanillaNEIFix](https://www.curseforge.com/minecraft/mc-mods/vanilla-nei-fix) by FyberOptic
+- [Advanced Machines](https://forum.industrial-craft.net/thread/4907-ic2-exp-1-7-10-advanced-machines-1-1-6/) by AtomicStryker
+- [Advanced Solar Panel](https://forum.industrial-craft.net/thread/3291-ic2-exp-1-7-10-advanced-solar-panels-v3-5-1-quantum-generator-solar-helmets/) by SeNtiMeL
+- [Applied Energistics](https://appliedenergistics.github.io/ae1-site-archive/) by AlgorithmX2
+- [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quaternary
+- [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft/) by Nuchaz
+- [Block Helper](https://modrinth.com/mod/block-helper) by HyperSpeeed
+- [BuildCraft](https://mod-buildcraft.com/) by many people (a [custom fork](https://github.com/unascribed/BuildCraft) — partially upstreamed, not yet released)
+- [ChargePads](https://www.curseforge.com/minecraft/mc-mods/chargepads) by Myrathi
+- [ChickenChunks](https://www.curseforge.com/minecraft/mc-mods/chickenchunks) by Chicken_Bones
+- [Chisel Retro](https://www.curseforge.com/minecraft/mc-mods/chisel-retro) by FyberOptic (a [custom fork](https://git.sleeping.town/unascribed/ChiselRetro/))
+- [CoFHCore](https://www.curseforge.com/minecraft/mc-mods/cofh-core) by CoFH
+- [ComputerCraft](https://www.computercraft.info/) by dan200
+- [DartCraft](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287878-dartcraft-beta-0-2-20) by bluedart
+- [EE3](https://github.com/pahimar/Equivalent-Exchange-3) by Pahimar
+- [Ender Storage](https://www.curseforge.com/minecraft/mc-mods/ender-storage) by Chicken_Bones
+- [ExtraBees](https://web.archive.org/web/20180115013205/http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284348-1-7-10-1-6-4-forestry-binnies-mods-1-8-0-2-0-dev) by Binnie
+- [ExtraBiomesXL](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1282126-extrabiomesxl-universal-3-16-3-for-mc-1-7-10) by many people
+- [Factorization](https://modrinth.com/mod/factorization) by neptunepink
+- [Flamingo](https://github.com/asiekierka/Flamingo) by copygirl (ported by asiekierka)
+- [Forestry](https://modrinth.com/mod/forestry) by SirSengir
+- [GraviSuite](https://forum.industrial-craft.net/thread/6915-ic2-exp-1-7-10-gravitation-suite-v2-0-3/) by SeNtiMeL
+- [Gravity Gun](https://ichun.me/mods/gravity-gun/) by iChun
+- [GregTech](https://gregtech.mechaenetia.com/downloads/gregtech_1.4.6/index.html) by GregoriusT
+- [IC2](https://wiki.industrial-craft.net/index.php?title=Main_Page) by the IC² Dev Team
+- [IC2 Nuclear Control](https://forum.industrial-craft.net/thread/5915-addon-v1-118-ssp-smp-nuclear-control-v-1-6-2b-e/) by Shedar
+- [ImmibisCore](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers) by immibis
+- [InvTweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) by Kobata
+- [IronChests](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1280827-1-5-and-up-forge-universal-ironchests-5-0) by cpw
+- [LegacyCustomPublish](https://modrinth.com/mod/legacycustompublish) by unascribed
+- [LogisticsPipes](https://github.com/RS485/LogisticsPipes) by RS485
+- [MineFactory Reloaded](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded) by PowerCrystals
+- [Modular Force Field System](https://web.archive.org/web/20130114211225/http://forum.industrial-craft.net/index.php?page=Thread&threadID=1292) by Thunderdark
+- [Modular Powersuits](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/wip-mods/1442976-machinemuses-modular-powersuits-finally-updated) by MachineMuse
+- [Mystcraft](https://www.curseforge.com/minecraft/mc-mods/mystcraft) by XCompWiz
+- [NEIPlugins](https://bitbucket.org/mistaqur/nei_plugins/wiki/Home) by mistaqur
+- [NEIPluginsRedPower](https://www.curseforge.com/minecraft/mc-mods/nei-redpower-plugin) by Chicken_Bones
+- [NetherOres](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded) by PowerCrystals
+- [ObsidiPlates](https://www.curseforge.com/minecraft/mc-mods/obsidiplates) by Myrathi
+- [OmniTools](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1284839-1-4-7-smp-omnitools-3-0-2-one-wrench-to-rule-them) by KingLemming
+- [PetroGen](https://forum.feed-the-beast.com/threads/petroleum-generator-a-forestry-esque-bc-ic-crossover-mod.2246/) by DrCeph
+- [PortalGun](https://ichun.me/mods/portalgun/) by iChun
+- [PowerConverters](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded) by PowerCrystals (disabled by default)
+- [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) by Covert_Jaguar
+- [RedPower2](http://www.eloraam.com/) by Eloraam
+- [SecretRoomsMod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1276042-v4-7-1-beta-secretroomsmod-malsis-doors-compat) by AbrarSyed
+- [Soul Shards](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285901-1-6-4-forgeirc-v1-0-18-soul-shards-v2-0-15-and) by ShadwDrgn
+- [StevesCarts](https://web.archive.org/web/20150215153757/http://minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-1-6-steves-carts-2-v2-0-0-a123) by vswe
+- [Thaumcraft](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287022-thaumcraft-3-0-5i-outdated) by Azanor
+- [ThaumicBees](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287405-magic-bees-magic-themed-bees-for-forestry-the) by MysteriousAges
+- [Thermal Expansion](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1288612-1-6-4-team-cofh-mods-thermal-expansion-3-0-0-0) by CoFH
+- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) by Benimatic
+- [TubeStuff](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers) by immibis
+- [WR-CBE](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1279956-chickenbones-mods) by Chicken_Bones
+- [Xeno's Reliquary](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287110-xenos-reliquary-v1-0-6d) by MercuriusXeno
+- [XyCraft](https://web.archive.org/web/20140216215105/http://xycraft.wikispaces.com/) by Soaryn
+- (Nil) [UpsilonFixes](https://git.sleeping.town/unascribed/UpsilonFixes) by unascribed

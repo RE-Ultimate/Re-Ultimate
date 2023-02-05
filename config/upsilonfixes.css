@@ -12,10 +12,16 @@ features {
 	aer-from-flux-bee: on;
 
 	/*
+	 * Makes ASM 4.0 pretend to be able to understand Java 8 class files. Necessary
+	 * when using NilLoader via hijacking.
+	 */
+	asm-workaround: on;
+
+	/*
 	 * Fixes the attacker yaw not syncing from server to client, to restore the
 	 * proper camera tilt animation when damaged.
 	 */
-	attacker-yaw-syncing: off;
+	attacker-yaw-syncing: on;
 
 	/*
 	 * Makes GregTech Jack Hammers a lot better.
@@ -85,12 +91,6 @@ features {
 	 * Configures remainder items for GregTech cells.
 	 */
 	fix-gregtech-cell-remainder: on;
-
-	/*
-	 * Attaches the LiteLoader logger to the FML logger, making it look less
-	 * ugly.
-	 */
-	fix-liteloader-log: on;
 
 	/*
 	 * Fixes misuse of the ASM API by MiscPeripherals breaking with newer ASM
@@ -171,7 +171,8 @@ features {
 	nilmods-in-voxelmenu: on;
 
 	/*
-	 * Ultimate/Hybrid Solar Helmets will eat filled tin cans just like the quantum helmet normally would.
+	 * Ultimate/Hybrid Solar Helmets will eat filled tin cans just like the quantum
+	 * helmet normally would.
 	 */
 	quantum-solar-helm-can-fix: on;
 
@@ -181,7 +182,8 @@ features {
 	redpower-pipe-integration: on;
 
 	/*
-	 * Re-enables SHA-1 jar signing in Java itself. This is necessary for many 1.4 mods to load on new Java 8 releases.
+	 * Re-enables SHA-1 jar signing in Java itself. This is necessary for many 1.4
+	 * mods to load on new Java 8 releases.
 	 */
 	reenable-sha1-signatures: on;
 

@@ -1,5 +1,5 @@
 name = "Legacy Custom Publish"
-filename = "LegacyCustomPublish-1.4-1.0.jar"
+filename = "LegacyCustomPublish.jar"
 side = "client"
 
 [download]

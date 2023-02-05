@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ae9381d98c864cfaf01ebc43650b1fdeeb673d38199ed4a18c30774ea8e43c1f"
+hash = "93c9ea89a75cd35bb801dc0ec16bb69c6dd3881526bea6644d02887fdbe66cd0"
 
 [[files]]
 file = "animation.mpg"
@@ -245,12 +245,14 @@ file = "config/drceph.petrogen.cfg"
 hash = "41498d583698f669bde685438b37d2a9455de69ea7365379861ae785457c94c4"
 
 [[files]]
-file = "config/extrabiomes/extrabiomes.cfg"
-hash = "26e30580fac0e2cc7d7c72181e9c881bac67dbca9391e155a3f205e8dea0df0a"
+file = "config/extrabiomes/extrabiomes-standard.pw.toml"
+hash = "733f0667d06eb97195f0eb8637b32201e1f67ae742b2c2c28f118af5be453aba"
+metafile = true
 
 [[files]]
-file = "config/extrabiomes/extrabiomes.cfg.ultimateCompat"
-hash = "84e0deddae8dff3c527636cf4d926ba7e3c0671a451c3936b1a8a1e3015a73ac"
+file = "config/extrabiomes/extrabiomes-ultimatecompat.pw.toml"
+hash = "54bf35b08fa12cb7cb336135ad23706060f2d29bae102cb391e3e352ff9aacb1"
+metafile = true
 
 [[files]]
 file = "config/factorization.cfg"
@@ -354,7 +356,7 @@ hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
 file = "config/upsilonfixes.css"
-hash = "238578bf78ac85d479e1c146b2c12d258b3822ada7428727d0f288b9c6f02324"
+hash = "197d401e195bdfe49112351a716c92d7f265b1bc864e9157f9347bd8504580a8"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -362,7 +364,7 @@ hash = "76d6c7cc09a285f7b4855b9a187bda70cef4f16f937f1931afecf05a3ac812ce"
 
 [[files]]
 file = "coremods/NilInjector.jar"
-hash = "249bb4804fdc46c280374228607e4c4f43568b2658ab5c2f199fd157e759ac1c"
+hash = "19d9ee5e75c8cc65e8e5e567a9e156acbc438ee4320fef61bdb615ab8cec92b6"
 
 [[files]]
 file = "coremods/PowerCrystalsCore.jar"
@@ -375,10 +377,6 @@ hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
 [[files]]
 file = "coremods/SplashAnimation.jar"
 hash = "59f64914050fef3c94f16b2df7d6db61d774ccf81032843641ab06e1df84b186"
-
-[[files]]
-file = "coremods/VanillaNeiFix.jar"
-hash = "a654555943a335ebb58e297d72864ba40241f99d762aed648d0e603a6a759907"
 
 [[files]]
 file = "coremods/codechickencore.pw.toml"
@@ -398,6 +396,16 @@ metafile = true
 [[files]]
 file = "coremods/notenoughitems.pw.toml"
 hash = "b65969076f3282fdf779d5a74c3b4a687e9468a4a587af31c73a0e2a3cfcaf8c"
+metafile = true
+
+[[files]]
+file = "coremods/ultimateskyblock.pw.toml"
+hash = "25710406060c742b1f70675d187b23c41968d3548d222abe6db4fdc1e5d70bfc"
+metafile = true
+
+[[files]]
+file = "coremods/vanilla-nei-fix.pw.toml"
+hash = "923ca3f9caefab716bc08f6cb5d48c19e2e8dfec838622a8a56ffdf769b0810b"
 metafile = true
 
 [[files]]
@@ -445,24 +453,12 @@ file = "mods/BuildCraft.jar"
 hash = "36efe00f9d072412ae462129270b19f82a42b8aee295a6316b9e7aa690c17e19"
 
 [[files]]
-file = "mods/ChickenChunks.jar"
-hash = "2764e24528291b25b00c4e56cb171703f93c36f150673facd1e4feb46a25b973"
-
-[[files]]
 file = "mods/CoFHCore.zip"
 hash = "a45cecc8bb559a6bd536bb7d66893caa2b9eb82ef8e3fc6676c7ed38063c99ce"
 
 [[files]]
-file = "mods/DartCraft.jar"
-hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
-
-[[files]]
 file = "mods/EE3.jar"
 hash = "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
-
-[[files]]
-file = "mods/EnderStorage.jar"
-hash = "a7687567bda81f62d1394a532f051eabf5959b4d9217a4f2c424367f973a36ed"
 
 [[files]]
 file = "mods/ExtraBees.zip"
@@ -479,14 +475,6 @@ hash = "e42cc8a458fb0efcd5f566c43142a07550a364a94913dd69a1e8a925f0c04ecd"
 [[files]]
 file = "mods/GraviSuite.zip"
 hash = "2b37f3a8d43311dc5189f98906c58fe5aef629d06fea931b1b763b81aa3eedeb"
-
-[[files]]
-file = "mods/GregTech.zip"
-hash = "bab3a934e3d67f4484d4f68985cba5eaefc86b00372c353ca871765fbbe1eeec"
-
-[[files]]
-file = "mods/IC2.jar"
-hash = "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513"
 
 [[files]]
 file = "mods/IC2NuclearControl.zip"
@@ -525,24 +513,12 @@ file = "mods/ModularPowersuits.jar"
 hash = "1a0b7a4ccfa2fc76a9704798d429a36a70ab413a8e99d92bc3860d467922dfe0"
 
 [[files]]
-file = "mods/MystNEIPlugin.jar"
-hash = "3d5d2304e44fb4f8b36f223e979eece63c4be61ed1feac32fa07a2ee054406b0"
-
-[[files]]
 file = "mods/NEIPlugins.jar"
 hash = "7602090e2e8a055eba3a72d6a05d91afbf53af3ac78c1a218bf8f9b4e9cc2e21"
 
 [[files]]
-file = "mods/NEIPluginsRedPower.jar"
-hash = "0fd1fa21e1e8951f751172898313340f01e7025c96a950eac56c4fa04ff55b72"
-
-[[files]]
 file = "mods/NetherOres.jar"
 hash = "69fffb8de08b51813072710a1194258b8059b2fa12ddeddf63aecf4b815c57d7"
-
-[[files]]
-file = "mods/ObsidiPlates.zip"
-hash = "df359d224dfe0a5de37bdaccf0cc7f1c04fd4ecbda5a8ebab9f8e9163d92995a"
 
 [[files]]
 file = "mods/OmniTools.zip"
@@ -585,111 +561,32 @@ file = "mods/TubeStuff.jar"
 hash = "6df3cbb2087823a5fab1af51354a0894e6b900a8a1dec5ea00b218ced324952c"
 
 [[files]]
-file = "mods/VoxelCommon.litemod"
-hash = "2d23ce596ff04285f729a60a57efe7bfbbb414cd68d127a10b25a385fa2f79e1"
-
-[[files]]
-file = "mods/VoxelMap.litemod"
-hash = "99364942c9b37b1159d55483cabdf8f5544690e0230aa4087ff1a42aa34f74ff"
-
-[[files]]
-file = "mods/VoxelMenu.litemod"
-hash = "8f83d8c08da35f65a00ac728fb3577b476ea2206141e788443e3adaafe66c5cf"
-
-[[files]]
-file = "mods/VoxelModPack/ModInfo.txt"
-hash = "d5b9dd7ced82fbab2674387fb426fa32177f68bdae6e4cf846a9237f908a534c"
-
-[[files]]
-file = "mods/VoxelModPack/ModsInfo/Music.txt"
-hash = "5c3b5dbc555422ddf82013372fa967087119fcc32c6f896d11b2f8424b26364d"
-
-[[files]]
-file = "mods/VoxelModPack/VoxelMenu.properties"
-hash = "8b91799defe0ecdd4a5dbed20993d9dd64a5004dbabcea21a83efa3581ab754d"
-
-[[files]]
-file = "mods/VoxelModPack/VoxelModPack.properties"
-hash = "174696e15d3c69c60bf610c37d062dd850cd41f095d466d864ac08c8503d6cea"
-
-[[files]]
-file = "mods/VoxelModPack/VoxelServer.properties"
-hash = "4c9ff333d0cdbe5de10111e65e7937533bedf41eb616bbb7d3278623e06eca12"
-
-[[files]]
-file = "mods/VoxelModPack/menu1.ogg"
-hash = "5f3956897f700ecf77200618c43419e766e94d30ee97cbda3db7376427230367"
-
-[[files]]
-file = "mods/VoxelModPack/menu2.ogg"
-hash = "77a6fd2e825911739c2e6ac598fcb91dc0d2d31b4da5c796e7f8a3cb42faf03d"
-
-[[files]]
-file = "mods/VoxelModPack/menu3.ogg"
-hash = "8ee81a98e38b4f0140048570d8b6e4fc21ba81bcf8d6b1262d32943a91b34d42"
-
-[[files]]
-file = "mods/VoxelModPack/menu4.ogg"
-hash = "331e3aa8f6f7829f9c8c0154d3007446f9ee83330ef87f721cfe188ef626820c"
-
-[[files]]
-file = "mods/VoxelModPack/nyan.ogg"
-hash = "dee33ef09d0e1c641614562f25743e3d808100a54f11df734b2fe8a7a2df7f7c"
-
-[[files]]
-file = "mods/VoxelMods/voxelmap.properties"
-hash = "5578ab58e76032da9fbe7bdb5351f7541d15cc960cf70543f872a7801fd77b35"
-
-[[files]]
-file = "mods/VoxelMods/voxelplayer.properties"
-hash = "10554a5138320bda60f6fec4c3c45b45072b14981aeb7122d263bc5ed51268df"
-
-[[files]]
-file = "mods/VoxelPacket.litemod"
-hash = "125206df6550d9f8d9a86b87957a2a7b7d993932c06ed23e36965ac246a5ccd3"
-
-[[files]]
-file = "mods/VoxelPlayer.litemod"
-hash = "403cc4b836a79276f26917b58ff190c73ee297cb21b55d10c1b95b639e54b7fe"
-
-[[files]]
-file = "mods/WirelessRedstoneAddons.jar"
-hash = "1a2df3658b2fd0869b71a2f09fcb68cc94da49318554d716c726438e79673edd"
-
-[[files]]
-file = "mods/WirelessRedstoneCore.jar"
-hash = "e6e991b7ec4444ae282c52b7f74a7817053970d10bcf1c3f8207fb2b55a28db7"
-
-[[files]]
-file = "mods/WirelessRedstoneRedpower.jar"
-hash = "a7db4872dff4988a2fb0a2157f68baf4eda236b1eb5a16d74d46db2902adbd3f"
-
-[[files]]
 file = "mods/XReliquary.jar"
 hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
 
 [[files]]
-file = "mods/XyCraft.zip"
-hash = "ed07abe0c990d38bff58f21d383acb448f3938a93da49df74e17a90313ec0157"
-
-[[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "6baa5fdfbcdf80cea7a1deee8e6fa8f4d992c197a8b7e134d9dce4f0bc85d435"
+hash = "b8cff13132b617e250eb84339d3528553048e4604fcef2ec0ecce92d4205fcd0"
 metafile = true
 
 [[files]]
 file = "mods/bibliocraft.pw.toml"
-hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
+hash = "bc92d77bf2d782105d0ddc251e982acc6acc174d9ca0be06bef108e78e1ca405"
 metafile = true
 
 [[files]]
 file = "mods/block-helper.pw.toml"
-hash = "eb5991d5ed9b37a5ec4a0293af29fee6585ad1950b7150a9da2f499825b9a154"
+hash = "27813d3048f1bda4f8a23f07d95878eeec63f0502e62f6aeaaf953aeef9ea3eb"
 metafile = true
 
 [[files]]
 file = "mods/chargepads.pw.toml"
-hash = "23d4288ef415bb7324cdb286e932c4e5f27166dcb578ed868ab3d587d4238d15"
+hash = "cd6be99994a4530801d4322ec6e49d450a598686945cb82755511f4b746c1904"
+metafile = true
+
+[[files]]
+file = "mods/chickenchunks.pw.toml"
+hash = "474a746c95eb5aeeed163246c433c1e9a59343ba2c0a121e1dfcdc8741dd5028"
 metafile = true
 
 [[files]]
@@ -699,72 +596,128 @@ metafile = true
 
 [[files]]
 file = "mods/computercraft.pw.toml"
-hash = "ffc4e536127e2f51c586680376827aabe13acc655bfa4f77f346fca3961863e0"
+hash = "a08f798b6cdc59c4a3e84a1ba8e3a3a51c3a953715b83552f4b656664093da73"
+metafile = true
+
+[[files]]
+file = "mods/dartcraft.pw.toml"
+hash = "24aeab295f645ae77293c0dacb15f5cd3e5150cefd5a9abd8039db6556d6b9fc"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "f6fc45524d70778c3508006bdd5ac0bf2ef0c51b5b95c8644678d57fc4060550"
 metafile = true
 
 [[files]]
 file = "mods/factorization.pw.toml"
-hash = "7dc67278f3ff0658125311ba761019ce41cf2fe12d5d60e136711ccc1440a534"
+hash = "fc34af4df513a4fd160153c4ee30b5d58704c0b9ec5fd5685d9e400862008bd4"
 metafile = true
 
 [[files]]
 file = "mods/forestry.pw.toml"
-hash = "38b3aab1246d8400784b0362c1822bf4b7827cf6cf50085e65b11e5ec248b1d1"
+hash = "565eb26a9bd42ba45bbce2a01fc5c0c2bc72742f950ca5a6efb65f4290cdb4a7"
 metafile = true
 
 [[files]]
 file = "mods/gravity-gun.pw.toml"
-hash = "523750c096bb9c641dbe39cbbfb1ed65be188ef6d489530dcfd4df7d4a1bfe4c"
+hash = "8a508a83c6b7570c4a45fc5f461f7b434bee5309555f2a64d93fb765f62fe6b0"
+metafile = true
+
+[[files]]
+file = "mods/gregtech.pw.toml"
+hash = "5ff627629d315f9c1dad238f551832fbfcab6291f438c30e365a15ee1f703af8"
+metafile = true
+
+[[files]]
+file = "mods/industrialcraft-2.pw.toml"
+hash = "9bb648397467d9f27813d15aef244502fbded940e3165a52473df1e440a02729"
 metafile = true
 
 [[files]]
 file = "mods/legacycustompublish.pw.toml"
-hash = "e12b6492f1615b18e20c99d4f3ec17b1f6370032495b2f8d074a4feb8193a607"
+hash = "3db3c1d02a6805ce94c22a8557aa10fd08d13857870d29461322c7b642db390a"
 metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "b1553993bdf2aeeec0f0ea698a16bc443f12dd9594e81ad1b4144e1511435d51"
+hash = "d347a414bbeed5aba4ec03bcaedd532286286e32c4ed12b86a05724780676e39"
+metafile = true
+
+[[files]]
+file = "mods/nei-redpower-plugin.pw.toml"
+hash = "09351382e0ff6aba30c88796e5b2f2bf7b2d7e483b84af11fc6e84981559cc62"
+metafile = true
+
+[[files]]
+file = "mods/obsidiplates.pw.toml"
+hash = "ce8a6b54640b2a3d5c7f183a34d6550ddfe3592e2e5cf3e279c7c84c2bd92693"
 metafile = true
 
 [[files]]
 file = "mods/portal-gun.pw.toml"
-hash = "0f3b069cf614a94919ed7351d0e3d9d3e2e6cddb46a39d42685aed7010b7625c"
+hash = "264be5f56abe4489b3b7fdf6eed49b16d76fce5b2e3c8b6ea66db3d410d31062"
 metafile = true
 
 [[files]]
 file = "mods/railcraft.pw.toml"
-hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
+hash = "f378c27643d653e8a56c57fc5a8518885a8bfb742ce8fd1cf84de5482006282a"
 metafile = true
 
 [[files]]
 file = "mods/redpower2-compat.pw.toml"
-hash = "5e89f80222f6a94ae24080d9dfb772c281fddeaba2d5eac236f06940af85bb86"
+hash = "da845189b561dd02801926ca39259f144cf60c29449da3f379862d6db66c5389"
 metafile = true
 
 [[files]]
 file = "mods/redpower2-core.pw.toml"
-hash = "baefb03f3203000ac6858cd7c2499bfb13ee1a57be7bd455fba90ddf5c248dc1"
+hash = "bec6945564c2001278c23ddeed9af683b32fc6ac365618e05e632eacd220b67c"
 metafile = true
 
 [[files]]
 file = "mods/redpower2-digital.pw.toml"
-hash = "aeb6fe3a5f15e994e6bdbc0b873c490802e0d2e7f350629476b8fbda6c257d1d"
+hash = "a765a071db03069869f5cd68226d7e22f436ea0c26cf18704bfd19a506dbf9f2"
 metafile = true
 
 [[files]]
 file = "mods/redpower2-mechanical.pw.toml"
-hash = "c1d4289f18af41c204b6286a3cb933e9b1240dc558143cb21a757ae81d35aa48"
+hash = "06e9c73e3ccd17873f2726f024308d6f6cae1e095685246d30ff9118b894d987"
+metafile = true
+
+[[files]]
+file = "mods/reiminimap.pw.toml"
+hash = "1fc0a1e2bf88caa1a7713e6c728c00837a98b8d232d776d07c31db2d6870e2e6"
 metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "ea0c72cdb1d8bccbf3232022abee2d9fd2347417483f2b5e81ca186669538908"
+hash = "542272d28d96d9e2af5da66bf5b3b9ad52ebae26cd30ad58361dbd3025ba517c"
 metafile = true
 
 [[files]]
-file = "nilmods/NiteLoader.jar"
-hash = "376151ccec637a43325fd843c092f73a633afa49fd46f113dc49a8464659dd7f"
+file = "mods/voxelmap.pw.toml"
+hash = "aabf93632b6c6e7277b228cd86549f8368c70c7ef94e801486a557c417126de5"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-addons.pw.toml"
+hash = "fe3d09ba6cc77d3dfb9b0dbf0c1b89db14f3b25a8176184f108c8fdd5bacd79c"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-core.pw.toml"
+hash = "211a39ef128bf4bcc5f0fed3a6600279e3eee8aa9e5d806a7d95cb45049f2377"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-redpower.pw.toml"
+hash = "98c30a30dd663adc919505c2350927fcb5ff425b0b522c980a273fc1b9aa11ff"
+metafile = true
+
+[[files]]
+file = "mods/xycraft.pw.toml"
+hash = "2f2463c30bc4655b801f6d3b6874a456d18d06165e7b7a6e5c17200fbd3599a1"
+metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
@@ -937,6 +890,22 @@ hash = "1627b63a2529370b5fc87fe8a6faf16c364d913ec78e748827ae9b57f138ae5b"
 [[files]]
 file = "resources/music/calm3.ogg"
 hash = "25984ac6655998148d10ab249ef2724f4cf1638aa67dbd0471fde0939d8db368"
+
+[[files]]
+file = "resources/music/menu1.ogg"
+hash = "5f3956897f700ecf77200618c43419e766e94d30ee97cbda3db7376427230367"
+
+[[files]]
+file = "resources/music/menu2.ogg"
+hash = "77a6fd2e825911739c2e6ac598fcb91dc0d2d31b4da5c796e7f8a3cb42faf03d"
+
+[[files]]
+file = "resources/music/menu3.ogg"
+hash = "8ee81a98e38b4f0140048570d8b6e4fc21ba81bcf8d6b1262d32943a91b34d42"
+
+[[files]]
+file = "resources/music/menu4.ogg"
+hash = "331e3aa8f6f7829f9c8c0154d3007446f9ee83330ef87f721cfe188ef626820c"
 
 [[files]]
 file = "resources/myst/sound/link-disarm.ogg"
@@ -5457,3 +5426,7 @@ hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
 [[files]]
 file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "unsup.toml"
+hash = "7ad9d21debd0a4022da3ac3e9b5cdb2d975e0f91fef86cc18e8bb484a132a42b"
