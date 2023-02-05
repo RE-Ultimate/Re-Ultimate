@@ -82,7 +82,6 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - NEIPlugins update check removed
 - Applied Energistics update check removed
 - CoFH update check removed
-- BuildCraft update check removed
 - MFFS update check removed
 - GregTech capes removed as they contact broken Dropbox links
 - Steve's Carts capes removed for the same reason
@@ -160,4 +159,5 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - [XyCraft](https://web.archive.org/web/20140216215105/http://xycraft.wikispaces.com/) by Soaryn
 - (Nil) [UpsilonFixes](https://git.sleeping.town/unascribed/UpsilonFixes) by unascribed
 - (optional) UltimateSkyblock by emilyploszaj
+- (optional) (Nil) [NiteLoader](https://git.sleeping.town/unascribed/NiteLoader) by unascribed
 - (optional) [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) by MamiyaOtaru

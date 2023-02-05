@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "3d73cca327451ff591c10b83b8df96a89080264d1e2d1c2d08f1007429805c16"
-
-[[files]]
 file = "animation.mpg"
 hash = "09089c560a08c7ef5cae81aa3b0242aec4c9804f1b3931c0a217a38dd4d4affe"
 
