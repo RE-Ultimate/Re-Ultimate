@@ -2376,12 +2376,28 @@ file = "resources/thaumcraft/zap2.ogg"
 hash = "306fcca62dfccbb7e80a9798db313019e51ef3a87eadca7b6dfa307dbea61128"
 
 [[files]]
+file = "scripts/charge-station.zs"
+hash = "15da683788c4aa5aa6ad0aa0f36deda59c92c2052b5955f3f5fab1598bf59cd9"
+
+[[files]]
 file = "scripts/green-force-ingot.zs"
 hash = "1031391856e4b5897a39a440250fd20fad61a23e90b294737f342b8048c8bc0e"
 
 [[files]]
 file = "scripts/oredict-info-panel.zs"
 hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
+
+[[files]]
+file = "scripts/powersuits.zs"
+hash = "b8b6896023b2270e662994462e435c2cefd7e613ac00d1a02eb1354f5f45feff"
+
+[[files]]
+file = "scripts/quartz-crystal-recipe.zs"
+hash = "10f681ae39b00f986e1179263a1f9af97d1f5037de6dd854d7c1b2ac53002777"
+
+[[files]]
+file = "scripts/sulfur-oredict.zs"
+hash = "b00e96cafc3daf1292f29e3565a9519c50b04d511ae26caedee9e6d9c9d1661d"
 
 [[files]]
 file = "texturepacks/Retrocausal.zip"
