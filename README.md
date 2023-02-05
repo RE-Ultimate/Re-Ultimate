@@ -24,6 +24,10 @@ long-gone servers.
 Upsilon is Rewind's flagship pack (and first pack), built for Minecraft 1.4.7.
 It is also the first ever modpack to use [NilLoader](https://git.sleeping.town/unascribed/NilLoader).
 
+Rewind Upsilon will be released on Modrinth once some redistribution issues are
+sorted out. You can try the beta right now in Prism Launcher by [importing this instance zip](https://rewindmc.com/dl/upsilon.zip)
+— that version uses unsup to download mods from their original sources.
+
 ## Differences from FTB Ultimate
 - Updated BuildCraft to 3.4.5
   - The Builder is disabled by default, as in 3.4.3 and 3.4.4, but can be enabled in the BuildCraft config (use caution)
@@ -51,10 +55,11 @@ It is also the first ever modpack to use [NilLoader](https://git.sleeping.town/u
   - Adds a Clear button to the Project Table
   - Fixes crashes when opening a logic tile GUI while holding a block
 - Removed VoxelBox mods due to licensing issues
-  - VoxelMenu has been rewritten from scratch and is part of UpsilonFixes
-  - VoxelMap replaced with Rei's Minimap
+  - VoxelMenu is being rewritten from scratch in UpsilonFixes (not done yet)
   - VoxelPlayer has no replacement
+  - VoxelMap can still be optionally used as it's a separate thing
 - Removed LiteLoader, as it was only used by the VoxelBox mods
+  - It will be reinstalled via NiteLoader if VoxelMap is installed
 
 All of the following are done by UpsilonFixes, and can be disabled in its config:
 - **Fixed water whirlpools (backported 1.5 water fill behavior) ([MC-916](https://bugs.mojang.com/browse/MC-916))**
@@ -141,6 +146,7 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - [PowerConverters](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded) by PowerCrystals (disabled by default)
 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) by Covert_Jaguar
 - [RedPower2](http://www.eloraam.com/) by Eloraam
+- [Rei's Minimap](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1275219-jul-08-reis-minimap-v3-4_01) by ReiFNSK
 - [SecretRoomsMod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1276042-v4-7-1-beta-secretroomsmod-malsis-doors-compat) by AbrarSyed
 - [Soul Shards](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285901-1-6-4-forgeirc-v1-0-18-soul-shards-v2-0-15-and) by ShadwDrgn
 - [StevesCarts](https://web.archive.org/web/20150215153757/http://minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-1-6-steves-carts-2-v2-0-0-a123) by vswe
@@ -153,3 +159,5 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - [Xeno's Reliquary](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1287110-xenos-reliquary-v1-0-6d) by MercuriusXeno
 - [XyCraft](https://web.archive.org/web/20140216215105/http://xycraft.wikispaces.com/) by Soaryn
 - (Nil) [UpsilonFixes](https://git.sleeping.town/unascribed/UpsilonFixes) by unascribed
+- (optional) UltimateSkyblock by emilyploszaj
+- (optional) [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) by MamiyaOtaru

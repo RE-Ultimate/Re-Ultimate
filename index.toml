@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "93c9ea89a75cd35bb801dc0ec16bb69c6dd3881526bea6644d02887fdbe66cd0"
+hash = "3d73cca327451ff591c10b83b8df96a89080264d1e2d1c2d08f1007429805c16"
 
 [[files]]
 file = "animation.mpg"
@@ -449,6 +449,10 @@ file = "mods/BuildCraft.jar"
 hash = "36efe00f9d072412ae462129270b19f82a42b8aee295a6316b9e7aa690c17e19"
 
 [[files]]
+file = "mods/ChiselRetro_beta0.9+upsilon1_mc1.4.7.zip"
+hash = "b076c854e14f99aa52654716b44cb5c01a7990ea3d4cc20f4af664d1636a12f2"
+
+[[files]]
 file = "mods/CoFHCore.zip"
 hash = "a45cecc8bb559a6bd536bb7d66893caa2b9eb82ef8e3fc6676c7ed38063c99ce"
 
@@ -583,11 +587,6 @@ metafile = true
 [[files]]
 file = "mods/chickenchunks.pw.toml"
 hash = "27cd3b9a0f06d345ded699a681e77cee5b1e5d28ebdb0fe364c3698f4b4da55e"
-metafile = true
-
-[[files]]
-file = "mods/chisel-retro.pw.toml"
-hash = "684bd6dccce581412969291ff299380b1c9e2d8816ce03973c34a86ee0524ece"
 metafile = true
 
 [[files]]
