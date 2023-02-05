@@ -525,6 +525,10 @@ file = "mods/PetroGen.zip"
 hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
 
 [[files]]
+file = "mods/RetroTweaker.jar"
+hash = "e1bd4901e53e740c7728e77e592042d634633d9971509c570ade394754202765"
+
+[[files]]
 file = "mods/SecretRoomsMod.zip"
 hash = "1bb6b95939178e2e69845ce7bc4607fe29cf75a986f532a4518bfe8c093c03ff"
 
@@ -2370,6 +2374,18 @@ hash = "65aba6a1c2fd085c3c4092d3b07b8fc1224586b1efddf91d65ba1a765077a20a"
 [[files]]
 file = "resources/thaumcraft/zap2.ogg"
 hash = "306fcca62dfccbb7e80a9798db313019e51ef3a87eadca7b6dfa307dbea61128"
+
+[[files]]
+file = "scripts/green-force-ingot.zs"
+hash = "1031391856e4b5897a39a440250fd20fad61a23e90b294737f342b8048c8bc0e"
+
+[[files]]
+file = "scripts/oredict-info-panel.zs"
+hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
+
+[[files]]
+file = "texturepacks/Retrocausal.zip"
+hash = "24ad28a85be633fa9d7a4df1c85ffe8105d7f447d702d32bd153ad4639c67197"
 
 [[files]]
 file = "texturepacks/Unsanded/font/default.png"
