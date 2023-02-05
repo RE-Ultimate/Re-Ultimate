@@ -32,6 +32,8 @@ description = "Use VoxelMap. This is the mod that was included in FTB Ultimate, 
 flavors = ["standard", "skyblock"]
 [metafile.extrabiomes-ultimatecompat]
 flavors = "compatible"
+[metafile.powerconverters]
+flavors = "compatible"
 [metafile.ultimateskyblock]
 flavors = "skyblock"
 

@@ -525,10 +525,6 @@ file = "mods/PetroGen.zip"
 hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
 
 [[files]]
-file = "mods/PowerConverters.jar.disabled"
-hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"
-
-[[files]]
 file = "mods/SecretRoomsMod.zip"
 hash = "1bb6b95939178e2e69845ce7bc4607fe29cf75a986f532a4518bfe8c093c03ff"
 
@@ -648,6 +644,11 @@ metafile = true
 [[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "0f3b069cf614a94919ed7351d0e3d9d3e2e6cddb46a39d42685aed7010b7625c"
+metafile = true
+
+[[files]]
+file = "mods/powerconverters.pw.toml"
+hash = "6fa65078928a6c86e35b8b8b2e377717348428e34bb058fcfc48f04de35722aa"
 metafile = true
 
 [[files]]
@@ -2424,4 +2425,4 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "unsup.toml"
-hash = "7ad9d21debd0a4022da3ac3e9b5cdb2d975e0f91fef86cc18e8bb484a132a42b"
+hash = "e1aeae4339780357e027151c579e55ac1d3a20943eb0dfa0129be7aaf5e9377a"
