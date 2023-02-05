@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "848147f9e234c90ef0de357873962d3000f777fcb01c9acef070959116d03399"
+hash = "9f1a522fac8d202384a90fd2fdfa7b71697e2faf0e84b7ed08199a317a639296"
 
 [[files]]
 file = "options.txt"
