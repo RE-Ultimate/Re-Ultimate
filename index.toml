@@ -2380,6 +2380,10 @@ file = "scripts/charge-station.zs"
 hash = "15da683788c4aa5aa6ad0aa0f36deda59c92c2052b5955f3f5fab1598bf59cd9"
 
 [[files]]
+file = "scripts/dartcraft-balance.zs"
+hash = "77de886060db5dddbb98d3e5e0a651413340ea9237e758b37a373e5835be7deb"
+
+[[files]]
 file = "scripts/green-force-ingot.zs"
 hash = "1031391856e4b5897a39a440250fd20fad61a23e90b294737f342b8048c8bc0e"
 
@@ -2389,7 +2393,7 @@ hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
 
 [[files]]
 file = "scripts/powersuits.zs"
-hash = "b8b6896023b2270e662994462e435c2cefd7e613ac00d1a02eb1354f5f45feff"
+hash = "dd2ec061e0296aadb5585c51553e2b773afa4839b422b5b17558f014688308c7"
 
 [[files]]
 file = "scripts/quartz-crystal-recipe.zs"

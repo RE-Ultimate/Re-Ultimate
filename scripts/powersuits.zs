@@ -193,3 +193,6 @@ recipes.addShaped(solarPanel, [
 	[reinforcedGlass, reinforcedGlass, reinforcedGlass],
 	[iridiumPlate, energyFlowCircuit, iridiumPlate]
 ]);
+
+recipes.addShapeless(<item.rc.part.ingot.steel> * 5, [basicPlating]);
+recipes.addShapeless(<item.GT_Materials:19> * 5, [advancedPlating]);
