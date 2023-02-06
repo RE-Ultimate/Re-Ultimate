@@ -26,7 +26,9 @@ It is also the first ever modpack to use [NilLoader](https://git.sleeping.town/u
 
 Rewind Upsilon will be released on Modrinth once some redistribution issues are
 sorted out. You can try the beta right now in Prism Launcher by [importing this instance zip](https://rewindmc.com/dl/upsilon.zip)
-— that version uses unsup to download mods from their original sources.
+— that version uses unsup to download mods from their original sources. You can
+also [download this zip](https://rewindmc.com/dl/upsilon-server.zip) to run a server,
+with full updater support.
 
 ## Differences from FTB Ultimate
 - Updated BuildCraft to 3.4.5
