@@ -359,20 +359,12 @@ file = "coremods/MiscPeripherals.jar"
 hash = "76d6c7cc09a285f7b4855b9a187bda70cef4f16f937f1931afecf05a3ac812ce"
 
 [[files]]
-file = "coremods/NilInjector.jar"
-hash = "19d9ee5e75c8cc65e8e5e567a9e156acbc438ee4320fef61bdb615ab8cec92b6"
-
-[[files]]
 file = "coremods/PowerCrystalsCore.jar"
 hash = "56a0ec4f8d18025539269a750fdc0b1ac86b93ba1a93d7ba229c32d9e76038b2"
 
 [[files]]
 file = "coremods/RPTweaks.jar"
 hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
-
-[[files]]
-file = "coremods/SplashAnimation.jar"
-hash = "59f64914050fef3c94f16b2df7d6db61d774ccf81032843641ab06e1df84b186"
 
 [[files]]
 file = "coremods/codechickencore.pw.toml"
@@ -390,18 +382,33 @@ hash = "2240535197c95a7a5f91b0dd504ac1b26f83f609320784f2b86f678b92639212"
 metafile = true
 
 [[files]]
+file = "coremods/nilinjector.pw.toml"
+hash = "42e46730082b5571029dc405e1f86810d39793d4b61bfd328446e96859452332"
+metafile = true
+
+[[files]]
 file = "coremods/notenoughitems.pw.toml"
 hash = "b65969076f3282fdf779d5a74c3b4a687e9468a4a587af31c73a0e2a3cfcaf8c"
 metafile = true
 
 [[files]]
+file = "coremods/splashanimation.pw.toml"
+hash = "51d3added4e5fa854a1921be206726c40cd4e4a0190e2057d06e934adf030124"
+metafile = true
+
+[[files]]
 file = "coremods/ultimateskyblock.pw.toml"
-hash = "25710406060c742b1f70675d187b23c41968d3548d222abe6db4fdc1e5d70bfc"
+hash = "62f98e9ae100306f2b46668d9773d545d22aa2332f5f11cde9d4e8a9109fda2d"
 metafile = true
 
 [[files]]
 file = "coremods/vanilla-nei-fix.pw.toml"
 hash = "923ca3f9caefab716bc08f6cb5d48c19e2e8dfec838622a8a56ffdf769b0810b"
+metafile = true
+
+[[files]]
+file = "forge.pw.toml"
+hash = "b48eb8266bf401896b02335733d9e4a5192c5fbd4b280e43f1deb43cfa55ad9d"
 metafile = true
 
 [[files]]
@@ -427,6 +434,11 @@ metafile = true
 [[files]]
 file = "liteloader.properties"
 hash = "615fcca72514dd4983ca410ce71dd5a4f0d6dfdcc8a435f5566036a7ad073631"
+
+[[files]]
+file = "minecraft-server.pw.toml"
+hash = "68281f78c95ae2409f41fc364f101915db070ece6023945b2e744c07b5be1250"
+metafile = true
 
 [[files]]
 file = "mods/AdvancedMachines.zip"
@@ -626,6 +638,11 @@ hash = "9bb648397467d9f27813d15aef244502fbded940e3165a52473df1e440a02729"
 metafile = true
 
 [[files]]
+file = "mods/invtweaks.pw.toml"
+hash = "0f603c0f05096c85e71e05c4b365753ed973df7532121774ee79e9bfc4b2e74f"
+metafile = true
+
+[[files]]
 file = "mods/legacycustompublish.pw.toml"
 hash = "3db3c1d02a6805ce94c22a8557aa10fd08d13857870d29461322c7b642db390a"
 metafile = true
@@ -682,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/reiminimap.pw.toml"
-hash = "1fc0a1e2bf88caa1a7713e6c728c00837a98b8d232d776d07c31db2d6870e2e6"
+hash = "1339ea6f895386028b07c3ed3c130ca77b82e0947cd10b330ae77416749c166c"
 metafile = true
 
 [[files]]
@@ -692,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap.pw.toml"
-hash = "aabf93632b6c6e7277b228cd86549f8368c70c7ef94e801486a557c417126de5"
+hash = "1167586ef23bfe5311764698c2b4be51af5fe2eed144735c0d6b4f383d503e6a"
 metafile = true
 
 [[files]]
@@ -716,8 +733,18 @@ hash = "2f2463c30bc4655b801f6d3b6874a456d18d06165e7b7a6e5c17200fbd3599a1"
 metafile = true
 
 [[files]]
+file = "nilloader.pw.toml"
+hash = "4c8eadb63e67bfeccb406cfa9288f8b3864c5ae87619391745eb0664e0c743d0"
+metafile = true
+
+[[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "ab9f10f64fd8b605c68a77aa66765044fe5e9df31322e9440328ce62d2590d29"
+hash = "b6f0a293870c5235cc7489bdeae86b014c7e5b102ef38f69e74e077b5b111a83"
+
+[[files]]
+file = "nilmods/niteloader.pw.toml"
+hash = "125dfeb649fbb4e32deb21c68349b1dde27ac09ef663e03a089b58b07aacde2f"
+metafile = true
 
 [[files]]
 file = "options.txt"

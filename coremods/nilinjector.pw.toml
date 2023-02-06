@@ -1,0 +1,8 @@
+name = "NilInjector"
+filename = "NilInjector.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "102c6d49f0d2d31ddba35534dd2578405e974416"
+url = "https://rewindmc.com/packwiz/upsilon/coremods/NilInjector.jar"

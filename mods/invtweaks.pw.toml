@@ -1,0 +1,8 @@
+name = "InvTweaks"
+filename = "InvTweaks.zip"
+side = "client"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/mods/InvTweaks.zip"
+hash-format = "sha1"
+hash = "6765e8e37cffc4809e0e13d176c097c161087c45"

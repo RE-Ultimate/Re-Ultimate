@@ -1,0 +1,8 @@
+name = "NilLoader"
+filename = "nilloader.jar"
+side = "server"
+
+[download]
+url = "https://repo.sleeping.town/com/unascribed/nilloader/1.3.1/nilloader-1.3.1.jar"
+hash-format = "sha1"
+hash = "4247472b8799286ec8be47bafb692711bc9bb132"

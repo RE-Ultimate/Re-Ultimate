@@ -1,0 +1,8 @@
+name = "SplashAnimation"
+filename = "SplashAnimation.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "ec1591579b71ac821dbdbbae00b8e37c74420ace"
+url = "https://rewindmc.com/packwiz/upsilon/coremods/SplashAnimation.jar"

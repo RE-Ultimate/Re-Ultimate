@@ -1,5 +1,6 @@
 name = "VoxelMap"
 filename = "VoxelMap.litemod"
+side = "client"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/mods/VoxelMap.litemod"

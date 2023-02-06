@@ -5,7 +5,7 @@ side = "both"
 [download]
 hash-format = "sha1"
 hash = "e5a1a695fa566ea52baa22e8dbd714ec5123f044"
-url = "https://rewindmc.com/packwiz/upsilon/coremods/UpsilonSkyblock.jar"
+url = "https://rewindmc.com/packwiz/upsilon/coremods/UltimateSkyblock.jar"
 
 [option]
 optional = true

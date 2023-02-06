@@ -1,0 +1,8 @@
+name = "forge"
+filename = "forge.jar"
+side = "server"
+
+[download]
+url = "https://maven.minecraftforge.net/net/minecraftforge/forge/1.4.7-6.6.2.534/forge-1.4.7-6.6.2.534-universal.zip"
+hash-format = "sha1"
+hash = "bd0f40a78c18140265ff042a96d73f01c4f60906"

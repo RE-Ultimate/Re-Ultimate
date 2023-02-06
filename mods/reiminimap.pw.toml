@@ -1,5 +1,6 @@
 name = "ReiMinimap"
 filename = "ReiMinimap.zip"
+side = "client"
 
 [download]
 url = "https://b2.mcarchive.net/file/mcarchive/4f58c634cff0b57d41b7180d58e69bad2b3ef34f3942bea689ef69f2664aa311/%5B1.4.7%5DReiMinimap_v3.2_06.zip"
