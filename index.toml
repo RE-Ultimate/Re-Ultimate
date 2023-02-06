@@ -493,10 +493,6 @@ file = "mods/ImmibisCore.jar"
 hash = "9efc4ec47957641308d6cae737e2116d1e55e5496a171809060a157e1515ad83"
 
 [[files]]
-file = "mods/InvTweaks.zip"
-hash = "38d245c9bfc659f7dd0905e2c55c0ebb0b62e0f50d6b027a5913b1c0076d3f69"
-
-[[files]]
 file = "mods/IronChest.zip"
 hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
 
@@ -739,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "b6f0a293870c5235cc7489bdeae86b014c7e5b102ef38f69e74e077b5b111a83"
+hash = "5d2f534cdcb7afe87df313f1ec5ef1ef52ec447f60ce523bedb13c5708686645"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
