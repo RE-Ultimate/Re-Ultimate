@@ -12,3 +12,4 @@ config/extrabiomes/extrabiomes.cfg.ultimateCompat
 icon.png
 README.md
 unsup.toml
+.woodpecker.yml
