@@ -449,10 +449,6 @@ file = "mods/AdvancedSolarPanel.zip"
 hash = "190a2986ccd9494db89509a1a671c7de9bd4e18ac517375ad488833ab719050e"
 
 [[files]]
-file = "mods/AppliedEnergistics.zip"
-hash = "33c0376e3b88b844629fb37c1a046d4e378314c809ef7329756d620546393e02"
-
-[[files]]
 file = "mods/BuildCraft.jar"
 hash = "36efe00f9d072412ae462129270b19f82a42b8aee295a6316b9e7aa690c17e19"
 
@@ -563,6 +559,11 @@ hash = "6df3cbb2087823a5fab1af51354a0894e6b900a8a1dec5ea00b218ced324952c"
 [[files]]
 file = "mods/XReliquary.jar"
 hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
+
+[[files]]
+file = "mods/applied-energistics-1.pw.toml"
+hash = "a00244bab3960bf32c8b8636990df763b9fd0084b121afd22118e96e92d95837"
+metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
@@ -731,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "2afb1de4076004bb31ef8f08c5763c7ad51258a65c0c89d4b283ef36fcca4bd4"
+hash = "d151862020eb1f7af851fea1aef85d9438c23df5a2ef5914749fede6237ff685"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
