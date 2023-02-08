@@ -6,6 +6,6 @@ pipeline:
   - access_key
   - cache_tag
   commands:
-  - "curl -X POST https://api.bunny.net/pullzone/${PULL_ZONE}/purgeCache -H 'AccessKey: ${ACCESS_KEY}' -H 'content-type: application/json' --data '{\"CacheTag\":\"${CACHE_TAG}\"}'"
+  - "curl -sf -X POST https://api.bunny.net/pullzone/${PULL_ZONE}/purgeCache -H 'AccessKey: ${ACCESS_KEY}' -H 'content-type: application/json' --data '{\"CacheTag\":\"${CACHE_TAG}\"}'"
 
 branches: "trunk"

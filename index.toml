@@ -497,10 +497,6 @@ file = "mods/IronChest.zip"
 hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
 
 [[files]]
-file = "mods/LegacyJavaFixer.jar"
-hash = "056720325ac2c5031691fc2dbf9bd175cb0bc95d9ab6583b23fbace5b25c564a"
-
-[[files]]
 file = "mods/LogisticsPipes.jar"
 hash = "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542"
 
