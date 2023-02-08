@@ -2399,12 +2399,9 @@ file = "scripts/charge-station.zs"
 hash = "15da683788c4aa5aa6ad0aa0f36deda59c92c2052b5955f3f5fab1598bf59cd9"
 
 [[files]]
-file = "scripts/dartcraft-balance.zs"
-hash = "77de886060db5dddbb98d3e5e0a651413340ea9237e758b37a373e5835be7deb"
-
-[[files]]
-file = "scripts/green-force-ingot.zs"
-hash = "1031391856e4b5897a39a440250fd20fad61a23e90b294737f342b8048c8bc0e"
+file = "scripts/dartcraft.pw.toml"
+hash = "01dc5a63346ea838a98aa7fb7874b938cda55b11da7a156a7e384236835ebd83"
+metafile = true
 
 [[files]]
 file = "scripts/oredict-info-panel.zs"

@@ -1,0 +1,11 @@
+name = "DartCraft MineTweaker script"
+filename = "dartcraft.zs"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/scripts/dartcraft.zs"
+hash-format = "sha1"
+hash = "8800e6a9f3b6b3427f996c6f8b0515aad308f984"
+
+[option]
+optional = true
+default = true
