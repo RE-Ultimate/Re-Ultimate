@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "coremods/splashanimation.pw.toml"
-hash = "51d3added4e5fa854a1921be206726c40cd4e4a0190e2057d06e934adf030124"
+hash = "1e2519544bc6c2e6d3d44c73ffdd718f3c68e3600a89696aad52d51025d01cb8"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "d151862020eb1f7af851fea1aef85d9438c23df5a2ef5914749fede6237ff685"
+hash = "8e259ae095d438f9eb95b8214ceb7a0f3f021295c49690acfb0c06323a29b1e6"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
