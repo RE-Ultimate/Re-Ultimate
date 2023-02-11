@@ -33,6 +33,8 @@ with full updater support.
 ## Differences from FTB Ultimate
 - Updated BuildCraft to 3.4.5
   - The Builder is disabled by default, as in 3.4.3 and 3.4.4, but can be enabled in the BuildCraft config (use caution)
+  - Clay pipes
+  - Assorted fixes, especially to the Filler
 - Added Ears
   - This includes a backport of modern skin features and a skin fix
 - Added LegacyCustomPublish
@@ -109,7 +111,7 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - [Auto Third Person](https://modrinth.com/mod/auto-third-person) by quaternary
 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft/) by Nuchaz
 - [Block Helper](https://modrinth.com/mod/block-helper) by HyperSpeeed
-- [BuildCraft](https://mod-buildcraft.com/) by many people (a [custom fork](https://github.com/unascribed/BuildCraft) — partially upstreamed, not yet released)
+- [BuildCraft](https://mod-buildcraft.com/) by many people
 - [ChargePads](https://www.curseforge.com/minecraft/mc-mods/chargepads) by Myrathi
 - [ChickenChunks](https://www.curseforge.com/minecraft/mc-mods/chickenchunks) by Chicken_Bones
 - [Chisel Retro](https://www.curseforge.com/minecraft/mc-mods/chisel-retro) by FyberOptic (a [custom fork](https://git.sleeping.town/unascribed/ChiselRetro/))

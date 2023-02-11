@@ -449,10 +449,6 @@ file = "mods/AdvancedSolarPanel.zip"
 hash = "190a2986ccd9494db89509a1a671c7de9bd4e18ac517375ad488833ab719050e"
 
 [[files]]
-file = "mods/BuildCraft.jar"
-hash = "36efe00f9d072412ae462129270b19f82a42b8aee295a6316b9e7aa690c17e19"
-
-[[files]]
 file = "mods/ChiselRetro_beta0.9+upsilon1_mc1.4.7.zip"
 hash = "b076c854e14f99aa52654716b44cb5c01a7990ea3d4cc20f4af664d1636a12f2"
 
@@ -578,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/block-helper.pw.toml"
 hash = "27813d3048f1bda4f8a23f07d95878eeec63f0502e62f6aeaaf953aeef9ea3eb"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "222220fa4b6b68afb9971daad52061458ead1e5feac93bf952c764ac51e57a23"
 metafile = true
 
 [[files]]

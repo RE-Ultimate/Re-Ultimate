@@ -1,0 +1,13 @@
+name = "BuildCraft"
+filename = "buildcraft-A-1.4.7-3.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/hYxfmgS8/buildcraft-A-1.4.7-3.4.5.jar"
+hash-format = "sha1"
+hash = "2eaf2018b78f40430849e0bbe7a0de540c7f4885"
+
+[update]
+[update.modrinth]
+mod-id = "6X5wjPTJ"
+version = "hYxfmgS8"
