@@ -2,7 +2,7 @@ name = "GregTech"
 filename = "GregTech.zip"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/mods/GregTech.zip"
+url = "https://github.com/GregTech6/GregTech2/releases/download/v4.6.29009/gregtechmod290i.zip"
 hash-format = "sha1"
 hash = "adb389d947aa919f38c9edf77e13994e696c38fa"
 

@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/gregtech.pw.toml"
-hash = "5ff627629d315f9c1dad238f551832fbfcab6291f438c30e365a15ee1f703af8"
+hash = "dd8feffd416499da7f1a28f34784e053e9ead52e3b6e4345dfef2a4d828834db"
 metafile = true
 
 [[files]]
