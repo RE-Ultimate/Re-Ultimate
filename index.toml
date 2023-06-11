@@ -697,6 +697,11 @@ hash = "1339ea6f895386028b07c3ed3c130ca77b82e0947cd10b330ae77416749c166c"
 metafile = true
 
 [[files]]
+file = "mods/rpcdrive.pw.toml"
+hash = "7e1703f74c789988a95f353330de2fb48bf21ed1a368f292e4a9f677544473af"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "ea0c72cdb1d8bccbf3232022abee2d9fd2347417483f2b5e81ca186669538908"
 metafile = true
