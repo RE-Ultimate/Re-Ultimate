@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "b8cff13132b617e250eb84339d3528553048e4604fcef2ec0ecce92d4205fcd0"
+hash = "5ec61f211226bbf3b90d5c08762c3d3f51e0415184cff3eb413f2d1bf8e3847f"
 metafile = true
 
 [[files]]
