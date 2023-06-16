@@ -1,13 +1,13 @@
 name = "Forestry"
-filename = "Forestry.jar"
+filename = "forestry-A-2.0.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MHni9gjy/versions/2.0.0.10/forestry-A-2.0.0.10.jar"
+url = "https://cdn.modrinth.com/data/MHni9gjy/versions/oCKQY1wF/forestry-A-2.0.0.11.jar"
 hash-format = "sha1"
-hash = "ffebe17760376868f7680eed31123aaa2621e612"
+hash = "609c6dd05bca76a064324ffc5e071039b5454b38"
 
 [update]
 [update.modrinth]
 mod-id = "MHni9gjy"
-version = "gpv0n1JG"
+version = "oCKQY1wF"

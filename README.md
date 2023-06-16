@@ -35,6 +35,9 @@ with full updater support.
   - The Builder is disabled by default, as in 3.4.3 and 3.4.4, but can be enabled in the BuildCraft config (use caution)
   - Clay pipes
   - Assorted fixes, especially to the Filler
+- Added [rpcDrive](https://modrinth.com/mod/rpcdrive), allowing ComputerCraft and RedPower Control to interoperate
+- Added CC: Tweaked, introducing modern Lua and CC support to this antique CC version (and fixing some bugs)
+  - It's not the full CC: Tweaked from modern versions, just a coremod containing backports of bits and pieces
 - Added Ears
   - This includes a backport of modern skin features and a skin fix
 - Added LegacyCustomPublish
@@ -43,6 +46,8 @@ with full updater support.
 - Added Chisel Retro
 - Added FallingFix
 - Updated GregTech
+- Updated Railcraft
+- Updated Forestry
 - Removed ForgeIRC
 - New panorama (seed is 8718729173668754797 at 156, 97, 86)
 - Enabled all EBXL biomes
@@ -71,7 +76,7 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - **Fixed EE3 Minium stone recipes being broken after using them once or after NEI recipe lookup**
 - **Items can be dragged over slots to spread them out (1.5 backport)**
 - **Re-enabled SHA-1 jar signing to fix mods like Railcraft on latest Java 8 versions**
-- Double/triple-clicking a slot will collect all items of that type to your cursor (1.5 backport)
+- ~~Double/triple-clicking a slot will collect all items of that type to your cursor (1.5 backport)~~ Currently broken, pending reimplementation
 - Holding the IC2 Boost Key (lctrl by default) will cause you to sprint
 - Pressing the drop key over a slot in an inventory will drop the item in that slot (1.5 backport)
 - Fixed attacker yaw not syncing to fix the camera tilt animation ([MC-26678](https://bugs.mojang.com/browse/MC-26678))
@@ -95,6 +100,7 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 
 ## Included Mods
 
+- (Core) [CC: Tweaked](https://modrinth.com/mod/cc-tweaked) by SquidDev
 - (Core) [CodeChickenCore](https://www.curseforge.com/minecraft/mc-mods/codechickencore) by Chicken_Bones
 - (Core) [Ears](https://modrinth.com/mod/ears) by unascribed
 - (Core) [FallingFix](https://www.curseforge.com/minecraft/mc-mods/fallingfix) by FyberOptic
@@ -150,6 +156,7 @@ All of the following are done by UpsilonFixes, and can be disabled in its config
 - [Railcraft](https://www.curseforge.com/minecraft/mc-mods/railcraft) by Covert_Jaguar
 - [RedPower2](http://www.eloraam.com/) by Eloraam
 - [Rei's Minimap](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1275219-jul-08-reis-minimap-v3-4_01) by ReiFNSK
+- [rpcDrive](https://modrinth.com/mod/rpcdrive) by asie
 - [SecretRoomsMod](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1276042-v4-7-1-beta-secretroomsmod-malsis-doors-compat) by AbrarSyed
 - [Soul Shards](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1285901-1-6-4-forgeirc-v1-0-18-soul-shards-v2-0-15-and) by ShadwDrgn
 - [StevesCarts](https://web.archive.org/web/20150215153757/http://minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1277433-1-6-steves-carts-2-v2-0-0-a123) by vswe

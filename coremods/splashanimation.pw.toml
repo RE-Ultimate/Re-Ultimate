@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "d034ff5801f69e2073f6991f30f4c5ea5ed1244b"
+hash = "49bab85f0b0d34691ec835113de9eba248426503"
 url = "https://rewindmc.com/packwiz/upsilon/coremods/SplashAnimation.jar"

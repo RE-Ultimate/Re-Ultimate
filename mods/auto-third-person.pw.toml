@@ -1,13 +1,13 @@
 name = "Auto Third Person"
-filename = "AutoThirdPerson.jar"
+filename = "auto_third_person-forge-1.4.7-2.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/1.2.1-forge-1.4.7/auto_third_person-forge-1.4.7-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/HjCQxJk6/auto_third_person-forge-1.4.7-2.0.3.jar"
 hash-format = "sha1"
-hash = "a77d6329c28fefd8910e6111d2ef5293e658f6f3"
+hash = "cee086bacbfcde4c36b5ad82241914c2369a232e"
 
 [update]
 [update.modrinth]
 mod-id = "ANu8FMzT"
-version = "tsyuXzgd"
+version = "HjCQxJk6"

@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "animation.mpg"
-hash = "09089c560a08c7ef5cae81aa3b0242aec4c9804f1b3931c0a217a38dd4d4affe"
+file = "animation.ogv"
+hash = "4ced0c3e45e0640ebc025a9ac9d683d0959695f66fc41e09c4bc209f7ec4efdc"
 
 [[files]]
 file = "config/AdvancedMachines.cfg"
@@ -344,7 +344,7 @@ hash = "176e824e1d101c3cf0d510f8c59c61656947e558655783f4811a516e7328985f"
 
 [[files]]
 file = "config/splashanimation.cfg"
-hash = "bf8ec5e1c92afe4181e8091b7023bbd0129e854279e58c6364e1bee794e01b2b"
+hash = "d98bb037ce0a698e244a9316d9953bd24a396db27a772342af631279c0d8e98a"
 
 [[files]]
 file = "config/upsilonfixes-enabled-layers.txt"
@@ -365,6 +365,11 @@ hash = "56a0ec4f8d18025539269a750fdc0b1ac86b93ba1a93d7ba229c32d9e76038b2"
 [[files]]
 file = "coremods/RPTweaks.jar"
 hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
+
+[[files]]
+file = "coremods/cc-tweaked.pw.toml"
+hash = "acc428df0302e729cc14a01de606112d5ec980435f43355d72cf6a8414d55c79"
+metafile = true
 
 [[files]]
 file = "coremods/codechickencore.pw.toml"
@@ -393,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "coremods/splashanimation.pw.toml"
-hash = "1e2519544bc6c2e6d3d44c73ffdd718f3c68e3600a89696aad52d51025d01cb8"
+hash = "f3d5c855bfa91738f60f0c996ac0e46fabfb99455808018cd70de8edd3fea80d"
 metafile = true
 
 [[files]]
@@ -461,10 +466,6 @@ file = "mods/EE3.jar"
 hash = "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
 
 [[files]]
-file = "mods/ExtraBees.zip"
-hash = "4a139a197766b0c49c4eb9eadbd47c70b811f2f28b0d78b1e273c0e322d04ec8"
-
-[[files]]
 file = "mods/ExtraBiomesXL.jar"
 hash = "46124272ed0aef136708cc19d52604380a02925680571f89f76e23fae4a2746d"
 
@@ -483,10 +484,6 @@ hash = "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513"
 [[files]]
 file = "mods/IC2NuclearControl.zip"
 hash = "4d4966eb7e49a1384bdc06c722c5c49b489bb8a29fe98c4859782d47b2f998b1"
-
-[[files]]
-file = "mods/ImmibisCore.jar"
-hash = "9efc4ec47957641308d6cae737e2116d1e55e5496a171809060a157e1515ad83"
 
 [[files]]
 file = "mods/IronChest.zip"
@@ -525,6 +522,10 @@ file = "mods/PetroGen.zip"
 hash = "453772af8b3419fd436c8efaed7709bb36a1b13ddfcd00153f78947dc1f04541"
 
 [[files]]
+file = "mods/Railcraft.zip"
+hash = "d1cfae23b2a56599bff5212695cc31253f529ded3e6d79e10acff7895e469c18"
+
+[[files]]
 file = "mods/RetroTweaker.jar"
 hash = "e1bd4901e53e740c7728e77e592042d634633d9971509c570ade394754202765"
 
@@ -553,10 +554,6 @@ file = "mods/ThermalExpansion.zip"
 hash = "f24d706c37e525d8e7804968b7019b57b571cba98b4ffc0c32a9521731f69d4c"
 
 [[files]]
-file = "mods/TubeStuff.jar"
-hash = "6df3cbb2087823a5fab1af51354a0894e6b900a8a1dec5ea00b218ced324952c"
-
-[[files]]
 file = "mods/XReliquary.jar"
 hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
 
@@ -567,12 +564,17 @@ metafile = true
 
 [[files]]
 file = "mods/auto-third-person.pw.toml"
-hash = "b8cff13132b617e250eb84339d3528553048e4604fcef2ec0ecce92d4205fcd0"
+hash = "d84c62a87f2c34703e59073d5629f02cbaa557e753c7b46e7430a2b870d9a32f"
 metafile = true
 
 [[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
+metafile = true
+
+[[files]]
+file = "mods/binnies-mods.pw.toml"
+hash = "fcf2c8625c6fbb56a9527bdfc1e65e808d93c5f31dc6e1cd35c704706f9ed7e1"
 metafile = true
 
 [[files]]
@@ -617,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/forestry.pw.toml"
-hash = "565eb26a9bd42ba45bbce2a01fc5c0c2bc72742f950ca5a6efb65f4290cdb4a7"
+hash = "022f0b4e7267e2022fe047f17d73c650f0542d6fb761460802c26b2af3f4ddec"
 metafile = true
 
 [[files]]
@@ -628,6 +630,11 @@ metafile = true
 [[files]]
 file = "mods/gregtech.pw.toml"
 hash = "dd8feffd416499da7f1a28f34784e053e9ead52e3b6e4345dfef2a4d828834db"
+metafile = true
+
+[[files]]
+file = "mods/immibis-core.pw.toml"
+hash = "357118c29af6dbefd1aca65b0533a5546a9820a205b477ea8a257765040702c5"
 metafile = true
 
 [[files]]
@@ -642,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "a6871c8b70343d47e52e05c32dda7cdc0d7a60c9764f1bcf5b5ba826cb6202b0"
+hash = "b1553993bdf2aeeec0f0ea698a16bc443f12dd9594e81ad1b4144e1511435d51"
 metafile = true
 
 [[files]]
@@ -663,11 +670,6 @@ metafile = true
 [[files]]
 file = "mods/powerconverters.pw.toml"
 hash = "6fa65078928a6c86e35b8b8b2e377717348428e34bb058fcfc48f04de35722aa"
-metafile = true
-
-[[files]]
-file = "mods/railcraft.pw.toml"
-hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
 metafile = true
 
 [[files]]
@@ -703,6 +705,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "ea0c72cdb1d8bccbf3232022abee2d9fd2347417483f2b5e81ca186669538908"
+metafile = true
+
+[[files]]
+file = "mods/tubestuff.pw.toml"
+hash = "3bf31ed23e2cefc74bde55ac52b05db7d9b6ccd095e80c52450b6f67ff951d9d"
 metafile = true
 
 [[files]]
