@@ -1,7 +1,0 @@
-name = "IndustrialCraft2"
-filename = "IC2.jar"
-
-[download]
-url = "http://jenkins.ic2.player.to/job/IC2_lf/231/artifact/packages/industrialcraft-2_1.115.231-lf.jar"
-hash-format = "sha1"
-hash = "40ed1edf062ea0937470f8c612765d0facf191f2"

@@ -477,6 +477,10 @@ file = "mods/GraviSuite.zip"
 hash = "2b37f3a8d43311dc5189f98906c58fe5aef629d06fea931b1b763b81aa3eedeb"
 
 [[files]]
+file = "mods/IC2.jar"
+hash = "db0dacaf4b7d4a98c62c8b60cfa6bad0af6ff28fa7572f8533fae28eb9fee513"
+
+[[files]]
 file = "mods/IC2NuclearControl.zip"
 hash = "4d4966eb7e49a1384bdc06c722c5c49b489bb8a29fe98c4859782d47b2f998b1"
 
@@ -624,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/gregtech.pw.toml"
 hash = "dd8feffd416499da7f1a28f34784e053e9ead52e3b6e4345dfef2a4d828834db"
-metafile = true
-
-[[files]]
-file = "mods/industrialcraft-2.pw.toml"
-hash = "9bb648397467d9f27813d15aef244502fbded940e3165a52473df1e440a02729"
 metafile = true
 
 [[files]]
