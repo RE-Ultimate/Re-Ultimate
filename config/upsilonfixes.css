@@ -177,6 +177,11 @@ features {
 	quantum-solar-helm-can-fix: on;
 
 	/*
+	 * Redesign the main menu, pause menu, etc in a way very similar to VoxelMenu.
+	 */
+	redesign-menus: on;
+
+	/*
 	 * RedPower2 can insert into BuildCraft pipes.
 	 */
 	redpower-pipe-integration: on;

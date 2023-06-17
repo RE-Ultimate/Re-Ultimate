@@ -352,7 +352,7 @@ hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
 file = "config/upsilonfixes.css"
-hash = "197d401e195bdfe49112351a716c92d7f265b1bc864e9157f9347bd8504580a8"
+hash = "c1239ad9ee72d20e03f886cc9ad5223b47d9062d746d41616a609ed4481a0cf1"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -648,8 +648,13 @@ hash = "3db3c1d02a6805ce94c22a8557aa10fd08d13857870d29461322c7b642db390a"
 metafile = true
 
 [[files]]
-file = "mods/mystcraft.pw.toml"
-hash = "b1553993bdf2aeeec0f0ea698a16bc443f12dd9594e81ad1b4144e1511435d51"
+file = "mods/mystcraft-0.10.pw.toml"
+hash = "b52343c733eb181f50290abb5bd4664bd89042813e731ccd5bdb3b512d756366"
+metafile = true
+
+[[files]]
+file = "mods/mystcraft-0.9.pw.toml"
+hash = "d5cdef251070f721b91ad3cf6b3c23e1aa26d9c9813bbc1fa34bf4a85a58f7fc"
 metafile = true
 
 [[files]]
@@ -744,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "8e259ae095d438f9eb95b8214ceb7a0f3f021295c49690acfb0c06323a29b1e6"
+hash = "009ce272d6ebfa96e50118b962d16cf9402ead1fde04ed46062b90e864b97440"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
@@ -892,19 +897,19 @@ file = "resources/gravigun/sounds/pickup.ogg"
 hash = "b62bb040764674d69574842615e969cb26432c152acf2f7a2a4f1b73c80af813"
 
 [[files]]
-file = "resources/music/menu1.ogg"
+file = "resources/menumusic/menu1.ogg"
 hash = "5f3956897f700ecf77200618c43419e766e94d30ee97cbda3db7376427230367"
 
 [[files]]
-file = "resources/music/menu2.ogg"
+file = "resources/menumusic/menu2.ogg"
 hash = "77a6fd2e825911739c2e6ac598fcb91dc0d2d31b4da5c796e7f8a3cb42faf03d"
 
 [[files]]
-file = "resources/music/menu3.ogg"
+file = "resources/menumusic/menu3.ogg"
 hash = "8ee81a98e38b4f0140048570d8b6e4fc21ba81bcf8d6b1262d32943a91b34d42"
 
 [[files]]
-file = "resources/music/menu4.ogg"
+file = "resources/menumusic/menu4.ogg"
 hash = "331e3aa8f6f7829f9c8c0154d3007446f9ee83330ef87f721cfe188ef626820c"
 
 [[files]]

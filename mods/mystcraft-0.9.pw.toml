@@ -1,0 +1,17 @@
+name = "Mystcraft"
+filename = "mystcraft-uni-1.4.6-0.9.5.00.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f874bb239ae4ddff24af8edec858708069c1168a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2621598
+project-id = 224599
+
+[option]
+optional = true
+default = false
