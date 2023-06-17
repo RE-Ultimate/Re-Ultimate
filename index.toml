@@ -648,12 +648,12 @@ hash = "3db3c1d02a6805ce94c22a8557aa10fd08d13857870d29461322c7b642db390a"
 metafile = true
 
 [[files]]
-file = "mods/mystcraft-0.10.pw.toml"
+file = "mods/mystcraft-10.pw.toml"
 hash = "b4e64a0b0883bf7fa029f87464cf3631c890e101ae0dbd68d1b668dc6c42046e"
 metafile = true
 
 [[files]]
-file = "mods/mystcraft-0.9.pw.toml"
+file = "mods/mystcraft-9.pw.toml"
 hash = "401c94b12bf38e35dde0c7caf67c4b7043b254cd046d686691c027ecaca9f470"
 metafile = true
 

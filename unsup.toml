@@ -34,9 +34,9 @@ flavors = ["standard", "skyblock"]
 flavors = "compatible"
 [metafile.powerconverters]
 flavors = "compatible"
-[metafile.mystcraft-0.9]
+[metafile.mystcraft-9]
 flavors = "compatible"
-[metafile.mystcraft-0.10]
+[metafile.mystcraft-10]
 flavors = ["standard", "skyblock"]
 [metafile.ultimateskyblock]
 flavors = "skyblock"
