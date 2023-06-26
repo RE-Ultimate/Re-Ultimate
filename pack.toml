@@ -1,12 +1,12 @@
 name = "Rewind Upsilon"
 author = "unascribed"
-version = "0.5.1-beta"
+version = "0.5.2-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04a7f7e7af22ce4df473f1d6b79618ba0c9cd438a3b62535e84e099db485c2d8"
+hash = "4dd60ac951c36e4130a8e8947cb798f1aef9868d6e8c9bdca33af0e72d424f20"
 
 [versions]
 forge = "6.6.2.534"

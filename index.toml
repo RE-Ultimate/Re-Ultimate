@@ -352,7 +352,7 @@ hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
 file = "config/upsilonfixes.css"
-hash = "c1239ad9ee72d20e03f886cc9ad5223b47d9062d746d41616a609ed4481a0cf1"
+hash = "599cf770c2334f5d3a700f6bfdb7070b45a5033e130d7c948f2f046f79ad8331"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -749,12 +749,16 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "f93ffa8f97224fd83484c97df3dc077f63711217a4282d95b4c8f9fac48e33b4"
+hash = "959ec61bf200b3beee57def1654de5ef58ff1928e39292b0000ca5d7c178a350"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
 hash = "125dfeb649fbb4e32deb21c68349b1dde27ac09ef663e03a089b58b07aacde2f"
 metafile = true
+
+[[files]]
+file = "nilmods/sha1redemption.jar"
+hash = "c73415aabc20e0bb3be671417c2a164cf4eb70f4ede9cd75e4715cb699ded12b"
 
 [[files]]
 file = "options.txt"

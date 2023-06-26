@@ -35,6 +35,13 @@ features {
 	disable-codechicken-stencil: auto;
 
 	/*
+	 * Linux-only. Disables buggy XRandR support in LWJGL2. Causes various
+	 * weird issues like monitor flickering when closing the game or >60Hz getting
+	 * messed up.
+	 */
+	disable-xrandr: on;
+
+	/*
 	 * Prevents XyCraft's quartz crystals from generating. They're a huge
 	 * performance hit and nobody likes them.
 	 */
@@ -52,18 +59,18 @@ features {
 	fix-codechickencore-hierarchy-check: on;
 
 	/*
-	 * Fixes the DartCraft Force Engine being effectively limited to 10MJ/t
-	 * due to an oversight. This is fixed in the 1.6 version of
-	 * DartCraft.
-	 */
-	fix-dartcraft-force-engine-limit: on;
-
-	/*
 	 * Removes DartCraft forcefully undoing GregTech's recipe tweaks.
 	 * This is misguided in the first place as GregTech lets you
 	 * disable its changes in its config.
 	 */
 	fix-dartcraft-force-disabling-gregtech-tweaks: on;
+
+	/*
+	 * Fixes the DartCraft Force Engine being effectively limited to 10MJ/t
+	 * due to an oversight. This is fixed in the 1.6 version of
+	 * DartCraft.
+	 */
+	fix-dartcraft-force-engine-limit: on;
 
 	/*
 	 * Fixes transmutation crafting recipes in EE3 only working once, and being
@@ -80,6 +87,11 @@ features {
 	 * Prevents registering null-fluid recipes in the Forestry fermenter.
 	 */
 	fix-forestry-fermenter-npe: on;
+
+	/*
+	 * Fixes lighting on Factorization barrels.
+	 */
+	fix-fz-barrel-lighting: on;
 
 	/*
 	 * Fixes an infinite loop with the Factorization mixer caused
@@ -116,16 +128,21 @@ features {
 	fix-thermal-tesseract-cast: on;
 
 	/*
+	 * Fixes Twilight Forest uncrafting exploits.
+	 */
+	fix-uncrafting-exploits: on;
+
+	/*
+	 * Fixes XyCraft ore items messing up the light state, making all
+	 * items rendered after them in the GUI draw with wrong lighting.
+	 */
+	fix-xycraft-item-lighting: on;
+
+	/*
 	 * Fixes XyCraft ore textures to actually use the correct parts
 	 * of the block atlas, instead of just recoloring the white one.
 	 */
 	fix-xycraft-ore-textures: on;
-
-	/*
-	 * Replace the "Performance" option with an FPS slider like modern
-	 * versions.
-	 */
-	fps-slider: on;
 
 	/*
 	 * Allows opening GUIs in Nether portals. This was a fix for a
@@ -166,9 +183,21 @@ features {
 	logistics-pipes-fabricator-import: on;
 
 	/*
-	 * Show nilmods in Voxel Menu's Mod Information screen.
+	 * Backports the modern hue-based durability bar color - it's more legible.
 	 */
-	nilmods-in-voxelmenu: on;
+	modern-durability-color: on;
+
+	/*
+	 * Replace the "Performance" option with an FPS slider like modern
+	 * versions.
+	 */
+	modern-fps-slider: on;
+
+	/*
+	 * Backports the modern GUI Scale option that lets you set it to anything
+	 * that fits, instead of only Auto/Small/Normal/Large.
+	 */
+	modern-gui-scale: on;
 
 	/*
 	 * Ultimate/Hybrid Solar Helmets will eat filled tin cans just like the quantum
@@ -185,12 +214,6 @@ features {
 	 * RedPower2 can insert into BuildCraft pipes.
 	 */
 	redpower-pipe-integration: on;
-
-	/*
-	 * Re-enables SHA-1 jar signing in Java itself. This is necessary for many 1.4
-	 * mods to load on new Java 8 releases.
-	 */
-	reenable-sha1-signatures: on;
 
 	/*
 	 * Some mods add cosmetics (usually capes) that try to contact dead servers.
@@ -221,7 +244,7 @@ features {
 
 	/*
 	 * Swap the red and blue channels in the main framebuffer.
-	 * Fixes the game rendering with incorrect colors on M1 Macs.
+	 * Fixes the game rendering with incorrect colors on Apple Silicon Macs.
 	 */
 	swap-red-blue: auto;
 
