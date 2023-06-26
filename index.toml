@@ -758,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/sha1redemption.jar"
-hash = "c73415aabc20e0bb3be671417c2a164cf4eb70f4ede9cd75e4715cb699ded12b"
+hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
 
 [[files]]
 file = "options.txt"
