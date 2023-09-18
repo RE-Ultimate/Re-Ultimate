@@ -71,3 +71,6 @@ flavors = "music_voxel"
 
 [metafile.xyceradix-mosaik]
 flavors = "music_upsilon"
+
+[metafile.dartcraft-zs]
+flavors = "dartcraft_on"
