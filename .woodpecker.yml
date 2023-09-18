@@ -4,7 +4,7 @@ clone:
     settings:
       lfs: false
 
-pipeline:
+steps:
 - name: purge-cache
   image: curlimages/curl:7.87.0
   secrets:
@@ -13,4 +13,5 @@ pipeline:
   commands:
   - "curl -Lsf -X POST https://api.bunny.net/pullzone/$PULL_ZONE/purgeCache -H \"AccessKey: $ACCESS_KEY\" -H 'content-type: application/json' --data '{\"CacheTag\":\"git\"}'"
 
-branches: "trunk"
+when:
+    branch: "trunk"
