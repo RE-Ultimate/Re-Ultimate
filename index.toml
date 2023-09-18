@@ -922,7 +922,17 @@ metafile = true
 
 [[files]]
 file = "resources/menumusic/xyceradix-mosaik.pw.toml"
-hash = "8d5318657eb999cf0658ed5df5e647d4f8fcb81cc8d74926b72c50d19219c3fe"
+hash = "dd57dc30f0a32635cb49866ab846ed068a36e7ad419295d3b5b872b05b87b9cb"
+metafile = true
+
+[[files]]
+file = "resources/menumusic/xyceradix-nova.pw.toml"
+hash = "adb97b0875c2aad0d4ffd34a220cdec42c2c69efeb9c666dbca689b475ca5add"
+metafile = true
+
+[[files]]
+file = "resources/menumusic/xyceradix-rainbowdash.pw.toml"
+hash = "f296146999566b797e2a86dee6b2e8a8a3dd3fa23140ed40c8f167e25376bcbb"
 metafile = true
 
 [[files]]

@@ -1,0 +1,11 @@
+name = "Rewind menu music (3)"
+filename = "menu3.ogg"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-rainbowdash.ogg"
+hash-format = "sha1"
+hash = "694a326ccf042f68fae60238aa1a5db5ab6a9994"
+
+[option]
+optional = true
+default = true

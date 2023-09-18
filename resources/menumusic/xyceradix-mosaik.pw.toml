@@ -1,10 +1,10 @@
-name = "Rewind menu music"
+name = "Rewind menu music (1)"
 filename = "menu1.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-mosaik.ogg"
 hash-format = "sha1"
-hash = "30adcc8844797fd64c7eb5ef36a3300b4959e132"
+hash = "1ebbb6beac45cbbcfbd7b768af3b117e7462b240"
 
 [option]
 optional = true

@@ -1,0 +1,11 @@
+name = "Rewind menu music (2)"
+filename = "menu2.ogg"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-nova.ogg"
+hash-format = "sha1"
+hash = "b3615e035213571c44213a2cb74664e6f6e46220"
+
+[option]
+optional = true
+default = true

@@ -35,7 +35,7 @@ side = "client"
 [[flavor_groups.music.choices]]
 id = "music_upsilon"
 name = "Upsilon"
-description = "Use original CC-licensed happy chiptunes chosen by the Rewind project. Currently, this is just xyce + radix - mosaik."
+description = "Use CC-licensed happy chiptunes chosen by the Rewind project, created by xyce and radix."
 [[flavor_groups.music.choices]]
 id = "music_voxel"
 name = "Classic"
@@ -70,6 +70,10 @@ flavors = "music_voxel"
 flavors = "music_voxel"
 
 [metafile.xyceradix-mosaik]
+flavors = "music_upsilon"
+[metafile.xyceradix-nova]
+flavors = "music_upsilon"
+[metafile.xyceradix-rainbowdash]
 flavors = "music_upsilon"
 
 [metafile.dartcraft-zs]
