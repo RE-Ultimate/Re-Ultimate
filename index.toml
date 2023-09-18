@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "b52343c733eb181f50290abb5bd4664bd89042813e731ccd5bdb3b512d756366"
+hash = "b1553993bdf2aeeec0f0ea698a16bc443f12dd9594e81ad1b4144e1511435d51"
 metafile = true
 
 [[files]]
@@ -2430,7 +2430,7 @@ file = "scripts/charge-station.zs"
 hash = "15da683788c4aa5aa6ad0aa0f36deda59c92c2052b5955f3f5fab1598bf59cd9"
 
 [[files]]
-file = "scripts/dartcraft.pw.toml"
+file = "scripts/dartcraft-zs.pw.toml"
 hash = "01dc5a63346ea838a98aa7fb7874b938cda55b11da7a156a7e384236835ebd83"
 metafile = true
 
