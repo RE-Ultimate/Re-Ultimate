@@ -1,8 +1,4 @@
-clone:
-  git:
-    image: woodpeckerci/plugin-git
-    settings:
-      lfs: false
+skip_clone: true
 
 steps:
 - name: purge-cache
@@ -14,4 +10,4 @@ steps:
   - "curl -Lsf -X POST https://api.bunny.net/pullzone/$PULL_ZONE/purgeCache -H \"AccessKey: $ACCESS_KEY\" -H 'content-type: application/json' --data '{\"CacheTag\":\"git\"}'"
 
 when:
-    branch: "trunk"
+  branch: "trunk"
