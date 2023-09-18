@@ -1,0 +1,11 @@
+name = "Ultimate/VoxelBox menu music (1)"
+filename = "menu1.ogg"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-fire.ogg"
+hash-format = "sha1"
+hash = "a01d1abd1630d58fdbb066083be4976fa2012dbc"
+
+[option]
+optional = true
+default = false

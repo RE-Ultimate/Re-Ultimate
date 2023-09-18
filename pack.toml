@@ -1,17 +1,17 @@
 name = "Rewind Upsilon"
 author = "unascribed"
-version = "0.5.2-beta"
+version = "0.5.3-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ebfdaf181decd99974da853d0a79f6c3afa1a85cc528a8110cb73f6fa5fdadbd"
+hash = "63ebac45334c0bc632f6787e2940d289721aa685901f7a271766f67f1f30e88a"
 
 [versions]
 forge = "6.6.2.534"
 minecraft = "1.4.7"
-unsup = "0.2.0"
+unsup = "0.2.3"
 
 [options]
 acceptable-game-versions = ["1.4.6"]

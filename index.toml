@@ -648,13 +648,8 @@ hash = "3db3c1d02a6805ce94c22a8557aa10fd08d13857870d29461322c7b642db390a"
 metafile = true
 
 [[files]]
-file = "mods/mystcraft-10.pw.toml"
-hash = "b4e64a0b0883bf7fa029f87464cf3631c890e101ae0dbd68d1b668dc6c42046e"
-metafile = true
-
-[[files]]
-file = "mods/mystcraft-9.pw.toml"
-hash = "401c94b12bf38e35dde0c7caf67c4b7043b254cd046d686691c027ecaca9f470"
+file = "mods/mystcraft.pw.toml"
+hash = "b52343c733eb181f50290abb5bd4664bd89042813e731ccd5bdb3b512d756366"
 metafile = true
 
 [[files]]
@@ -754,6 +749,11 @@ hash = "959ec61bf200b3beee57def1654de5ef58ff1928e39292b0000ca5d7c178a350"
 [[files]]
 file = "nilmods/niteloader.pw.toml"
 hash = "125dfeb649fbb4e32deb21c68349b1dde27ac09ef663e03a089b58b07aacde2f"
+metafile = true
+
+[[files]]
+file = "nilmods/overworld-2.pw.toml"
+hash = "556642137f841c46c0e1e4f3a639d9f5d9982c1fb389563bc116012f2ec8ee14"
 metafile = true
 
 [[files]]
@@ -901,20 +901,29 @@ file = "resources/gravigun/sounds/pickup.ogg"
 hash = "b62bb040764674d69574842615e969cb26432c152acf2f7a2a4f1b73c80af813"
 
 [[files]]
-file = "resources/menumusic/menu1.ogg"
-hash = "5f3956897f700ecf77200618c43419e766e94d30ee97cbda3db7376427230367"
+file = "resources/menumusic/felixmoog-discord.pw.toml"
+hash = "834f5e9e5daccc013e55142cdd69d9fef079283d3338b42a1a75da5b59bebabb"
+metafile = true
 
 [[files]]
-file = "resources/menumusic/menu2.ogg"
-hash = "77a6fd2e825911739c2e6ac598fcb91dc0d2d31b4da5c796e7f8a3cb42faf03d"
+file = "resources/menumusic/felixmoog-fire.pw.toml"
+hash = "e9022f0eafbeb091c52614d849c8102b1c7e7eeb3f158dcf821dd83575cd43f2"
+metafile = true
 
 [[files]]
-file = "resources/menumusic/menu3.ogg"
-hash = "8ee81a98e38b4f0140048570d8b6e4fc21ba81bcf8d6b1262d32943a91b34d42"
+file = "resources/menumusic/felixmoog-maybe.pw.toml"
+hash = "ec5503860fd78de628ec3e91c1b0acda9186e554686644f588a0f218db74df2f"
+metafile = true
 
 [[files]]
-file = "resources/menumusic/menu4.ogg"
-hash = "331e3aa8f6f7829f9c8c0154d3007446f9ee83330ef87f721cfe188ef626820c"
+file = "resources/menumusic/felixmoog-pirates.pw.toml"
+hash = "4a1c532b41cce0fb25d5105e975937baed71cd70105ca7ef50565d75a66cbc5b"
+metafile = true
+
+[[files]]
+file = "resources/menumusic/xyceradix-mosaik.pw.toml"
+hash = "8d5318657eb999cf0658ed5df5e647d4f8fcb81cc8d74926b72c50d19219c3fe"
+metafile = true
 
 [[files]]
 file = "resources/myst/sound/link-disarm.ogg"

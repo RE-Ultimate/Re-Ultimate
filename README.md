@@ -41,6 +41,7 @@ with full updater support.
 - Added Ears
   - This includes a backport of modern skin features and a skin fix
 - Added LegacyCustomPublish
+- Added Overworld -2 (worldgen optimization and cleanup)
 - Added LogisticsPipes
 - Added DartCraft
 - Added Chisel Retro
@@ -64,7 +65,7 @@ with full updater support.
   - Adds a Clear button to the Project Table
   - Fixes crashes when opening a logic tile GUI while holding a block
 - Removed VoxelBox mods due to licensing issues
-  - VoxelMenu is being rewritten from scratch in UpsilonFixes (not done yet)
+  - VoxelMenu has been rewritten from scratch in UpsilonFixes
   - VoxelPlayer has no replacement
   - VoxelMap can still be optionally used as it's a separate thing
 - Removed LiteLoader, as it was only used by the VoxelBox mods

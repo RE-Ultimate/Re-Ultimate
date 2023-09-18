@@ -9,7 +9,7 @@ description = "You want to create a new world with normal terrain generation, or
 [[flavor_groups.flavor.choices]]
 id = "compatible"
 name = "Compatible"
-description = "You want to load an existing FTB Ultimate world and continue where you left off, or join a server using this flavor.<ul><li>PowerConverters enabled</li><li>Same biomes as FTB Ultimate</li></ul>"
+description = "You want to load an existing FTB Ultimate world and continue where you left off, or join a server using this flavor.<ul><li>PowerConverters enabled</li><li>Same biomes as FTB Ultimate</li></ul>\n\n<b>Warning: This has not been thoroughly tested!</b> Always keep backups!"
 [[flavor_groups.flavor.choices]]
 id = "skyblock"
 name = "Skyblock"
@@ -22,11 +22,24 @@ side = "client"
 [[flavor_groups.minimap.choices]]
 id = "reis_minimap"
 name = "Rei's Minimap"
-description = "Use Rei's Minimap. This was removed from FTB packs at the time due to it exposing the IP of private servers in YouTube videos, but in general is a very good mod. UpsilonFixes fixes its IP printing issue."
+description = "Use Rei's Minimap. This was removed from FTB packs at the time due to it exposing the IP of private servers in YouTube videos, but in general is a very good mod."
 [[flavor_groups.minimap.choices]]
 id = "voxelmap"
 name = "VoxelMap"
 description = "Use VoxelMap. This is the mod that was included in FTB Ultimate, but it's a little janky and has fewer features than Rei's.\n\n<i>Requires LiteLoader. NiteLoader will be installed.</i>"
+
+[flavor_groups.music]
+name = "Menu Music"
+description = "What menu music do you want?"
+side = "client"
+[[flavor_groups.music.choices]]
+id = "music_upsilon"
+name = "Upsilon"
+description = "Use original CC-licensed happy chiptunes chosen by the Rewind project. Currently, this is just xyce + radix - mosaik."
+[[flavor_groups.music.choices]]
+id = "music_voxel"
+name = "Classic"
+description = "FelixMoog's nostalgic covers of Call Me Maybe, Pirates of the Caribbean, Discord, and We Didn't Start The Fire, same as FTB Ultimate and VoxelBox.\n\n<i><b>Potentially a copyright hazard due to reused melodies</b> — not recommended for streamers.</i>"
 
 [metafile.extrabiomes-standard]
 flavors = ["standard", "skyblock"]
@@ -34,12 +47,10 @@ flavors = ["standard", "skyblock"]
 flavors = "compatible"
 [metafile.powerconverters]
 flavors = "compatible"
-[metafile.mystcraft-9]
-flavors = "compatible"
-[metafile.mystcraft-10]
-flavors = ["standard", "skyblock"]
 [metafile.ultimateskyblock]
 flavors = "skyblock"
+[metafile.overworld-2]
+flavors = "standard"
 
 [metafile.reiminimap]
 flavors = "reis_minimap"
@@ -48,3 +59,15 @@ flavors = "reis_minimap"
 flavors = "voxelmap"
 [metafile.voxelmap]
 flavors = "voxelmap"
+
+[metafile.felixmoog-discord]
+flavors = "music_voxel"
+[metafile.felixmoog-fire]
+flavors = "music_voxel"
+[metafile.felixmoog-maybe]
+flavors = "music_voxel"
+[metafile.felixmoog-pirates]
+flavors = "music_voxel"
+
+[metafile.xyceradix-mosaik]
+flavors = "music_upsilon"

@@ -1,0 +1,11 @@
+name = "Overworld -2"
+filename = "Overworld_2-1.0.jar"
+
+[download]
+url = "https://github.com/jaskarth/retromods/releases/download/overworld_2_v0.1.0/Overworld_2-1.0.jar"
+hash-format = "sha256"
+hash = "5494d28dc1a0c0b32beb47f5f6b4a0ff509c154c3d9d99c8b25024f40a240a8b"
+
+[option]
+optional = true
+default = true

@@ -1,0 +1,11 @@
+name = "Ultimate/VoxelBox menu music (3)"
+filename = "menu3.ogg"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-pirates.ogg"
+hash-format = "sha1"
+hash = "a06ac8c05c581d37a550a1bafe64f4b4f334156f"
+
+[option]
+optional = true
+default = false

@@ -1,0 +1,11 @@
+name = "Ultimate/VoxelBox menu music (4)"
+filename = "menu4.ogg"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-discord.ogg"
+hash-format = "sha1"
+hash = "6ee7ec050b5fbb24211d1dbc56dd4de993d469a9"
+
+[option]
+optional = true
+default = false
