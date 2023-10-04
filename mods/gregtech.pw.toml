@@ -3,10 +3,10 @@ filename = "GregTech.zip"
 
 [download]
 url = "https://github.com/GregTech6/GregTech2/releases/download/v4.6.29009/gregtechmod290i.zip"
-hash-format = "sha1"
-hash = "adb389d947aa919f38c9edf77e13994e696c38fa"
+hash-format = "sha256"
+hash = "bab3a934e3d67f4484d4f68985cba5eaefc86b00372c353ca871765fbbe1eeec"
 
 [option]
 optional = true
-default = true
 description = "GregTech is a sprawling addon to IndustrialCraft2 with a lot of interesting and powerful machinery. It makes some sweeping balance changes to other mods, and was not included in Ultimate. However, it was included in the MindCrack Pack, and was the main difference between that and Ultimate."
+default = true

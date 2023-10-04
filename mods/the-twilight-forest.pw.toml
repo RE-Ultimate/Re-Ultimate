@@ -3,8 +3,8 @@ filename = "twilightforest-1.15.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2466ff2b7ca24fd9fba262d19e44ec456654d0cc"
+hash-format = "sha256"
+hash = "266bead77d46f17b4c8a33f2c9a14b797030b5f6c88ee557bfa4328376eb7aff"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "menu1.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-mosaik.ogg"
-hash-format = "sha1"
-hash = "1ebbb6beac45cbbcfbd7b768af3b117e7462b240"
+hash-format = "sha256"
+hash = "ac4c7a3bff87bd9a4bdd4d09c7a9a80d45ed70a74f1b8e8cd93d2c1f799361cf"
 
 [option]
 optional = true

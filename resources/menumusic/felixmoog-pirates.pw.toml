@@ -3,9 +3,8 @@ filename = "menu3.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-pirates.ogg"
-hash-format = "sha1"
-hash = "a06ac8c05c581d37a550a1bafe64f4b4f334156f"
+hash-format = "sha256"
+hash = "9473f3d02fc38209c6ba48316192dbbe251160d6ddc643c40d207f6c64dc5df5"
 
 [option]
 optional = true
-default = false

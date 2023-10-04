@@ -3,8 +3,8 @@ filename = "VanillaNeiFix_mc147_1.0.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "2500014099"
+hash-format = "sha256"
+hash = "a654555943a335ebb58e297d72864ba40241f99d762aed648d0e603a6a759907"
 mode = "metadata:curseforge"
 
 [update]

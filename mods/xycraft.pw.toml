@@ -3,5 +3,5 @@ filename = "XyCraft.zip"
 
 [download]
 url = "https://dl.dropboxusercontent.com/s/681yunreb9zchpz/xycraft-1.4.7-0.10.18.zip"
-hash-format = "sha1"
-hash = "3774851fd27dd666da0d5eeb8b548bb01e5e112a"
+hash-format = "sha256"
+hash = "ed07abe0c990d38bff58f21d383acb448f3938a93da49df74e17a90313ec0157"

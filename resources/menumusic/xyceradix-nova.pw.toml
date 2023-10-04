@@ -3,8 +3,8 @@ filename = "menu2.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-nova.ogg"
-hash-format = "sha1"
-hash = "b3615e035213571c44213a2cb74664e6f6e46220"
+hash-format = "sha256"
+hash = "a88396826814edaa0b3616cd40c4f779e5d7e7d0c667bf651624595e51806363"
 
 [option]
 optional = true

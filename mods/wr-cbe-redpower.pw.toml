@@ -3,8 +3,8 @@ filename = "WR-CBE RedPower 1.3.3.jar"
 side = "both"
 
 [download]
-hash-format = "murmur2"
-hash = "132031140"
+hash-format = "sha256"
+hash = "a7db4872dff4988a2fb0a2157f68baf4eda236b1eb5a16d74d46db2902adbd3f"
 mode = "metadata:curseforge"
 
 [update]

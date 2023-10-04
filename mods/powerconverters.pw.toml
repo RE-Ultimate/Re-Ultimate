@@ -3,9 +3,8 @@ filename = "PowerConverters.jar"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/mods/PowerConverters.jar"
-hash-format = "sha1"
-hash = "48160b07453ee2f6a9d6950cc203f7d95d4003b7"
+hash-format = "sha256"
+hash = "dc257b7108c4bc58fc469b40f20ca3e80e45f1efd2e149435743c1a78d577e2b"
 
 [option]
 optional = true
-default = false

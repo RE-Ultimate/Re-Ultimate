@@ -4,9 +4,8 @@ side = "client"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/mods/VoxelMap.litemod"
-hash-format = "sha1"
-hash = "20abf142bf652a10d25f76c6d6126d027b772f5c"
+hash-format = "sha256"
+hash = "99364942c9b37b1159d55483cabdf8f5544690e0230aa4087ff1a42aa34f74ff"
 
 [option]
 optional = true
-default = false

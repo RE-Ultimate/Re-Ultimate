@@ -3,8 +3,8 @@ filename = "CodeChickenCore 0.8.1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ba0a5da5feee6afca0783ff9f72ec0228780e565"
+hash-format = "sha256"
+hash = "164008958bfb6ca8eedf9686589bd511f515524ef9cdaffdccd25bbff89d984e"
 mode = "metadata:curseforge"
 
 [update]

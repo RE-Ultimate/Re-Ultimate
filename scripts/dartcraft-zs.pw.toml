@@ -3,8 +3,8 @@ filename = "dartcraft.zs"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/scripts/dartcraft.zs"
-hash-format = "sha1"
-hash = "8800e6a9f3b6b3427f996c6f8b0515aad308f984"
+hash-format = "sha256"
+hash = "7ce4599a9df9d7e61d716cf5500855ac89308cce607f802ae682c270b61e1a3d"
 
 [option]
 optional = true

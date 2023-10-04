@@ -3,8 +3,8 @@ filename = "menu3.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-rainbowdash.ogg"
-hash-format = "sha1"
-hash = "694a326ccf042f68fae60238aa1a5db5ab6a9994"
+hash-format = "sha256"
+hash = "00e8be29149da7a638a5341d50c43eaa77ef5d212d9e74103d6c32d111dee021"
 
 [option]
 optional = true

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/HjCQxJk6/auto_third_person-forge-1.4.7-2.0.3.jar"
-hash-format = "sha1"
-hash = "cee086bacbfcde4c36b5ad82241914c2369a232e"
+hash-format = "sha256"
+hash = "c4760fd2768544a2d01b0307f8a2df5519f35dcc44414221fe56a0eb8efcbd33"
 
 [update]
 [update.modrinth]

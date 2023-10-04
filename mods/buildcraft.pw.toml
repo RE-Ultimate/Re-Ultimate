@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/hYxfmgS8/buildcraft-A-1.4.7-3.4.5.jar"
-hash-format = "sha1"
-hash = "2eaf2018b78f40430849e0bbe7a0de540c7f4885"
+hash-format = "sha256"
+hash = "b85f35af8eac7b34a29b51a543ec1974a7fcb2d7723070515129e7f348df6ec1"
 
 [update]
 [update.modrinth]

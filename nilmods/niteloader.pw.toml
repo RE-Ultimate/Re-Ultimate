@@ -3,10 +3,9 @@ filename = "NiteLoader.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a43ab5c314c8a612262167284c94874c691776e0"
 url = "https://rewindmc.com/packwiz/upsilon/nilmods/NiteLoader.jar"
+hash-format = "sha256"
+hash = "376151ccec637a43325fd843c092f73a633afa49fd46f113dc49a8464659dd7f"
 
 [option]
 optional = true
-default = false

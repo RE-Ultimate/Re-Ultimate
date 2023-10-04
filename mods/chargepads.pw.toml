@@ -3,8 +3,8 @@ filename = "chargepads-1.4.7-universal-2.5.0.72.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f3d0cc77ed2ec3485f4084420ea244d5ce0ad095"
+hash-format = "sha256"
+hash = "78b324a10b85687767d095374793197f46ff5ce8e796f2529a0dd39924fb4cb8"
 mode = "metadata:curseforge"
 
 [update]

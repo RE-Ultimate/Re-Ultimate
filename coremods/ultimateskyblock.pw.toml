@@ -3,10 +3,9 @@ filename = "UltimateSkyblock.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e5a1a695fa566ea52baa22e8dbd714ec5123f044"
 url = "https://rewindmc.com/packwiz/upsilon/coremods/UltimateSkyblock.jar"
+hash-format = "sha256"
+hash = "34f282987d6563fc709a5ca87bd7156054a4fb3e73ced7fc5fbe60182aa6a11a"
 
 [option]
 optional = true
-default = false

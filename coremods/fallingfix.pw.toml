@@ -3,8 +3,8 @@ filename = "FallingFix_mc147_v1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "177a45619ea7c4dc006f07f45c4067a21f5d3105"
+hash-format = "sha256"
+hash = "53550f80dffa20a839b0611dc8769d56d7afe789e3eeaed9e0709e93475a7298"
 mode = "metadata:curseforge"
 
 [update]

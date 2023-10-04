@@ -3,8 +3,8 @@ filename = "obsidiplates-universal-1.2.0.3.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4eeddb25744a6c348db6e07644d3cd195cccba3"
+hash-format = "sha256"
+hash = "df359d224dfe0a5de37bdaccf0cc7f1c04fd4ecbda5a8ebab9f8e9163d92995a"
 mode = "metadata:curseforge"
 
 [update]

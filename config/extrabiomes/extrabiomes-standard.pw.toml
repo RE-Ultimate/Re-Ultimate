@@ -3,9 +3,9 @@ filename = "extrabiomes.cfg"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "62b3b481b1724a8689e8dffa5bb3ee1ab827870d"
 url = "https://rewindmc.com/packwiz/upsilon/config/extrabiomes/extrabiomes.cfg"
+hash-format = "sha256"
+hash = "26e30580fac0e2cc7d7c72181e9c881bac67dbca9391e155a3f205e8dea0df0a"
 
 [option]
 optional = true

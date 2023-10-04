@@ -3,9 +3,8 @@ filename = "menu1.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-fire.ogg"
-hash-format = "sha1"
-hash = "a01d1abd1630d58fdbb066083be4976fa2012dbc"
+hash-format = "sha256"
+hash = "c6cfbb012bfd41ff181eb45ef1ef5defd7fdd430a1aac0be9a2d272620a09415"
 
 [option]
 optional = true
-default = false

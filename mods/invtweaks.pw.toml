@@ -4,5 +4,5 @@ side = "client"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/mods/InvTweaks.zip"
-hash-format = "sha1"
-hash = "6765e8e37cffc4809e0e13d176c097c161087c45"
+hash-format = "sha256"
+hash = "38d245c9bfc659f7dd0905e2c55c0ebb0b62e0f50d6b027a5913b1c0076d3f69"

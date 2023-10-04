@@ -3,8 +3,8 @@ filename = "PortalGun1.4.7v5.zip"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c7086d048c6e2c2dfcc28e1621814324bc460f6d"
+hash-format = "sha256"
+hash = "52528539170507bd248a63ff25e3433675d54e87458843a5877f7496e18a03c6"
 mode = "metadata:curseforge"
 
 [update]

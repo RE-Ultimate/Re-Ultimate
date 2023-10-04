@@ -3,9 +3,8 @@ filename = "menu2.ogg"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-maybe.ogg"
-hash-format = "sha1"
-hash = "e6b48f1c44a6aa7965777979bbdfd6e06267dd31"
+hash-format = "sha256"
+hash = "6f12595a958fdc450d3259d7454053a824f3a0d5e64385bc43a7a6d9f13e12e1"
 
 [option]
 optional = true
-default = false

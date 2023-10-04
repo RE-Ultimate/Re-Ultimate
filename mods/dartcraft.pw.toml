@@ -3,10 +3,10 @@ filename = "DartCraft.jar"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/mods/DartCraft.jar"
-hash-format = "sha1"
-hash = "1c99780141d2e35530e5c21e6f22a5a1e1753931"
+hash-format = "sha256"
+hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
 
 [option]
 optional = true
-default = true
 description = "DartCraft is a powerful content mod with a lot of functionality. UpsilonFixes tones down some of its most overpowered things, but it's divisive and was not in FTB Ultimate."
+default = true

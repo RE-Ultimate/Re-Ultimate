@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.5_01%2Bforge-1.4.01/ears-forge-1.4-1.4.5_01.jar"
-hash-format = "sha1"
-hash = "2cfa7b07baec62bd0e8b922c614813bfdd3d21bf"
+hash-format = "sha256"
+hash = "54ecf2dd24215f6db3ae795fddba5bf98e9c67322e0630688b902d88f6baf3bf"
 
 [update]
 [update.modrinth]
