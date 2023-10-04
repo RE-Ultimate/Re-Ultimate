@@ -2515,7 +2515,3 @@ hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
 [[files]]
 file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "unsup.sig"
-hash = "924db69317a923129f7eb01376dbad5d6289d0e901e69a406c0865424a518d60"
