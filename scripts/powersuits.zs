@@ -34,8 +34,8 @@ val superconductor = <ore:craftingSuperconductor>;
 
 val battery = <ore:10kEUStore>;
 
-val lapotronCrystal = <item.itemBatLamaCrystal>;
-val lapotronOrb = <item.Lapotronic_Energyorb>;
+val lapotronCrystal = <item.itemBatLamaCrystal:*>;
+val lapotronOrb = <item.Lapotronic_Energyorb:*>;
 
 battery.add(<30239>);
 battery.add(<30242>);
