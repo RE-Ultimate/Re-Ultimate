@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "959ec61bf200b3beee57def1654de5ef58ff1928e39292b0000ca5d7c178a350"
+hash = "6731442c33035653ac7f8225804a0bd442cfdbae9969c099cd8ce166e1f5e658"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
@@ -2450,7 +2450,7 @@ hash = "1a0650b1f136f47b81b967c3bbcf97f3e9a567d91200aa4ad51415d5ceea3095"
 
 [[files]]
 file = "scripts/powersuits.zs"
-hash = "dd2ec061e0296aadb5585c51553e2b773afa4839b422b5b17558f014688308c7"
+hash = "a0392ceeae7d91c74320cb520910fce796155caca8eab2f5e9435036cd5d4f1e"
 
 [[files]]
 file = "scripts/quartz-crystal-recipe.zs"
