@@ -2461,6 +2461,10 @@ file = "scripts/sulfur-oredict.zs"
 hash = "b00e96cafc3daf1292f29e3565a9519c50b04d511ae26caedee9e6d9c9d1661d"
 
 [[files]]
+file = "scripts/thaumicbees.zs"
+hash = "e64b4e37e39a139a7a4a3848023b39082ed88aec0100d72e699a690ed3cd1115"
+
+[[files]]
 file = "texturepacks/Retrocausal.zip"
 hash = "24ad28a85be633fa9d7a4df1c85ffe8105d7f447d702d32bd153ad4639c67197"
 
