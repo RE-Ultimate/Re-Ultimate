@@ -2,6 +2,6 @@ name = "XyCraft"
 filename = "XyCraft.zip"
 
 [download]
-url = "https://dl.dropboxusercontent.com/s/681yunreb9zchpz/xycraft-1.4.7-0.10.18.zip"
+url = "https://files.y2k.my/xycraft-1.4.7-0.10.18.zip"
 hash-format = "sha256"
 hash = "ed07abe0c990d38bff58f21d383acb448f3938a93da49df74e17a90313ec0157"
