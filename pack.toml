@@ -12,8 +12,8 @@ hash = "1ff0f9021bb496a01f86b5b7845cfa1393964032afae953a67aff6fe91726046"
 forge = "6.6.2.534"
 liteloader = "1.4.7_00"
 minecraft = "1.4.7"
-nilloader = "1.3.3"
-unsup = "0.2.3"
+nilloader = "1.3.4"
+unsup = "0.3.0-pre6"
 
 [options]
 acceptable-game-versions = ["1.4.6"]
