@@ -3,11 +3,15 @@ skip_clone: true
 steps:
 - name: purge-cache
   image: curlimages/curl:7.87.0
-  secrets:
-  - pull_zone
-  - access_key
+  environment:
+    PULL_ZONE:
+      from_secret: pull_zone
+    ACCESS_KEY:
+      from_secret: access_key
   commands:
-  - "curl -Lsf -X POST https://api.bunny.net/pullzone/$PULL_ZONE/purgeCache -H \"AccessKey: $ACCESS_KEY\" -H 'content-type: application/json' --data '{\"CacheTag\":\"git\"}'"
+  - "curl -Lisf -X POST https://api.bunny.net/pullzone/$PULL_ZONE/purgeCache -H \"AccessKey: $ACCESS_KEY\" -H 'content-type: application/json' --data '{\"CacheTag\":\"git\"}'"
 
 when:
-  branch: "trunk"
+  - branch: "trunk"
+    event: push
+  - event: manual
