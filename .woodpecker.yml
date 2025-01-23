@@ -2,7 +2,7 @@ skip_clone: true
 
 steps:
 - name: purge-cache
-  image: curlimages/curl:7.87.0
+  image: curlimages/curl-base:8.11.1
   environment:
     PULL_ZONE:
       from_secret: pull_zone
