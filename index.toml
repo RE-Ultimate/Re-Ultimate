@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "66a09f2aaa1e054068ef751ba9b48fce33ce1e5867909a42abb646bf14b59382"
+hash = "a1b60f2a5664a21defb35325b1356cf90fc9855aa79cf3860282879237bad5c1"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
