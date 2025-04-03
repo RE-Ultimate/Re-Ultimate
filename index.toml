@@ -368,7 +368,7 @@ hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
 
 [[files]]
 file = "coremods/cc-tweaked.pw.toml"
-hash = "c3d5f594dd777fc982ffeb584326153abaf912c009f79edfbca4c42e9e1e2f9f"
+hash = "3097f11eab8cd7cc88271e0a5fa4f96e4105a4bbf740fcf3c8a67869e0f3d663"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "coremods/ears.pw.toml"
-hash = "92d6d52f5c402afaaba4b4b706f9b4967e533a385036b945e52bf771d96f39c4"
+hash = "76ceadd2d116f8335f6195be4d78fa46e86cd875e10573a142d4b05562869c46"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-helper.pw.toml"
-hash = "964c1bb45f36aeb40e30c6e42b1f4878063b4ffd83d1c99caaaebf106e9301dd"
+hash = "8f0c0ff9cfcfaf32d3686b0325d7327ca750f3ddd5df34c691732e69cd9e1884"
 metafile = true
 
 [[files]]
@@ -972,1256 +972,1569 @@ file = "resources/newsound/ic2nuclearControl/alarm-sci-fi.ogg"
 hash = "782f8960f2c89f0a7adc594f18b6e80aece1fe7cdc6b5007cce14e4fa806966c"
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/afp_launch.ogg"
-hash = "781de383f29c64cb483503bb29adb34cf2c965d0fa6f64829636329d60551c26"
+file = "resources/portalgun/sound/portalgun/afp-launch-ogg.pw.toml"
+hash = "e58e388681afadd7f08568942eef78ad422316bb443276c7b13a132d1ddc9d18"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/apg_firing.ogg"
-hash = "3e487eb5591be84529f30c406aa457ce1e44f0ea217ff5b1b312e95e0f652154"
+file = "resources/portalgun/sound/portalgun/apg-firing-ogg.pw.toml"
+hash = "c51b59a9206e17157f6bb24f4f513c15508a9afbbdba9c93fdc47f75b6f4001b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/apg_turn.ogg"
-hash = "a2d8116135325ed08f55f102cb3187640c7a2521d95d15a5600ebff13bced317"
+file = "resources/portalgun/sound/portalgun/apg-turn-ogg.pw.toml"
+hash = "9cd219217759040d62e6c8c9dccfd12da2a142987dc6c23af6542e8fc2c2d79b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dinosaur_fizzle1.ogg"
-hash = "bd28b8bde1c4ff318283d16f258a26a94f382c78d7a3bb170dc59e44d3627c9a"
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle1-ogg.pw.toml"
+hash = "9d67cc630088f70fb5071352a1e2b18186b3115ac6e20fb3b51b111d96ccecbc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dinosaur_fizzle2.ogg"
-hash = "60196c834cf33f115f1dfb994e6a955f48337fb3e25816fd08b70c6ffc825a98"
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle2-ogg.pw.toml"
+hash = "e2eeb9b46b16b792954b0859a87f6727034da4c5c20ffdb50b467f52d58c0e41"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dinosaur_fizzle3.ogg"
-hash = "26ad7dd7910f0944b2f6c6d5cfce5a4fc1145fc451143038914f99f1b4a31459"
+file = "resources/portalgun/sound/portalgun/dinosaur-fizzle3-ogg.pw.toml"
+hash = "a5be6636431e671ffedfb7f13fc0869ab17aaa76c0d12efd3fc2f73b482fe227"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dropper_iris_close_01.ogg"
-hash = "56691d98f1e56f5d2fcfb63b73fea8264830e101b564af236b8ff1453a281a6c"
+file = "resources/portalgun/sound/portalgun/dropper-iris-close-01-ogg.pw.toml"
+hash = "e8c6cfae92c6a970d8aea350a92745196183ab24dfb0e800e57769174cb94a55"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dropper_iris_open_01.ogg"
-hash = "845613194cb4d72b74f7b8a1f5554262e277d4307cb972a6f0626040e98fdb9f"
+file = "resources/portalgun/sound/portalgun/dropper-iris-open-01-ogg.pw.toml"
+hash = "0e6225e18190c60f63e05526a011f6c84e23d26d71f8517efcd045ca67804704"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/dropper_iris_open_02.ogg"
-hash = "86224e70dfee0068f8e5b63bd3a901c237a3586d939c3c45170dbf4274bb9a21"
+file = "resources/portalgun/sound/portalgun/dropper-iris-open-02-ogg.pw.toml"
+hash = "41b75c46f23dd5979c4e2d0ea0e2ad0ad961aed8b0339e209bd0fcb958662276"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/energy_bounce1.ogg"
-hash = "e72ad7c3b13f0136c554f8aa46306b6a17f25dbf1c93c8889c543512fac63f99"
+file = "resources/portalgun/sound/portalgun/energy-bounce1-ogg.pw.toml"
+hash = "02ed456ea96a488836ff50bb96eaf768354a81ea6d02999ee1089c220c5fb790"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/energy_bounce2.ogg"
-hash = "29c096b25865d89275afd490079dd15c9ce63187c39ed3b4b93852610e738a83"
+file = "resources/portalgun/sound/portalgun/energy-bounce2-ogg.pw.toml"
+hash = "bf00471d519cc523dc8f63b3e89aa785b753a2cf6e128fa855b8465ba9aad7b4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/energy_sing_explosion1.ogg"
-hash = "a0e441fad50db01e9f7ade69ad3da297df225606569158f1748a78d52a26217d"
+file = "resources/portalgun/sound/portalgun/energy-sing-explosion1-ogg.pw.toml"
+hash = "975cd2bfb241b4f3afad774901b1796b6d94fe8c26de5276659e691ea350e6de"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/energy_sing_flyby1.ogg"
-hash = "9c834628f059f26b7f21d08f71ab7a7dff42b9de7e03e4b9b08de76007043c20"
+file = "resources/portalgun/sound/portalgun/energy-sing-flyby1-ogg.pw.toml"
+hash = "179f79074563b0aa637a686441c0262d447a325638ce0605419e5e9d82e9cb58"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/energy_sing_flyby2.ogg"
-hash = "da3bdd556d2bd0fdba298ffe5b04c069f1dc836b04373e9e4c578c3a3be3e401"
+file = "resources/portalgun/sound/portalgun/energy-sing-flyby2-ogg.pw.toml"
+hash = "557c5c796aa3d2fbf0aa63b8fef8752e69f04453984cafb71275ab7dc8d3e5cb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/fizzler_shutdown_01.ogg"
-hash = "352a8e1a0920036367f5983d2c9479073f1083281a9b0cdcb090087073ebfd05"
+file = "resources/portalgun/sound/portalgun/fizzler-shutdown-01-ogg.pw.toml"
+hash = "95f39f7ff3985d22bc5ed207a8427aa612ec5b4612cfdc8c351e28014abaa1ca"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/fizzler_start_01.ogg"
-hash = "db51b1e938ef9adda013e89601a3514760edce131918dd39fa4a515a5aa0a736"
+file = "resources/portalgun/sound/portalgun/fizzler-start-01-ogg.pw.toml"
+hash = "598e03b17e54fb6452bfacb7c12254d67ef1e90e675b79964b1e15de1fe19c9e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_10_loop.ogg"
-hash = "35209e0efd5d7fe6c7bb0fe82cecff8332c5341726fe60743f23c3604c71a2ac"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-1-loop-ogg.pw.toml"
+hash = "e53ad2436a0f85840645046e9e9d927ca3259d8d94551ddcd0d3fd5a7c85af25"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_11_loop.ogg"
-hash = "6bba629fe845e153627070a26fdc4a90e5d804b2207fdd20ace86e79657a09d0"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-10-loop-ogg.pw.toml"
+hash = "f58edcff8cdf42d8b8ff7bf39422d201583fc027ad03829ea6aa3f1314b68488"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_12_loop.ogg"
-hash = "12a835b5451c9fcf35d4e4987b4defbde61dd8f0e14686ae21832aa1204614cb"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-11-loop-ogg.pw.toml"
+hash = "05e7e9ca8af3586cdcb6638d794f751aa6cfa707a8d152cdaaeb68b57a2ed7b9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_13_loop.ogg"
-hash = "664e408f39d9f8042b27dc116f21818385b159c69a370819588e150d00e7d641"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-12-loop-ogg.pw.toml"
+hash = "48abfef962b77e67254b711e62b85f0667f5e916f0681e994faaebe981b7a5f6"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_14_loop.ogg"
-hash = "0f40580bd46896519f6a779836baca298cd82a8d37742f25ee73e1864e1d8d17"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-13-loop-ogg.pw.toml"
+hash = "233635279e3b2922792a3214a1cf18b7e072c12e25a185011e020e4e7b46eefc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_15_loop.ogg"
-hash = "35644af1e039d0b71eb994f53b16c863dec8a2460a5e6dcc3db1c954bf700840"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-14-loop-ogg.pw.toml"
+hash = "244b369552a5bb2fe23ee65e9c072f2695ae43a1dd73272b0f162bbfb67e2c76"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_16_loop.ogg"
-hash = "23b98a455f7431c9585cb4339538b52f1f1abf3bf00b6bb8d2af9d67a50e752d"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-15-loop-ogg.pw.toml"
+hash = "4042f58100baf2451cc0abfa62d80850effa1709c42785ebcc4233e08d56f946"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_17_loop.ogg"
-hash = "55784cecdb5730fe2efc3a821f59c95805bffdac69532553577fc247523199f2"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-16-loop-ogg.pw.toml"
+hash = "14eaf752abff81c21babc4350afa0209d138007ece30e36aba6a9f418d188c62"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_1_loop.ogg"
-hash = "b9c1e97ff17f336d36f64a24d8350f3ab50aa2be5005a783d6b0e33be258c00c"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-17-loop-ogg.pw.toml"
+hash = "c3e74dbf72f72668784c2f3f5167f408a0154723d5809d48fe7ebc5c0f3180b8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_2_loop.ogg"
-hash = "a70800cbd3eeb8e9b15207f8cbd4b607ea40f436466bfbf0f0845d215c1ec9a8"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-2-loop-ogg.pw.toml"
+hash = "0642fb6d656b262801e34f643c72a7cbca4741427da1451cc81101076f8d13bf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_3_loop.ogg"
-hash = "6c0dcf443d52cb559ca929c319d1b9a2f28dca43ba42c2cfc880e6fdd43a3476"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-3-loop-ogg.pw.toml"
+hash = "c9b20964a14952eea8c5d37e4224eecbc06ec4fa685a5828533c200711c921de"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_4_loop.ogg"
-hash = "b88154a3a6576f0f9d454e3d16a5e3f60ba5c17097873c8b0d103e76bef8983b"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-4-loop-ogg.pw.toml"
+hash = "03e5d86e56af5142227b7c0b3e3417978a522a1490b1a866620dd422bcd00348"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_5_loop.ogg"
-hash = "a829570f3cd8c078fa566ada7515d52bb890372616c7c60dc2928bf7a58e1c50"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-5-loop-ogg.pw.toml"
+hash = "414d4231dfcc2b68b8393251231068faa9e6f05891404d0dd629a6866bf980d9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_6_loop.ogg"
-hash = "139dfb81c8b98629a320e96d27482ba6d3314cba8cf7c9932605c23c449c7c8a"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-6-loop-ogg.pw.toml"
+hash = "c79e210775e6fdc4553dff2f1729f3ace8de8a54add6428828f1a6e4f07dbfce"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_7_loop.ogg"
-hash = "1f5304303d525507f49fb2eacbf48d08b8895c41e46ba75aa0f0381b13804dcf"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-7-loop-ogg.pw.toml"
+hash = "598b273528a7700c11f10554f96bd5b2e42bb969fc4d8e2e703f668f3430e52c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_8_loop.ogg"
-hash = "bdacc184f78402ab36f4730f31a04a2d230d45daa5157a5ebf5c5d579316cee1"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-8-loop-ogg.pw.toml"
+hash = "b93e9bc8545250f8f1e23853ed4607868869252270a0028375640e0b83028d11"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/heploop/energy_sing_9_loop.ogg"
-hash = "23c8ba15dd6756700c537859681c7244932c7e6dce3cf4cd2ea5a0b2a0cae38a"
+file = "resources/portalgun/sound/portalgun/heploop/energy-sing-9-loop-ogg.pw.toml"
+hash = "086d9105049700521a04b8f7a2ff21d223e434381e78112acf7d10f425d7e443"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/laser_activation_01.ogg"
-hash = "e32f710612abebdfa5eaba9e19c604c9db5975399687d8005598f72059373c10"
+file = "resources/portalgun/sound/portalgun/laser-activation-01-ogg.pw.toml"
+hash = "35ab29a1646be228e346ec36e98810faa786cfbc269d1bfac62177f5c1eb1854"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/laser_node_power_off.ogg"
-hash = "073f1dcda36fc64ae5cc76b2b1fcd7ebf73fa280858b7f7c687bdf9905bb46e1"
+file = "resources/portalgun/sound/portalgun/laser-node-power-off-ogg.pw.toml"
+hash = "92440284e8af398b49032d8ed3554feede73d0a062df34c3dec1538047f88759"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/laser_node_power_on.ogg"
-hash = "e3681750183dc9c672046da23f86fff98102c1c005fec64848a51e7f97d825a8"
+file = "resources/portalgun/sound/portalgun/laser-node-power-on-ogg.pw.toml"
+hash = "b2ebad452766284af161b4a1b072a8376d5f3ed5bf72f689d30b07f8c6bdf7c7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/object_use_failure_01.ogg"
-hash = "e30d926ff3cef7a778c963df273afb1f600cb12140172ebc15ac7fcdecc82991"
+file = "resources/portalgun/sound/portalgun/object-use-failure-01-ogg.pw.toml"
+hash = "3fa615389fc0cc656e1a583a4adc12a107a71a766bcad4094dd6078e237401f4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/object_use_start_01.ogg"
-hash = "5b3f8c82a4fce0b64f7d29b7a58a398ce288f17e7694165a933398abebd8ac4e"
+file = "resources/portalgun/sound/portalgun/object-use-start-01-ogg.pw.toml"
+hash = "5c7e9c0d7c749d50d7d43036935e32cdc4019e6d1760b2c96d1c25ac355813a4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/object_use_stop_01.ogg"
-hash = "427d4c787e31568805d2d6e4fbda83167a3b8a4349b454b5aa08db8328d23b53"
+file = "resources/portalgun/sound/portalgun/object-use-stop-01-ogg.pw.toml"
+hash = "fa53e0bdaeb9e2b2b7a85fc83d4fe0c6295a89f11024aab1743b4e5db4ab7014"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_01.ogg"
-hash = "0d4464affb2f0f4d0cf6a43dea8a39fbdb95a5d67ab906c708db6cf95153dc8b"
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-01-ogg.pw.toml"
+hash = "7b40a09bbebdbef98d1bd1487201a084ea52991450f6306084c3509e2b0fc1e5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_02.ogg"
-hash = "0487dd5082ae3cc2ba65f49020a7cfe8c9f2c8062ca6a4d2b1478d7d5c15399b"
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-02-ogg.pw.toml"
+hash = "5fe65c0d46f23f90cd30b96bd40411c2c80c0ebe7a6500934410e7293808bf6f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_03.ogg"
-hash = "a84b2d51689ee46ea02f2c12131f24e44cf101b1745942cf5e3167d73d2fa3e5"
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-03-ogg.pw.toml"
+hash = "73d7ed8ee8dce995aee8666afbabdab7991720b1524a59afc11e3c187f6379fc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/phys_bouncy_cube_lg_04.ogg"
-hash = "eb298f8b03f1603ba3a06e500a933576a7780d5e4c116d32be3b56b9fbaa156c"
+file = "resources/portalgun/sound/portalgun/phys-bouncy-cube-lg-04-ogg.pw.toml"
+hash = "626a3a282e82624e2287473b3ddb9c2ab6ecbe12a325b0b5652c18f591d88284"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/pl_burnpain1.ogg"
-hash = "6839c7ad3818d25ceb5be998cbcc98f66e08652e6f1903dfb1a4be7b89f54199"
+file = "resources/portalgun/sound/portalgun/pl-burnpain1-ogg.pw.toml"
+hash = "debe7310b4e3974afa6007819d463441a7abb17bf9d11fe602dbc4c04b82bc6a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/pl_burnpain2.ogg"
-hash = "153c8a266f593ea5a4ab7cee8f57865356fe5c98c3d2692812b0bc5e2a6bbebe"
+file = "resources/portalgun/sound/portalgun/pl-burnpain2-ogg.pw.toml"
+hash = "3e9fdb5981d59ce717e56d71fe59f21a652d49a74101bc435ae844867df2e0cb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/pl_burnpain3.ogg"
-hash = "1907c72c2460ba33c6d5276665a94e2d4606f7e0615453d83e24fe6ea3141cb2"
+file = "resources/portalgun/sound/portalgun/pl-burnpain3-ogg.pw.toml"
+hash = "95355916b1d6cb94a14365497e378076f6777f5368973ffa9bb16dd61af4bb34"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_enter_01.ogg"
-hash = "783a231a6f79132e181108a6d0e717342d28206ca4f4ff3431c3c6ad2f91e2d4"
+file = "resources/portalgun/sound/portalgun/portal-enter-01-ogg.pw.toml"
+hash = "b1f675debaae2898e8c63952ced069a1eb48acc9f1ceb53f8ce625852097536e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_enter_02.ogg"
-hash = "9e3284a75bc699200ec3e453d815505b7cb06a6eef59059553f84fd07140451a"
+file = "resources/portalgun/sound/portalgun/portal-enter-02-ogg.pw.toml"
+hash = "13814c03573181e38bfc49f9973a3abfdb909caa27f56cbcb5749a8a3d42b65c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_enter_03.ogg"
-hash = "1240d05466f1d49770ec21e28eadf3f381e08f6b996a82cee0ee15450baf6b6f"
+file = "resources/portalgun/sound/portalgun/portal-enter-03-ogg.pw.toml"
+hash = "48d8779268d93456383bfa21320d44b1ed2c8db64ad38ccfcbb00c3915e27c8f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_exit_01.ogg"
-hash = "ba03d91661e482808e49c576bc75bc57895246259cbad22dad40752a79ceb03a"
+file = "resources/portalgun/sound/portalgun/portal-exit-01-ogg.pw.toml"
+hash = "d9cdeac60d6d97b4756587106d431a84a20f545328ed2c5b841dc95420184df4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_exit_02.ogg"
-hash = "7692ab150d4fe01830c9d249572638a394e8e06899a32b38ef26ae0f58f4e78b"
+file = "resources/portalgun/sound/portalgun/portal-exit-02-ogg.pw.toml"
+hash = "668106790cb1db8fd8936e70b07636ed4836e76e7868f3b205bb9d83bcf9470c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_fizzle_01.ogg"
-hash = "1bd24d5bab5aa8eaaf30e8f66a5027db6ded33192d4689d152c82f859e58a922"
+file = "resources/portalgun/sound/portalgun/portal-fizzle-01-ogg.pw.toml"
+hash = "b242bc349709966cd656e553a6cd739fedf9fe3fe0a6330ef06b0cc627afc856"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_fizzle_02.ogg"
-hash = "f314bf4119622f8b6376b4508755b63d0fc6307baed9308db2e4641093e17188"
+file = "resources/portalgun/sound/portalgun/portal-fizzle-02-ogg.pw.toml"
+hash = "4cf9090e47d472d7954ec710dbc9a7f2f0982d139bc62e911dddb24843289d05"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_invalid_01.ogg"
-hash = "24c37fd2ebe871d05c45f23ba65b566e2d829959a10652f507c0c8e30eeddf4b"
+file = "resources/portalgun/sound/portalgun/portal-invalid-01-ogg.pw.toml"
+hash = "4c8b02fd7d198d34af20e19110afbfcb1dc8b4aa43e947ae60219eca04e857f4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_invalid_02.ogg"
-hash = "9d5efd3272df558e86118818c0b7c0ef774aa69ac2e4b5ead1c20b56cfa89131"
+file = "resources/portalgun/sound/portalgun/portal-invalid-02-ogg.pw.toml"
+hash = "55450464af625d7b2cbdd1fd7e1230ae6bc531994fdb8b949df14a0cc021c32e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_invalid_03.ogg"
-hash = "c49a25189adc5d0cffdd5c0075614661db15de4783b538341a3993b149396eb9"
+file = "resources/portalgun/sound/portalgun/portal-invalid-03-ogg.pw.toml"
+hash = "a2890cca3cdcdc8236b9d573efc85c04c50fc3bea3bdd2474a0ea77ad816fe4b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_invalid_04.ogg"
-hash = "ef6c639f0bab815cb074cf83efb65b14a720241e35797ac592e9d11057e13294"
+file = "resources/portalgun/sound/portalgun/portal-invalid-04-ogg.pw.toml"
+hash = "4e379369885a1603a1948c94fab93e628ee4311db79d7b00789a14c632eed727"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_open_blue_01.ogg"
-hash = "39661441925037b022048895a6ad29ea80ee2854651003aa359401f092844fb8"
+file = "resources/portalgun/sound/portalgun/portal-open-blue-01-ogg.pw.toml"
+hash = "027158fe81be649d9899175492e619e6e3267153a5d4aa2e058285d447b3afab"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_open_red_01.ogg"
-hash = "ddb2bed4407d94a5379c72d0d1d72dae7980748950080d9b0376d9cebcd87ee2"
+file = "resources/portalgun/sound/portalgun/portal-open-red-01-ogg.pw.toml"
+hash = "dff7c38f1eeeaf56b266ed5c426888734c734a8fff5e8d50ab0be440b0ef1599"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/portal_open_red_02.ogg"
-hash = "dd79b64a8a4cf22c017d0b2344366e0b40481e54d8e02b6f7e4246a118a94e5e"
+file = "resources/portalgun/sound/portalgun/portal-open-red-02-ogg.pw.toml"
+hash = "1c263817fadbaac49088e670da260365b545e81f842c1107aba616e6c007a305"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/cake.ogg"
-hash = "871e888f95468f1f0c26deaf82e8cea3d7cf27b5d1751a759b50dfe0edc388b4"
+file = "resources/portalgun/sound/portalgun/potatos/cake-ogg.pw.toml"
+hash = "3cf9a2abd9789ad730e8d3afe9f5a200c09f69b063de4ff0ada437ae42618562"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/classicalmusic.ogg"
-hash = "7f9e55df07c63ca8380e9b08bda49ea006dc5acc0585817df2f42f371db3b0f6"
+file = "resources/portalgun/sound/portalgun/potatos/classicalmusic-ogg.pw.toml"
+hash = "690df6d3a6ab6774d2bdd7460d77f7870a26f4ea06487b7107c4811f9a5157a9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/creeper1.ogg"
-hash = "6e6a62ef803c81c34fd4968a453219baed07f918a13c8a5078ae4bdb94a7863b"
+file = "resources/portalgun/sound/portalgun/potatos/creeper1-ogg.pw.toml"
+hash = "dfab468603f70257f630e2806c2d06e80deb4bdd45bc81264edb0b51903c36d1"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/creeper2.ogg"
-hash = "ef2469e7f3ddc88203d4182ae91b915c099776ffe7f35b6cf458770abedb5d04"
+file = "resources/portalgun/sound/portalgun/potatos/creeper2-ogg.pw.toml"
+hash = "29bd83b6527d024b849bc3ee99f64e8f5f46d4ba2ef5fef6a4a971dec88f3408"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/dying1.ogg"
-hash = "21ce1bc6b9e3b6ea0f8fdf139a6030988250c8226d47a4bc82131526fe048ba8"
+file = "resources/portalgun/sound/portalgun/potatos/dying-seecreeper-ogg.pw.toml"
+hash = "8e15f494e3482a644401921128e3201ddf25fa264717407becd16463979d2c86"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/dying2.ogg"
-hash = "cf4209fc478fb21e73834b9a7b0ddafce7db5c94023bfdda9e0896426c305f24"
+file = "resources/portalgun/sound/portalgun/potatos/dying1-ogg.pw.toml"
+hash = "4eff8caaaf53c514f488b8a64c75d21c09d98b1af376c08226869060f3cc87b2"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/dying3.ogg"
-hash = "8d6b1e55efc8ded0bcde543bd956646d43b91273099903972aadb21c1a690bdc"
+file = "resources/portalgun/sound/portalgun/potatos/dying2-ogg.pw.toml"
+hash = "268ff7ddb753c42cb533f18be6152804e96a1c9dc5a208b80bc60adcfac2c62d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/dying_seecreeper.ogg"
-hash = "bfeb2c99c4fb9d3efdef7ea6d59bd06f73183abf32d7ee7c79369c287aa7b4cb"
+file = "resources/portalgun/sound/portalgun/potatos/dying3-ogg.pw.toml"
+hash = "10c040ff62334e13f2984dc19bce3b52508f266bb570f1823fa3a5903f344af2"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/insult.ogg"
-hash = "b908bbc79e6a4d8d080e30e2ede55e7aba806d13bd8cd375cd56087470d845b5"
+file = "resources/portalgun/sound/portalgun/potatos/insult-ogg.pw.toml"
+hash = "80d5eb83ae1d997b390134fbcd14d1bd6bea76f3e71a83335b70f19103d3a052"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/introa.ogg"
-hash = "ff941c1ad8e22fd72532ff01cede5a36cfe808e3d1fc74d1ea181bfeec462178"
+file = "resources/portalgun/sound/portalgun/potatos/introa-ogg.pw.toml"
+hash = "2c8683ba58ec5c86062601b8c11199ce399e85135320f7db60913d2a16f2bc0f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/introb.ogg"
-hash = "c99706f43d7e523433f42e8d8852cde3338d61963518a084a80ad919aa932eb6"
+file = "resources/portalgun/sound/portalgun/potatos/introb-ogg.pw.toml"
+hash = "bf3ac7b0d10782ff8ec92353e7f13dd827b5f22082a4e0267d186df814884863"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/introc.ogg"
-hash = "39d904bfdf3aaf6e75d901f5a5a9cf09f2522a6ea6bd4702211ffb9d143ac9a0"
+file = "resources/portalgun/sound/portalgun/potatos/introc-ogg.pw.toml"
+hash = "e730ef2ae99a9316407e6aaadd89d5b2344183d4f7cab299273ba08419f30f4a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/ow1.ogg"
-hash = "3b45ad0d7eac7978b8f8210a4e108b1fb78ec02404276b67a17d81dd398ecca8"
+file = "resources/portalgun/sound/portalgun/potatos/ow1-ogg.pw.toml"
+hash = "d445d98730639500cf75a66e421f14d6345226360d3eb46a75b0db2314db5253"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/ow2.ogg"
-hash = "5c22900cf728704fd938aafe1d559cd42f7159fbf5e485cfb5cf3395c99c835b"
+file = "resources/portalgun/sound/portalgun/potatos/ow2-ogg.pw.toml"
+hash = "f749708f0845ff4086d46644cfea5d8d74db8f46bd6a1b77417ea8ac1af5f340"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/ow3.ogg"
-hash = "0db81ca9283afec08cf8003e925238230d78d7c8899eb3565e92484417e16c0c"
+file = "resources/portalgun/sound/portalgun/potatos/ow3-ogg.pw.toml"
+hash = "bfe9e384bc87e8eb371b392f5a54a7e27becfe8099a264ffcee3aa53a94ec23b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/ow4.ogg"
-hash = "81658bd3222087513b7281b5c2c114cafc2df85edb1efb5d1a53e7f01d8d6b8f"
+file = "resources/portalgun/sound/portalgun/potatos/ow4-ogg.pw.toml"
+hash = "d47510d90301c554d74f5f980ffface4dd5a21c14d014ff6a16d102aec301c3d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/paradox.ogg"
-hash = "9c647730945783970ef8245bf7c46e8bdaeac52181156fabbbf088770b8eb440"
+file = "resources/portalgun/sound/portalgun/potatos/paradox-ogg.pw.toml"
+hash = "08bc9fa3dbc6f99b1ca47646fd924a470721228197654c41e99454f6aea748b3"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pic_gosee1.ogg"
-hash = "bcaf69482da7adb691b0eeaeeb40e56965c533207a6b00c45cdbb07062bf2dc6"
+file = "resources/portalgun/sound/portalgun/potatos/pic-gosee1-ogg.pw.toml"
+hash = "0eb34fff4101dc830bf6a8627e21b61e852aeb882cb991de2379fd907eefbb58"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pic_nowait1.ogg"
-hash = "86a3c0246303cb70060d6e775cddf2280402e23baffddbb0b1c0ac21770df10f"
+file = "resources/portalgun/sound/portalgun/potatos/pic-nowait1-ogg.pw.toml"
+hash = "fac83c6195d732cae39aff3fd4592999544207ea3163dd9378f047271387468c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pic_see1.ogg"
-hash = "57066c0035c39098fe107c65684afd1b01f573e15e6986e9d3f16c882c9bc843"
+file = "resources/portalgun/sound/portalgun/potatos/pic-see1-ogg.pw.toml"
+hash = "cdedc91f94e6226f79530ff5ee38647f67b3131ead273e7f87655eb95f519a44"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pic_see2.ogg"
-hash = "07a1edbe07011088dd6f0db4f92e959ebce16ddf6f057ac3aa9ec0c509519826"
+file = "resources/portalgun/sound/portalgun/potatos/pic-see2-ogg.pw.toml"
+hash = "a8769a54280407a0241314b06544762851b7aa0a3d689bd86f3e27dff5d297e0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton1.ogg"
-hash = "31cb331af154493832f5af19c7af4f72a579e70aaf0d96ebd5bd6e5308ddb0b7"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton1-ogg.pw.toml"
+hash = "82b68abc0fb914bf9bcbde4acaf88dff91863fad5076b9b33af139ed66f7eabe"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton2.ogg"
-hash = "67fabf5955a9639b61c819008b2b455ae7411eb2724913a8d390ee7e666c2460"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton2-ogg.pw.toml"
+hash = "c8161529b83a463bffa3a5191ce322e8b998844085bd6c1c84e4d8653d13f723"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton3.ogg"
-hash = "cc6c3d5a10e6d17987e5f94f928c30d096b5a47227d8155d0c104ed583a2b4a3"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton3-ogg.pw.toml"
+hash = "b572c4677368d77e68571f150efae2bd2f4095a411bff7c607f4ac6a5e631852"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton4.ogg"
-hash = "7863f3bd33f4d8b9a96aadd29303eb722f1b8b22ee278072aba398c93cf312ea"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton4-ogg.pw.toml"
+hash = "ce2c5e7f5762a523764550feb343932c1558b12e9b024bea561c524e68a207c7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton5.ogg"
-hash = "7022e04da8782d7891f5f5830c4d2b50c3aca10f07672b26f61422c8040a69f8"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton5-ogg.pw.toml"
+hash = "4d6f216c081a3466257d161923630fcd8d320e25ff93a0ded76a9ab4e6ed93c1"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/pressbutton6.ogg"
-hash = "bfb4677973d916f69a4ca4ef717752c2d9703532c7c8910d6f0e7fd96ce76728"
+file = "resources/portalgun/sound/portalgun/potatos/pressbutton6-ogg.pw.toml"
+hash = "c6bc0cdb90c589fbefbe40849264be51867e5c5ec59b5f265876de4b28655f19"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/see_chicken1.ogg"
-hash = "99376effd4daf8b52f72a929b9e0918967afe41073b1bf4dcb64187e9ad1321f"
+file = "resources/portalgun/sound/portalgun/potatos/see-chicken1-ogg.pw.toml"
+hash = "c015cef1492ed90eeac5fc462a571b2989a65004beda06390feda35b1b458f68"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/see_mobspawner.ogg"
-hash = "c99f780254b2fa8a663400a77a64d5ae09fd7ea3cf1982f0cf291af927af049f"
+file = "resources/portalgun/sound/portalgun/potatos/see-mobspawner-ogg.pw.toml"
+hash = "a2c9a0d6da02112c7927fda079e81fd0a87a64c887d7e5af7bf66334171941a9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/slowclap1.ogg"
-hash = "3c7d6204f3e7608d0f0d60b5663a0370a12fcd676c3576cf532faeeec41509b0"
+file = "resources/portalgun/sound/portalgun/potatos/slowclap1-ogg.pw.toml"
+hash = "789864ce1e2b371a5f57f888840f00bce3ac194998dc5b23edc13bdbd34bc86a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/slowclap2.ogg"
-hash = "4f976db0ab9ddffc1d017748c3dbaa9f5a47e206b7fabc5c16e76faa5dcd53aa"
+file = "resources/portalgun/sound/portalgun/potatos/slowclap2-ogg.pw.toml"
+hash = "ff4b0a0676a439819ff4468158d53e7c9228b55662aa04a201025d1db8ed44a5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/slowclapa.ogg"
-hash = "74bfb171f3d44d2633875a980d7134926c37075f944dcc6ede6b39cf90e434a3"
+file = "resources/portalgun/sound/portalgun/potatos/slowclapa-ogg.pw.toml"
+hash = "b8d19bd31477d68fcb42e99af9f438cb18c2690fd69c5b745cb8e75b6d5e5528"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/slowclapb.ogg"
-hash = "69a2e7a5f6b1126917783a4e903e5900b0118ee58a4aee1c040391cc9f4d98fc"
+file = "resources/portalgun/sound/portalgun/potatos/slowclapb-ogg.pw.toml"
+hash = "d081209c10bdcc428ec5e17165303ac298e1321c2593763f31ea4eee6b0d24fb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/stabbed.ogg"
-hash = "41d33425317a5dd88cc6b18ca2ac5228fb29826790f1d9ef8b85da4d5df307d4"
+file = "resources/portalgun/sound/portalgun/potatos/stabbed-ogg.pw.toml"
+hash = "a8be6fd1b80cae7220c6a944fe8f7067fbb3610b563da6dcc391559e7a0d6316"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/thanks1.ogg"
-hash = "47c1bbf436f15c9c23537c67c6c804f5ae2590ec0e7a86c8c22f6fa09b98e754"
+file = "resources/portalgun/sound/portalgun/potatos/thanks1-ogg.pw.toml"
+hash = "043fcca9d734d377b16302672c6da334937c753b21889e24a75642655e499d07"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/wakeup1.ogg"
-hash = "3be972e8dbd9947e938117128256ec4538d4a987c7c6ce136213478a387b103b"
+file = "resources/portalgun/sound/portalgun/potatos/wakeup1-ogg.pw.toml"
+hash = "8c4be133b9f2cbb933d8cfd354610683e4bb7cd3495afeef14af3f0685f03169"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/potatos/wakeup2.ogg"
-hash = "f322dff35652b9e5845a116c16dd69c00281f8b632efdaa6f8bb75f0ed8039b2"
+file = "resources/portalgun/sound/portalgun/potatos/wakeup2-ogg.pw.toml"
+hash = "959a88fecd038706b173ba67724b90666798e4d90e648d9f92ca12b8c843f94b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop10a.wav"
-hash = "5e278c01aa80611d8289752b3a455a4257b8ee26f08d15159eea1e97aea0cdf0"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop10a-wav.pw.toml"
+hash = "f6464ef3a940492bb9301b6dfcc985d536703c7d2a76006cc14c378fbcb0d9e9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop11a.wav"
-hash = "a49d09facd7e02dbaf41110937fd1146d55af1be0fb20419273d2b208c0c24a8"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop11a-wav.pw.toml"
+hash = "53aaebc817b05af70e5f9133d3b9a27f87afb70022b4a1962eaaa7bba70e892a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop12a.wav"
-hash = "245ca0da40e26b3ef9a047524b55c2d6c646f78205351bad1c4d8b33297950b7"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop12a-wav.pw.toml"
+hash = "a8a9cfed3afd5d12e6bb8ac744b88041de078017ac23916b37beb2bc5e66bb7f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop13a.wav"
-hash = "3dfe469bbeb4e975f0c1f7d8f94f61e9d99320340a4b0adeb96eae37c5a158c6"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop13a-wav.pw.toml"
+hash = "ac18e61539a250b927d086e45a1d4bfde2654d3e399105279e363d834adfb12a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop14a.wav"
-hash = "4e17e8c380f5180d8a407ba535acfce49c53883e247a702d0a894f63d31859a2"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop14a-wav.pw.toml"
+hash = "718414c935d844197fa1025f27e411dfbdbf705c4707beaa581fa513b3ebd2a7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop15a.wav"
-hash = "3135df9c6c075c002a3d23cfd492ca436d1517a3b54eda4a94c072645c1b5aff"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop15a-wav.pw.toml"
+hash = "2d9bdc3e68bbc6333750ff59146bff0f122dc03e49ec2bef7551e0294f71b6fe"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop16a.wav"
-hash = "8647729836579abd808c6d0e3d85d174d06a70b9990823150eaeebbb286182f9"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop16a-wav.pw.toml"
+hash = "3855543361ec33fdabe1c3c325b4be5dc5c31244b9f2fbe7faeee017a8c1e2c0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop17a.wav"
-hash = "6b5246641e90c1d328fc11717233eecfb0e1b2c8e3dd5edbe2284b7dde5f8849"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop17a-wav.pw.toml"
+hash = "aff1f34cdd14f7abc877f94752a274cc43c5508e1907c2770d06ce52330c2258"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop18a.wav"
-hash = "62e52cad131f4ad2a57d8293eb4a8b8f1917b4172b7492de2d9a570f8934ad1d"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop18a-wav.pw.toml"
+hash = "57fe76c079b688515cf9b26d1fe8ee53452b50c554f7701f9a7fdfad6d77d85a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop19a.wav"
-hash = "53ef315cf44f572abf9cdb85d4518d0d2dae94ea1977a7e0b2322a0ecb66bcd6"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop19a-wav.pw.toml"
+hash = "12007242381618689ffd5a07be8a504fd4372fbb8b32a96078c5b5aa8720f896"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop1a.wav"
-hash = "ab1e85076321072a956644fcbdd6805743a74ed8e97e03901b8ca22f890bdae3"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop1a-wav.pw.toml"
+hash = "338c3320bfbaca50e9337b740a911b5b13e3eb9bcc0a2a7f8dfc364608aceb60"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop20a.wav"
-hash = "17a1cd5b1697ccd059d5d1ac96d372371ea6d59ad7a39a0196d4e21ba3f0114a"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop20a-wav.pw.toml"
+hash = "349e2a8ae25edff5dc94cb37275c3b3f8a08c4d83cc5573ae5569518c73c8da2"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop21a.wav"
-hash = "7877b3037b3a62e2f8874667149c4ca8d1f8b00f22daf10e833ce23a32f9d048"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop21a-wav.pw.toml"
+hash = "1f8f74687d455add975a1aac0cbd4e9f695a82b97aade4ac1d41f5526c75c8c8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop22a.wav"
-hash = "96597f610153f51ec42f8a18583b4d6ea7fde21f8034ba34dc687e84f91b6839"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop22a-wav.pw.toml"
+hash = "9deec130a0a0639e477f5532db747971dcaf651666bdda4ee5d486fe8ef333b4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop2a.wav"
-hash = "2f1aa5cc61c5f981d87b376f1b1ce9d4e8a41268d302da4c837ca79b5c986c5c"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop2a-wav.pw.toml"
+hash = "e6d381792b030a37dffd3813cc9868768c26967e596bcc0d21149fba11a16777"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop3a.wav"
-hash = "d9b3f948fcd8164e0ddafb2bddfafeaca16b57d407f92a51efbe2dde1b5653a6"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop3a-wav.pw.toml"
+hash = "0c6646acb9929d5b09b7f8b8076aed96fcc993da3c22ddfa4db3f3856c980e2a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop4a.wav"
-hash = "63de73961c53881bb1fe39978e3ae5b0829b02ae92c6db9cca1569d7ceb7c980"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop4a-wav.pw.toml"
+hash = "88f6b96aed378d4b826bf97d77b16af7099025121b5aa37329c0bad7b3909b61"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop5a.wav"
-hash = "d410d7bd714af7cc9b912a18d5829479427b2a80b4189f6aca19738c0b191e5e"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop5a-wav.pw.toml"
+hash = "5926c5218d9a605093030fad8b930bacfcb48d106cca4e75c18094f13328d800"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop6a.wav"
-hash = "af8406ebe0cbdbffe0a15353bd49d9f30e9c6ec3b5432cb5c08beeae761fb4bf"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop6a-wav.pw.toml"
+hash = "d56b834df99b249a88f29b3c4f62fff775b22aaa3c313eaadfcd0ded488b7fc9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop7a.wav"
-hash = "07088c3ff1fbf2bd942ff62e5a8afe676119d80a4ae1b5ce7fe2f86d71c7f1b2"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop7a-wav.pw.toml"
+hash = "f61a341b7fc8706b1d5333fee0fc97eb27adce7cb3c622da61a8a3683128b68f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop8a.wav"
-hash = "33fa6d0611693679da80debb56a1732c865596cf8a5349f31e946195a9d9f695"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop8a-wav.pw.toml"
+hash = "5723abaf5a12de544894d932c8ac60d1054def9c51d98dfa9f2766ca0ab515a3"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/radioloop/radioloop9a.wav"
-hash = "d92fe569d00b11ef87602aadc1e6a8780b70c2215dde08fea1d425d3bf44daf9"
+file = "resources/portalgun/sound/portalgun/radioloop/radioloop9a-wav.pw.toml"
+hash = "4c066350b0a5b33267f2551405f780dd527f79ca5dfbc11fbe881a2f4e2ff5b7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/superphys_small_zap1.ogg"
-hash = "39081d72331daed2ad74b93049b3cd6fa73dec42ebe8d48e34074d89c3bc35f7"
+file = "resources/portalgun/sound/portalgun/superphys-small-zap1-ogg.pw.toml"
+hash = "33df4c643fd2e92c47736275b7124b6620c9f0da1f6604706a0b707bb9a89229"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/superphys_small_zap2.ogg"
-hash = "c47a1e6a268bbc49b735e55befbab80b48aa38bb890a51d481cf1b8fe1ed2857"
+file = "resources/portalgun/sound/portalgun/superphys-small-zap2-ogg.pw.toml"
+hash = "12bdabbe51168f795fe5112aea955a5327a48f012c40bfd855cac0596caadfea"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/superphys_small_zap3.ogg"
-hash = "936ba41a20d7447f4faacc3faf9ea44d8eba0b2189ca59024c249832836e95f1"
+file = "resources/portalgun/sound/portalgun/superphys-small-zap3-ogg.pw.toml"
+hash = "97c4fb1a00985b659613e1be31e152e313c1c40939a87eab22a29ed54ebd71f0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/superphys_small_zap4.ogg"
-hash = "4af16a9526db4a5c1531c706910c3d4458b0ddde3f792da7a7567bbbfe4b294f"
+file = "resources/portalgun/sound/portalgun/superphys-small-zap4-ogg.pw.toml"
+hash = "e4d0f38bb47d38a5b09fdff147eafadb66a46a22cac84d726f6b2b1694d8ddaf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor1.ogg"
-hash = "ef6501ade2ffc4b374f8f4e51c595fa396f6eb89c27faa0debd593004eaf1631"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor1-ogg.pw.toml"
+hash = "d07929cab14ea47990cc576134254779e6027101efd7bae6b3c4b3ed3a84ec05"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor10.ogg"
-hash = "ca111449ced35404de36b40db04cb97b4fa4b22efc37b135383b50eb67fca012"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor10-ogg.pw.toml"
+hash = "a8ccea3da1edf907736c698bf90563e65bc196377bead5aeb603e0705fa08e39"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor11.ogg"
-hash = "d08f7296b1d0a8ea8fb88e33017667f594f320f4ade6ecd3ff0fcb64008028bb"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor11-ogg.pw.toml"
+hash = "43845c499761815df241a148d72527c9d7e2c8fb1fbee7aec66fea33c954c9b6"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor2.ogg"
-hash = "ea72fe7e8db155de7bd75a7875dd6557866c8d7b832bc7bd60481feac9b28161"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor2-ogg.pw.toml"
+hash = "30072eaa4532fc9aee676112ddff94f2ee611ee0e9cc6bbb9bc42ecc119c6559"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor3.ogg"
-hash = "32fff3e6d1eab382c31e88bb762f2d868cd3c696048c2125b84e7091b09ba67c"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor3-ogg.pw.toml"
+hash = "56897562a63e6050de51ac07674212310f5114a1a02a82816d1645002837adad"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor4.ogg"
-hash = "5b35c3e38d338de34ac5c8a098dc453379bef18c9f32148c87cbd2029b0c2f3e"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor4-ogg.pw.toml"
+hash = "ab4e745b95c2c82d910b564d617de9c11c6d6b44b8db5825ceec7cd749ddeb40"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor5.ogg"
-hash = "a356a123aef1f886c91d68cb8d097988c19f71d148437761827f6ece663245ef"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor5-ogg.pw.toml"
+hash = "29668b1901549de4d20a7b1bf2b36e4f62267941b961a8e9eb596902b625172d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor6.ogg"
-hash = "6cd6905fccb55fdea5ee67c16ed247ee2ab9a2b1a1bba2e832ffcc8ac3a5e693"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor6-ogg.pw.toml"
+hash = "561da2692793134b2845a4afacdcde41887d0486412e7f2ae2a76b3ebeb4ffe0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor7.ogg"
-hash = "cd7588db93be8be1b7aae63a481343111379b7a22e0cd59714b5df2f68a39f6a"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor7-ogg.pw.toml"
+hash = "11dd7681855869eb752a01aa29f01c312726836a59ad1f67730b08f58ce1d1be"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor8.ogg"
-hash = "6854c6142782ab68afdd84579045efd7428a8ff5c13bdc2caa905b113af02c0c"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor8-ogg.pw.toml"
+hash = "8b92dd7dbbb757eecfcaff0ee2a74eba54c1597806ce7cf7c6ccd70b3b2207b8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/bulletltor9.ogg"
-hash = "a6f342a935684758d2700ad518c93503aedfabc91ee14cd4766ca3e25ed6e672"
+file = "resources/portalgun/sound/portalgun/turret/bulletltor9-ogg.pw.toml"
+hash = "ad2aa4390c16245256a8acd3d66fc19ab45e174c0972d33471d31a910cf10b1c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce1.ogg"
-hash = "1132c68d06f435e52a4c243521a29021ed60f19e11c93fd6f796784b90c65b00"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce1-ogg.pw.toml"
+hash = "f538c7e06e47d27477b6a5af1dd62e2e70a0cc88d42c99786d6cb29bc9180b2e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce2.ogg"
-hash = "fcb24040eee3d3b28ef7c6dc9065639893238fc9931144f5727dd5e25f622b7d"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce2-ogg.pw.toml"
+hash = "65df899c4c1f4370f5a013e9b97bfd01129b3e92326a34b5d261dab17014b380"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce3.ogg"
-hash = "6461369cd1d1bbf5aa4fbba909721ae249bf28ad60c28993cca6a1777378fdee"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce3-ogg.pw.toml"
+hash = "15283bf0e215d0b668bb180aee4ab4023126b26a62dd442b63c29e41af4d1e01"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce4.ogg"
-hash = "210b044cceaf2e4b2ec7c4e9b7fa6f083f304e1054f129e735f782490ab0b65c"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce4-ogg.pw.toml"
+hash = "14d69c68d60c1b86023aac8fa6f6b84fa3644ed98e4157f0a8c2ba74a7911009"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce5.ogg"
-hash = "24a9955fe507ad68c282d6caf4fc28e0a3fbb7578fb81440a6132d20222cd8a9"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce5-ogg.pw.toml"
+hash = "cbb7a2d516a7d3f0ebb3a5945f11a1295bdb8bcea153d3ae146da21b86af82f7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce6.ogg"
-hash = "11e56e0352f5228b58916dee2b6879f83094bad047c4ef844a089a10a163547a"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce6-ogg.pw.toml"
+hash = "6d56a755b9f690bf13b87d3621915ef5b56e193259c2fe334542bf79dcbbf97e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce7.ogg"
-hash = "4ee6b894812fbac69403f86e0b9ed4572b9350d253638ea27f206d5899c4961c"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce7-ogg.pw.toml"
+hash = "e008ec6b223eacc3d57e212ad3ee0bfbe1669f7af00685bbc64356145c6f69e8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_bounce8.ogg"
-hash = "9c2be89857cae97c27a76e34195e944c69fc043abf8b5850c0bcb82bd36203e8"
+file = "resources/portalgun/sound/portalgun/turret/defective-bounce8-ogg.pw.toml"
+hash = "30e45b8533770e6f3a16f6fd80ef06d941b9b61407f47f43ba43006b05d81504"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy1.ogg"
-hash = "8569efbb184ea28bbb64082ed5577354ef0a8b362aa50872467bacae6dd9cb07"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy1-ogg.pw.toml"
+hash = "a285a96e26802070329ff3ba82d01280d5f1cb0c0f3a7b07b87dfac85a4f3e01"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy2.ogg"
-hash = "dfea4e87c083ac8553e8ec7dd3c322cb925e1942709fe742cb086afa21c5e615"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy2-ogg.pw.toml"
+hash = "fac9f7bf9000b31af00b5a582538c37a4c4d930afd9706afde9e6cec9697fb5a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy3.ogg"
-hash = "06caa9a01d781be6b3045dcb236751d27997e440b7dbcbe414f674d91cf0e15d"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy3-ogg.pw.toml"
+hash = "d6fb82c938ca12768099c2250f4252f06321d9a3c768da11e2eaedd834df328c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy4.ogg"
-hash = "db203ea421b254a1f1a159f2a9e890fd597913f93e4e35695b1386426d9bdfce"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy4-ogg.pw.toml"
+hash = "2caf294e6291d54e8b1f333dad87048515186b187bcc9ad616d7d401ef1cabb7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy5.ogg"
-hash = "6de5c882b716d0dc4cb62170efb070888fd27bc0cecb95ea8909c1ad029a93d2"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy5-ogg.pw.toml"
+hash = "dc05242ecf7d3ed698e038de1818d61033b34683a97837c168b48aa40a5a5f98"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy6.ogg"
-hash = "f55058df377d097a4017c28d502dd188c26a80d165e814f04757a159aaf26f06"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy6-ogg.pw.toml"
+hash = "17787180bb841da304a97ce7e657b929ca85ad183b21ed8584dfcf7ca1104226"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_deploy7.ogg"
-hash = "0d56cd086cc2c3b49b12a71004212425f2e7e2a7a69db381bd4a0bd4f7e16758"
+file = "resources/portalgun/sound/portalgun/turret/defective-deploy7-ogg.pw.toml"
+hash = "e2217d937d8eeab1528d7bd626a6c8454d0892e427f87ee2a00f95454539c162"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire1.ogg"
-hash = "e8adbc17806f7008ef87bfb79a5df088cfcf7b9ad58c552461ca096165ea7cbd"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire1-ogg.pw.toml"
+hash = "68036d4dc0737ac41006321378a522bc8ac2aade6b885ab9c9407d7da8745aea"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire2.ogg"
-hash = "7247232f4c126660263854b4fac352edc125f421d4da3542dc973213534a9784"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire2-ogg.pw.toml"
+hash = "b38d86b19cbde5759fa8681508c40074990d6b141a1c75cadd9a0d4797451ca9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire3.ogg"
-hash = "2ae9bb84c87dc4dbe2df7efaf62de072a2b7b2a16a9af3dd106043260b50f44b"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire3-ogg.pw.toml"
+hash = "a85ac373ff891ea9fa5d66272b5e4cfbae3d59262930ecefe776f82ef9ef33a5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire4.ogg"
-hash = "4412d847785fe4adbc5c9618d651045eef37824475b0da3d3ef4aa353676b7a4"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire4-ogg.pw.toml"
+hash = "30ba8d2049a0d6b8f75b550e659e57bf7d74cba1dec984ea23ad7e8e1bd80262"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire5.ogg"
-hash = "15d15959df7730282be964795ec00386aa570416b75b5ecafcc8f4b571e47d5e"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire5-ogg.pw.toml"
+hash = "1cafc30f48cb7e17f2bfd9c83931ea4c110d387abd016a5037c947cfd5b5759e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire6.ogg"
-hash = "ebc606a832bf93818ccd9fe551a71a898171369e63bfbe046757d074536b9ef3"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire6-ogg.pw.toml"
+hash = "dcd21755753048409e92030b39a8cd4845a96ef60d6358f6f8ed9a6fe7d8ef42"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire7.ogg"
-hash = "7cee6845e2fd096eccb453083cddb5da09d7daefc8804769b0afa788d258ffd6"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire7-ogg.pw.toml"
+hash = "b374888a1f978ef9669ff6c31543855134a71d60765d0f99a4700fb0489e0980"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire8.ogg"
-hash = "3004d7150eee67a2fd38a6260865e7c9233e6a39658a0df644415f90c6a3466c"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire8-ogg.pw.toml"
+hash = "846141ed80a952f24ce61a87a10fbf16accf3bfc92e757d653a96bb1f94321b8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_dryfire9.ogg"
-hash = "e382e0256085b3e42d3b792c1f9f1110e4a8b9a0d814612ea962ad8916090d8a"
+file = "resources/portalgun/sound/portalgun/turret/defective-dryfire9-ogg.pw.toml"
+hash = "8665a54cd18c1636d02023becfc429ea6b197b611c66a66e20dfa6267371eff1"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_entityaround1.ogg"
-hash = "9e113fba943acfedd10c819c5ba81f15d11b697b3059db08bba7fd0fe8551a17"
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround1-ogg.pw.toml"
+hash = "35e21f34a86b898e262df5600087674d9bec83970bd023120b2af619596a5b31"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_entityaround2.ogg"
-hash = "bf06ac894f8f3826322a3aaac25f603a6380204e74be3733b79c4ccdb1a2446d"
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround2-ogg.pw.toml"
+hash = "018fd4ed7a4f4027932cc18fbdfc164d6faa28feb13db5ed82055eba2c3b2c3e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_entityaround3.ogg"
-hash = "f47b26380c6daaf30d388b7f0c17aebb452768364698292732b0c6f948c13577"
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround3-ogg.pw.toml"
+hash = "828216bc0a6c5d12b743d5986d0a873acea06a95d0de2b90167ddf58e8a14fcf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_entityaround4.ogg"
-hash = "54813a734c8b80cdeb35eadc5e3be189080267cc53937e08057453c17d2105ac"
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround4-ogg.pw.toml"
+hash = "5cdacc9ec3ded9876572162e217ad85fd76d9851ff61120386f33d44608b7b35"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_entityaround5.ogg"
-hash = "116d2c897c74c24ac554d54d685d442c83c47a92d5a20328e23a36f6bc0bbe13"
+file = "resources/portalgun/sound/portalgun/turret/defective-entityaround5-ogg.pw.toml"
+hash = "dd7973236ae40110678711d906f15906f1470477a2800a23aec0e0df3a23aae6"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro1.ogg"
-hash = "b6f4da9e7121d6fbdd59066a76f4bfc1b5c25e5c6917fb7a92f115482b71f990"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro1-ogg.pw.toml"
+hash = "b750a2e764cf03149827ef51844655b29fab6bdf705e10bcb273d3c959a997d7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro2.ogg"
-hash = "9393ac0555a9f3c98215a4f7deab4f94747d25329d20331915fd55a989e4b89d"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro2-ogg.pw.toml"
+hash = "c6f273db020a56e61a18c4c51f7f10bec7179b9909ce2fce28d9a24c175fb690"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro3.ogg"
-hash = "917423dfbb1928e1cf48016546c9952be0f7bf0ac9125ad2ddb511ce5699f104"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro3-ogg.pw.toml"
+hash = "1fefa2aea66c11db349e17083570ee86dfeeaf08a05ae9dbf938d66a3f03ec10"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro4.ogg"
-hash = "801886e1d6f7207573dd8500065d20d51694be76befde193a45d6b5261788200"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro4-ogg.pw.toml"
+hash = "0158f098ea5113da82456aa5faa230d7072697f7c6d83f8f8beebb19019f42a8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro5.ogg"
-hash = "27129888f737b0271e91ac43f3df7c8fc8a8a2ae5c70ed741c3a52438c3c66d3"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro5-ogg.pw.toml"
+hash = "a6859653cafbe49c0bdf4e91be67953fb659aad06a8122edb7cb4353f1dbbabd"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_intro6.ogg"
-hash = "dbc4ecfb12a2834f2fed98d7e812183731bfe830130cb92651dce67ec2fda690"
+file = "resources/portalgun/sound/portalgun/turret/defective-intro6-ogg.pw.toml"
+hash = "8c68a36018381b2b8371ae6eebb2abe4b523a697eeab31ca3074200e2b20b257"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget1.ogg"
-hash = "9cb9e06834fc9ba297d58a63709bf78f40af5283111de04926156757850f5eef"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget1-ogg.pw.toml"
+hash = "bca4700aa3f7a2d42944427ec2b29d553b12c10ec1d7b975d4ec2bc04ade9c7d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget10.ogg"
-hash = "5f3925a14a8a87fdf06313b045fc698531c5970088a2966c036f1fd1f27855de"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget10-ogg.pw.toml"
+hash = "c1e5f487e98fff1e111f4e1d1f68152b5fdad8e5fdfe281786c8fb07c4995f4a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget11.ogg"
-hash = "bceaf13b7b1bddee12d80736e91c38c39b31b2e11e263b64818b6cd7c96a67d2"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget11-ogg.pw.toml"
+hash = "76aad5797c1198a0fcb86a6a2b339d7892c39130d418ea605d811c1eeb446012"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget2.ogg"
-hash = "8bdf8dfbe19b4c788fcc7c9b831a4f9f559582052b52850c46b570f5568ace26"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget2-ogg.pw.toml"
+hash = "54bd4d4dc2d83fcbc73ab600c8f0cf688b15d02396add3928fca429110bb8029"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget3.ogg"
-hash = "d39bea548de994690c4e868d5c0287c0e293c41d28ca7e7ba93cf14e5513f74d"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget3-ogg.pw.toml"
+hash = "99f113c96a21f8fe9855d1ff78419f4bf22290d52aa437eacc3c089947a52f44"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget4.ogg"
-hash = "f92e62f3e4a2cfa62b2d60c34a6743cbe1d4b3d91ef7c683547f8986e1fd8ea7"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget4-ogg.pw.toml"
+hash = "3c1542a87b2d69f2bbdecfc2d32170fb5b0fc63ef4a7875c4b77d07eefbbcee8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget5.ogg"
-hash = "ae16440942cc46988b8e6fa68a7737ccdaf91efbd135b82c4af67ea0249ee9b0"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget5-ogg.pw.toml"
+hash = "19de7e9c38478cee649e3dcdf1f45a880b11582f0a5e1e244979a025d051580d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget6.ogg"
-hash = "97239432bbe86c3a5b35ffc587952dc51ca10213df8e7fc88032366ad3bfa212"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget6-ogg.pw.toml"
+hash = "a713e18e5e33a3f774e19b8a6f85c565a136f46d13316f0acd59eb4df11986b6"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget7.ogg"
-hash = "369404245cd5be0728d094dc7f543de452cb06a63f42f0047b9a7bdd76d87f63"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget7-ogg.pw.toml"
+hash = "260ebfcdd8c44ceb30b15503ad9657974c7b7af2f01fb70773355c71b56d01fd"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget8.ogg"
-hash = "d4f30ba838f426026b67257f93dc74761dc67ba046c8144c4ccc01e5b679990a"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget8-ogg.pw.toml"
+hash = "430af9e54932b566e3ee4062fa782d509935649063140bc8fa2cc7182c6c30e0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_losttarget9.ogg"
-hash = "6fc33018a6b5775ac2367b599d192221f90f5bda43364ce9b9e6a11bc81b0886"
+file = "resources/portalgun/sound/portalgun/turret/defective-losttarget9-ogg.pw.toml"
+hash = "59037e1bbe8f0c3e281cb5767aac6ec2645a1d11b7ca7dd8fba0bff4794e495f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_pickup1.ogg"
-hash = "62a8d65de62cbaf76e205c7849c5eefa11ec7dabbc55630180f9d9611f08ae89"
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup1-ogg.pw.toml"
+hash = "d85ccd6cef53d11fce15e081e1d905069502e88e9f6064f482b6644760cd22de"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_pickup2.ogg"
-hash = "63ee8663e429590f163fb46dd7f509074b3a2cb48958a8189b2b411dc640aaec"
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup2-ogg.pw.toml"
+hash = "c28789d2970defa3e9aa407f8bce74da7cd2a5d939022bab25b917ef137071b9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_pickup3.ogg"
-hash = "169ae2c87e0cc54c0b1fc2863d92291d18b8bfa6a48c7f3677eec583e459251b"
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup3-ogg.pw.toml"
+hash = "99749cd96f471e5399a7b3f607ee4e942ad907e3c18c12ded81854e501a853d0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_pickup4.ogg"
-hash = "32f568dae41fef21ea3aa494a707ad0e37618e81dbae55f57dd956daafad2f6f"
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup4-ogg.pw.toml"
+hash = "d361c2e5ae4c0c9577d3f13b421b6ef44e2f37d1e2b642fffb033c6638df7965"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_pickup5.ogg"
-hash = "84b499fc785df6a3255698c0cfbea30a8bd61d14ea40137d7841614e0ec0e0eb"
+file = "resources/portalgun/sound/portalgun/turret/defective-pickup5-ogg.pw.toml"
+hash = "418bac3d3c7244233b7dd83b3da5dcb542b495a24fb88454e3db58cedfe5e70c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire1.ogg"
-hash = "47d86f587953682fb17eb1f48a539f0907164c504a2ce46406edfc2cab195e1d"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire1-ogg.pw.toml"
+hash = "d53a06b7b3224a6e77a905b8f285a681f8400b8b799480539947f2914d9e6cd6"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire2.ogg"
-hash = "d09beb60442cac81a487c9a996c85bd2c095ea73d688430cffd9cfae324fdc76"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire2-ogg.pw.toml"
+hash = "aa4e9b2e80e1bcb384de2fb3136fc832e8cd12edc93da24e6cc3a6c807989b65"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire3.ogg"
-hash = "14e64a5f6d3cfa27766c14cbdde6ee7f68a3b0b930590e73c20d394a390a1a14"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire3-ogg.pw.toml"
+hash = "dcf0c6623dad86eb5b46138d0ced0c233ac7b599461523a4c62f61d0d669eed0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire4.ogg"
-hash = "b4dbb4562d5191a5cb29950c3fe7034b8664f3a873eca7e83e9d2159fbc851f4"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire4-ogg.pw.toml"
+hash = "0a58e2e4d63b7a95e798ff17efba0041c061684b10488710ce02ff5cc0a739f8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire5.ogg"
-hash = "0750ed05d29af248bfaacaacf88bdbdc97228775ea1ad087be5ec224b1bf09a3"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire5-ogg.pw.toml"
+hash = "44c816f527031c5554ff14f0b5c70e6ae2de61d9d3c3a0030d2fe2935670ff01"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_retire6.ogg"
-hash = "e79055eea63ec760e10f83a5cb6c83ff060859c5f2cf4a871916732e5d142e04"
+file = "resources/portalgun/sound/portalgun/turret/defective-retire6-ogg.pw.toml"
+hash = "0cd5f7c61c9722a2a1f52f36cbb3fd2b7b52098cb8fe07b69b68f83fa0eedeb3"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound1.ogg"
-hash = "9d25bbdc80eb33b00e3010a6178aff5ddf765640ab16caa71db0cefe71c011a2"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound1-ogg.pw.toml"
+hash = "cc7740d9e6c64d7ec33e9a8a1007535f808c55f074af6fbdc792c493fe28ea3b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound10.ogg"
-hash = "cb8c637ac33ff69e49e1ded5ff0cc11be3f51f288d994099afb4123ae10ff90d"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound10-ogg.pw.toml"
+hash = "1dd1a321c231d6e0d0dbd4acd5b4cbc4a19b7bfe90d5554950cfb9171678ff2a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound2.ogg"
-hash = "6e0430eac10422b9bbb09010d4a8d38343dc6812a5038e92967dda57211a8dfe"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound2-ogg.pw.toml"
+hash = "34314a0828189cc02d162af68f0e700e3296531cc4ad7ff2122e97215c0ea219"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound3.ogg"
-hash = "bcb1dcaabfd302b0beae6daa1ae71200d6b95462ada339bd19b022ee3805531d"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound3-ogg.pw.toml"
+hash = "eb50c7b4d2fd43d65d27c985d9e6b0945db2081212c159aa0e61b31c44829edb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound4.ogg"
-hash = "56566d45ad92267d87c3b53302f28611811a668b87693418215ca0f48fffe06e"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound4-ogg.pw.toml"
+hash = "426e5c03ebfc36c214af18cc664c1a5836056144b9ca6c8583a41e521c1a22ca"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound5.ogg"
-hash = "0c9dcd8e516ce2ced16610c516493a5713f1489236eb9be3002846214dc07b58"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound5-ogg.pw.toml"
+hash = "11580f188aa28c4774fb8448ef544423910a9303c3f86e46cde95f812624ebf2"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound6.ogg"
-hash = "9a014296b677c39bea725229c4e127a122bd07726cc51f978c400e0ccbf6c368"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound6-ogg.pw.toml"
+hash = "fbe589ee5fab85283086f722bcaca02b46734b38b9edb78334953f51234fc7fb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound7.ogg"
-hash = "f6109138b3cfc775d714a57e000cddee7750a4e7017cfb0d524f977a173083ce"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound7-ogg.pw.toml"
+hash = "a7e8915757e5d294ca8557081a6c1c4db0c5bb0faaae23aa1b9d556ee5ec53ee"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound8.ogg"
-hash = "1a0325994a471057dedeb51595020265d4e8b5fa1b5f54a2e8ec331466425ede"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound8-ogg.pw.toml"
+hash = "5e810d31fb86b775ad63531fe90369ac16d7d322179ef243aeadaeae2caa384f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/defective_targetfound9.ogg"
-hash = "5a4de76c2219c613a7533db65561abd5d3cecb9744305a7a1ffa7e7f77065354"
+file = "resources/portalgun/sound/portalgun/turret/defective-targetfound9-ogg.pw.toml"
+hash = "be540133604694c35b25bc9abcc61874971f9b9fdfc3a2ea373b202ebf9f07e9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/deploy.ogg"
-hash = "6a2cae86b4aa1a28b5e3e837bfb78a56e9d6820075460a54ea3a819356fe84ec"
+file = "resources/portalgun/sound/portalgun/turret/deploy-ogg.pw.toml"
+hash = "7968bd886016abe4c336db1b86f5be44e0d918d7cde5c771eb76a343af837493"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_death.ogg"
-hash = "8e260e128bb948e0b76f95c805374eeef8193dd9aecf10c12f53f4c16dc27e03"
+file = "resources/portalgun/sound/portalgun/turret/different-death-ogg.pw.toml"
+hash = "d787b5d6b4d934f0a691479193ecc07ce04e36c9d152ccb47533d00f5b93805c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_intro.ogg"
-hash = "86c947c0906af98a0d4de5871ee5b217748af6a1fc739bc56c7e3f97f9ade9c0"
+file = "resources/portalgun/sound/portalgun/turret/different-intro-ogg.pw.toml"
+hash = "928734a143b91e8f094e747615d8ab7c80534e445492e790e39e5b05835567b1"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret1.ogg"
-hash = "3cbf8ae86d0ea8830561a6ecb7ef5c60d54f68a949a000f3a0cbfac71216ff53"
+file = "resources/portalgun/sound/portalgun/turret/different-turret1-ogg.pw.toml"
+hash = "d84937a6d3523531667a13f19efcce23c3a10adbf53eba788167ee8c87eff570"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret10.ogg"
-hash = "7312ceb6cd2fc65b02f74f9a1257cab81999a5d64fd439cd39c24b4294265c28"
+file = "resources/portalgun/sound/portalgun/turret/different-turret10-ogg.pw.toml"
+hash = "a0b5abcb875198485dd9a537142ce6e9730e71abe861697357a121a5c8bc7276"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret11.ogg"
-hash = "9fbae4dc9cf76e000e77fd39fe675cdc863633dfbc0c9eec1ac9c7db743eda8e"
+file = "resources/portalgun/sound/portalgun/turret/different-turret11-ogg.pw.toml"
+hash = "0caf1ba60fa993d50926f8c5d2b5b4d787bab491725dd9984f860913086ab841"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret2.ogg"
-hash = "47d986a62de6fbc0031607e7e9251507c6f4dbbccd09defcec13eb0c74ee1cc4"
+file = "resources/portalgun/sound/portalgun/turret/different-turret2-ogg.pw.toml"
+hash = "f5147ea2eff6bd6fa5adb4dc2ec059bbbd53b1532d5b0b533f6a9a101e00803e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret3.ogg"
-hash = "8db5a57f5ee94b6b2aaa5c67efcb50fe4ad4507879cc0fd8bb4ff786ffaa97e8"
+file = "resources/portalgun/sound/portalgun/turret/different-turret3-ogg.pw.toml"
+hash = "987b24a9dac684a8ed8866459ff821fa553cbbc73292f6038164061eb1950d74"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret4.ogg"
-hash = "0f982be424ee5221ada67900a57912c909334fdd7ff31d741d5030a134819e9b"
+file = "resources/portalgun/sound/portalgun/turret/different-turret4-ogg.pw.toml"
+hash = "4fc539bfa08d8023f153be709346d9d67a3e3bc0f7c06ebaabd80404198173bf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret5.ogg"
-hash = "8082c1af82434621a05ef7d5b7068f3b5f1605ac8ade57aa59a7e613b8f2eec9"
+file = "resources/portalgun/sound/portalgun/turret/different-turret5-ogg.pw.toml"
+hash = "c9f7537890251be2d8f9fe2393ad664947ff5e652f227d0eb25d2f40ff40b62c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret6.ogg"
-hash = "88d1596d61f9097ce4711f9404fc554b698dc254ff159353e2a0e9bbe5968669"
+file = "resources/portalgun/sound/portalgun/turret/different-turret6-ogg.pw.toml"
+hash = "d2a381562e1dc0cafc58c1d82d0b60b253a6b2a8a7267cf48961b8e3f5231660"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret7.ogg"
-hash = "291a12a99cc0bdc290afa77844aed17b3806182a00707e199bfe21c0a9e6f347"
+file = "resources/portalgun/sound/portalgun/turret/different-turret7-ogg.pw.toml"
+hash = "6fced69c34fd957db2064fc2f7400147e600263bd0864b24668c79a944e9ce74"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret8.ogg"
-hash = "21c028f9132a0edfadd54f532095af5fabcd1a4fd090cdb10d1e4c8ea6a18d0c"
+file = "resources/portalgun/sound/portalgun/turret/different-turret8-ogg.pw.toml"
+hash = "324dca5242003a2c3f0b65f73f35690f80aec0049b242585365df5d9893d43f3"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/different_turret9.ogg"
-hash = "e8dd34c939ced0d40f980257dc7451628e74be0bfca67d879d0a81fa1bfe702a"
+file = "resources/portalgun/sound/portalgun/turret/different-turret9-ogg.pw.toml"
+hash = "a8c4e26eeca40750e02ab28ac6ea54ae55f5b193e8586c92612c00383cefebd8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet1.ogg"
-hash = "026340a3133dd1ce43a6e6618b47a0c986f35112993e6d285f24ad6c5e65e921"
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet1-ogg.pw.toml"
+hash = "c208eaf204e1b80467b3108ac4d447d17e53bc3d0761a83a5fe26305b7f668fb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet2.ogg"
-hash = "a0fd8033014fa866db48ae9a615a4040cf5b170ce151291f80fa07047afbf799"
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet2-ogg.pw.toml"
+hash = "33a38ea44f2d8f0492578ed7dc0344200fe740436188b4f6079c03427a2532a5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet3.ogg"
-hash = "9f009809a366469da10f15bbe9a217638dcc3f9afcf5285aab60dc8c14fecf70"
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet3-ogg.pw.toml"
+hash = "68a42e939ef5fd8046de74fc2309d3d11b92f7841015ab0b05932c75821d2c4b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet4.ogg"
-hash = "01acfe8c833b6ad363e511b0bd92b1b82def8b3bd13d8719c0d137eef9f5232f"
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet4-ogg.pw.toml"
+hash = "24cdc7689da747150358c41d839887832172b6ad033ead3175700408ebd974a5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/flesh_impact_bullet5.ogg"
-hash = "66baca774313c661d5a907f0bfa05d4799944e9a8f741b34f7df443c5994e402"
+file = "resources/portalgun/sound/portalgun/turret/flesh-impact-bullet5-ogg.pw.toml"
+hash = "1a7d7906f7bc17a130b95e03bd9250eea049f17f4c883327315cb6ca7a85d55d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/retract.ogg"
-hash = "8ced1c08b2e37748cbaf0fb00ef5bebbd1fa5c043ec6c0c632fabd249c0dd061"
+file = "resources/portalgun/sound/portalgun/turret/retract-ogg.pw.toml"
+hash = "e6112096bcd7d0ad994378d6341c3d78ebe46bd9b0c8828f6111793498191a8b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/ric1.ogg"
-hash = "dcb0f4d53de6777b096985b225afc8c9422738515d20751d5e7999b8ee2f64b3"
+file = "resources/portalgun/sound/portalgun/turret/ric1-ogg.pw.toml"
+hash = "ec0738cc97bb05e1e62e43afb55da4ff32c8d8193c14a63ef63b39b1a790944f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/ric2.ogg"
-hash = "ba59cabd82ea61e5ea02f23152504723a719f1cf6042e4467f9707b6fe8f2b7a"
+file = "resources/portalgun/sound/portalgun/turret/ric2-ogg.pw.toml"
+hash = "bdaabb07c12d713fb196840335d813906ffcdc7e8ecac2d9b3a7fc94dbde121c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/ric3.ogg"
-hash = "a172e81f486a6dc27902dcc870d6d9a47d8f9947b64f7710e3d44205b9f49ed1"
+file = "resources/portalgun/sound/portalgun/turret/ric3-ogg.pw.toml"
+hash = "1ace610d07946a1c8fbe9ccb4c2a08ee1652c481f2f2caa357cb2077c9503295"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/ric4.ogg"
-hash = "553c5043f3f00441d29169f07367997246cde8ea13cdf5e4d87ea19ae724f4c5"
+file = "resources/portalgun/sound/portalgun/turret/ric4-ogg.pw.toml"
+hash = "fdd8d02df51a8c99cb624381a951f6d19ccbe4797d1dd2e32b49f0523ae32a0b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/ric5.ogg"
-hash = "3a0691f2500a0379e9fe88d726e7c876e4e5223f94bb92077d2bc67f131a780d"
+file = "resources/portalgun/sound/portalgun/turret/ric5-ogg.pw.toml"
+hash = "e5794054a65aee849d77c42b6d80db357244861cb0cec9f27286b2c0dea10a52"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/shoot1.ogg"
-hash = "b5fe06bf7c58008ea4020f5ce1bc5401a28cf8453934f9039d4438fcc78479a8"
+file = "resources/portalgun/sound/portalgun/turret/shoot1-ogg.pw.toml"
+hash = "6d1b5d39f4ffe636ceecb0b771527266dd41a8acb6e8cb261daab64eec492e04"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/shoot2.ogg"
-hash = "b078a5a811d3cdf5ace1a5e3cb764a065988739d7cda312697a8ed3f4dbfc48c"
+file = "resources/portalgun/sound/portalgun/turret/shoot2-ogg.pw.toml"
+hash = "822ce4d992b2d5117c287bcb1e6c2a6e070160ade73d5a6f3b1e10c41f94f2cc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/shoot3.ogg"
-hash = "6b0fd03fa0b5725861561c90de2a09124b78fcac22b8800604ac30449b669556"
+file = "resources/portalgun/sound/portalgun/turret/shoot3-ogg.pw.toml"
+hash = "a9bfb86ba2c9b06d01e6b8e1dd897e9be8d731a64be36355b7f3ebe236c93131"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active1.ogg"
-hash = "0585619d7862454871a33fe9e31ec2f24c594ebe490a16c322c00c9036d89376"
+file = "resources/portalgun/sound/portalgun/turret/turret-active1-ogg.pw.toml"
+hash = "6a6cb4c26ec1da185a526b0c814b3fc5890c5f2b4bd0fd7b4841d95392325d73"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active2.ogg"
-hash = "19dd1fd88a2bc03388054a63c9a7c2fe3d314342245aad0d873621df7233113a"
+file = "resources/portalgun/sound/portalgun/turret/turret-active2-ogg.pw.toml"
+hash = "ac8ae5b76d3a3d6a685e81eb9a1e70f6e94f2ef895bc433e88bf6c0f7214525b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active3.ogg"
-hash = "76984efb9cf79c409a1d88fa4c21b37f39982dff2c5bd2e5bb6b7caa3c7f5a3b"
+file = "resources/portalgun/sound/portalgun/turret/turret-active3-ogg.pw.toml"
+hash = "3f55f7eb2d35868259d6510a66ceb32d866ee94aab2c7d6d9bd00a1db027f5cc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active4.ogg"
-hash = "0922ea28f0916df62f8cd7a7d9918013b5eab030502d41b3a9bc39d7f7426b6d"
+file = "resources/portalgun/sound/portalgun/turret/turret-active4-ogg.pw.toml"
+hash = "dff92b0468c740f0cab3d4b555c47595dc8097e273517b73588ad207c3b51227"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active5.ogg"
-hash = "9d7fb628b0e4fd0befea768c39edf5d075e4cd1026636a0060ba4e83b60f017d"
+file = "resources/portalgun/sound/portalgun/turret/turret-active5-ogg.pw.toml"
+hash = "20c9b990b9d3da3882322537363db6ea9a1a39c35b0c49e7b9476c42d6f9fa0f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active6.ogg"
-hash = "e292ac29728f74f306589cd7d1bd1bb4e73ac2c9acd9579faad3a36c3d05aeee"
+file = "resources/portalgun/sound/portalgun/turret/turret-active6-ogg.pw.toml"
+hash = "7b52ee1f16e5ea318c92efb28f14ce3965d360ed050054d6cc970456a92d4fcd"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_active7.ogg"
-hash = "9f187e00e7d9dc40c6960592b815378d204806a11c68576b5839092a1213da9f"
+file = "resources/portalgun/sound/portalgun/turret/turret-active7-ogg.pw.toml"
+hash = "1b0b299203509ea58b32417acaae8155aec625926199272a22cf520e873f1666"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_autosearch1.ogg"
-hash = "50f8ab66f4c86418d0eb4f2a7dcd355ff707911d03ee3dfac5709492359e84ce"
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch1-ogg.pw.toml"
+hash = "8e440f412811b7255f8490ae134ea48c0164c9151bb26fc0f9c79c503b3de654"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_autosearch2.ogg"
-hash = "06b41c9fbd7548f37c4c2c2af7f2a0e58b902fea68d65ad109a3ad226e2580f7"
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch2-ogg.pw.toml"
+hash = "64eaf7f6fd046231fca32e28faa2c321549e521e5741b2ee8a2e61f2ca031e3b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_autosearch3.ogg"
-hash = "01583dbad049ab082b003d19fd94210b8f195fd33381a2c254f8ad92df75919c"
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch3-ogg.pw.toml"
+hash = "69743485eaad4820e2bde1abf2ee365a96c7fe276cddd1f7de7258f0fc9dec29"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_autosearch4.ogg"
-hash = "658cebdf3577df8e10c190827e2c9ca79f6c5812ba25cbc746773fab4cc604a9"
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch4-ogg.pw.toml"
+hash = "0bdab5ca54095da033f21787355dc3ee2ce4d5c6c82093cc6eadc5098f60b1a7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_autosearch5.ogg"
-hash = "0b0ec9aef95e3db7ebeee63990f50bc3c8bd9e1b302c7379092c7a92864041d5"
+file = "resources/portalgun/sound/portalgun/turret/turret-autosearch5-ogg.pw.toml"
+hash = "7595e1eaffc97df6e813b186a082fd162bda0ba5f3e86255cca9ebb17a1cb114"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_collide1.ogg"
-hash = "6b9a6c8d1899f12f2053bc1ae749c38184a01afeece9476a74c00af6d220812d"
+file = "resources/portalgun/sound/portalgun/turret/turret-collide1-ogg.pw.toml"
+hash = "ea3f57f95fd58475e49b56dff245285bee41b63b0bf3ee0ea31ea481e5bd0444"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_collide2.ogg"
-hash = "55e4178e1b4ca90fca364a27352243b0084d28bb1b14e3e8f4811ce5dc1a7868"
+file = "resources/portalgun/sound/portalgun/turret/turret-collide2-ogg.pw.toml"
+hash = "e222dd720ae49ce5237266b523b62c7b2287918c4feb8ee89b800cbf683e761e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_collide3.ogg"
-hash = "ea798d7c394011d46627555fdc2048259cbcc20ff9effca1390550e6f540833c"
+file = "resources/portalgun/sound/portalgun/turret/turret-collide3-ogg.pw.toml"
+hash = "1291c289f9ae6eb7dcae4f0d2cde138aea654f3931dc0e46bf9381345a9bc5ca"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_collide4.ogg"
-hash = "e7af6f57516e91c17c05200563812f6d63c4e22fed4537d61956fcccc07801a0"
+file = "resources/portalgun/sound/portalgun/turret/turret-collide4-ogg.pw.toml"
+hash = "d43ea43e41c7cb86c46347647a956fd9dfff717c87db07d7b3361e2638d34964"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_collide5.ogg"
-hash = "eddcf8247299cad598c4240a28988b480e96176042b64364ce81bf72c26d0064"
+file = "resources/portalgun/sound/portalgun/turret/turret-collide5-ogg.pw.toml"
+hash = "2294a9e6e75c3f366af9dcd212dfd5d27477de70543a89a4463b6ddafb267565"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_deploy1.ogg"
-hash = "016ab172438935d83f84ad16975cfdb6fda5ee262ea3c2ce8e60c772a3ae6bfa"
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy1-ogg.pw.toml"
+hash = "ca4c290b5dc1f60c656332a351ec27e5576e634f09e738e1607a3aac3823d429"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_deploy2.ogg"
-hash = "0544efbfdd09f0be00e39635966a2e9e7a4fc22658171a27365a565814e9de13"
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy2-ogg.pw.toml"
+hash = "606492e6e11e4dffc5d5d6ce8d20229f4a6ae2d4aa5eb5ffe7deff42c60c0548"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_deploy3.ogg"
-hash = "6c6d3f950d8a7a2547d40589c958ad78e6e53ca592d8d9e77f4034cc9fbfa978"
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy3-ogg.pw.toml"
+hash = "debedcb55e582749cf8bdadc3d8d2106b2294fa76f9dcc77821013485772e7d7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_deploy4.ogg"
-hash = "a61657b68205cdb734373e3844dd4a0aa66f92a4771e71c87475787becd88ea7"
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy4-ogg.pw.toml"
+hash = "3c35a52ae5ad4ae783451dccfa33bf981189e7f5a409bdfc770a52b411f79a9c"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_deploy5.ogg"
-hash = "b6c00f229a6e4d8e588c1c2d713a195d0901096cf8b17f42a10c06839cf6a377"
+file = "resources/portalgun/sound/portalgun/turret/turret-deploy5-ogg.pw.toml"
+hash = "1c88d213b47f2234c651207040a51e3d68fd5e2574899450034ecc4b9b5b5802"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled1.ogg"
-hash = "dbbf75d47e521bb70525f50d34b55d90b144f280b54243efa94ace158a93f945"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled1-ogg.pw.toml"
+hash = "9784242b71e12dc66049d104608144e49f6c6c858bca54d2cfb5de79d0f6f6c7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled2.ogg"
-hash = "619335fba6bb8281c3f019901dec0e8e4ae04c21c68244ce02498585719d62ad"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled2-ogg.pw.toml"
+hash = "e3e6d3eb73516ba451df55f65c8d2f692452ca411b196bbb940c880adc248839"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled3.ogg"
-hash = "e5f248d4cf41bc5a0c027aa3e4818349de47b46482472c764389b4698e039fba"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled3-ogg.pw.toml"
+hash = "8a53d2c21d451f45f8d9be33ef2a833ea46c5bb1e3741ea2ba5352cb34e54278"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled4.ogg"
-hash = "35c9e8c359894feb6476b5c66e13fb5c8d7f67e5543bf2c49a2f9cfd95ac6932"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled4-ogg.pw.toml"
+hash = "22ec392757a5bdaee46343308bcc9bb55a65cfa45bd0a7198e49eab000cefdff"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled5.ogg"
-hash = "43616b7bf58dbf94bb48968d0ecb17eb275542044cfbf935547f953927c8e954"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled5-ogg.pw.toml"
+hash = "e6415b46d0689c91eb486fed11dbcba6dc7ce8bc1c23719fae18c55a588424bc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_disabled6.ogg"
-hash = "19dd0ba808bc7b977047a6a6597d912ed160f45b154debf89a95aac8ae2511e0"
+file = "resources/portalgun/sound/portalgun/turret/turret-disabled6-ogg.pw.toml"
+hash = "fa86ebbe84733c20cb421ec9745faf14e423af16819d9395162dde51c8ff5c67"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_fizzler1.ogg"
-hash = "77e6be71b18db4adb1351866c8604d139561891c494f2704dcfdafd61b893c37"
+file = "resources/portalgun/sound/portalgun/turret/turret-fizzler1-ogg.pw.toml"
+hash = "9a7074136deaf793a144aa47257dfda527e7b0c9ae20d5cb2d846feb41ec50cf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire1.ogg"
-hash = "f90e5168ee757feff782ac91a1d29656eef4f32a9228541b73e47720079d3e19"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire1-ogg.pw.toml"
+hash = "6cc46a4b218196c5a2f1ad0fdfb88d6ee4b3728655b4310a67b44cb5dfaa46e1"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire10.ogg"
-hash = "b55991da487fef63be0d34151b26654fe7c6b687f9aa1d7f5dbc2c5b84dea146"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire10-ogg.pw.toml"
+hash = "424f90322a234ce283f25e30b837c23aad049c5a903cce11ba409b758d2f683b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire2.ogg"
-hash = "191114d495c58f6402fb3560d76dc15db755c0d1ed163b4c79b5b661a6f8881d"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire2-ogg.pw.toml"
+hash = "eff775852125c4611e736d76810c54cce7574c0aa9d37882634dfa3b39e10ad2"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire3.ogg"
-hash = "b29455f44415af0f83290e5d266819d599a084d48d26a35a0a80751ff1324d9c"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire3-ogg.pw.toml"
+hash = "67d457c8440c6cc9584f4ae62286d038c114dde2725c3319c1b90ebc01e74d56"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire4.ogg"
-hash = "dd5cc9c90ca2a03ef260a9f387d87e463a3f03a9294477a5632184cd40afae79"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire4-ogg.pw.toml"
+hash = "49d8723505c52d5e400f7a7c1658fba570818e64e35256306fec29bd9b993f0e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire5.ogg"
-hash = "573d2493bbf9e500d7d84431806761eb97a5f865702d914633cdf1f352cb0990"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire5-ogg.pw.toml"
+hash = "7809c82c4982105327d6abb96eadc705b11c7fbb9f96d8ccc7e088c104e8c2f5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire6.ogg"
-hash = "84d8eee5b7159213e2d763db0b9e4fe1b17eff76e0654336c72c5135f3712a68"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire6-ogg.pw.toml"
+hash = "b72e566b633dac9cc090a039cbc9425d88e122acfe59d94b505d1419772c2bd8"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire7.ogg"
-hash = "3d291eb6c4d945fb46bd240d8c758bb1303e928e159e513c2790bde3f3bc87fa"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire7-ogg.pw.toml"
+hash = "7857a808a9061bcde30ca045f38f990ff8a3a34620068a46bf78585661180713"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire8.ogg"
-hash = "cbee011b0a70a64a243017ae866ad20724539bb21b5bc9eb162d5772805cedb1"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire8-ogg.pw.toml"
+hash = "0be4c00a41feca1099279829bbdd89884532c204372c299d198a935c4db023c0"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_onfire9.ogg"
-hash = "164077a8edb0636d211b863373bfe6904a7d297e635c127f34fccc5f788b994b"
+file = "resources/portalgun/sound/portalgun/turret/turret-onfire9-ogg.pw.toml"
+hash = "6d4f3db4c128eecb0483437cba9dfb271b04d8e6885da0ee7ac2dfa29ce20e9f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_1.ogg"
-hash = "aa2ac56afc1bb72dd2db5a59e24ca57bc2b0eddfde5176f2f27ce77187186ce8"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-1-ogg.pw.toml"
+hash = "0bba4191b2f81fc2bbb0456bdff3ef94c9231d9691c5ab787a73c96c3debf556"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_10.ogg"
-hash = "274c0f402d021397f6afdaba8f66063cf74835df885690d54639b46960ba5017"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-10-ogg.pw.toml"
+hash = "1213b8ebbe5be3424f563a1e31e32420be485409f4c6752b96dbdc71f0d20816"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_2.ogg"
-hash = "db64b2ef5fb0fc965ea21251bd43d8a553b15214799454566eeecc05e4857fe1"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-2-ogg.pw.toml"
+hash = "9218bbea786a6e99cea55b30b3a5cc274568150a4cd1e2e36fdac3570907cc95"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_3.ogg"
-hash = "185dcf3e2ff5ef661dab6fe983f0469fbb7728a3e48cf0c21ec5e3eb7af27032"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-3-ogg.pw.toml"
+hash = "13a227c4b6d1320acea3d3ce9e1538dc4e7cc8bb020db8cde8b3467585769f6f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_4.ogg"
-hash = "acf5e52349ec9d74cefe3062def5d5f3e3d3ef9e36352204e39d65c10c8c9a83"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-4-ogg.pw.toml"
+hash = "be9a5cf1f7da544229297fd98bb3a641ae58d58851d70748d34dcb908e0bffaf"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_5.ogg"
-hash = "6881b475afe998f2b355c788bf03c249f99e1de925ca4ae0e22189985fb47055"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-5-ogg.pw.toml"
+hash = "70181dba9b10b5d7e29b0e801662ae6e5b711ea6cc701592e060ac9ffb939386"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_6.ogg"
-hash = "48865450dfb658c2effc7bd80ad2a50586c4a398dee5adda2556be7fc140983f"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-6-ogg.pw.toml"
+hash = "e3b2972d81d46d0a6b425ac5782e3884973722d563fc70e8d1ea07d3135a4a71"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_7.ogg"
-hash = "e25bf2d9b1b8d5140afb42ae6f4c83e8ffff8cea504fa16c350a0f25f4d320c3"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-7-ogg.pw.toml"
+hash = "8d140d0bc88e0b18e72ac802f4375daffc61cdae168f2f7875f67cacbfafab63"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_8.ogg"
-hash = "a4c187ce6e9c9ed19d5d52a5319be6c6dbaaaaf7b4f5aa4ea5dfca018238b923"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-8-ogg.pw.toml"
+hash = "844d046685154d267a61ac30b9892ae9ad3e6fcf4199b1a72cc203339a4550da"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_pickup_9.ogg"
-hash = "dc9c2c340a156aa4820065eace9e8d0791430c0879603e7ba726b92e3df1d7ea"
+file = "resources/portalgun/sound/portalgun/turret/turret-pickup-9-ogg.pw.toml"
+hash = "e220ddbe3d4a5a1e1ed12cb2440798aaa69556435c87b8b856a97fd5d2295f98"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire1.ogg"
-hash = "84fe1a4779b5d3f741d94660a0746a66464eb2639bd08645f72800d13c857461"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire1-ogg.pw.toml"
+hash = "f2a45ff79e5e94257f487265ffcad614838c9488ab58e8e759e29ae8901bab08"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire2.ogg"
-hash = "7d2735e4f34822f1aa1ce23b3ba834c9686dd34898d7118592d77f9c9d629f23"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire2-ogg.pw.toml"
+hash = "563ea4b26465cec86933dbc6c713570e15dba4098c58cb49447c24ff48f8998f"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire3.ogg"
-hash = "262cb5f2ba509a67ac5faea79441f25e9b233a6df0f9651c15fbfd7dbab458c8"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire3-ogg.pw.toml"
+hash = "c244608148fed89423151f66da8dcd19b436816f333c985886d823b7e0b084ba"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire4.ogg"
-hash = "82f557692bfc09cafb9dda8110a9500f0e76af824c1c1b168b7abc20bfa1ab4a"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire4-ogg.pw.toml"
+hash = "e418b5f1edbeeb73e125092c8a54fb0e875278a1399416bffa1f459956dfc693"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire5.ogg"
-hash = "81f71ad3716d3cb8d84900099e71318f6eba83914db386e5f2bd102a3eb3f95a"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire5-ogg.pw.toml"
+hash = "44d2098ed5217ca4b069b9c4828dac12bc7fe727922ad93d9450db75a81fd087"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_retire6.ogg"
-hash = "d0b81adf348b1f30a26dbc5824b8d30434ffa30c9103556955017bb5a01efb64"
+file = "resources/portalgun/sound/portalgun/turret/turret-retire6-ogg.pw.toml"
+hash = "b5ad8543bbd194cbdb75317afdfdd302d0d7e4892b0bc25628a264daa17acee5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_search1.ogg"
-hash = "caad2f46e82775387f9c3bc5540d76826dbed3da6bb6c648e62ec5e8c32f32d7"
+file = "resources/portalgun/sound/portalgun/turret/turret-search1-ogg.pw.toml"
+hash = "ee9125f44f48fe13e50946af9580bef96c25f2577b916a423c6e8f9df51db4b5"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_search2.ogg"
-hash = "5f3f9e6422db61d00df92e6b7f6f1b9c2adac8bfa8f190778ece2f6fae1497e2"
+file = "resources/portalgun/sound/portalgun/turret/turret-search2-ogg.pw.toml"
+hash = "369497b2d85670bc1604ed87594de2e090718e3a1debbacc5e6490a7df5baaac"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_search3.ogg"
-hash = "a754926758b970c2ebc5e643a1ffee80800fccfc0c23c4a4be8022f849a9b4af"
+file = "resources/portalgun/sound/portalgun/turret/turret-search3-ogg.pw.toml"
+hash = "b60dfb8fa99027b8c78368a4a916061a82ac7fd1b9f5657401ab074b22a8fd60"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_shotat1.ogg"
-hash = "9a6443941942b8113a5766a5198ad21386a6a2edd62a5b6210b950ca50deeccb"
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat1-ogg.pw.toml"
+hash = "37b453fde1d9b619aaf8bdbcac9087617ce39b92571f961cb6d117b834f41ed9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_shotat2.ogg"
-hash = "c837faf7ea9526b36c35496c5d7891bd32fc3d241b39b64ee1b39a64170ddcf5"
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat2-ogg.pw.toml"
+hash = "9f1f4ddbb2b090b45773a09e6ee92935f1871c0cac2801a081b4326d723ace56"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turret_shotat3.ogg"
-hash = "c981890fc034eae6795051f13f7a229b83049f1fab14ace481f181c3fb93dc88"
+file = "resources/portalgun/sound/portalgun/turret/turret-shotat3-ogg.pw.toml"
+hash = "314a89b5c9467b2e742f58a32a41c2c75fd3863385a33a91e64d53cffd3e7a34"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched1.ogg"
-hash = "57efdeef1c1245214682296ef4c424f1f13676d76e463f18831f72333239f15b"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched1-ogg.pw.toml"
+hash = "1460e1c7b14c57ec81dbbf3948c010460196e21bd52fa24ecbf605a3f1439d3d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched10.ogg"
-hash = "df1fc445815187422c2b6f0d0c61225328c5faf1c0be49f89d03a2b198dead99"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched10-ogg.pw.toml"
+hash = "a362fa64c0594f9ff0d278ef41ca2f3d3f66c14ba965c6877a8f559d64719432"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched11.ogg"
-hash = "bec0c7b06884aecb6e66e18e41cd84e6dfb3de6e9a70eabb830af41981a77108"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched11-ogg.pw.toml"
+hash = "1a15dd6ffc7dce9bc40482dbb60042917d38e9d2828fac4c32de92e84b54a419"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched2.ogg"
-hash = "f1bf9ee09c47244b9333de730fd0b082907e6c7398fcf30f9acd03ae5351d3f3"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched2-ogg.pw.toml"
+hash = "59a7d5d587d7d02e2de48fff1d7e2240e5adbf6ae100fa1e66e50e18dc40bdb4"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched3.ogg"
-hash = "923cb949b3550fce78c06375f941ecf2f09915699bd0d4505e5a6d14e633576a"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched3-ogg.pw.toml"
+hash = "791bd2edcf9b0f627d7b150743c197e979ad938b6fdc487c81e571404512cc84"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched4.ogg"
-hash = "2eb4a77649d30bdb80294381e2f2cb38d097d55e8ee4080a5c2fa8270b5d7d7d"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched4-ogg.pw.toml"
+hash = "cb4474e10c719e6a8f6376bec2ef12efd6ca70d4445572eadbd47434efd7a01d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched5.ogg"
-hash = "839ea98d65553e2e0ffb09f0aa710a759e9bdd05e283e030e38d329808016bf8"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched5-ogg.pw.toml"
+hash = "37ce146195b97d930124e5f184ddfea90dc10fb48415ee3de85e1520b9a12fcb"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched6.ogg"
-hash = "36239d7813fade367c9763f6010799e43e61cfaf38081c072fa190dd262ccec9"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched6-ogg.pw.toml"
+hash = "79641647542879d3c94bbdf4d96107d93901fbaf1b1749fe5b23e96f8ec8409a"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched7.ogg"
-hash = "6902e424d5b05e0c028db46e08ce10df1de02b28778e4612ce971bd821a3f04b"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched7-ogg.pw.toml"
+hash = "dc6c3e1c5e7be38c3f924ae69e4093d1ea2737a653fa855ad207208bcfa01aad"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched8.ogg"
-hash = "be5677d7f8ab0a77a1f86b84a24c6a3a1583b50d726768ed01466fd877758219"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched8-ogg.pw.toml"
+hash = "913c3cd73f44d790c55fe349f1da97b3205f718c56ace6f55d638c002e41b34d"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/turret/turretlaunched9.ogg"
-hash = "8a74245bbca8e0c9bf253b674832e8532e6585dd9900cfcacece1392d499d71a"
+file = "resources/portalgun/sound/portalgun/turret/turretlaunched9-ogg.pw.toml"
+hash = "5a68d4b191d1b8d3b53cc6979eabdcf6926ef0619b195ab135a41c6111f07f35"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b01.ogg"
-hash = "a7f01688959e8e4627e55507e9a38078a20c37418dd481d49ded5bec427ea95f"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b01-ogg.pw.toml"
+hash = "0c55b6b05c65c1cf4778bd63fb17de935cb8816fa1c7e1ed030379505c2b811e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b02.ogg"
-hash = "4f8fa20c044bb651ff576636d143675d028c34b9985704192ed242db6bb2d6bf"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b02-ogg.pw.toml"
+hash = "333817a6859087922f76c8a208e8f2d230db7cc2bf2234e35d5f9acd7c468514"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_b03.ogg"
-hash = "ee7c467353aff8aa8db42c717acf2c2b611554051ee4e6dbfdcae4d57750f395"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-b03-ogg.pw.toml"
+hash = "48caff20a0b6edead44965f08256cb95f861a5e12405230869ff83e6a9f7aee9"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r01.ogg"
-hash = "9cc057db978373f594de1849c099def6e39ceffeb7e6a0bc594e6b53d6a878a5"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r01-ogg.pw.toml"
+hash = "8790a1564f91ada221a0ff0b522165a9aa2b1f3cb879cb12d85c797fdd57c9c7"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r02.ogg"
-hash = "f1710bec60d2012ad181255f349cae27483b3632ef7246b791cee1c375aa7829"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r02-ogg.pw.toml"
+hash = "2f0ad55317655cff48cfc4f0ff760d28bb4f9dd815358cc08be5dd237ed9d66e"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_gun_fire_r03.ogg"
-hash = "cd76b3c922ad06b703f46da411f9fe2691772362ce161baf02b1f638194e484d"
+file = "resources/portalgun/sound/portalgun/wpn-portal-gun-fire-r03-ogg.pw.toml"
+hash = "eb7a601a5bff88c648d4a15b1643f2d829eca11f6231e3390681ec5ef1933fdc"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portal_reset_01.ogg"
-hash = "606ee307566ffacc13da4d5fe27cf409eafd39d74e5d585fd3a4ab1b59b71c0e"
+file = "resources/portalgun/sound/portalgun/wpn-portal-reset-01-ogg.pw.toml"
+hash = "a950c759e394327c3e589accb53ceb4915280443df1102b59d78cc5408fb4903"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/sound/portalgun/wpn_portalgun_active_01.ogg"
-hash = "0029180b853b78ca43c318e5e6d7ebf559010fae9126ab02a796762e105f50c2"
+file = "resources/portalgun/sound/portalgun/wpn-portalgun-active-01-ogg.pw.toml"
+hash = "2d9cc77c6e338d7b6b2048c76b4002990f3ca45bbd15f650bbd00db7875fe933"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/streaming/portalgun/radioloop.ogg"
-hash = "99548423bc5c68261f83e5392e3ac500ddb3fa8eb53fbb78a67be19655e037fd"
+file = "resources/portalgun/streaming/portalgun/radioloop-ogg.pw.toml"
+hash = "202ede0e4b296f6ae01014c0f3462cce31dcb817484615a705464b0e42178b70"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/streaming/portalgun/stillalive.ogg"
-hash = "ee9c476887223a296219d4891b7abc08eb44a9a8f5073d920b796595c96f41cc"
+file = "resources/portalgun/streaming/portalgun/stillalive-ogg.pw.toml"
+hash = "16a154e315764be1ed75b02f39c2d8763050671aacf726eced6c1fc09a17f34b"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/streaming/portalgun/turret_wife_serenade.ogg"
-hash = "eb299d8bb9bd19d0b88a79fa5d9d6a2b488d947bc68de69c476eb6004fd72a66"
+file = "resources/portalgun/streaming/portalgun/turret-wife-serenade-ogg.pw.toml"
+hash = "a19476441a8baff2f9f368b83cca0b24fd148eb18d02fbbd8fc9bc108f220725"
+metafile = true
 
 [[files]]
-file = "resources/portalgun/streaming/portalgun/wantyougone.ogg"
-hash = "937595eb0a1af5cb2cdd39470a6825b71995cc8f59d44bd03e116348bae673bd"
+file = "resources/portalgun/streaming/portalgun/wantyougone-ogg.pw.toml"
+hash = "1933f40cd371bf0fcb09f8e0e188911e8091142ad7ffaeb6ac3b4f56f8d5f698"
+metafile = true
 
 [[files]]
 file = "resources/thaumcraft/brain1.ogg"
@@ -2519,3 +2832,7 @@ hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
 [[files]]
 file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "unsup-metafiles.zip.br"
+hash = "e493ee93d87c225613681e7a6e92eaf252063b89c1d8817e3e7cc6d953addf75"

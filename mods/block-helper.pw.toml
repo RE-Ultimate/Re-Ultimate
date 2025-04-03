@@ -1,13 +1,13 @@
 name = "Block Helper"
-filename = "BlockHelper.jar"
+filename = "BlockHelper-1.2.0-1.4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CiDIVfkf/versions/HxtFfDpC/BlockHelper-1.1.2-1.4.7.jar"
-hash-format = "sha256"
-hash = "9a866056c5021061ad7b5c9761dc104f58054eaafab159076f0d90631abb47f0"
+url = "https://cdn.modrinth.com/data/CiDIVfkf/versions/3KmdB4Ul/BlockHelper-1.2.0-1.4.7.jar"
+hash-format = "sha512"
+hash = "c13678b6f687864ce1ca537b291d9e37827a00f69148dcf5434a6d0de8e4bf6ad7fb7d6367f4eb4576c921d3c66f2728ceff27bd4c0c2d92707fbd3a07bfbdcb"
 
 [update]
 [update.modrinth]
 mod-id = "CiDIVfkf"
-version = "HxtFfDpC"
+version = "3KmdB4Ul"
