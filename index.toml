@@ -491,7 +491,7 @@ hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
 
 [[files]]
 file = "mods/LogisticsPipes.jar"
-hash = "40e2e7ab5551a22966cadeb6b0134176d8620724899cf0217860c2cf6a803542"
+hash = "7fa99a4436377af325e246f368f33fd14bb7c54f72fad65f7936de68ca10f63b"
 
 [[files]]
 file = "mods/MineFactoryReloaded.jar"
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "6c8033eca66a84bf88f10a083233abe7a4e1e9b5437b9c1f13c6fb48796f27b7"
+hash = "caea5860900a3dba6db0737ba578224bef44e07bce7e79469505439fb0ee1c35"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
