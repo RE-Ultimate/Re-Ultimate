@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "a8928ab25f3e209e7ad2b6e22532971f9d7d846f20392faa648da4b43ce74e21"
+hash = "f8c8754e34bb88ece9c1c51bc8a8c2bc9c88ea5349cba7d9cfd8eab6f5e92142"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
@@ -762,10 +762,6 @@ hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
 [[files]]
 file = "options.txt"
 hash = "59f4887c28b4282bd99c328676aeb67fcba6ef407507a0be87fae09c6e41ddd5"
-
-[[files]]
-file = "pack.toml.sig"
-hash = "76d4a31c3a9c2cf0cd80adfabde71aa63921e4d80e63d3c7fe8ae3e249ea0422"
 
 [[files]]
 file = "resources/chiselretro/chisel-wood11.ogg"
