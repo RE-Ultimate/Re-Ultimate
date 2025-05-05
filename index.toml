@@ -764,6 +764,10 @@ file = "options.txt"
 hash = "59f4887c28b4282bd99c328676aeb67fcba6ef407507a0be87fae09c6e41ddd5"
 
 [[files]]
+file = "pack.toml.sig"
+hash = "76d4a31c3a9c2cf0cd80adfabde71aa63921e4d80e63d3c7fe8ae3e249ea0422"
+
+[[files]]
 file = "resources/chiselretro/chisel-wood11.ogg"
 hash = "43073a0a742b7cdd06e1506850f208e081b7ecc692b7dbf408951b566cf0ff5a"
 
