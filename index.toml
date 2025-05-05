@@ -367,9 +367,8 @@ file = "coremods/RPTweaks.jar"
 hash = "b7eb2e5128c4119f0f4bf15bc87fcd6fd54a074517c28977b8d6b486295843cb"
 
 [[files]]
-file = "coremods/cc-tweaked.pw.toml"
-hash = "0069e74aa92fef1e8f9828330fc4f7f00fd9b3dd2194001dd212d15de4c0825f"
-metafile = true
+file = "coremods/cc-tweaked-1.4.7-1.115.1+pr2189.jar"
+hash = "7e3f43d7346835a1c06ffce15a374883813b626432ceb7f69dfa2d63b4265aaf"
 
 [[files]]
 file = "coremods/codechickencore.pw.toml"
