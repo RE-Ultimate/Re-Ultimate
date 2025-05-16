@@ -26,7 +26,7 @@ hash = "3ac7a8d7c0195dfae3ac2ea8ce37e74c9b64d11471b7f7ea5b166da1dd72c747"
 
 [[files]]
 file = "config/BlockHelper.cfg"
-hash = "5645f92934335cc5ef8a387d9dfff52ba8fcfbebd05af23ec0f4b9e094bac932"
+hash = "9fb772970a498793275a052a8c7db0593c6022accfe9705f1228dc2498191d8e"
 
 [[files]]
 file = "config/CCTurtle.cfg"
