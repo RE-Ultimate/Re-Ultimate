@@ -1,0 +1,45 @@
+skip_clone: true
+
+matrix:
+  ENV:
+    - client
+    - server
+  FLAVOR:
+    - standard
+    - compatible
+    - skyblock
+  MINIMAP:
+    - reis_minimap
+    - voxelmap
+  MUSIC:
+    - upsilon
+    - voxel
+  DARTCRAFT:
+    - "on"
+    - "off"
+  GREGTECH:
+    - "on"
+    - "off"
+
+steps:
+- name: verify-pack
+  image: eclipse-temurin:8
+  commands:
+    - "curl -fsL https://git.sleeping.town/Rewind/Upsilon/raw/branch/mmc/minecraft/unsup.ini -o unsup.ini"
+    - "curl -fsL https://repo.sleeping.town/com/unascribed/unsup/1.1.2/unsup-1.1.2.jar -o unsup.jar"
+    - "echo '[flavors]' >> unsup.ini"
+    - "echo 'gregtech=gregtech_${GREGTECH}' >> unsup.ini"
+    - "echo 'dartcraft=dartcraft_${DARTCRAFT}' >> unsup.ini"
+    - "echo 'flavor=${FLAVOR}' >> unsup.ini"
+    - "echo 'music=music_${MUSIC}' >> unsup.ini"
+    - "echo 'minimap=${MINIMAP}' >> unsup.ini"
+    - "sed -i 's/force_env=client//' unsup.ini"
+    - "java -Dunsup.downloadWorkers=1 -Dunsup.dryRun=true -Dunsup.behavior=auto -jar unsup.jar ${ENV}"
+
+when:
+  - branch: "trunk"
+    event: push
+  - event: manual
+
+depends_on:
+  - purge-cache

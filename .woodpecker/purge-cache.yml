@@ -2,7 +2,7 @@ skip_clone: true
 
 steps:
 - name: purge-cache
-  image: curlimages/curl-base:8.11.1
+  image: eclipse-temurin:8
   environment:
     PULL_ZONE:
       from_secret: pull_zone
