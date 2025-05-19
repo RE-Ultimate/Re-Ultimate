@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "nilloader.pw.toml"
-hash = "0524420197a7ea0cd1a4dbe0642d41ec795e59950fc495eb897eb7698182c1dc"
+hash = "ab83148e7147ef68f77fa4cae4bb0e4e4b3793d07c7b6b23162ebd3fb428f590"
 metafile = true
 
 [[files]]
