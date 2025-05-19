@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".woodpecker/purge-cache.yml"
+hash = "0488fe883e7afc125d33e4b10cc4433d34e1c0a1b6de5651a3724dfdaca3dc28"
+
+[[files]]
+file = ".woodpecker/verify-pack.yml.disabled"
+hash = "f9fed5eaef200dbfbc753fef3769a8ff694598beb318a079ce930375324d6eb7"
+
+[[files]]
 file = "animation.ogv"
 hash = "3f4aecb990ac8841c84eb4461fc9cf6cef508229516c2ce7799b6af76676f31a"
 
@@ -352,7 +360,7 @@ hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
 file = "config/upsilonfixes.css"
-hash = "599cf770c2334f5d3a700f6bfdb7070b45a5033e130d7c948f2f046f79ad8331"
+hash = "1112aaa070a40c44d86ced77fd170bca3ec276b592be91d5b7d3643b26b477ed"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -743,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "e59a74cf56e835484684ef7624d070c2352b57b672ee9414c0c60541ded00ce2"
+hash = "abed3fd6076b414a326f5a3f83540f758338d3951d6be39c8da54148a05474e6"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
