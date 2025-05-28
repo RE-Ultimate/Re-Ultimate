@@ -1,0 +1,8 @@
+name = "SplashAnimation (Video File)"
+filename = "animation.ogv"
+side = "client"
+
+[download]
+url = "https://rewindmc.com/packwiz/upsilon/animation.ogv"
+hash-format = "sha256"
+hash = "3f4aecb990ac8841c84eb4461fc9cf6cef508229516c2ce7799b6af76676f31a"

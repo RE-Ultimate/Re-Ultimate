@@ -1,16 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".woodpecker/purge-cache.yml"
-hash = "0488fe883e7afc125d33e4b10cc4433d34e1c0a1b6de5651a3724dfdaca3dc28"
-
-[[files]]
-file = ".woodpecker/verify-pack.yml.disabled"
-hash = "f9fed5eaef200dbfbc753fef3769a8ff694598beb318a079ce930375324d6eb7"
-
-[[files]]
-file = "animation.ogv"
-hash = "3f4aecb990ac8841c84eb4461fc9cf6cef508229516c2ce7799b6af76676f31a"
+file = "animation.pw.toml"
+hash = "966d76e339b833af222aa13d644ca2db0b22fd504ce91c43c5bd1e68aaa991f3"
+metafile = true
 
 [[files]]
 file = "config/AdvancedMachines.cfg"
@@ -2839,7 +2832,3 @@ hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
 [[files]]
 file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "unsup-metafiles.zip.br"
-hash = "e493ee93d87c225613681e7a6e92eaf252063b89c1d8817e3e7cc6d953addf75"
