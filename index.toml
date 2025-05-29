@@ -348,12 +348,12 @@ file = "config/splashanimation.cfg"
 hash = "d98bb037ce0a698e244a9316d9953bd24a396db27a772342af631279c0d8e98a"
 
 [[files]]
-file = "config/upsilonfixes-enabled-layers.txt"
+file = "config/upsilonfixes/enabled-layers.txt"
 hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
-file = "config/upsilonfixes.css"
-hash = "1112aaa070a40c44d86ced77fd170bca3ec276b592be91d5b7d3643b26b477ed"
+file = "config/upsilonfixes/patches.css"
+hash = "895f54e1c43e863ebeaea2a6b5716c00c57f6feed895f17e0f4c5f2140b1fb5b"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "312b1855173130880eebf900a4378e0062bd5774db38ee84a0e22cbf1d7e42ae"
+hash = "f9ae6b28c8ef09fcfa6f0ff08f277b0ddbc6fecc2e7c9d720ee9f7ed8e273506"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
