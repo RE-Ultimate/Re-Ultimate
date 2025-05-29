@@ -353,7 +353,7 @@ hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "895f54e1c43e863ebeaea2a6b5716c00c57f6feed895f17e0f4c5f2140b1fb5b"
+hash = "aaaf84879ad309c50c306a541f594f4ab9eea413fb2b9c938659bd7e7d26c48e"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"

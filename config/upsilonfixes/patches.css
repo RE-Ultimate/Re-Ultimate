@@ -320,7 +320,7 @@ remove {
 	/*
 	 * Even remove update checkers that still work. Allows a fully-offline game launch.
 	 */
-	all-version-checkers: on;
+	all-version-checkers: off;
 
 	/*
 	 * Prevent various mods from contacting dead servers for cosmetic features, such as
