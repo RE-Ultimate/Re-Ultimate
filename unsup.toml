@@ -1,3 +1,6 @@
+[features]
+metafiles_zip = true
+
 [flavor_groups.flavor]
 name = "Flavor"
 description = "How do you want to play Rewind Upsilon?"
