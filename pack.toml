@@ -13,7 +13,7 @@ forge = "6.6.2.534"
 liteloader = "1.4.7_00"
 minecraft = "1.4.7"
 nilloader = "1.3.5"
-unsup = "1.1.2"
+unsup = "1.1-snap.130+4c45588d83"
 
 [options]
 acceptable-game-versions = ["1.4.6"]
