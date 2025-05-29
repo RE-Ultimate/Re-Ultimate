@@ -583,9 +583,8 @@ hash = "8f0c0ff9cfcfaf32d3686b0325d7327ca750f3ddd5df34c691732e69cd9e1884"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft.pw.toml"
-hash = "20f205ea47aa31e896ee3036214c8d9d1e81a73578435a0e9aa0b23b6c4a6434"
-metafile = true
+file = "mods/buildcraft-A-1.4.7-3.4.5+upsilon1.jar"
+hash = "9c081e1203451e94f03eb2a06cd1d3790c0997e1cb5a8fb52c702c9dc52efc0c"
 
 [[files]]
 file = "mods/chargepads.pw.toml"
