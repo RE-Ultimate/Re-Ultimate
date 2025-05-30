@@ -1,5 +1,6 @@
 name = "laser_activation_01.ogg"
 filename = "laser_activation_01.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_activation_01.ogg"

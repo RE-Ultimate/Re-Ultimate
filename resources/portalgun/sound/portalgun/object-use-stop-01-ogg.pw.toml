@@ -1,5 +1,6 @@
 name = "object_use_stop_01.ogg"
 filename = "object_use_stop_01.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/object_use_stop_01.ogg"

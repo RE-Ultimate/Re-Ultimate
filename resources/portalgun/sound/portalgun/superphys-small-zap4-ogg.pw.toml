@@ -1,5 +1,6 @@
 name = "superphys_small_zap4.ogg"
 filename = "superphys_small_zap4.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap4.ogg"

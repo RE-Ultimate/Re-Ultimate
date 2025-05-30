@@ -1,5 +1,6 @@
 name = "Ultimate/VoxelBox menu music (3)"
 filename = "menu3.ogg"
+side = "client"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-pirates.ogg"

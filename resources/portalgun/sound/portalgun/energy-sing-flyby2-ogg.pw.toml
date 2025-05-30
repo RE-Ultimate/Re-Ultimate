@@ -1,5 +1,6 @@
 name = "energy_sing_flyby2.ogg"
 filename = "energy_sing_flyby2.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_sing_flyby2.ogg"

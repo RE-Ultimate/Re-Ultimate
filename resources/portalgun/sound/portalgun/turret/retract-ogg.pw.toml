@@ -1,5 +1,6 @@
 name = "retract.ogg"
 filename = "retract.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/retract.ogg"

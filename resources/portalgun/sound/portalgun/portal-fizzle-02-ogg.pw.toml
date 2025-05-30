@@ -1,5 +1,6 @@
 name = "portal_fizzle_02.ogg"
 filename = "portal_fizzle_02.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_fizzle_02.ogg"

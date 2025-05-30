@@ -1,5 +1,6 @@
 name = "turret_wife_serenade.ogg"
 filename = "turret_wife_serenade.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/turret_wife_serenade.ogg"

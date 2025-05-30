@@ -1,5 +1,6 @@
 name = "defective_deploy3.ogg"
 filename = "defective_deploy3.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy3.ogg"

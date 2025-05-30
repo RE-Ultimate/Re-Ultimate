@@ -1,5 +1,6 @@
 name = "Rewind menu music (1)"
 filename = "menu1.ogg"
+side = "client"
 
 [download]
 url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/xyceradix-mosaik.ogg"

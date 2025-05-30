@@ -1,5 +1,6 @@
 name = "laser_node_power_off.ogg"
 filename = "laser_node_power_off.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_node_power_off.ogg"

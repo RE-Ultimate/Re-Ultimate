@@ -1,5 +1,6 @@
 name = "introb.ogg"
 filename = "introb.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/introb.ogg"

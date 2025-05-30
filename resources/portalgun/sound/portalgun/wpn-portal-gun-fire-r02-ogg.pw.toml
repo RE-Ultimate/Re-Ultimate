@@ -1,5 +1,6 @@
 name = "wpn_portal_gun_fire_r02.ogg"
 filename = "wpn_portal_gun_fire_r02.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_r02.ogg"

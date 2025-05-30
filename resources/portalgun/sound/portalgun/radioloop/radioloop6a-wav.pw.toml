@@ -1,5 +1,6 @@
 name = "radioloop6a.wav"
 filename = "radioloop6a.wav"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop6a.wav"

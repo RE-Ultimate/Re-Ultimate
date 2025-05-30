@@ -1,5 +1,6 @@
 name = "phys_bouncy_cube_lg_04.ogg"
 filename = "phys_bouncy_cube_lg_04.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_04.ogg"

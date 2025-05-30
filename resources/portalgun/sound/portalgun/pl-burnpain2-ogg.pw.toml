@@ -1,5 +1,6 @@
 name = "pl_burnpain2.ogg"
 filename = "pl_burnpain2.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/pl_burnpain2.ogg"

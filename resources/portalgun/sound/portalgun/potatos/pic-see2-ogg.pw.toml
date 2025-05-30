@@ -1,5 +1,6 @@
 name = "pic_see2.ogg"
 filename = "pic_see2.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_see2.ogg"

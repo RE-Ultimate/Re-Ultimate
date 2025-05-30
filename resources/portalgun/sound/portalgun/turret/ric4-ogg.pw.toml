@@ -1,5 +1,6 @@
 name = "ric4.ogg"
 filename = "ric4.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric4.ogg"

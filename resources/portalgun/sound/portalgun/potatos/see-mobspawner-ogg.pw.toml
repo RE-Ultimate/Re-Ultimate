@@ -1,5 +1,6 @@
 name = "see_mobspawner.ogg"
 filename = "see_mobspawner.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/see_mobspawner.ogg"

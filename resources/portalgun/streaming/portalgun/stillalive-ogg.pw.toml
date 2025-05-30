@@ -1,5 +1,6 @@
 name = "stillalive.ogg"
 filename = "stillalive.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/stillalive.ogg"

@@ -1,5 +1,6 @@
 name = "radioloop.ogg"
 filename = "radioloop.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/radioloop.ogg"

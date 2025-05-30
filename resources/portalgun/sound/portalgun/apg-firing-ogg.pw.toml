@@ -1,5 +1,6 @@
 name = "apg_firing.ogg"
 filename = "apg_firing.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/apg_firing.ogg"

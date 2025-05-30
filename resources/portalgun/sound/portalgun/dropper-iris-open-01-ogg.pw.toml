@@ -1,5 +1,6 @@
 name = "dropper_iris_open_01.ogg"
 filename = "dropper_iris_open_01.ogg"
+side = "client"
 
 [download]
 url = "https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dropper_iris_open_01.ogg"
