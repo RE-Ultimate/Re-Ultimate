@@ -674,11 +674,11 @@ hash = "e444079c0847d561d72f173739d88afd090e7bf718a2aa715b2041c0c238b0ec"
 
 [[files]]
 file = "lang/XyCraftMachines/en_US.json"
-hash = "b39a2cd92df2fa4751aa71fe15ccd5d28e6411b10f1116e9ce8163be5a7a2997"
+hash = "6337ef8013a9f6720b2f35b71b19c36aa87562e21bcded1bd8739f3d5b35a5c2"
 
 [[files]]
 file = "lang/XyCraftWorld/en_US.json"
-hash = "e582cf69c53c8bfc9dfe53c7d7dcbba18cdd8acc44ebcf19517c1d5bb8d3e6df"
+hash = "dde64bf37af82b99936588b4439035f6b8fa42c9d825a417ac9ee64417238015"
 
 [[files]]
 file = "lang/drceph.petrogen/en_US.json"
@@ -691,34 +691,6 @@ hash = "cd63929ba3c71b780295b8a2b0d72159f35559eb621da39634a7a7c94a2a7267"
 [[files]]
 file = "lang/mmmPowersuits/en_US.json"
 hash = "7cc4876033c512bf57025c7b29e696e34b0c79eb86e708c6a5cc5b69106dfadd"
-
-[[files]]
-file = "lang/retroEMI/en_US.json"
-hash = "4d9c5a5ee7dabadd74c9cf0fc98c65cfef2d1604d645e9584cd3fb72b365766a"
-
-[[files]]
-file = "lang/retroEMI/fi_FI.json"
-hash = "9d3033d926791f0aba6ea3e22bf108b248f2f3a1b72aba4276904430cfe48c8b"
-
-[[files]]
-file = "lang/retroEMI/fr_FR.json"
-hash = "2745d6d8220c91583c5ccb50dc541e231758e1df7475b52cc18be1cb1bbdc03e"
-
-[[files]]
-file = "lang/retroEMI/ja_JP.json"
-hash = "286eace6ad0daace8af23128cb02ce9ed5badbf6407c9b9713b63b6fb8b52b45"
-
-[[files]]
-file = "lang/retroEMI/ru_RU.json"
-hash = "21dc2a48e8f8521036c21778b5c84aae31e6d9758d3ba94f5255653285befd2e"
-
-[[files]]
-file = "lang/retroEMI/tr_TR.json"
-hash = "5ce2b92051052d2afafa005939fb9ed7c4bab79d409c87106a025df0f70051a5"
-
-[[files]]
-file = "lang/retroEMI/zh_CN.json"
-hash = "df9725e6cd673a83988b00f77a5d754847c1e804c1b5d4c69e3646061f0a0b4c"
 
 [[files]]
 file = "lib/argo-2-25.pw.toml"
