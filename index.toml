@@ -417,6 +417,310 @@ hash = "14a818eb83bd64d9dedb374a341f854919d27ded1d05d9299cb0b70706aa7c2b"
 metafile = true
 
 [[files]]
+file = "lang/AdvancedMachines/en_US.json"
+hash = "09f6b2751a72326862b317ae69b47d33d77b0f28f7448e9f5b38a096a903eee6"
+
+[[files]]
+file = "lang/AdvancedSolarPanel/en_US.json"
+hash = "7c723afb548de1dd583bcef2470b246903539fb58b268444bf74855c3e705b41"
+
+[[files]]
+file = "lang/AppliedEnergistics/en_US.json"
+hash = "692510acfe1172b3454e155816819014684fc8009fe4e7066468bd6badead639"
+
+[[files]]
+file = "lang/BiblioCraft/en_US.json"
+hash = "a22ee05d0607bda73e5a355fdd4a99c99b4d056bae3b4f242ed2f311ce9765b1"
+
+[[files]]
+file = "lang/CCTurtle/en_US.json"
+hash = "ec68b73f28d2c38b3787b616287f2217b0bde2ffc1955e11f0feb93fb548d703"
+
+[[files]]
+file = "lang/ChargePads/en_US.json"
+hash = "b5fb1244982e3dcb124bf6704f55e56126b5f20f09ea24b24901c1d3ba7ad1d7"
+
+[[files]]
+file = "lang/ChickenChunks/en_US.json"
+hash = "c75738671f98f33e5a15f618bb4a7d6ec7cf149344314b04354b62c4a407a81e"
+
+[[files]]
+file = "lang/Chisel/en_US.json"
+hash = "79c249919b2c3c123ed8f0a8e9beef106444c8b768c73d62e6cb03a8c3933c4f"
+
+[[files]]
+file = "lang/ComputerCraft/en_US.json"
+hash = "e0a23d569ca598e6715c4923a30d9a7a34dd2d41602663762c51f73c1998c0d9"
+
+[[files]]
+file = "lang/DartCraft/en_US.json"
+hash = "d2e77cc119fc5fda96e3e97f71fca401f146346d2323037640e537b7a836b3de"
+
+[[files]]
+file = "lang/EnderStorage/en_US.json"
+hash = "779d017667d3a3895442add4de460390a78691cfedd225f7185b45c5563c7624"
+
+[[files]]
+file = "lang/ExtrabiomesXL/en_US.json"
+hash = "69697b1dfb129c2256ca4176b3c83e33fbe0e63a4bceb224234ca66686460fbc"
+
+[[files]]
+file = "lang/Flamingo/en_US.json"
+hash = "6ad72ac3a02a54d73b00691f93a5ace18f68ed3b48775e16000d342b2e3881e6"
+
+[[files]]
+file = "lang/Forestry/en_US.json"
+hash = "314caf7e22e765bfd59a59fcb4dd1f0907be64db7b9a02c0cd44eb66ede6d81b"
+
+[[files]]
+file = "lang/GraviGun/en_US.json"
+hash = "fac969dda05f4d729794a993e5e0ef44357da6c2003b464a3f12d1b7a6f443ae"
+
+[[files]]
+file = "lang/GraviSuite/en_US.json"
+hash = "7cca9a0d604299348fc6d4a2c0ab2f762a4a7da2ec83aa723d3a1dd8e227a38c"
+
+[[files]]
+file = "lang/GregTech_Addon/en_US.json"
+hash = "39731f5385a0270219b41a4f3694bc4d7d199e47762c925790559dcfb7c79f2a"
+
+[[files]]
+file = "lang/IC2/en_US.json"
+hash = "d2385945b1e6114d93f0949d361b83ca4b92f24e9ac3135060501d771c226ffb"
+
+[[files]]
+file = "lang/IC2NuclearControl/en_US.json"
+hash = "8053f2ba9571f9783f5d4e609f85d0d3034bb881be68a7cc5108d42ded1882b5"
+
+[[files]]
+file = "lang/ImmibisCore/en_US.json"
+hash = "d25e0d398704bee2fd1f4e862560c4a95cec1b500a6889c731540c74b917fdda"
+
+[[files]]
+file = "lang/IronChest/en_US.json"
+hash = "845d7e20cead81286764370729a127c067c2c9696ceebd89f8c56c3cd5d92cfd"
+
+[[files]]
+file = "lang/LogisticsPipes_Main/en_US.json"
+hash = "8af2ee0ed1f83dfbc98d7dbf33291f9e8800e854b01d43c90ab86fbcc001566e"
+
+[[files]]
+file = "lang/MFReloaded/en_US.json"
+hash = "813f7de0ccd3061d62fa8b9834ed0219ffcf4959d1b05883c325fb6a768f3fb7"
+
+[[files]]
+file = "lang/MiscPeripherals/en_US.json"
+hash = "711ca377f2fabbc052d74e94534ddfd5892ac06e8cb040bf4044a7af75f37fc0"
+
+[[files]]
+file = "lang/ModularForceFieldSystem/en_US.json"
+hash = "7219ab01238383f9b6e6c460a54d6466694341142d1fee007ea27f83eca6e660"
+
+[[files]]
+file = "lang/Mystcraft/en_US.json"
+hash = "ca152ce3bd5876a34a140cd835c17cdbe17d27e7498ee560f6d137b68c4b822d"
+
+[[files]]
+file = "lang/NetherOres/en_US.json"
+hash = "4578bf379fb21ed6c90683f23c902069b9ca47fa2408149f339541c0b30a8a92"
+
+[[files]]
+file = "lang/NotEnoughItems/en_US.json"
+hash = "f2eeb6c64e55e48eaeaf0e5b7ea974ab4f915a8c08c5d82d888a246afb8b13f7"
+
+[[files]]
+file = "lang/PortalGun/en_US.json"
+hash = "9a676757721eb2557b394fe2becbfacd3b703f49bfe85216f41cc0f9c4b658df"
+
+[[files]]
+file = "lang/Railcraft/de_DE.json"
+hash = "0b7d76ba5d9d269798044715f7f2eae23030411a0cb9f91772ce7536ff65fec1"
+
+[[files]]
+file = "lang/Railcraft/en_GB.json"
+hash = "590e2a4b6e7bf010621d2e48526845d612ba8e29546812ddea8c1a385463886a"
+
+[[files]]
+file = "lang/Railcraft/en_US.json"
+hash = "1b8578142836ca5cd48e1b5e65a4c42abac177aba1054c25b6a764a80a455085"
+
+[[files]]
+file = "lang/Railcraft/es_AR.json"
+hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+
+[[files]]
+file = "lang/Railcraft/es_ES.json"
+hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+
+[[files]]
+file = "lang/Railcraft/es_MX.json"
+hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+
+[[files]]
+file = "lang/Railcraft/es_UY.json"
+hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+
+[[files]]
+file = "lang/Railcraft/es_VE.json"
+hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+
+[[files]]
+file = "lang/Railcraft/fr_FR.json"
+hash = "f5f9f898ecaf45100825cc9305455f9c29018264e76a160b4d7feeb1f613626d"
+
+[[files]]
+file = "lang/Railcraft/it_IT.json"
+hash = "e092bd64ede31af0e64fde003cfd7e8b91b2c84f3cde49d00cc93507dae8a8cd"
+
+[[files]]
+file = "lang/Railcraft/ja_JP.json"
+hash = "6b01d9b3e922b014289615aba8a10af3035a5dd5b8fd0627da510ee7ef2cd7e0"
+
+[[files]]
+file = "lang/Railcraft/nl_NL.json"
+hash = "46c645e0c9d7f18656e4d8451cfffb2fdf52ff8e71667e82d969692157da9804"
+
+[[files]]
+file = "lang/Railcraft/pl_PL.json"
+hash = "fba0193b14de0875d3d2eed3573e89d79a10133257f464d44841f776f3296b2c"
+
+[[files]]
+file = "lang/Railcraft/pt_BR.json"
+hash = "6c693afb59c28ea79d81d6082c1bf63841e16bce2d957e4a8e3be761cf251994"
+
+[[files]]
+file = "lang/Railcraft/pt_PT.json"
+hash = "f73bf59b78cd539d0b19c6d06f02e39e0ff3e8d14c6220e06e9641823f409885"
+
+[[files]]
+file = "lang/Railcraft/ru_RU.json"
+hash = "8df556821d6664cbf2182a79be20893a6d3a323908730d8f82863f55777113f1"
+
+[[files]]
+file = "lang/Railcraft/zh_CN.json"
+hash = "56163e7ab09a09c8ae526f948f31c2a4c4dc426c6a6873c36539ec21fe56c652"
+
+[[files]]
+file = "lang/Railcraft/zh_TW.json"
+hash = "3eb35cb63b0f36700e64fa06bea6719d6c73ce87a781de6044566b23943decb9"
+
+[[files]]
+file = "lang/RedPowerCore/en_US.json"
+hash = "010c0554e92e07674d71cd48a1e956930a45bdc79171c65c8e245f6697d7c292"
+
+[[files]]
+file = "lang/SecretRoomsMod/en_US.json"
+hash = "3f4e712a6d301792715119c00b2b817654d2e5c4817f4fe64e90ce6105bc2d58"
+
+[[files]]
+file = "lang/SoulShards/en_US.json"
+hash = "046428f1b9c0d5c24d49d8edac81ba55703b3e9001aada46ce7971c9312d662a"
+
+[[files]]
+file = "lang/StevesCarts/en_US.json"
+hash = "a9a806cf39aef4276baba16b4008303b9dd8470a9586ba1b3fa8821e49199f5e"
+
+[[files]]
+file = "lang/Thaumcraft/en_US.json"
+hash = "025b68ce745b56f2df7132031c08da24781d39ab9574e8b30d87b39ab72a55ee"
+
+[[files]]
+file = "lang/ThaumicBees/en_US.json"
+hash = "78b1f60b488835b5ee0dc4d141c2289b189e27faae97c48d431fc3df2a213684"
+
+[[files]]
+file = "lang/ThermalExpansion/en_US.json"
+hash = "3cc193a1fe034a4bb0cebb8b543428760ed3c80b4cbedb84580366550ac0b699"
+
+[[files]]
+file = "lang/ThermalExpansion_Energy/en_US.json"
+hash = "89d5cd9930f9071d412d47dd4a758014a40313543c7735bdb98c1de1f6efd5fb"
+
+[[files]]
+file = "lang/ThermalExpansion_Factory/en_US.json"
+hash = "8747791bcefc78568c9fe833b21a52dc41a228d8b2955ba3e0e7e12ad521efda"
+
+[[files]]
+file = "lang/ThermalExpansion_Transport/en_US.json"
+hash = "ea47295be2fe00e1a818212c104c63f196fa0d12d5608e71c575558be25dd640"
+
+[[files]]
+file = "lang/TwilightForest/en_US.json"
+hash = "fdb221e01594c10613c91155844473988110ae0971a6b40261475eada35aa30f"
+
+[[files]]
+file = "lang/UpsilonFixes/en_US.json"
+hash = "930e94a7ff218eab6fcef45f738fda0da68f43638ef43c349a2a0dec88d1dad5"
+
+[[files]]
+file = "lang/WR-CBE_Addons/en_US.json"
+hash = "07f39b5edaf5edbe6bc242c86faba904935ce0febd51df409be92fd01f8c77e9"
+
+[[files]]
+file = "lang/WR-CBE_Core/en_US.json"
+hash = "09203b389da72eab6326c286c238967d3cf205f4b08950b55c00b357b6dda788"
+
+[[files]]
+file = "lang/WR-CBE_RedPower/en_US.json"
+hash = "47f79627b53517f09751730556c4fe6cb9b49a4445d68465c9ed17a0c0f8505b"
+
+[[files]]
+file = "lang/XReliquary/en_US.json"
+hash = "9e78b3f15e46734cb52ef66fa9dcdf2e47972e56abe854733ca16365058ac411"
+
+[[files]]
+file = "lang/XyCraft/en_US.json"
+hash = "e444079c0847d561d72f173739d88afd090e7bf718a2aa715b2041c0c238b0ec"
+
+[[files]]
+file = "lang/XyCraftMachines/en_US.json"
+hash = "b39a2cd92df2fa4751aa71fe15ccd5d28e6411b10f1116e9ce8163be5a7a2997"
+
+[[files]]
+file = "lang/XyCraftWorld/en_US.json"
+hash = "e582cf69c53c8bfc9dfe53c7d7dcbba18cdd8acc44ebcf19517c1d5bb8d3e6df"
+
+[[files]]
+file = "lang/drceph.petrogen/en_US.json"
+hash = "80b0411e7cfa3bfa87ef38db198ca2289d744bc25c0a83e26a516e632cafe6de"
+
+[[files]]
+file = "lang/factorization/en_US.json"
+hash = "cd63929ba3c71b780295b8a2b0d72159f35559eb621da39634a7a7c94a2a7267"
+
+[[files]]
+file = "lang/mmmPowersuits/en_US.json"
+hash = "7cc4876033c512bf57025c7b29e696e34b0c79eb86e708c6a5cc5b69106dfadd"
+
+[[files]]
+file = "lang/retroEMI/en_US.json"
+hash = "4d9c5a5ee7dabadd74c9cf0fc98c65cfef2d1604d645e9584cd3fb72b365766a"
+
+[[files]]
+file = "lang/retroEMI/fi_FI.json"
+hash = "9d3033d926791f0aba6ea3e22bf108b248f2f3a1b72aba4276904430cfe48c8b"
+
+[[files]]
+file = "lang/retroEMI/fr_FR.json"
+hash = "2745d6d8220c91583c5ccb50dc541e231758e1df7475b52cc18be1cb1bbdc03e"
+
+[[files]]
+file = "lang/retroEMI/ja_JP.json"
+hash = "286eace6ad0daace8af23128cb02ce9ed5badbf6407c9b9713b63b6fb8b52b45"
+
+[[files]]
+file = "lang/retroEMI/ru_RU.json"
+hash = "21dc2a48e8f8521036c21778b5c84aae31e6d9758d3ba94f5255653285befd2e"
+
+[[files]]
+file = "lang/retroEMI/tr_TR.json"
+hash = "5ce2b92051052d2afafa005939fb9ed7c4bab79d409c87106a025df0f70051a5"
+
+[[files]]
+file = "lang/retroEMI/zh_CN.json"
+hash = "df9725e6cd673a83988b00f77a5d754847c1e804c1b5d4c69e3646061f0a0b4c"
+
+[[files]]
 file = "lib/argo-2-25.pw.toml"
 hash = "4ba97c94245de91a5b19a3bc02e40ec0d11904e39759e7d8bda5e7743f1009f0"
 metafile = true
@@ -743,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "f9ae6b28c8ef09fcfa6f0ff08f277b0ddbc6fecc2e7c9d720ee9f7ed8e273506"
+hash = "f8a54e628d61071c10e2c0f1959fc9fc2cde7ac28ae8008b7d5b249996fa5c88"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"

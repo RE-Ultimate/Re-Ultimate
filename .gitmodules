@@ -1,0 +1,3 @@
+[submodule "lang"]
+	path = lang
+	url = https://git.sleeping.town/Rewind/UpsilonLang.git

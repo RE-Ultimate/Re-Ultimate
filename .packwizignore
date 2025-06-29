@@ -19,3 +19,5 @@ resources/menumusic/files
 unsup.sig
 unsup-metafiles.zip.br
 update.sh
+.gitmodules
+.git
