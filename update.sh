@@ -1,4 +1,6 @@
 #!/bin/bash -ex
+sed '/>8 cut here/q' .packwizignore |sponge .packwizignore
+ag -l '^\{\}$' lang/ |sort >> .packwizignore
 packwiz refresh
 find -name '*.pw.toml' | zip -X -0 -@ unsup-metafiles.zip
 brotli -Zjf unsup-metafiles.zip
