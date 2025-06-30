@@ -454,7 +454,7 @@ hash = "50e299f2e47495fe1e2467346d9bd852c87e5ea4b87b437b6a43cf7066bf1fb6"
 
 [[files]]
 file = "lang/Chisel/en_US.json"
-hash = "15ad55d3f784a535cdb2241d982460e92246c975cb557aaec37ab0af548cc8dd"
+hash = "350437d43af95131ccbc6a8473b98899dc24f27381cbeef223c03c782dec8dc8"
 
 [[files]]
 file = "lang/ComputerCraft/en_US.json"
@@ -610,7 +610,7 @@ hash = "c2595931b881cff272f58124df63d86cb2e7e55610e90e89384b679f57c57a8b"
 
 [[files]]
 file = "lang/GregTech_Addon/en_US.json"
-hash = "b4f2ffa29ed2f2aab79958f8b62c9dec7aa88dd495a080a9652ce2d07debe40d"
+hash = "d6cf45da9a3a21de210dfe732708372826a4faf46c0f0dd905413feab6a8d198"
 
 [[files]]
 file = "lang/IC2/en_US.json"
@@ -626,7 +626,7 @@ hash = "d25e0d398704bee2fd1f4e862560c4a95cec1b500a6889c731540c74b917fdda"
 
 [[files]]
 file = "lang/IronChest/en_US.json"
-hash = "845d7e20cead81286764370729a127c067c2c9696ceebd89f8c56c3cd5d92cfd"
+hash = "1f90a8864c4e0296cd5f69498cacb21d54d3ab4dca30d5603155871c55de2070"
 
 [[files]]
 file = "lang/IronChest/pl_PL.json"
@@ -762,7 +762,7 @@ hash = "025b68ce745b56f2df7132031c08da24781d39ab9574e8b30d87b39ab72a55ee"
 
 [[files]]
 file = "lang/ThaumicBees/en_US.json"
-hash = "8640e0e032c7ca5d472f03ae43cd33a07d1eb1344e326901fcb2e7ccd699670e"
+hash = "4993ea3ae3188f8add1da604e785d503b49518bd8392ecc2cdf009dc0a5049da"
 
 [[files]]
 file = "lang/ThermalExpansion/en_US.json"
@@ -886,8 +886,8 @@ file = "mods/AdvancedSolarPanel.zip"
 hash = "190a2986ccd9494db89509a1a671c7de9bd4e18ac517375ad488833ab719050e"
 
 [[files]]
-file = "mods/ChiselRetro_beta0.9+upsilon1_mc1.4.7.zip"
-hash = "b076c854e14f99aa52654716b44cb5c01a7990ea3d4cc20f4af664d1636a12f2"
+file = "mods/ChiselRetro-upsilon1.0.jar"
+hash = "91403722fbdca3899db41a8c521fd8753bdc21ed6ce8cacc964da29a59dd71ab"
 
 [[files]]
 file = "mods/CoFHCore.zip"
