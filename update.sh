@@ -1,7 +1,9 @@
 #!/bin/bash -ex
 (
 	cd lang
-	git pull
+	git fetch origin trunk
+	git reset --hard origin/trunk
+	git push git@sleeping.town:Rewind/UpsilonLang.git release
 )
 sed '/>8 cut here/q' .packwizignore |sponge .packwizignore
 ag -l '^\{\}$' lang/ |sort >> .packwizignore
