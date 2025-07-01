@@ -470,7 +470,7 @@ hash = "d2e77cc119fc5fda96e3e97f71fca401f146346d2323037640e537b7a836b3de"
 
 [[files]]
 file = "lang/EE3/cs_CZ.json"
-hash = "8671a3cf875bbc35b2681063b4bc7f5da2e929a45c9740e399472b8b441749ec"
+hash = "f59015f6762504bb4b9b299482b5d8dffc49855e46bd184003988521d37c557a"
 
 [[files]]
 file = "lang/EE3/cy_GB.json"
@@ -490,7 +490,7 @@ hash = "eafb9e5b2aed7148a31e7d63b73a22c0f3f0139fc9f1d9b3fcf855ad8b8d54e1"
 
 [[files]]
 file = "lang/EE3/fr_FR.json"
-hash = "fc15d1541ee51a22ba14240064c6e5b1c6f4370d315387a5ed57356cf2f4bf78"
+hash = "893a5aae18be5f5039320be0f4009ef0f7ad88cf9dfbb75e85635e8d2d69aece"
 
 [[files]]
 file = "lang/EE3/it_IT.json"
@@ -510,7 +510,7 @@ hash = "ee96d0a09f780562acde3ec8ba57fde7c66d32d7e31bdb7e57c4a9d004e712f4"
 
 [[files]]
 file = "lang/EE3/no_NO.json"
-hash = "bbbda453552f72be0d78933ca58aebb0536ab6d130227bfe6c4dbcaa4689c3b9"
+hash = "9122f1ebdb5a1da05f656bb4119ea573e43a0bc84262991ab5b741025da0cecd"
 
 [[files]]
 file = "lang/EE3/pl_PL.json"
@@ -590,7 +590,7 @@ hash = "54263c1f38ecb8200bdc1adce1a6894a0431c09e5edd8485e0f5bbddaf2c54c7"
 
 [[files]]
 file = "lang/Forestry/en_US.json"
-hash = "314caf7e22e765bfd59a59fcb4dd1f0907be64db7b9a02c0cd44eb66ede6d81b"
+hash = "f070dba6bc154bb2fcf8e3492b2d109bc69036519ced31b01626b9e68a72c5c3"
 
 [[files]]
 file = "lang/GraviGun/en_US.json"
@@ -670,75 +670,75 @@ hash = "9a676757721eb2557b394fe2becbfacd3b703f49bfe85216f41cc0f9c4b658df"
 
 [[files]]
 file = "lang/Railcraft/de_DE.json"
-hash = "0b7d76ba5d9d269798044715f7f2eae23030411a0cb9f91772ce7536ff65fec1"
+hash = "974e5b55ba0f982e3f7521e918d26cd04a77143a69afed7719f57364bac1956b"
 
 [[files]]
 file = "lang/Railcraft/en_GB.json"
-hash = "590e2a4b6e7bf010621d2e48526845d612ba8e29546812ddea8c1a385463886a"
+hash = "8e809142e1d91c5959673a903fab5a765769509e334fd6528154ad42107b9d5c"
 
 [[files]]
 file = "lang/Railcraft/en_US.json"
-hash = "1b8578142836ca5cd48e1b5e65a4c42abac177aba1054c25b6a764a80a455085"
+hash = "59f22be1481c7e61f8c5485ebf26adc36419a93ded2b70c9321061dbac50a327"
 
 [[files]]
 file = "lang/Railcraft/es_AR.json"
-hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+hash = "88010423922d9edac75bf0936a534d4c74e23d8dcac138aaa263c84b7f40a76b"
 
 [[files]]
 file = "lang/Railcraft/es_ES.json"
-hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+hash = "88010423922d9edac75bf0936a534d4c74e23d8dcac138aaa263c84b7f40a76b"
 
 [[files]]
 file = "lang/Railcraft/es_MX.json"
-hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+hash = "88010423922d9edac75bf0936a534d4c74e23d8dcac138aaa263c84b7f40a76b"
 
 [[files]]
 file = "lang/Railcraft/es_UY.json"
-hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+hash = "88010423922d9edac75bf0936a534d4c74e23d8dcac138aaa263c84b7f40a76b"
 
 [[files]]
 file = "lang/Railcraft/es_VE.json"
-hash = "b24ecc7d2edd8044ea839f7e731f26ca9042c5d9f37b97c05e759dbec1c1d891"
+hash = "88010423922d9edac75bf0936a534d4c74e23d8dcac138aaa263c84b7f40a76b"
 
 [[files]]
 file = "lang/Railcraft/fr_FR.json"
-hash = "f5f9f898ecaf45100825cc9305455f9c29018264e76a160b4d7feeb1f613626d"
+hash = "53c31c192b857953f6fd5ea619977b9f97b9c02925809d5d9bc26105f0127483"
 
 [[files]]
 file = "lang/Railcraft/it_IT.json"
-hash = "e092bd64ede31af0e64fde003cfd7e8b91b2c84f3cde49d00cc93507dae8a8cd"
+hash = "218f3b8457538d93b53c42a99f333208c9378fae3802ebc553c808f939c3ee4c"
 
 [[files]]
 file = "lang/Railcraft/ja_JP.json"
-hash = "6b01d9b3e922b014289615aba8a10af3035a5dd5b8fd0627da510ee7ef2cd7e0"
+hash = "da70395abb95e3a55c664d247777d7013f9b07a54c3b177741cd16cd4b8518a9"
 
 [[files]]
 file = "lang/Railcraft/nl_NL.json"
-hash = "46c645e0c9d7f18656e4d8451cfffb2fdf52ff8e71667e82d969692157da9804"
+hash = "6fa8b8eb1102ac05601829c34c2b5b5570c6b8edefb90825160234c44a33c544"
 
 [[files]]
 file = "lang/Railcraft/pl_PL.json"
-hash = "fba0193b14de0875d3d2eed3573e89d79a10133257f464d44841f776f3296b2c"
+hash = "ec226b359c5a19069d17e3d62ed1cb5ebbfd37017c6d9d9b0c1f087f5edbc126"
 
 [[files]]
 file = "lang/Railcraft/pt_BR.json"
-hash = "6c693afb59c28ea79d81d6082c1bf63841e16bce2d957e4a8e3be761cf251994"
+hash = "988ec35166eea4b04a9485d89d37aa958552e3590c998b91f076cfea086aa3c5"
 
 [[files]]
 file = "lang/Railcraft/pt_PT.json"
-hash = "f73bf59b78cd539d0b19c6d06f02e39e0ff3e8d14c6220e06e9641823f409885"
+hash = "a2b977cc240fcf590517607de1bbc752d872843717449a8f2256d12e9f016342"
 
 [[files]]
 file = "lang/Railcraft/ru_RU.json"
-hash = "8df556821d6664cbf2182a79be20893a6d3a323908730d8f82863f55777113f1"
+hash = "fadad069cfaf756df500a5b2ae6946fc9a34c2e650e9973b6557efbfeff72fe5"
 
 [[files]]
 file = "lang/Railcraft/zh_CN.json"
-hash = "56163e7ab09a09c8ae526f948f31c2a4c4dc426c6a6873c36539ec21fe56c652"
+hash = "0e59a0b637fc937c310a6de6c9a5c14d6fe5aec7599a4a0198fd78a71af3c957"
 
 [[files]]
 file = "lang/Railcraft/zh_TW.json"
-hash = "3eb35cb63b0f36700e64fa06bea6719d6c73ce87a781de6044566b23943decb9"
+hash = "c02a655c39facd5337827fb9a36a5355fcd8421b7349a4e30e2e65a7692ed759"
 
 [[files]]
 file = "lang/RedPowerCore/en_US.json"
@@ -790,7 +790,7 @@ hash = "0947a6bc90f3e1b827e8f8e5dac5a13ed1fd7d3c75d7719064a8fcb4df3d7f4d"
 
 [[files]]
 file = "lang/TwilightForest/ru_RU.json"
-hash = "24d93f5f64692292aa62bbf93b6a415f4ab691fdd22d08f37e5d99e95eb9776b"
+hash = "bf87ab4da4b59d15f7b40c7d15dbfa934de9d9922ff57c019e844f8651f2f080"
 
 [[files]]
 file = "lang/UpsilonFixes/en_US.json"
