@@ -670,7 +670,7 @@ hash = "9a676757721eb2557b394fe2becbfacd3b703f49bfe85216f41cc0f9c4b658df"
 
 [[files]]
 file = "lang/Railcraft/de_DE.json"
-hash = "974e5b55ba0f982e3f7521e918d26cd04a77143a69afed7719f57364bac1956b"
+hash = "3bcf8f9946e0a924ff75b8ce5d30c56aa1c3f17b688765412529216ac6ee2122"
 
 [[files]]
 file = "lang/Railcraft/en_GB.json"
@@ -839,6 +839,10 @@ hash = "4984dd2499c8dfc52fd922ecb259930c72c6fc5fd1686efbeb7d96d970f43efe"
 [[files]]
 file = "lang/drceph.petrogen/en_US.json"
 hash = "80b0411e7cfa3bfa87ef38db198ca2289d744bc25c0a83e26a516e632cafe6de"
+
+[[files]]
+file = "lang/drceph.petrogen/pl_PL.json"
+hash = "7564fb6f0ff6a88b92d24f23dcb28bd1cbb797964625565f9efeae91401c7d54"
 
 [[files]]
 file = "lang/factorization/en_US.json"
@@ -1175,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "f8a54e628d61071c10e2c0f1959fc9fc2cde7ac28ae8008b7d5b249996fa5c88"
+hash = "18a76b1bab061930a27da56fc160f6ec93f24741bca21da8db90caa200156e5b"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
