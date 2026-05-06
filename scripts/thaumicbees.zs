@@ -11,3 +11,4 @@ recipes.addShaped(<88> * 4, [
 	[<12>, <3>, <12>],
 	[soulWax, <12>, soulWax]
 ]);
+recipes.addShapeless(<88> * 5, [<item.alkahestTome>, <88>, <item.redstone>]); // Readd Alkahest recipe
