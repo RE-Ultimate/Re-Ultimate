@@ -42,7 +42,6 @@ lang/AdvancedMachines/pl_PL.json
 lang/AdvancedMachines/pt_BR.json
 lang/AdvancedMachines/pt_PT.json
 lang/AdvancedMachines/ru_RU.json
-lang/AdvancedMachines/sr_RS.json
 lang/AdvancedMachines/sv_SE.json
 lang/AdvancedMachines/tr_TR.json
 lang/AdvancedMachines/zh_CN.json
@@ -67,7 +66,6 @@ lang/AdvancedSolarPanel/pl_PL.json
 lang/AdvancedSolarPanel/pt_BR.json
 lang/AdvancedSolarPanel/pt_PT.json
 lang/AdvancedSolarPanel/ru_RU.json
-lang/AdvancedSolarPanel/sr_RS.json
 lang/AdvancedSolarPanel/sv_SE.json
 lang/AdvancedSolarPanel/tr_TR.json
 lang/AdvancedSolarPanel/zh_CN.json
@@ -116,7 +114,6 @@ lang/auto_third_person/nl_NL.json
 lang/auto_third_person/pt_BR.json
 lang/auto_third_person/pt_PT.json
 lang/auto_third_person/ru_RU.json
-lang/auto_third_person/sr_RS.json
 lang/auto_third_person/sv_SE.json
 lang/auto_third_person/tr_TR.json
 lang/auto_third_person/zh_CN.json
@@ -165,7 +162,6 @@ lang/CCTurtle/nl_NL.json
 lang/CCTurtle/pt_BR.json
 lang/CCTurtle/pt_PT.json
 lang/CCTurtle/ru_RU.json
-lang/CCTurtle/sr_RS.json
 lang/CCTurtle/sv_SE.json
 lang/CCTurtle/tr_TR.json
 lang/CCTurtle/zh_CN.json
@@ -190,7 +186,6 @@ lang/ChargePads/pl_PL.json
 lang/ChargePads/pt_BR.json
 lang/ChargePads/pt_PT.json
 lang/ChargePads/ru_RU.json
-lang/ChargePads/sr_RS.json
 lang/ChargePads/sv_SE.json
 lang/ChargePads/tr_TR.json
 lang/ChargePads/zh_CN.json
@@ -214,7 +209,6 @@ lang/ChickenChunks/nl_NL.json
 lang/ChickenChunks/pt_BR.json
 lang/ChickenChunks/pt_PT.json
 lang/ChickenChunks/ru_RU.json
-lang/ChickenChunks/sr_RS.json
 lang/ChickenChunks/sv_SE.json
 lang/ChickenChunks/tr_TR.json
 lang/ChickenChunks/zh_CN.json
@@ -263,7 +257,6 @@ lang/ComputerCraft/nl_NL.json
 lang/ComputerCraft/pt_BR.json
 lang/ComputerCraft/pt_PT.json
 lang/ComputerCraft/ru_RU.json
-lang/ComputerCraft/sr_RS.json
 lang/ComputerCraft/sv_SE.json
 lang/ComputerCraft/tr_TR.json
 lang/ComputerCraft/zh_CN.json
@@ -312,7 +305,6 @@ lang/drceph.petrogen/nl_NL.json
 lang/drceph.petrogen/pt_BR.json
 lang/drceph.petrogen/pt_PT.json
 lang/drceph.petrogen/ru_RU.json
-lang/drceph.petrogen/sr_RS.json
 lang/drceph.petrogen/sv_SE.json
 lang/drceph.petrogen/tr_TR.json
 lang/drceph.petrogen/zh_CN.json
@@ -343,7 +335,6 @@ lang/EnderStorage/nl_NL.json
 lang/EnderStorage/pt_BR.json
 lang/EnderStorage/pt_PT.json
 lang/EnderStorage/ru_RU.json
-lang/EnderStorage/sr_RS.json
 lang/EnderStorage/sv_SE.json
 lang/EnderStorage/tr_TR.json
 lang/EnderStorage/zh_CN.json
@@ -411,7 +402,6 @@ lang/Flamingo/nl_NL.json
 lang/Flamingo/pt_BR.json
 lang/Flamingo/pt_PT.json
 lang/Flamingo/ru_RU.json
-lang/Flamingo/sr_RS.json
 lang/Flamingo/sv_SE.json
 lang/Flamingo/tr_TR.json
 lang/Flamingo/zh_CN.json
@@ -436,7 +426,6 @@ lang/Forestry/pl_PL.json
 lang/Forestry/pt_BR.json
 lang/Forestry/pt_PT.json
 lang/Forestry/ru_RU.json
-lang/Forestry/sr_RS.json
 lang/Forestry/sv_SE.json
 lang/Forestry/tr_TR.json
 lang/Forestry/zh_CN.json
@@ -460,7 +449,6 @@ lang/GraviGun/nl_NL.json
 lang/GraviGun/pt_BR.json
 lang/GraviGun/pt_PT.json
 lang/GraviGun/ru_RU.json
-lang/GraviGun/sr_RS.json
 lang/GraviGun/sv_SE.json
 lang/GraviGun/tr_TR.json
 lang/GraviGun/zh_CN.json
@@ -485,7 +473,6 @@ lang/GraviSuite/pl_PL.json
 lang/GraviSuite/pt_BR.json
 lang/GraviSuite/pt_PT.json
 lang/GraviSuite/ru_RU.json
-lang/GraviSuite/sr_RS.json
 lang/GraviSuite/sv_SE.json
 lang/GraviSuite/tr_TR.json
 lang/GraviSuite/zh_CN.json
@@ -584,7 +571,6 @@ lang/ImmibisCore/pl_PL.json
 lang/ImmibisCore/pt_BR.json
 lang/ImmibisCore/pt_PT.json
 lang/ImmibisCore/ru_RU.json
-lang/ImmibisCore/sr_RS.json
 lang/ImmibisCore/sv_SE.json
 lang/ImmibisCore/tr_TR.json
 lang/ImmibisCore/zh_CN.json
@@ -608,7 +594,6 @@ lang/IronChest/nl_NL.json
 lang/IronChest/pt_BR.json
 lang/IronChest/pt_PT.json
 lang/IronChest/ru_RU.json
-lang/IronChest/sr_RS.json
 lang/IronChest/sv_SE.json
 lang/IronChest/tr_TR.json
 lang/IronChest/zh_CN.json
@@ -682,7 +667,6 @@ lang/MiscPeripherals/pl_PL.json
 lang/MiscPeripherals/pt_BR.json
 lang/MiscPeripherals/pt_PT.json
 lang/MiscPeripherals/ru_RU.json
-lang/MiscPeripherals/sr_RS.json
 lang/MiscPeripherals/sv_SE.json
 lang/MiscPeripherals/tr_TR.json
 lang/MiscPeripherals/zh_CN.json
@@ -707,7 +691,6 @@ lang/mmmPowersuits/pl_PL.json
 lang/mmmPowersuits/pt_BR.json
 lang/mmmPowersuits/pt_PT.json
 lang/mmmPowersuits/ru_RU.json
-lang/mmmPowersuits/sr_RS.json
 lang/mmmPowersuits/sv_SE.json
 lang/mmmPowersuits/tr_TR.json
 lang/mmmPowersuits/zh_CN.json
@@ -757,7 +740,6 @@ lang/Mystcraft/pl_PL.json
 lang/Mystcraft/pt_BR.json
 lang/Mystcraft/pt_PT.json
 lang/Mystcraft/ru_RU.json
-lang/Mystcraft/sr_RS.json
 lang/Mystcraft/sv_SE.json
 lang/Mystcraft/tr_TR.json
 lang/Mystcraft/zh_CN.json
@@ -782,7 +764,6 @@ lang/NetherOres/pl_PL.json
 lang/NetherOres/pt_BR.json
 lang/NetherOres/pt_PT.json
 lang/NetherOres/ru_RU.json
-lang/NetherOres/sr_RS.json
 lang/NetherOres/sv_SE.json
 lang/NetherOres/tr_TR.json
 lang/NetherOres/zh_CN.json
@@ -807,7 +788,6 @@ lang/NotEnoughItems/pl_PL.json
 lang/NotEnoughItems/pt_BR.json
 lang/NotEnoughItems/pt_PT.json
 lang/NotEnoughItems/ru_RU.json
-lang/NotEnoughItems/sr_RS.json
 lang/NotEnoughItems/sv_SE.json
 lang/NotEnoughItems/tr_TR.json
 lang/NotEnoughItems/zh_CN.json
@@ -832,7 +812,6 @@ lang/PortalGun/pl_PL.json
 lang/PortalGun/pt_BR.json
 lang/PortalGun/pt_PT.json
 lang/PortalGun/ru_RU.json
-lang/PortalGun/sr_RS.json
 lang/PortalGun/sv_SE.json
 lang/PortalGun/tr_TR.json
 lang/PortalGun/zh_CN.json
@@ -890,7 +869,6 @@ lang/SecretRoomsMod/pl_PL.json
 lang/SecretRoomsMod/pt_BR.json
 lang/SecretRoomsMod/pt_PT.json
 lang/SecretRoomsMod/ru_RU.json
-lang/SecretRoomsMod/sr_RS.json
 lang/SecretRoomsMod/sv_SE.json
 lang/SecretRoomsMod/tr_TR.json
 lang/SecretRoomsMod/zh_CN.json
@@ -915,7 +893,6 @@ lang/SoulShards/pl_PL.json
 lang/SoulShards/pt_BR.json
 lang/SoulShards/pt_PT.json
 lang/SoulShards/ru_RU.json
-lang/SoulShards/sr_RS.json
 lang/SoulShards/sv_SE.json
 lang/SoulShards/tr_TR.json
 lang/SoulShards/zh_CN.json
@@ -1018,7 +995,6 @@ lang/ThermalExpansion_Energy/pl_PL.json
 lang/ThermalExpansion_Energy/pt_BR.json
 lang/ThermalExpansion_Energy/pt_PT.json
 lang/ThermalExpansion_Energy/ru_RU.json
-lang/ThermalExpansion_Energy/sr_RS.json
 lang/ThermalExpansion_Energy/sv_SE.json
 lang/ThermalExpansion_Energy/tr_TR.json
 lang/ThermalExpansion_Energy/zh_CN.json
@@ -1049,7 +1025,6 @@ lang/ThermalExpansion_Factory/pl_PL.json
 lang/ThermalExpansion_Factory/pt_BR.json
 lang/ThermalExpansion_Factory/pt_PT.json
 lang/ThermalExpansion_Factory/ru_RU.json
-lang/ThermalExpansion_Factory/sr_RS.json
 lang/ThermalExpansion_Factory/sv_SE.json
 lang/ThermalExpansion_Factory/tr_TR.json
 lang/ThermalExpansion_Factory/zh_CN.json
@@ -1065,7 +1040,6 @@ lang/ThermalExpansion/pl_PL.json
 lang/ThermalExpansion/pt_BR.json
 lang/ThermalExpansion/pt_PT.json
 lang/ThermalExpansion/ru_RU.json
-lang/ThermalExpansion/sr_RS.json
 lang/ThermalExpansion/sv_SE.json
 lang/ThermalExpansion_Transport/cs_CZ.json
 lang/ThermalExpansion_Transport/cy_GB.json
@@ -1087,7 +1061,6 @@ lang/ThermalExpansion_Transport/pl_PL.json
 lang/ThermalExpansion_Transport/pt_BR.json
 lang/ThermalExpansion_Transport/pt_PT.json
 lang/ThermalExpansion_Transport/ru_RU.json
-lang/ThermalExpansion_Transport/sr_RS.json
 lang/ThermalExpansion_Transport/sv_SE.json
 lang/ThermalExpansion_Transport/tr_TR.json
 lang/ThermalExpansion_Transport/zh_CN.json
@@ -1137,7 +1110,6 @@ lang/UpsilonFixes/nl_NL.json
 lang/UpsilonFixes/pt_BR.json
 lang/UpsilonFixes/pt_PT.json
 lang/UpsilonFixes/ru_RU.json
-lang/UpsilonFixes/sr_RS.json
 lang/UpsilonFixes/sv_SE.json
 lang/UpsilonFixes/tr_TR.json
 lang/UpsilonFixes/zh_CN.json
@@ -1162,7 +1134,6 @@ lang/WR-CBE_Addons/pl_PL.json
 lang/WR-CBE_Addons/pt_BR.json
 lang/WR-CBE_Addons/pt_PT.json
 lang/WR-CBE_Addons/ru_RU.json
-lang/WR-CBE_Addons/sr_RS.json
 lang/WR-CBE_Addons/sv_SE.json
 lang/WR-CBE_Addons/tr_TR.json
 lang/WR-CBE_Addons/zh_CN.json
@@ -1187,7 +1158,6 @@ lang/WR-CBE_Core/pl_PL.json
 lang/WR-CBE_Core/pt_BR.json
 lang/WR-CBE_Core/pt_PT.json
 lang/WR-CBE_Core/ru_RU.json
-lang/WR-CBE_Core/sr_RS.json
 lang/WR-CBE_Core/sv_SE.json
 lang/WR-CBE_Core/tr_TR.json
 lang/WR-CBE_Core/zh_CN.json
@@ -1212,7 +1182,6 @@ lang/WR-CBE_RedPower/pl_PL.json
 lang/WR-CBE_RedPower/pt_BR.json
 lang/WR-CBE_RedPower/pt_PT.json
 lang/WR-CBE_RedPower/ru_RU.json
-lang/WR-CBE_RedPower/sr_RS.json
 lang/WR-CBE_RedPower/sv_SE.json
 lang/WR-CBE_RedPower/tr_TR.json
 lang/WR-CBE_RedPower/zh_CN.json
@@ -1276,7 +1245,6 @@ lang/XyCraftMachines/pl_PL.json
 lang/XyCraftMachines/pt_BR.json
 lang/XyCraftMachines/pt_PT.json
 lang/XyCraftMachines/ru_RU.json
-lang/XyCraftMachines/sr_RS.json
 lang/XyCraftMachines/sv_SE.json
 lang/XyCraftMachines/tr_TR.json
 lang/XyCraftMachines/zh_CN.json
@@ -1287,7 +1255,6 @@ lang/XyCraft/pl_PL.json
 lang/XyCraft/pt_BR.json
 lang/XyCraft/pt_PT.json
 lang/XyCraft/ru_RU.json
-lang/XyCraft/sr_RS.json
 lang/XyCraft/sv_SE.json
 lang/XyCraft/tr_TR.json
 lang/XyCraftWorld/cs_CZ.json

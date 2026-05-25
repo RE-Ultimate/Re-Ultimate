@@ -421,8 +421,16 @@ file = "lang/AdvancedMachines/en_US.json"
 hash = "09f6b2751a72326862b317ae69b47d33d77b0f28f7448e9f5b38a096a903eee6"
 
 [[files]]
+file = "lang/AdvancedMachines/sr_RS.json"
+hash = "2a62af87729de1f99be2687f84cf1e18f735b595156679971f17b38f7a8d7580"
+
+[[files]]
 file = "lang/AdvancedSolarPanel/en_US.json"
 hash = "7c723afb548de1dd583bcef2470b246903539fb58b268444bf74855c3e705b41"
+
+[[files]]
+file = "lang/AdvancedSolarPanel/sr_RS.json"
+hash = "7c882e960b34f1cd3f855867675bd25dcfe92ae1bdcf9075017aa23ae9dba23d"
 
 [[files]]
 file = "lang/AppliedEnergistics/en_US.json"
@@ -441,8 +449,16 @@ file = "lang/CCTurtle/pl_PL.json"
 hash = "134753768ca67c97a14c110943d5c14e2082b03a217bb46aa4dae283a4235a65"
 
 [[files]]
+file = "lang/CCTurtle/sr_RS.json"
+hash = "9c724f90f98d5870044daf97d85572a4828b1e6b851b8c0c576ac3775477a28b"
+
+[[files]]
 file = "lang/ChargePads/en_US.json"
 hash = "b5fb1244982e3dcb124bf6704f55e56126b5f20f09ea24b24901c1d3ba7ad1d7"
+
+[[files]]
+file = "lang/ChargePads/sr_RS.json"
+hash = "2a162d0f15c54a94651d4c16e0b47b66ae1d976f69d6fa63b18f1a822340a185"
 
 [[files]]
 file = "lang/ChickenChunks/en_US.json"
@@ -451,6 +467,10 @@ hash = "c75738671f98f33e5a15f618bb4a7d6ec7cf149344314b04354b62c4a407a81e"
 [[files]]
 file = "lang/ChickenChunks/pl_PL.json"
 hash = "50e299f2e47495fe1e2467346d9bd852c87e5ea4b87b437b6a43cf7066bf1fb6"
+
+[[files]]
+file = "lang/ChickenChunks/sr_RS.json"
+hash = "032287adb7f124381d947e539232683f474468bac4842397e1c7208ce0e8af03"
 
 [[files]]
 file = "lang/Chisel/en_US.json"
@@ -463,6 +483,10 @@ hash = "e0a23d569ca598e6715c4923a30d9a7a34dd2d41602663762c51f73c1998c0d9"
 [[files]]
 file = "lang/ComputerCraft/pl_PL.json"
 hash = "2f48182e8a1222513552ba944d72ab237cd9fbe117fadab42d1b453eab54f705"
+
+[[files]]
+file = "lang/ComputerCraft/sr_RS.json"
+hash = "e42acf1c1047ccfd4b7a16117933e04611154f3fe01c12cf13e6d463b6213647"
 
 [[files]]
 file = "lang/DartCraft/en_US.json"
@@ -530,7 +554,7 @@ hash = "15895a8b6ee1e9ae503b479c8b61712dbbc42c1d143d2a81601444c1c0b877cf"
 
 [[files]]
 file = "lang/EE3/sr_RS.json"
-hash = "335423439628804f4097589404ae65f037e94d187bd28bb6e9f747e05e02bcbe"
+hash = "61457c5de69710fddb7adb3651ef8f7cd789a00d14689a62c0a9d810f09257d9"
 
 [[files]]
 file = "lang/EE3/sv_SE.json"
@@ -551,6 +575,10 @@ hash = "779d017667d3a3895442add4de460390a78691cfedd225f7185b45c5563c7624"
 [[files]]
 file = "lang/EnderStorage/pl_PL.json"
 hash = "0dc1159fee94e3be7d4e02ffac9a6b9b997fee255420ca7b315ed35370200fe0"
+
+[[files]]
+file = "lang/EnderStorage/sr_RS.json"
+hash = "7415757b2c17dabec1ddf540c1d0c3185bb2607e236aa96c90bbd04c9b4bc98c"
 
 [[files]]
 file = "lang/ExtrabiomesXL/de_DE.json"
@@ -589,8 +617,16 @@ file = "lang/Flamingo/pl_PL.json"
 hash = "54263c1f38ecb8200bdc1adce1a6894a0431c09e5edd8485e0f5bbddaf2c54c7"
 
 [[files]]
+file = "lang/Flamingo/sr_RS.json"
+hash = "65a0a5465303a174c26f91152b83c8ddfecc14c514dc522ce22abf3f00bbfbcf"
+
+[[files]]
 file = "lang/Forestry/en_US.json"
 hash = "f070dba6bc154bb2fcf8e3492b2d109bc69036519ced31b01626b9e68a72c5c3"
+
+[[files]]
+file = "lang/Forestry/sr_RS.json"
+hash = "e0a59c3362601f57e46efb7db276fd7468a95b107bb3a68739d115bbc2c2fad6"
 
 [[files]]
 file = "lang/GraviGun/en_US.json"
@@ -601,8 +637,16 @@ file = "lang/GraviGun/pl_PL.json"
 hash = "d87af0efb063f2fb0e40a95fae776b37e668ccaab74157d741d52ea564740344"
 
 [[files]]
+file = "lang/GraviGun/sr_RS.json"
+hash = "e3442f0be7e0c42d3a70526511f37a8335271eefb9fe6865744baf2bf467919c"
+
+[[files]]
 file = "lang/GraviSuite/en_US.json"
 hash = "7cca9a0d604299348fc6d4a2c0ab2f762a4a7da2ec83aa723d3a1dd8e227a38c"
+
+[[files]]
+file = "lang/GraviSuite/sr_RS.json"
+hash = "a9bd93ded601c0c8da5d318b189439d766b6b9032e9a630b072fba407bde10cc"
 
 [[files]]
 file = "lang/GregTech_Addon/en_GB.json"
@@ -625,12 +669,20 @@ file = "lang/ImmibisCore/en_US.json"
 hash = "d25e0d398704bee2fd1f4e862560c4a95cec1b500a6889c731540c74b917fdda"
 
 [[files]]
+file = "lang/ImmibisCore/sr_RS.json"
+hash = "fae7dc3c3336b46514403ab6841e99f3f4878f7c6450261704c8307a74b7c069"
+
+[[files]]
 file = "lang/IronChest/en_US.json"
 hash = "1f90a8864c4e0296cd5f69498cacb21d54d3ab4dca30d5603155871c55de2070"
 
 [[files]]
 file = "lang/IronChest/pl_PL.json"
 hash = "1c440d06b219107d56a470583761298db911a2e1fca53c4a5a4f21c1edf95302"
+
+[[files]]
+file = "lang/IronChest/sr_RS.json"
+hash = "e5710dbecffdf66562fa7865420f80c2544fc686eb2be52398110652acfaae8d"
 
 [[files]]
 file = "lang/LogisticsPipes_Main/en_US.json"
@@ -649,6 +701,10 @@ file = "lang/MiscPeripherals/en_US.json"
 hash = "711ca377f2fabbc052d74e94534ddfd5892ac06e8cb040bf4044a7af75f37fc0"
 
 [[files]]
+file = "lang/MiscPeripherals/sr_RS.json"
+hash = "5a32aab8f4cdc57928b227c6a443ee0c5eedaf935d989737fb0ffa5353e157f8"
+
+[[files]]
 file = "lang/ModularForceFieldSystem/en_US.json"
 hash = "7219ab01238383f9b6e6c460a54d6466694341142d1fee007ea27f83eca6e660"
 
@@ -657,16 +713,32 @@ file = "lang/Mystcraft/en_US.json"
 hash = "ca152ce3bd5876a34a140cd835c17cdbe17d27e7498ee560f6d137b68c4b822d"
 
 [[files]]
+file = "lang/Mystcraft/sr_RS.json"
+hash = "4c0e3c351f3b25c18d3afdd1a8962307aeb1fd07fa5f5e08082bbe42c8b102b4"
+
+[[files]]
 file = "lang/NetherOres/en_US.json"
 hash = "4578bf379fb21ed6c90683f23c902069b9ca47fa2408149f339541c0b30a8a92"
+
+[[files]]
+file = "lang/NetherOres/sr_RS.json"
+hash = "586281c775264dae3406b1278ba581059565a3e94145bdb3b7e2d865f549654a"
 
 [[files]]
 file = "lang/NotEnoughItems/en_US.json"
 hash = "f2eeb6c64e55e48eaeaf0e5b7ea974ab4f915a8c08c5d82d888a246afb8b13f7"
 
 [[files]]
+file = "lang/NotEnoughItems/sr_RS.json"
+hash = "cbc80590c655537e7e9f6fe67e0652fb41ac09e9019657d8c10caed6e9907441"
+
+[[files]]
 file = "lang/PortalGun/en_US.json"
 hash = "9a676757721eb2557b394fe2becbfacd3b703f49bfe85216f41cc0f9c4b658df"
+
+[[files]]
+file = "lang/PortalGun/sr_RS.json"
+hash = "cca6b3a86680f29af35c08ff28a57437a916e1d021fab4b86768fb28d75c1bd9"
 
 [[files]]
 file = "lang/Railcraft/de_DE.json"
@@ -749,8 +821,16 @@ file = "lang/SecretRoomsMod/en_US.json"
 hash = "3f4e712a6d301792715119c00b2b817654d2e5c4817f4fe64e90ce6105bc2d58"
 
 [[files]]
+file = "lang/SecretRoomsMod/sr_RS.json"
+hash = "0cc45c681542294d8f76470164b6ced35cc78e416c89d4cf12d3498d69c622c2"
+
+[[files]]
 file = "lang/SoulShards/en_US.json"
 hash = "046428f1b9c0d5c24d49d8edac81ba55703b3e9001aada46ce7971c9312d662a"
+
+[[files]]
+file = "lang/SoulShards/sr_RS.json"
+hash = "7a522c3bef03ebd4ee002dedcdb90b5cf191ca43d6f5b8933273041c05506bbb"
 
 [[files]]
 file = "lang/StevesCarts/en_US.json"
@@ -769,16 +849,32 @@ file = "lang/ThermalExpansion/en_US.json"
 hash = "3cc193a1fe034a4bb0cebb8b543428760ed3c80b4cbedb84580366550ac0b699"
 
 [[files]]
+file = "lang/ThermalExpansion/sr_RS.json"
+hash = "f14933bb360733cc44ea0087f8e578c6027fae0ee6315badfd33d84c26dc2146"
+
+[[files]]
 file = "lang/ThermalExpansion_Energy/en_US.json"
 hash = "89d5cd9930f9071d412d47dd4a758014a40313543c7735bdb98c1de1f6efd5fb"
+
+[[files]]
+file = "lang/ThermalExpansion_Energy/sr_RS.json"
+hash = "c4f7fb57454014517907c53605c9d1b4c946784eb84822634fb3910209843194"
 
 [[files]]
 file = "lang/ThermalExpansion_Factory/en_US.json"
 hash = "8747791bcefc78568c9fe833b21a52dc41a228d8b2955ba3e0e7e12ad521efda"
 
 [[files]]
+file = "lang/ThermalExpansion_Factory/sr_RS.json"
+hash = "62a8f0a9d0b29f41de1eaa8c0dbf806a6b76d3dcfbe263ef0913e52abb3911e1"
+
+[[files]]
 file = "lang/ThermalExpansion_Transport/en_US.json"
 hash = "ea47295be2fe00e1a818212c104c63f196fa0d12d5608e71c575558be25dd640"
+
+[[files]]
+file = "lang/ThermalExpansion_Transport/sr_RS.json"
+hash = "dabcba9d4d47b6c6ede65e5cf1f8b75396a95b40419b8289ce29b8bda6fb4bec"
 
 [[files]]
 file = "lang/TwilightForest/de_DE.json"
@@ -801,16 +897,32 @@ file = "lang/UpsilonFixes/pl_PL.json"
 hash = "8256d9f4196731248bc890799bd0732e61ad99010b79e66948230998a8d84f0e"
 
 [[files]]
+file = "lang/UpsilonFixes/sr_RS.json"
+hash = "e59700b9258cbb3627b5d2f85deca1686208972f6407124627f0cfdad7012200"
+
+[[files]]
 file = "lang/WR-CBE_Addons/en_US.json"
 hash = "07f39b5edaf5edbe6bc242c86faba904935ce0febd51df409be92fd01f8c77e9"
+
+[[files]]
+file = "lang/WR-CBE_Addons/sr_RS.json"
+hash = "d0cb1cff7543eb0c437ef0f843ef2a029793a35eba17d224fbc11b24038f9bcd"
 
 [[files]]
 file = "lang/WR-CBE_Core/en_US.json"
 hash = "09203b389da72eab6326c286c238967d3cf205f4b08950b55c00b357b6dda788"
 
 [[files]]
+file = "lang/WR-CBE_Core/sr_RS.json"
+hash = "068d03a509748314b6d67993a049dd7102d3c261f21554804dd24864da661705"
+
+[[files]]
 file = "lang/WR-CBE_RedPower/en_US.json"
 hash = "47f79627b53517f09751730556c4fe6cb9b49a4445d68465c9ed17a0c0f8505b"
+
+[[files]]
+file = "lang/WR-CBE_RedPower/sr_RS.json"
+hash = "385b85025c09bbf304eb7b52e97eac21c32e2bf3da244968a225480bc06ee974"
 
 [[files]]
 file = "lang/XReliquary/en_US.json"
@@ -821,12 +933,20 @@ file = "lang/XyCraft/en_US.json"
 hash = "e444079c0847d561d72f173739d88afd090e7bf718a2aa715b2041c0c238b0ec"
 
 [[files]]
+file = "lang/XyCraft/sr_RS.json"
+hash = "9f7d3c6322fd5635fda8a4d82e30ddc0f56cb58bcfc18561e78d8aa7cdb08c53"
+
+[[files]]
 file = "lang/XyCraftMachines/en_US.json"
 hash = "2de836a664399e592832c3a6cab2f4d1f41f265e01a3e5d2234d0429ac53e913"
 
 [[files]]
+file = "lang/XyCraftMachines/sr_RS.json"
+hash = "34eaa0f3c066fba8ba5034ead6607f1b5f752769370ca290e3c483218fd5d623"
+
+[[files]]
 file = "lang/XyCraftWorld/en_US.json"
-hash = "e7697310ce6f503b51a8b0f527ecde619084eb84ef7d582c2bb969924ac49a73"
+hash = "78d5cf1249ffb3710df56710cc4004ace651c9a3a685ee2a437b532f1d9921c6"
 
 [[files]]
 file = "lang/auto_third_person/en_US.json"
@@ -837,6 +957,10 @@ file = "lang/auto_third_person/pl_PL.json"
 hash = "4984dd2499c8dfc52fd922ecb259930c72c6fc5fd1686efbeb7d96d970f43efe"
 
 [[files]]
+file = "lang/auto_third_person/sr_RS.json"
+hash = "1f9d8df2df269219f9236c3b18ba75bdaf150b1e7053f2baaa4e1e54f9674a06"
+
+[[files]]
 file = "lang/drceph.petrogen/en_US.json"
 hash = "80b0411e7cfa3bfa87ef38db198ca2289d744bc25c0a83e26a516e632cafe6de"
 
@@ -845,12 +969,20 @@ file = "lang/drceph.petrogen/pl_PL.json"
 hash = "7564fb6f0ff6a88b92d24f23dcb28bd1cbb797964625565f9efeae91401c7d54"
 
 [[files]]
+file = "lang/drceph.petrogen/sr_RS.json"
+hash = "7de3358d66256ba2335c547acecc07261d8e16dec7fbdebd3bc02d859d8531d7"
+
+[[files]]
 file = "lang/factorization/en_US.json"
 hash = "cd63929ba3c71b780295b8a2b0d72159f35559eb621da39634a7a7c94a2a7267"
 
 [[files]]
 file = "lang/mmmPowersuits/en_US.json"
 hash = "7cc4876033c512bf57025c7b29e696e34b0c79eb86e708c6a5cc5b69106dfadd"
+
+[[files]]
+file = "lang/mmmPowersuits/sr_RS.json"
+hash = "d9ab9f75177a71e822cd855b3c94ca6ccb4022bd53c908bf88b385964063a3f2"
 
 [[files]]
 file = "lib/argo-2-25.pw.toml"
@@ -927,7 +1059,7 @@ hash = "4214d83460fdf40ff192677fd2ecc353e6ff4d71b34d49e5a95b03292d458b21"
 
 [[files]]
 file = "mods/LogisticsPipes.jar"
-hash = "5f0c4f53566cdeceb2493cdfcd0a4564755a57c7f5e6ac1c49fb7c8acacedbad"
+hash = "37a9afd83b4c537aeff48b90d15b0e9034a7c697a13921a22ef1ddc0896fba05"
 
 [[files]]
 file = "mods/MineFactoryReloaded.jar"
@@ -1179,7 +1311,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "18a76b1bab061930a27da56fc160f6ec93f24741bca21da8db90caa200156e5b"
+hash = "1140cec567691a0a532cc3a5fb6ba175ddece848d86cbf8211fdb21801cede10"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
@@ -2830,7 +2962,7 @@ hash = "e64b4e37e39a139a7a4a3848023b39082ed88aec0100d72e699a690ed3cd1115"
 
 [[files]]
 file = "texturepacks/Retrocausal.zip"
-hash = "722578a71198ba6ede6dee674aa505d3e2f558d8976af9217c3e25c336af7e23"
+hash = "35f28172824eddd9664b6fdbe2b5325b6e30371a23eead1536eb91fce78bd184"
 
 [[files]]
 file = "texturepacks/Unsanded/font/default.png"
