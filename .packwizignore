@@ -21,6 +21,7 @@ unsup-metafiles.zip.br
 update.sh
 .gitmodules
 .git
+ids
 # ----- >8 cut here - empty lang files autogen'd by weblate ----- #
 lang/AdvancedMachines/cs_CZ.json
 lang/AdvancedMachines/cy_GB.json
