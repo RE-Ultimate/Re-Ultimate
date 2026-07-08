@@ -2681,12 +2681,12 @@
 | 2847 | **FREE** |
 | 2848 | **FREE** |
 | 2849 | **FREE** |
-| 2850 | **FREE** |
-| 2851 | **FREE** |
-| 2852 | **FREE** |
-| 2853 | **FREE** |
-| 2854 | **FREE** |
-| 2855 | **FREE** |
+| 2850 | Ultimate Compat: Power Converter |
+| 2851 | Ultimate Compat: BC Power Converter |
+| 2852 | Ultimate Compat: IC Power Converter |
+| 2853 | Ultimate Compat: Steam Power Converter |
+| 2854 | Ultimate Compat: UE Power Converter |
+| 2855 | Ultimate Compat: FZ Power Converter |
 | 2856 | **FREE** |
 | 2857 | **FREE** |
 | 2858 | **FREE** |
