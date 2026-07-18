@@ -1,6 +1,6 @@
 name = "Rewind Upsilon"
 author = "unascribed"
-version = "0.6.8"
+version = "0.6.8_01"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -13,7 +13,7 @@ forge = "6.6.2.534"
 liteloader = "1.4.7_00"
 minecraft = "1.4.7"
 nilloader = "1.3.5"
-unsup = "1.1.4"
+unsup = "1.2.7"
 
 [options]
 acceptable-game-versions = ["1.4.6"]
