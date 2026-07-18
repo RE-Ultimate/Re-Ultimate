@@ -397,11 +397,6 @@ hash = "84b6660d2f03aef486c3245fe745189d4f8941b29054e76dbf9eaa572df43ff8"
 metafile = true
 
 [[files]]
-file = "coremods/splashanimation.pw.toml"
-hash = "b0e2739cf83be44b3bbaa347f0610445946bdaca35e8aea76924e96334d40244"
-metafile = true
-
-[[files]]
 file = "coremods/ultimateskyblock.pw.toml"
 hash = "9c43ddaa44ee97161b71cb421689dfb1e30ae7b8b4cea86263b17c45bc801e1c"
 metafile = true
@@ -421,12 +416,20 @@ file = "lang/AdvancedMachines/en_US.json"
 hash = "09f6b2751a72326862b317ae69b47d33d77b0f28f7448e9f5b38a096a903eee6"
 
 [[files]]
+file = "lang/AdvancedMachines/fr_FR.json"
+hash = "a4a476c55319315f3257baf81c6c6d337d469f8776917c704c8e566d1175641f"
+
+[[files]]
 file = "lang/AdvancedMachines/sr_RS.json"
 hash = "2a62af87729de1f99be2687f84cf1e18f735b595156679971f17b38f7a8d7580"
 
 [[files]]
 file = "lang/AdvancedSolarPanel/en_US.json"
 hash = "7c723afb548de1dd583bcef2470b246903539fb58b268444bf74855c3e705b41"
+
+[[files]]
+file = "lang/AdvancedSolarPanel/fr_FR.json"
+hash = "ff0498bb629be0d46561576cb525460a7bd0de3c2262b90315ce203e55321faa"
 
 [[files]]
 file = "lang/AdvancedSolarPanel/sr_RS.json"
@@ -437,12 +440,24 @@ file = "lang/AppliedEnergistics/en_US.json"
 hash = "692510acfe1172b3454e155816819014684fc8009fe4e7066468bd6badead639"
 
 [[files]]
+file = "lang/AppliedEnergistics/fr_FR.json"
+hash = "3d46095435573ab94ac41f8f95998d3921f0c1149b0e97b19a8edd9a33e5083f"
+
+[[files]]
 file = "lang/BiblioCraft/en_US.json"
 hash = "a22ee05d0607bda73e5a355fdd4a99c99b4d056bae3b4f242ed2f311ce9765b1"
 
 [[files]]
+file = "lang/BiblioCraft/fr_FR.json"
+hash = "ed34cf9cd26ed4a5fb9077ebf87a9780eadc560e974cb1e07d2ab6aa7e376a51"
+
+[[files]]
 file = "lang/CCTurtle/en_US.json"
 hash = "ec68b73f28d2c38b3787b616287f2217b0bde2ffc1955e11f0feb93fb548d703"
+
+[[files]]
+file = "lang/CCTurtle/fr_FR.json"
+hash = "28d87f6c8eb41f31ebbae53f277c862596415d365cacd6222b13c68d010782db"
 
 [[files]]
 file = "lang/CCTurtle/pl_PL.json"
@@ -455,6 +470,10 @@ hash = "9c724f90f98d5870044daf97d85572a4828b1e6b851b8c0c576ac3775477a28b"
 [[files]]
 file = "lang/ChargePads/en_US.json"
 hash = "b5fb1244982e3dcb124bf6704f55e56126b5f20f09ea24b24901c1d3ba7ad1d7"
+
+[[files]]
+file = "lang/ChargePads/fr_FR.json"
+hash = "079372a910151cd3b90b657761c7b2b8b8aa986693f45264deed9813f712ad89"
 
 [[files]]
 file = "lang/ChargePads/sr_RS.json"
@@ -477,8 +496,16 @@ file = "lang/Chisel/en_US.json"
 hash = "350437d43af95131ccbc6a8473b98899dc24f27381cbeef223c03c782dec8dc8"
 
 [[files]]
+file = "lang/Chisel/fr_FR.json"
+hash = "cad8096501224cf9106ce53653b9a27a1087fbae8a5526c590831455cd1344cd"
+
+[[files]]
 file = "lang/ComputerCraft/en_US.json"
 hash = "e0a23d569ca598e6715c4923a30d9a7a34dd2d41602663762c51f73c1998c0d9"
+
+[[files]]
+file = "lang/ComputerCraft/fr_FR.json"
+hash = "5ea70622c6aac637e68e8d2f28231c7a1f7f427253e5cc75fb6f0b5889cb4a27"
 
 [[files]]
 file = "lang/ComputerCraft/pl_PL.json"
@@ -491,6 +518,10 @@ hash = "e42acf1c1047ccfd4b7a16117933e04611154f3fe01c12cf13e6d463b6213647"
 [[files]]
 file = "lang/DartCraft/en_US.json"
 hash = "d2e77cc119fc5fda96e3e97f71fca401f146346d2323037640e537b7a836b3de"
+
+[[files]]
+file = "lang/DartCraft/fr_FR.json"
+hash = "b7bd965801ae8c5eda917d3ee6bda56ba451fe23660b8beda0f4a9b613547994"
 
 [[files]]
 file = "lang/EE3/cs_CZ.json"
@@ -514,7 +545,7 @@ hash = "eafb9e5b2aed7148a31e7d63b73a22c0f3f0139fc9f1d9b3fcf855ad8b8d54e1"
 
 [[files]]
 file = "lang/EE3/fr_FR.json"
-hash = "893a5aae18be5f5039320be0f4009ef0f7ad88cf9dfbb75e85635e8d2d69aece"
+hash = "c79974ec4c6289ee89765f1900c27b9274ac07daa4c25c72f1e6616ae6e1f6fa"
 
 [[files]]
 file = "lang/EE3/it_IT.json"
@@ -573,6 +604,10 @@ file = "lang/EnderStorage/en_US.json"
 hash = "779d017667d3a3895442add4de460390a78691cfedd225f7185b45c5563c7624"
 
 [[files]]
+file = "lang/EnderStorage/fr_FR.json"
+hash = "213618f972bbce4adc1758c11e240c2c3b927ca9533c80cca896464f2f691a21"
+
+[[files]]
 file = "lang/EnderStorage/pl_PL.json"
 hash = "0dc1159fee94e3be7d4e02ffac9a6b9b997fee255420ca7b315ed35370200fe0"
 
@@ -590,7 +625,7 @@ hash = "b84ba60ef7cb750f2d1c4d9bb7b4d196cd0e8e2d7325684f56d95b49ef151de7"
 
 [[files]]
 file = "lang/ExtrabiomesXL/fr_FR.json"
-hash = "a19dbb03d51d1cb57c1098a66cb17e1e584b5f1da08dd90c7c8e9e1555e4296c"
+hash = "6821e7b27d9ad866f30164494af829e99ae01c8138d6d34a7f00a39164505be2"
 
 [[files]]
 file = "lang/ExtrabiomesXL/it_IT.json"
@@ -611,6 +646,10 @@ hash = "1a13194820063849bf2914dcdfe9174fd62b235f21459d4e599e2932e3ba1cda"
 [[files]]
 file = "lang/Flamingo/en_US.json"
 hash = "6ad72ac3a02a54d73b00691f93a5ace18f68ed3b48775e16000d342b2e3881e6"
+
+[[files]]
+file = "lang/Flamingo/fr_FR.json"
+hash = "f260f80c679f498d87de69833248b331c6ac7c42f47be575c2a646f231d3799d"
 
 [[files]]
 file = "lang/Flamingo/pl_PL.json"
@@ -965,6 +1004,10 @@ file = "lang/drceph.petrogen/en_US.json"
 hash = "80b0411e7cfa3bfa87ef38db198ca2289d744bc25c0a83e26a516e632cafe6de"
 
 [[files]]
+file = "lang/drceph.petrogen/fr_FR.json"
+hash = "d6f02a19658c716af5ace7d452f130000bff0f1d99ee63bbb12d7463c88036fb"
+
+[[files]]
 file = "lang/drceph.petrogen/pl_PL.json"
 hash = "7564fb6f0ff6a88b92d24f23dcb28bd1cbb797964625565f9efeae91401c7d54"
 
@@ -975,6 +1018,10 @@ hash = "7de3358d66256ba2335c547acecc07261d8e16dec7fbdebd3bc02d859d8531d7"
 [[files]]
 file = "lang/factorization/en_US.json"
 hash = "cd63929ba3c71b780295b8a2b0d72159f35559eb621da39634a7a7c94a2a7267"
+
+[[files]]
+file = "lang/factorization/fr_FR.json"
+hash = "65d1bda18e860b806ca90f6c6a8c56feffd80ccfe3bb4efc2074a8f955a4d2e7"
 
 [[files]]
 file = "lang/mmmPowersuits/en_US.json"
@@ -1311,7 +1358,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "1140cec567691a0a532cc3a5fb6ba175ddece848d86cbf8211fdb21801cede10"
+hash = "d3a9257edfc13e32214383b0e92ba8af2beb08fb6dfb751f0a225ff8fc73a70c"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
@@ -1326,6 +1373,11 @@ metafile = true
 [[files]]
 file = "nilmods/sha1redemption.jar"
 hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
+
+[[files]]
+file = "nilmods/splashanimation.pw.toml"
+hash = "95ec25a7904d666d4078a80ab789498356e5e79119df42a2835b8fe9ec451325"
+metafile = true
 
 [[files]]
 file = "options.txt"

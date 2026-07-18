@@ -1,7 +1,7 @@
 animation.ogv
 coremods/UltimateSkyblock.jar
 coremods/NilInjector.jar
-coremods/SplashAnimation.jar
+nilmods/SplashAnimation.jar
 nilmods/NiteLoader.jar
 mods/VoxelMap.litemod
 mods/DartCraft.jar
@@ -33,7 +33,6 @@ lang/AdvancedMachines/es_MX.json
 lang/AdvancedMachines/es_UY.json
 lang/AdvancedMachines/es_VE.json
 lang/AdvancedMachines/fi_FI.json
-lang/AdvancedMachines/fr_FR.json
 lang/AdvancedMachines/it_IT.json
 lang/AdvancedMachines/ja_JP.json
 lang/AdvancedMachines/la_IT.json
@@ -57,7 +56,6 @@ lang/AdvancedSolarPanel/es_MX.json
 lang/AdvancedSolarPanel/es_UY.json
 lang/AdvancedSolarPanel/es_VE.json
 lang/AdvancedSolarPanel/fi_FI.json
-lang/AdvancedSolarPanel/fr_FR.json
 lang/AdvancedSolarPanel/it_IT.json
 lang/AdvancedSolarPanel/ja_JP.json
 lang/AdvancedSolarPanel/la_IT.json
@@ -81,7 +79,6 @@ lang/AppliedEnergistics/es_MX.json
 lang/AppliedEnergistics/es_UY.json
 lang/AppliedEnergistics/es_VE.json
 lang/AppliedEnergistics/fi_FI.json
-lang/AppliedEnergistics/fr_FR.json
 lang/AppliedEnergistics/it_IT.json
 lang/AppliedEnergistics/ja_JP.json
 lang/AppliedEnergistics/la_IT.json
@@ -129,7 +126,6 @@ lang/BiblioCraft/es_MX.json
 lang/BiblioCraft/es_UY.json
 lang/BiblioCraft/es_VE.json
 lang/BiblioCraft/fi_FI.json
-lang/BiblioCraft/fr_FR.json
 lang/BiblioCraft/it_IT.json
 lang/BiblioCraft/ja_JP.json
 lang/BiblioCraft/la_IT.json
@@ -154,7 +150,6 @@ lang/CCTurtle/es_MX.json
 lang/CCTurtle/es_UY.json
 lang/CCTurtle/es_VE.json
 lang/CCTurtle/fi_FI.json
-lang/CCTurtle/fr_FR.json
 lang/CCTurtle/it_IT.json
 lang/CCTurtle/ja_JP.json
 lang/CCTurtle/la_IT.json
@@ -177,7 +172,6 @@ lang/ChargePads/es_MX.json
 lang/ChargePads/es_UY.json
 lang/ChargePads/es_VE.json
 lang/ChargePads/fi_FI.json
-lang/ChargePads/fr_FR.json
 lang/ChargePads/it_IT.json
 lang/ChargePads/ja_JP.json
 lang/ChargePads/la_IT.json
@@ -224,7 +218,6 @@ lang/Chisel/es_MX.json
 lang/Chisel/es_UY.json
 lang/Chisel/es_VE.json
 lang/Chisel/fi_FI.json
-lang/Chisel/fr_FR.json
 lang/Chisel/it_IT.json
 lang/Chisel/ja_JP.json
 lang/Chisel/la_IT.json
@@ -249,7 +242,6 @@ lang/ComputerCraft/es_MX.json
 lang/ComputerCraft/es_UY.json
 lang/ComputerCraft/es_VE.json
 lang/ComputerCraft/fi_FI.json
-lang/ComputerCraft/fr_FR.json
 lang/ComputerCraft/it_IT.json
 lang/ComputerCraft/ja_JP.json
 lang/ComputerCraft/la_IT.json
@@ -272,7 +264,6 @@ lang/DartCraft/es_MX.json
 lang/DartCraft/es_UY.json
 lang/DartCraft/es_VE.json
 lang/DartCraft/fi_FI.json
-lang/DartCraft/fr_FR.json
 lang/DartCraft/it_IT.json
 lang/DartCraft/ja_JP.json
 lang/DartCraft/la_IT.json
@@ -297,7 +288,6 @@ lang/drceph.petrogen/es_MX.json
 lang/drceph.petrogen/es_UY.json
 lang/drceph.petrogen/es_VE.json
 lang/drceph.petrogen/fi_FI.json
-lang/drceph.petrogen/fr_FR.json
 lang/drceph.petrogen/it_IT.json
 lang/drceph.petrogen/ja_JP.json
 lang/drceph.petrogen/la_IT.json
@@ -327,7 +317,6 @@ lang/EnderStorage/es_MX.json
 lang/EnderStorage/es_UY.json
 lang/EnderStorage/es_VE.json
 lang/EnderStorage/fi_FI.json
-lang/EnderStorage/fr_FR.json
 lang/EnderStorage/it_IT.json
 lang/EnderStorage/ja_JP.json
 lang/EnderStorage/la_IT.json
@@ -369,7 +358,6 @@ lang/factorization/es_MX.json
 lang/factorization/es_UY.json
 lang/factorization/es_VE.json
 lang/factorization/fi_FI.json
-lang/factorization/fr_FR.json
 lang/factorization/it_IT.json
 lang/factorization/ja_JP.json
 lang/factorization/la_IT.json
@@ -394,7 +382,6 @@ lang/Flamingo/es_MX.json
 lang/Flamingo/es_UY.json
 lang/Flamingo/es_VE.json
 lang/Flamingo/fi_FI.json
-lang/Flamingo/fr_FR.json
 lang/Flamingo/it_IT.json
 lang/Flamingo/ja_JP.json
 lang/Flamingo/la_IT.json
