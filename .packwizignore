@@ -135,7 +135,6 @@ lang/BiblioCraft/pl_PL.json
 lang/BiblioCraft/pt_BR.json
 lang/BiblioCraft/pt_PT.json
 lang/BiblioCraft/ru_RU.json
-lang/BiblioCraft/sr_RS.json
 lang/BiblioCraft/sv_SE.json
 lang/BiblioCraft/tr_TR.json
 lang/BiblioCraft/zh_CN.json
@@ -273,7 +272,6 @@ lang/DartCraft/pl_PL.json
 lang/DartCraft/pt_BR.json
 lang/DartCraft/pt_PT.json
 lang/DartCraft/ru_RU.json
-lang/DartCraft/sr_RS.json
 lang/DartCraft/sv_SE.json
 lang/DartCraft/tr_TR.json
 lang/DartCraft/zh_CN.json
@@ -404,7 +402,6 @@ lang/Forestry/es_MX.json
 lang/Forestry/es_UY.json
 lang/Forestry/es_VE.json
 lang/Forestry/fi_FI.json
-lang/Forestry/fr_FR.json
 lang/Forestry/it_IT.json
 lang/Forestry/ja_JP.json
 lang/Forestry/la_IT.json
@@ -428,7 +425,6 @@ lang/GraviGun/es_MX.json
 lang/GraviGun/es_UY.json
 lang/GraviGun/es_VE.json
 lang/GraviGun/fi_FI.json
-lang/GraviGun/fr_FR.json
 lang/GraviGun/it_IT.json
 lang/GraviGun/ja_JP.json
 lang/GraviGun/la_IT.json
@@ -451,7 +447,6 @@ lang/GraviSuite/es_MX.json
 lang/GraviSuite/es_UY.json
 lang/GraviSuite/es_VE.json
 lang/GraviSuite/fi_FI.json
-lang/GraviSuite/fr_FR.json
 lang/GraviSuite/it_IT.json
 lang/GraviSuite/ja_JP.json
 lang/GraviSuite/la_IT.json
@@ -499,7 +494,6 @@ lang/IC2/es_MX.json
 lang/IC2/es_UY.json
 lang/IC2/es_VE.json
 lang/IC2/fi_FI.json
-lang/IC2/fr_FR.json
 lang/IC2/it_IT.json
 lang/IC2/ja_JP.json
 lang/IC2/la_IT.json
@@ -515,7 +509,6 @@ lang/IC2NuclearControl/es_MX.json
 lang/IC2NuclearControl/es_UY.json
 lang/IC2NuclearControl/es_VE.json
 lang/IC2NuclearControl/fi_FI.json
-lang/IC2NuclearControl/fr_FR.json
 lang/IC2NuclearControl/it_IT.json
 lang/IC2NuclearControl/ja_JP.json
 lang/IC2NuclearControl/la_IT.json

@@ -452,6 +452,10 @@ file = "lang/BiblioCraft/fr_FR.json"
 hash = "ed34cf9cd26ed4a5fb9077ebf87a9780eadc560e974cb1e07d2ab6aa7e376a51"
 
 [[files]]
+file = "lang/BiblioCraft/sr_RS.json"
+hash = "8357184e70d17cd1ac7cc747990158735206714418fe86b664acd734ecbd206b"
+
+[[files]]
 file = "lang/CCTurtle/en_US.json"
 hash = "ec68b73f28d2c38b3787b616287f2217b0bde2ffc1955e11f0feb93fb548d703"
 
@@ -524,6 +528,10 @@ file = "lang/DartCraft/fr_FR.json"
 hash = "b7bd965801ae8c5eda917d3ee6bda56ba451fe23660b8beda0f4a9b613547994"
 
 [[files]]
+file = "lang/DartCraft/sr_RS.json"
+hash = "b6bcdebccf7eb5c1f19d9dbf3b529b1330b32bb0527741d16a96ef7f4d9045a8"
+
+[[files]]
 file = "lang/EE3/cs_CZ.json"
 hash = "f59015f6762504bb4b9b299482b5d8dffc49855e46bd184003988521d37c557a"
 
@@ -585,7 +593,7 @@ hash = "15895a8b6ee1e9ae503b479c8b61712dbbc42c1d143d2a81601444c1c0b877cf"
 
 [[files]]
 file = "lang/EE3/sr_RS.json"
-hash = "61457c5de69710fddb7adb3651ef8f7cd789a00d14689a62c0a9d810f09257d9"
+hash = "1af98afcc021515d4e0e504cfb8682c10f9418c18069c2ed72300f752bdac150"
 
 [[files]]
 file = "lang/EE3/sv_SE.json"
@@ -664,12 +672,20 @@ file = "lang/Forestry/en_US.json"
 hash = "f070dba6bc154bb2fcf8e3492b2d109bc69036519ced31b01626b9e68a72c5c3"
 
 [[files]]
+file = "lang/Forestry/fr_FR.json"
+hash = "72ca0fd82728e8203277fa4a15b086e7d9e6dac2dec595742ba76f3122c64361"
+
+[[files]]
 file = "lang/Forestry/sr_RS.json"
 hash = "e0a59c3362601f57e46efb7db276fd7468a95b107bb3a68739d115bbc2c2fad6"
 
 [[files]]
 file = "lang/GraviGun/en_US.json"
 hash = "fac969dda05f4d729794a993e5e0ef44357da6c2003b464a3f12d1b7a6f443ae"
+
+[[files]]
+file = "lang/GraviGun/fr_FR.json"
+hash = "bff224165f06303c1a0e6828426fc76f932a8832b38f8c579e0407c88cb4f263"
 
 [[files]]
 file = "lang/GraviGun/pl_PL.json"
@@ -684,8 +700,12 @@ file = "lang/GraviSuite/en_US.json"
 hash = "7cca9a0d604299348fc6d4a2c0ab2f762a4a7da2ec83aa723d3a1dd8e227a38c"
 
 [[files]]
+file = "lang/GraviSuite/fr_FR.json"
+hash = "92b90f08ddf3526cd659187c9ddbd28145b382fd47cb682c46ad10d131db6c32"
+
+[[files]]
 file = "lang/GraviSuite/sr_RS.json"
-hash = "a9bd93ded601c0c8da5d318b189439d766b6b9032e9a630b072fba407bde10cc"
+hash = "f5452c96d9ed04313e6d9564c1dd01f508d87167d522b31438cc041677998e1e"
 
 [[files]]
 file = "lang/GregTech_Addon/en_GB.json"
@@ -700,8 +720,16 @@ file = "lang/IC2/en_US.json"
 hash = "d2385945b1e6114d93f0949d361b83ca4b92f24e9ac3135060501d771c226ffb"
 
 [[files]]
+file = "lang/IC2/fr_FR.json"
+hash = "79d810e72cb541c0ef18f767241632a8a2282527e109b407a8b837607305b3f6"
+
+[[files]]
 file = "lang/IC2NuclearControl/en_US.json"
 hash = "8053f2ba9571f9783f5d4e609f85d0d3034bb881be68a7cc5108d42ded1882b5"
+
+[[files]]
+file = "lang/IC2NuclearControl/fr_FR.json"
+hash = "0952c91b57f90c7fe35fdb63535cf9cd3c0c6fb9923c8a0e1affce74e79ab5f5"
 
 [[files]]
 file = "lang/ImmibisCore/en_US.json"
@@ -1013,7 +1041,7 @@ hash = "7564fb6f0ff6a88b92d24f23dcb28bd1cbb797964625565f9efeae91401c7d54"
 
 [[files]]
 file = "lang/drceph.petrogen/sr_RS.json"
-hash = "7de3358d66256ba2335c547acecc07261d8e16dec7fbdebd3bc02d859d8531d7"
+hash = "797237489aa1ae6dcbb6973fb594ce702abb459406c4c069e128c281d37b17a1"
 
 [[files]]
 file = "lang/factorization/en_US.json"
@@ -1358,7 +1386,7 @@ metafile = true
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "d3a9257edfc13e32214383b0e92ba8af2beb08fb6dfb751f0a225ff8fc73a70c"
+hash = "1f883b06c02ef6584b0dc41e2d2f54a12875dce2afbc3045eca0a10022a97407"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
