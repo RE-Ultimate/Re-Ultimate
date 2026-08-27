@@ -569,7 +569,7 @@ hash = "2fd27f7f6d233b386b32c813c8c67cfcb523ee71ba6901d8eb70f28de3ddcb13"
 
 [[files]]
 file = "lang/EE3/nl_NL.json"
-hash = "ee96d0a09f780562acde3ec8ba57fde7c66d32d7e31bdb7e57c4a9d004e712f4"
+hash = "b5f7bd310014920dd11f11e63a6dcd7f5d97b78cfc5214f49f4b68af6c6c6814"
 
 [[files]]
 file = "lang/EE3/no_NO.json"
@@ -853,7 +853,7 @@ hash = "da70395abb95e3a55c664d247777d7013f9b07a54c3b177741cd16cd4b8518a9"
 
 [[files]]
 file = "lang/Railcraft/nl_NL.json"
-hash = "6fa8b8eb1102ac05601829c34c2b5b5570c6b8edefb90825160234c44a33c544"
+hash = "60beec93526d5d8d63825939f7bcd3335d05c952e61f9b18d23211d45c89e9c1"
 
 [[files]]
 file = "lang/Railcraft/pl_PL.json"
@@ -1390,7 +1390,7 @@ hash = "1f883b06c02ef6584b0dc41e2d2f54a12875dce2afbc3045eca0a10022a97407"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
-hash = "fe08ede07af9ac58d093c726320ee62de06c7abac42c40e974e12713bc096038"
+hash = "d27a9bd0fbefa4575ac63c2c0549c4d9c4603e68e4d25c778b43c087d43cd9e4"
 metafile = true
 
 [[files]]

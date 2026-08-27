@@ -6,8 +6,8 @@
 	git push git@sleeping.town:Rewind/UpsilonLang.git release
 )
 sed '/>8 cut here/q' .packwizignore |sponge .packwizignore
-rg -l '^\{\}$' lang/ |sort >> .packwizignore
+ag -l '^\{\}$' lang/ |sort >> .packwizignore
 packwiz refresh
-find -name '*.pw.toml' | zip -X -0 -@ unsup-metafiles.zip
+bfs -name '*.pw.toml' | zip -X -0 -@ unsup-metafiles.zip
 brotli -Zjf unsup-metafiles.zip
 keesign rewind pack.toml unsup.sig
