@@ -3,6 +3,6 @@ filename = "NilInjector.jar"
 side = "client"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/coremods/NilInjector.jar"
+url = "https://re-ultimate.github.io/Re-Ultimate/coremods/NilInjector.jar"
 hash-format = "sha256"
 hash = "19d9ee5e75c8cc65e8e5e567a9e156acbc438ee4320fef61bdb615ab8cec92b6"

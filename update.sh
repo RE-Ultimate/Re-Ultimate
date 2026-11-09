@@ -1,13 +1,6 @@
-#!/bin/bash -ex
-(
-	cd lang
-	git fetch origin trunk
-	git reset --hard origin/trunk
-	git push git@sleeping.town:Rewind/UpsilonLang.git release
-)
-sed '/>8 cut here/q' .packwizignore |sponge .packwizignore
-ag -l '^\{\}$' lang/ |sort >> .packwizignore
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")"
+python3 tools/update-ignores.py
 packwiz refresh
-bfs -name '*.pw.toml' | zip -X -0 -@ unsup-metafiles.zip
-brotli -Zjf unsup-metafiles.zip
-keesign rewind pack.toml unsup.sig
+python3 tools/verify-pack.py

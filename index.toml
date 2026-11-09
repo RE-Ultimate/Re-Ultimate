@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "animation.pw.toml"
-hash = "bfb438afee013784933b5e7caee300ef2d5337c6e2c719816abf2153a49b09b9"
+hash = "86eecf75113a41b809b0dd468d0148588542785fa6b5c4eb82d701d3a6ac5c85"
 metafile = true
 
 [[files]]
@@ -243,12 +243,12 @@ hash = "41498d583698f669bde685438b37d2a9455de69ea7365379861ae785457c94c4"
 
 [[files]]
 file = "config/extrabiomes/extrabiomes-standard.pw.toml"
-hash = "2a20a2325a0817c97f82a86b5b8b91bed4fd4c523011583dbaaac097b0a9d8e4"
+hash = "411764b0d6be16be91c2c559147fd055aa9dd61850fe612dc9c6b5225e77a92b"
 metafile = true
 
 [[files]]
 file = "config/extrabiomes/extrabiomes-ultimatecompat.pw.toml"
-hash = "52c48af3af56746e086de9332580a5fccc564abeef8943aa021f9219c64ec2ce"
+hash = "496731a503a946c2771455de39751acd6c703735780502f657f54aa4709928a3"
 metafile = true
 
 [[files]]
@@ -349,11 +349,11 @@ hash = "d98bb037ce0a698e244a9316d9953bd24a396db27a772342af631279c0d8e98a"
 
 [[files]]
 file = "config/upsilonfixes/enabled-layers.txt"
-hash = "29086ddd90dec47914561e8674da2e6ea044a8cf25e3182b1925c0c5fefd9cbb"
+hash = "fff739b5ce9727a32eb0fb7f737d45de983d7e35560e283d0f0aa756c2e2b141"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "aaaf84879ad309c50c306a541f594f4ab9eea413fb2b9c938659bd7e7d26c48e"
+hash = "2f88a81a5578c1ab3e7f1e93aea8f209e652d53f9f503203f5be3e11c85922c8"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -373,7 +373,7 @@ hash = "7e3f43d7346835a1c06ffce15a374883813b626432ceb7f69dfa2d63b4265aaf"
 
 [[files]]
 file = "coremods/codechickencore.pw.toml"
-hash = "6d5d7da3399d1163bf8407ac338fd594978b193fef43941a570db22a5ae5f78b"
+hash = "b1ef3cb356c2ceab51a83efb5feeb3834d1b61b20b9cb4055f18e3a73dfdbca8"
 metafile = true
 
 [[files]]
@@ -383,27 +383,17 @@ metafile = true
 
 [[files]]
 file = "coremods/fallingfix.pw.toml"
-hash = "66dd44a72ab775e549259f2bd2113e9cd8b9fc6530f6c9e810dd76216b034968"
+hash = "14d5e1133612098db947af7fcc4f49a571b666a2774275bf3e161b0bc424d143"
 metafile = true
 
 [[files]]
 file = "coremods/nilinjector.pw.toml"
-hash = "7bfaf173e79df99c70ef0c0495541990df700ffac9adb0c99b48f99e2ac21086"
-metafile = true
-
-[[files]]
-file = "coremods/notenoughitems.pw.toml"
-hash = "84b6660d2f03aef486c3245fe745189d4f8941b29054e76dbf9eaa572df43ff8"
+hash = "cdf057890871ebe8291b3e5311b060f103deb24160ea9349df3a99356b73e14f"
 metafile = true
 
 [[files]]
 file = "coremods/ultimateskyblock.pw.toml"
-hash = "9c43ddaa44ee97161b71cb421689dfb1e30ae7b8b4cea86263b17c45bc801e1c"
-metafile = true
-
-[[files]]
-file = "coremods/vanilla-nei-fix.pw.toml"
-hash = "a626869ea70d7d5a4dde7cf820df7a4c87f8945ff1431fe5e934392f839afb34"
+hash = "1c613b2a1a9ccc8a0b01a67ac1294545c8e62032f684a9504d4379ef2c22e5af"
 metafile = true
 
 [[files]]
@@ -1149,10 +1139,6 @@ file = "mods/ModularPowersuits.jar"
 hash = "1a0b7a4ccfa2fc76a9704798d429a36a70ab413a8e99d92bc3860d467922dfe0"
 
 [[files]]
-file = "mods/NEIPlugins.jar"
-hash = "7602090e2e8a055eba3a72d6a05d91afbf53af3ac78c1a218bf8f9b4e9cc2e21"
-
-[[files]]
 file = "mods/NetherOres.jar"
 hash = "69fffb8de08b51813072710a1194258b8059b2fa12ddeddf63aecf4b815c57d7"
 
@@ -1202,7 +1188,7 @@ hash = "666b1596fce65d76dbbba8fb766017d0e10f134c1cab689ec1c5aa66951f6fb6"
 
 [[files]]
 file = "mods/applied-energistics-1.pw.toml"
-hash = "07b06a01c36845cfeef296454f0cc29683edc67c962d6c0cca0717a066dbf077"
+hash = "09cc0834551a0c7de2587f2cc707b78d6f7ac5ae7d822a7e4c44ad06a4949c8d"
 metafile = true
 
 [[files]]
@@ -1212,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliocraft.pw.toml"
-hash = "1ecef099f9b522977a662f4aac909169adf9b01815cbcbe8370a719fe3ad1f10"
+hash = "3c14c11ce68b12e74fa4f68919baa77f39afc7d856063058e330dc194df5de56"
 metafile = true
 
 [[files]]
@@ -1231,12 +1217,12 @@ hash = "9c081e1203451e94f03eb2a06cd1d3790c0997e1cb5a8fb52c702c9dc52efc0c"
 
 [[files]]
 file = "mods/chargepads.pw.toml"
-hash = "a87b4241da16545477120988a79177c11c236caa83cbb7ed7158e2038017333b"
+hash = "66897df51c5a9f1225d1ea421e2c84692db14cfbc0cdd0d1d07b6a2fb706eb92"
 metafile = true
 
 [[files]]
 file = "mods/chickenchunks.pw.toml"
-hash = "078bf33219d3daf967a92215c537b4eeaf5fd74a9925d257ccbd1169952781c0"
+hash = "53b4d8e50e9dc9d1c94d0e4b7d6e316bab515ea9c3e297511c23e361d55f5d72"
 metafile = true
 
 [[files]]
@@ -1246,12 +1232,12 @@ metafile = true
 
 [[files]]
 file = "mods/dartcraft.pw.toml"
-hash = "3b22e9d5449e43ffba4d8b7cba66b98895004d400b1200794d4f3557ced3fd48"
+hash = "9baf944863ebd0e9ae5a6b37be6423fc1e8bc057f98c04af057338be8b2af59b"
 metafile = true
 
 [[files]]
 file = "mods/ender-storage.pw.toml"
-hash = "2bddad1ed1f354ba76082576e6d9cf8d6cb54f19e88d435ff0b7294645e2e611"
+hash = "772fc946c1935608caff55d56f9c79bef1ca5d807b76cd59cd418385322bccdd"
 metafile = true
 
 [[files]]
@@ -1266,7 +1252,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravity-gun.pw.toml"
-hash = "a1742c7913790b83bd60752b1339bb87fb9f495696a19b80dd47870ba96acc48"
+hash = "e6896e50759db3c21b3514d8661bd0fee1c23ba36b8a2fc84e44a4c3d0a31f46"
 metafile = true
 
 [[files]]
@@ -1281,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/invtweaks.pw.toml"
-hash = "894b0da1c0603fbe7e42209a27c0238bf33ff0a6d6e42b78a95482ef4176bc4c"
+hash = "e56408aad801c6f57d7aa5bdf61bbbecb7f254df1cf64123617dfe22e6df1674"
 metafile = true
 
 [[files]]
@@ -1291,27 +1277,22 @@ metafile = true
 
 [[files]]
 file = "mods/mystcraft.pw.toml"
-hash = "308b2b11f384fcb2874c54ae20a6e353b94d23deb0329be4de9d531624ba2921"
-metafile = true
-
-[[files]]
-file = "mods/nei-redpower-plugin.pw.toml"
-hash = "73b0b4a78d9afc77913d7578bc141a4fa1d141da8d05e00e7d605e09f5625770"
+hash = "6b1906c46d6fab33207f820cc2556db4914ba38589a1c90ac0ff44ff5a0cc464"
 metafile = true
 
 [[files]]
 file = "mods/obsidiplates.pw.toml"
-hash = "ecaad0bcfddbcfdcd879aaa2ab3a156ab891251ac19b9a323b10cf5567d85a46"
+hash = "fdee5591c0593f54fb6af0f710842551936c94812b823a6e1fd44ac078b7f221"
 metafile = true
 
 [[files]]
 file = "mods/portal-gun.pw.toml"
-hash = "e9fc3d19ef753729f4aab33cb216bd44a371f01a5c37d7ccd22e470e765183ac"
+hash = "b98286a90be05364afeb44bb6e556b401eaa1b5ed42a91b139e217d04f8612f9"
 metafile = true
 
 [[files]]
 file = "mods/powerconverters.pw.toml"
-hash = "965e2a9e102dde0ca1b672b48f8314569583f5d3a4ba1ae9353f9287bee5a3dc"
+hash = "94a2a557f2d4e207f0a0d3748b02645ba0f8832616604b8520782551dfd4d949"
 metafile = true
 
 [[files]]
@@ -1346,7 +1327,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "f6a9fe54d3990ef65fd0b65ef743a540a192d45db78b53394d7dac436d4e1995"
+hash = "dbbbcc8990cd5ee83c0b9dda9024b6ae28632aa9726ae19d82063d82591c1212"
 metafile = true
 
 [[files]]
@@ -1356,41 +1337,45 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap.pw.toml"
-hash = "387202ef6c65f585a2d00240077f57029bb567d7745f2bbb63b60d20f1bdf15f"
+hash = "2aef5ef93f013519f6950d17732d82439526b0fb5ad48b999507f46fd37f0e89"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-addons.pw.toml"
-hash = "82ebce2fdce09d033ba9f59750f1d83adeaa1cb86446428c6d0169efdf4a7f7a"
+hash = "2bcc0f541b503c47ef591670e47e5ef7d19d5c98d9b9b06c73499e9583ac595b"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-core.pw.toml"
-hash = "60faac6bc424abbca68af719dccea095883f0e6eb6333b2ad18440ce113ddfee"
+hash = "2a63475f4ef89eccff3ae098e718a51eefc97e136889932382a4bf238b023ac6"
 metafile = true
 
 [[files]]
 file = "mods/wr-cbe-redpower.pw.toml"
-hash = "0bebb5f56680953e7a19bf0301fe37beb7b7b102644ab11e521a69be595334b9"
+hash = "7f9104ffbcc86fcc0949903fe050107dcd0cf95bff2159dc70090b52821a04a2"
 metafile = true
 
 [[files]]
 file = "mods/xycraft.pw.toml"
-hash = "0d17979517d3288a2d29cea7088e88e15c5a23427c29080be331edc93755391a"
+hash = "4f5f413a173479d7f9dc0b1d66c3015ed233ff63569e2f9adae312498fd2bb49"
 metafile = true
 
 [[files]]
 file = "nilloader.pw.toml"
-hash = "ab83148e7147ef68f77fa4cae4bb0e4e4b3793d07c7b6b23162ebd3fb428f590"
+hash = "191c8b2ad86d23c2310029332dca1e5cfeb017b97344f3f3e8e2c0de6e35df04"
 metafile = true
 
 [[files]]
+file = "nilmods/EMI.jar"
+hash = "489d6d43cd7ce55551409b0d5a5a8e1d0180eb3fdc58c950bb972508d68ae1f4"
+
+[[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "1f883b06c02ef6584b0dc41e2d2f54a12875dce2afbc3045eca0a10022a97407"
+hash = "acd44d625aea8d572554889acd0accc441323ba0f9d6af0e498d2ed6c02a7e4f"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"
-hash = "d27a9bd0fbefa4575ac63c2c0549c4d9c4603e68e4d25c778b43c087d43cd9e4"
+hash = "f49a10f28636ba1c479827ab0b390b4e06b8a1546f86768c7203dca499d50860"
 metafile = true
 
 [[files]]
@@ -1404,7 +1389,7 @@ hash = "23d8f1dcc622f9ab229e243e1852e1950165150bc0299e0a3712c4049377fb80"
 
 [[files]]
 file = "nilmods/splashanimation.pw.toml"
-hash = "189396d91313aa7cb4473aa972ca3a0cb68b6353b746097928f1c0177953b7a8"
+hash = "fc1dc9c0d6f4b25bb8d1d334ddf92d06c1e1f53827fca505acba524480506e23"
 metafile = true
 
 [[files]]
@@ -1413,37 +1398,37 @@ hash = "59f4887c28b4282bd99c328676aeb67fcba6ef407507a0be87fae09c6e41ddd5"
 
 [[files]]
 file = "resources/menumusic/felixmoog-discord.pw.toml"
-hash = "1b3c7e2f345a0afb4b2621c36233679589bd9c202cc0cad45cc6e5f0684ba71d"
+hash = "4b6c7dd8075521dcc704767425df31106b5c60cb5946e755f3744d0c864e0012"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/felixmoog-fire.pw.toml"
-hash = "b97c0ead20cd28858dc8e3232cfdbeec88e060e212e8c3a102aa1ffad356a288"
+hash = "5a8b37acb22e203326a569e0f30a2a5942fdd25780e38dd3a5337de5bc28457b"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/felixmoog-maybe.pw.toml"
-hash = "92cdc1502f3f1b515a2245d833b47cf7bc85c1586bb832864d5282f4b6be4d42"
+hash = "240bdea04fd45c3b63923621db5d39446307f6776badce5aad204a0031463404"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/felixmoog-pirates.pw.toml"
-hash = "e99e63737857ca11ab22bbda3f6d5bda46cc49b2ade3f5e713d1534a4adc645b"
+hash = "9919cd92220ff393e097775e253172cdbc5aab595e77ffb6bca87368715c4df4"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/xyceradix-mosaik.pw.toml"
-hash = "ea1cbe07919f3c4132c306ee6435843635fcaada54e49e1ed0a1d34094a2c297"
+hash = "e7f9eaebeaffcd2cbeac0d08406d8399def8f83b5c0ee8786a8be3d604897d46"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/xyceradix-nova.pw.toml"
-hash = "d88fbad852f1185f68ca91f506f849828c683527fcd16d8a949c09f686b8e56e"
+hash = "7883deec0939df25c32d9af6c23334234a678410ae593fea345446efdb7085d3"
 metafile = true
 
 [[files]]
 file = "resources/menumusic/xyceradix-rainbowdash.pw.toml"
-hash = "ee707081d9dbcf77dbe11006a49c2d07ea6d9fb8e94e93abcc55208a6a3cb9cd"
+hash = "fcbeab1203fdfd3f38c247c96aa39a90c70f5b5b84150857b6a1c9f8b9440deb"
 metafile = true
 
 [[files]]
@@ -3017,7 +3002,7 @@ hash = "15da683788c4aa5aa6ad0aa0f36deda59c92c2052b5955f3f5fab1598bf59cd9"
 
 [[files]]
 file = "scripts/dartcraft-zs.pw.toml"
-hash = "daa651c1dbae3a2a74118467419c63386b6c5ca03a06a1bd440d1baff14d160a"
+hash = "051abb66c53f2ef97cdff51b0b82acbfc14c053e7321b359dfd698917ba3bcdb"
 metafile = true
 
 [[files]]
@@ -3041,6 +3026,42 @@ file = "scripts/thaumicbees.zs"
 hash = "3a25110fd2be2b8c6f00815db64d85480c8ce528256cceabd3959f92a3765b9b"
 
 [[files]]
+file = "texturepacks/ReUltimate/pack.png"
+hash = "d0cedf28d1e17b7928ef60a5abb9130ef37dd100a68d8e33f1467e543268c51b"
+
+[[files]]
+file = "texturepacks/ReUltimate/pack.txt"
+hash = "c3ec179592a3c8def13d26150c8c83a3d43c8c7909582d831b3055a05f18f57f"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama0.png"
+hash = "33fdf3f2f2daf8f498ebd3a04f87441ea64112bbc95ee2167d6ea13059e2eab0"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama1.png"
+hash = "0284211b6047f094d521b02de088ccb32209933c33b7bdc89f198917b6512612"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama2.png"
+hash = "6eeb400939a464cb0a20390f70d3bba75fb3ce6dca11140f136ddf27a5ce81cf"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama3.png"
+hash = "57a5edb6b8c58c2e6f0c9c91b00db3a709436c9f9ed39f47e77879ce6bb6a1fc"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama4.png"
+hash = "c2d2af1f78b118a97b3e1048eaaa25498dffcbc396eea5db598d1913a657e944"
+
+[[files]]
+file = "texturepacks/ReUltimate/title/bg/panorama5.png"
+hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
+
+[[files]]
+file = "texturepacks/ReUltimate/upsilon-layerable"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "texturepacks/Retrocausal.zip"
 hash = "35f28172824eddd9664b6fdbe2b5325b6e30371a23eead1536eb91fce78bd184"
 
@@ -3058,40 +3079,4 @@ hash = "6b551607c86cc68c6fe579c5818a77b1ba4130face592805e412885e5032bc31"
 
 [[files]]
 file = "texturepacks/Unsanded/upsilon-layerable"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "texturepacks/Upsilon/pack.png"
-hash = "d0cedf28d1e17b7928ef60a5abb9130ef37dd100a68d8e33f1467e543268c51b"
-
-[[files]]
-file = "texturepacks/Upsilon/pack.txt"
-hash = "66853a33d11fb49d5eb691809a3e8cc8e3be0f9a6e83e2e0ba1e0e815516dff8"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama0.png"
-hash = "33fdf3f2f2daf8f498ebd3a04f87441ea64112bbc95ee2167d6ea13059e2eab0"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama1.png"
-hash = "0284211b6047f094d521b02de088ccb32209933c33b7bdc89f198917b6512612"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama2.png"
-hash = "6eeb400939a464cb0a20390f70d3bba75fb3ce6dca11140f136ddf27a5ce81cf"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama3.png"
-hash = "57a5edb6b8c58c2e6f0c9c91b00db3a709436c9f9ed39f47e77879ce6bb6a1fc"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama4.png"
-hash = "c2d2af1f78b118a97b3e1048eaaa25498dffcbc396eea5db598d1913a657e944"
-
-[[files]]
-file = "texturepacks/Upsilon/title/bg/panorama5.png"
-hash = "ed040ae238953275c178d7cd2377520cf5ea42e5f91d3bf80dc7db454961273f"
-
-[[files]]
-file = "texturepacks/Upsilon/upsilon-layerable"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

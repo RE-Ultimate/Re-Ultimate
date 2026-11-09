@@ -3,9 +3,9 @@ filename = "GravityGun1.4.7v2.zip"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/2232/137/GravityGun1.4.7v2.zip"
 hash-format = "sha256"
 hash = "8ed2f27942cc67a04a58febda377a22c66e3f6b9d6279050f46c7b28d9a4645c"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

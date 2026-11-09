@@ -3,7 +3,7 @@ filename = "extrabiomes.cfg"
 side = "both"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/config/extrabiomes/extrabiomes.cfg.ultimateCompat"
+url = "https://re-ultimate.github.io/Re-Ultimate/config/extrabiomes/extrabiomes.cfg.ultimateCompat"
 hash-format = "sha256"
 hash = "84e0deddae8dff3c527636cf4d926ba7e3c0671a451c3936b1a8a1e3015a73ac"
 

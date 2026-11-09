@@ -2,7 +2,7 @@ name = "DartCraft"
 filename = "DartCraft.jar"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/mods/DartCraft.jar"
+url = "https://re-ultimate.github.io/Re-Ultimate/mods/DartCraft.jar"
 hash-format = "sha256"
 hash = "66a37e9f8d4a7001166633f3e46d273cbca660b7ae6b67c5465d6e37e0214fe6"
 

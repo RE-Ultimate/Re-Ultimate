@@ -3,7 +3,7 @@ filename = "menu4.ogg"
 side = "client"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/resources/menumusic/files/felixmoog-discord.ogg"
+url = "https://re-ultimate.github.io/Re-Ultimate/resources/menumusic/files/felixmoog-discord.ogg"
 hash-format = "sha256"
 hash = "3b19a36702e7a84d3a806c51782808c5dc15bf182228f8bef82c7bd22019d748"
 

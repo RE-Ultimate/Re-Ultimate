@@ -1,1 +1,4 @@
 *.mrpack
+/dist/
+/site/
+__pycache__/

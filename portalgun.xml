@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Files>
+  <File>
+    <Name>afp_launch.ogg</Name>
+    <Path>sound/portalgun/afp_launch.ogg</Path>
+    <Size>18608</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/afp_launch.ogg</URL>
+  </File>
+  <File>
+    <Name>apg_firing.ogg</Name>
+    <Path>sound/portalgun/apg_firing.ogg</Path>
+    <Size>16385</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/apg_firing.ogg</URL>
+  </File>
+  <File>
+    <Name>apg_turn.ogg</Name>
+    <Path>sound/portalgun/apg_turn.ogg</Path>
+    <Size>8981</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/apg_turn.ogg</URL>
+  </File>
+  <File>
+    <Name>dinosaur_fizzle1.ogg</Name>
+    <Path>sound/portalgun/dinosaur_fizzle1.ogg</Path>
+    <Size>101812</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dinosaur_fizzle1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dinosaur_fizzle2.ogg</Name>
+    <Path>sound/portalgun/dinosaur_fizzle2.ogg</Path>
+    <Size>116209</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dinosaur_fizzle2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dinosaur_fizzle3.ogg</Name>
+    <Path>sound/portalgun/dinosaur_fizzle3.ogg</Path>
+    <Size>95676</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dinosaur_fizzle3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dropper_iris_close_01.ogg</Name>
+    <Path>sound/portalgun/dropper_iris_close_01.ogg</Path>
+    <Size>97661</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dropper_iris_close_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dropper_iris_open_01.ogg</Name>
+    <Path>sound/portalgun/dropper_iris_open_01.ogg</Path>
+    <Size>76951</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dropper_iris_open_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dropper_iris_open_02.ogg</Name>
+    <Path>sound/portalgun/dropper_iris_open_02.ogg</Path>
+    <Size>66789</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/dropper_iris_open_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_bounce1.ogg</Name>
+    <Path>sound/portalgun/energy_bounce1.ogg</Path>
+    <Size>7831</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_bounce1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_bounce2.ogg</Name>
+    <Path>sound/portalgun/energy_bounce2.ogg</Path>
+    <Size>7705</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_bounce2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_explosion1.ogg</Name>
+    <Path>sound/portalgun/energy_sing_explosion1.ogg</Path>
+    <Size>34670</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_sing_explosion1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_flyby1.ogg</Name>
+    <Path>sound/portalgun/energy_sing_flyby1.ogg</Path>
+    <Size>13153</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_sing_flyby1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_flyby2.ogg</Name>
+    <Path>sound/portalgun/energy_sing_flyby2.ogg</Path>
+    <Size>15276</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/energy_sing_flyby2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>fizzler_shutdown_01.ogg</Name>
+    <Path>sound/portalgun/fizzler_shutdown_01.ogg</Path>
+    <Size>39805</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/fizzler_shutdown_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>fizzler_start_01.ogg</Name>
+    <Path>sound/portalgun/fizzler_start_01.ogg</Path>
+    <Size>131865</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/fizzler_start_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_10_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_10_loop.ogg</Path>
+    <Size>5788</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_10_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_11_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_11_loop.ogg</Path>
+    <Size>5756</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_11_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_12_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_12_loop.ogg</Path>
+    <Size>5770</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_12_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_13_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_13_loop.ogg</Path>
+    <Size>5744</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_13_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_14_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_14_loop.ogg</Path>
+    <Size>5675</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_14_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_15_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_15_loop.ogg</Path>
+    <Size>5339</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_15_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_16_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_16_loop.ogg</Path>
+    <Size>5684</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_16_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_17_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_17_loop.ogg</Path>
+    <Size>5105</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_17_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_1_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_1_loop.ogg</Path>
+    <Size>5498</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_1_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_2_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_2_loop.ogg</Path>
+    <Size>5305</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_2_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_3_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_3_loop.ogg</Path>
+    <Size>5686</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_3_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_4_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_4_loop.ogg</Path>
+    <Size>5487</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_4_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_5_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_5_loop.ogg</Path>
+    <Size>5764</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_5_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_6_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_6_loop.ogg</Path>
+    <Size>5718</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_6_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_7_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_7_loop.ogg</Path>
+    <Size>5383</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_7_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_8_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_8_loop.ogg</Path>
+    <Size>5761</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_8_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>energy_sing_9_loop.ogg</Name>
+    <Path>sound/portalgun/heploop/energy_sing_9_loop.ogg</Path>
+    <Size>5449</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/heploop/energy_sing_9_loop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>laser_activation_01.ogg</Name>
+    <Path>sound/portalgun/laser_activation_01.ogg</Path>
+    <Size>64307</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_activation_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>laser_node_power_off.ogg</Name>
+    <Path>sound/portalgun/laser_node_power_off.ogg</Path>
+    <Size>32188</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_node_power_off.ogg</URL>
+  </File>
+
+  <File>
+    <Name>laser_node_power_on.ogg</Name>
+    <Path>sound/portalgun/laser_node_power_on.ogg</Path>
+    <Size>24620</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/laser_node_power_on.ogg</URL>
+  </File>
+
+  <File>
+    <Name>object_use_failure_01.ogg</Name>
+    <Path>sound/portalgun/object_use_failure_01.ogg</Path>
+    <Size>10764</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/object_use_failure_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>object_use_start_01.ogg</Name>
+    <Path>sound/portalgun/object_use_start_01.ogg</Path>
+    <Size>21152</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/object_use_start_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>object_use_stop_01.ogg</Name>
+    <Path>sound/portalgun/object_use_stop_01.ogg</Path>
+    <Size>13910</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/object_use_stop_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>phys_bouncy_cube_lg_01.ogg</Name>
+    <Path>sound/portalgun/phys_bouncy_cube_lg_01.ogg</Path>
+    <Size>14375</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>phys_bouncy_cube_lg_02.ogg</Name>
+    <Path>sound/portalgun/phys_bouncy_cube_lg_02.ogg</Path>
+    <Size>12785</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>phys_bouncy_cube_lg_03.ogg</Name>
+    <Path>sound/portalgun/phys_bouncy_cube_lg_03.ogg</Path>
+    <Size>10142</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_03.ogg</URL>
+  </File>
+
+  <File>
+    <Name>phys_bouncy_cube_lg_04.ogg</Name>
+    <Path>sound/portalgun/phys_bouncy_cube_lg_04.ogg</Path>
+    <Size>14826</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/phys_bouncy_cube_lg_04.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pl_burnpain1.ogg</Name>
+    <Path>sound/portalgun/pl_burnpain1.ogg</Path>
+    <Size>13258</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/pl_burnpain1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pl_burnpain2.ogg</Name>
+    <Path>sound/portalgun/pl_burnpain2.ogg</Path>
+    <Size>13216</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/pl_burnpain2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pl_burnpain3.ogg</Name>
+    <Path>sound/portalgun/pl_burnpain3.ogg</Path>
+    <Size>15876</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/pl_burnpain3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_enter_01.ogg</Name>
+    <Path>sound/portalgun/portal_enter_01.ogg</Path>
+    <Size>17074</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_enter_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_enter_02.ogg</Name>
+    <Path>sound/portalgun/portal_enter_02.ogg</Path>
+    <Size>18434</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_enter_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_enter_03.ogg</Name>
+    <Path>sound/portalgun/portal_enter_03.ogg</Path>
+    <Size>23991</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_enter_03.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_exit_01.ogg</Name>
+    <Path>sound/portalgun/portal_exit_01.ogg</Path>
+    <Size>35056</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_exit_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_exit_02.ogg</Name>
+    <Path>sound/portalgun/portal_exit_02.ogg</Path>
+    <Size>30224</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_exit_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_fizzle_01.ogg</Name>
+    <Path>sound/portalgun/portal_fizzle_01.ogg</Path>
+    <Size>70556</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_fizzle_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_fizzle_02.ogg</Name>
+    <Path>sound/portalgun/portal_fizzle_02.ogg</Path>
+    <Size>54181</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_fizzle_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_invalid_01.ogg</Name>
+    <Path>sound/portalgun/portal_invalid_01.ogg</Path>
+    <Size>56809</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_invalid_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_invalid_02.ogg</Name>
+    <Path>sound/portalgun/portal_invalid_02.ogg</Path>
+    <Size>50421</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_invalid_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_invalid_03.ogg</Name>
+    <Path>sound/portalgun/portal_invalid_03.ogg</Path>
+    <Size>30281</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_invalid_03.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_invalid_04.ogg</Name>
+    <Path>sound/portalgun/portal_invalid_04.ogg</Path>
+    <Size>32654</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_invalid_04.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_open_blue_01.ogg</Name>
+    <Path>sound/portalgun/portal_open_blue_01.ogg</Path>
+    <Size>37976</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_open_blue_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_open_red_01.ogg</Name>
+    <Path>sound/portalgun/portal_open_red_01.ogg</Path>
+    <Size>28256</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_open_red_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>portal_open_red_02.ogg</Name>
+    <Path>sound/portalgun/portal_open_red_02.ogg</Path>
+    <Size>33815</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/portal_open_red_02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>cake.ogg</Name>
+    <Path>sound/portalgun/potatos/cake.ogg</Path>
+    <Size>53659</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/cake.ogg</URL>
+  </File>
+
+  <File>
+    <Name>classicalmusic.ogg</Name>
+    <Path>sound/portalgun/potatos/classicalmusic.ogg</Path>
+    <Size>37705</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/classicalmusic.ogg</URL>
+  </File>
+
+  <File>
+    <Name>creeper1.ogg</Name>
+    <Path>sound/portalgun/potatos/creeper1.ogg</Path>
+    <Size>9819</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/creeper1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>creeper2.ogg</Name>
+    <Path>sound/portalgun/potatos/creeper2.ogg</Path>
+    <Size>10003</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/creeper2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dying1.ogg</Name>
+    <Path>sound/portalgun/potatos/dying1.ogg</Path>
+    <Size>49745</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/dying1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dying2.ogg</Name>
+    <Path>sound/portalgun/potatos/dying2.ogg</Path>
+    <Size>25439</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/dying2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dying3.ogg</Name>
+    <Path>sound/portalgun/potatos/dying3.ogg</Path>
+    <Size>17389</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/dying3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>dying_seecreeper.ogg</Name>
+    <Path>sound/portalgun/potatos/dying_seecreeper.ogg</Path>
+    <Size>63594</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/dying_seecreeper.ogg</URL>
+  </File>
+
+  <File>
+    <Name>insult.ogg</Name>
+    <Path>sound/portalgun/potatos/insult.ogg</Path>
+    <Size>53453</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/insult.ogg</URL>
+  </File>
+
+  <File>
+    <Name>introa.ogg</Name>
+    <Path>sound/portalgun/potatos/introa.ogg</Path>
+    <Size>10739</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/introa.ogg</URL>
+  </File>
+
+  <File>
+    <Name>introb.ogg</Name>
+    <Path>sound/portalgun/potatos/introb.ogg</Path>
+    <Size>24660</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/introb.ogg</URL>
+  </File>
+
+  <File>
+    <Name>introc.ogg</Name>
+    <Path>sound/portalgun/potatos/introc.ogg</Path>
+    <Size>23224</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/introc.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ow1.ogg</Name>
+    <Path>sound/portalgun/potatos/ow1.ogg</Path>
+    <Size>8342</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/ow1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ow2.ogg</Name>
+    <Path>sound/portalgun/potatos/ow2.ogg</Path>
+    <Size>7217</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/ow2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ow3.ogg</Name>
+    <Path>sound/portalgun/potatos/ow3.ogg</Path>
+    <Size>7878</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/ow3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ow4.ogg</Name>
+    <Path>sound/portalgun/potatos/ow4.ogg</Path>
+    <Size>7973</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/ow4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>paradox.ogg</Name>
+    <Path>sound/portalgun/potatos/paradox.ogg</Path>
+    <Size>80991</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/paradox.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pic_gosee1.ogg</Name>
+    <Path>sound/portalgun/potatos/pic_gosee1.ogg</Path>
+    <Size>31144</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_gosee1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pic_nowait1.ogg</Name>
+    <Path>sound/portalgun/potatos/pic_nowait1.ogg</Path>
+    <Size>52599</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_nowait1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pic_see1.ogg</Name>
+    <Path>sound/portalgun/potatos/pic_see1.ogg</Path>
+    <Size>51206</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_see1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pic_see2.ogg</Name>
+    <Path>sound/portalgun/potatos/pic_see2.ogg</Path>
+    <Size>22843</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pic_see2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton1.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton1.ogg</Path>
+    <Size>18738</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton2.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton2.ogg</Path>
+    <Size>21659</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton3.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton3.ogg</Path>
+    <Size>15786</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton4.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton4.ogg</Path>
+    <Size>12622</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton5.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton5.ogg</Path>
+    <Size>14939</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>pressbutton6.ogg</Name>
+    <Path>sound/portalgun/potatos/pressbutton6.ogg</Path>
+    <Size>31239</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/pressbutton6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>see_chicken1.ogg</Name>
+    <Path>sound/portalgun/potatos/see_chicken1.ogg</Path>
+    <Size>29292</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/see_chicken1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>see_mobspawner.ogg</Name>
+    <Path>sound/portalgun/potatos/see_mobspawner.ogg</Path>
+    <Size>42836</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/see_mobspawner.ogg</URL>
+  </File>
+
+  <File>
+    <Name>slowclap1.ogg</Name>
+    <Path>sound/portalgun/potatos/slowclap1.ogg</Path>
+    <Size>26050</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/slowclap1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>slowclap2.ogg</Name>
+    <Path>sound/portalgun/potatos/slowclap2.ogg</Path>
+    <Size>15651</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/slowclap2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>slowclapa.ogg</Name>
+    <Path>sound/portalgun/potatos/slowclapa.ogg</Path>
+    <Size>61725</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/slowclapa.ogg</URL>
+  </File>
+
+  <File>
+    <Name>slowclapb.ogg</Name>
+    <Path>sound/portalgun/potatos/slowclapb.ogg</Path>
+    <Size>18373</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/slowclapb.ogg</URL>
+  </File>
+
+  <File>
+    <Name>stabbed.ogg</Name>
+    <Path>sound/portalgun/potatos/stabbed.ogg</Path>
+    <Size>159255</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/stabbed.ogg</URL>
+  </File>
+
+  <File>
+    <Name>thanks1.ogg</Name>
+    <Path>sound/portalgun/potatos/thanks1.ogg</Path>
+    <Size>12526</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/thanks1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wakeup1.ogg</Name>
+    <Path>sound/portalgun/potatos/wakeup1.ogg</Path>
+    <Size>28600</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/wakeup1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wakeup2.ogg</Name>
+    <Path>sound/portalgun/potatos/wakeup2.ogg</Path>
+    <Size>23100</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/potatos/wakeup2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>radioloop10a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop10a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop10a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop11a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop11a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop11a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop12a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop12a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop12a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop13a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop13a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop13a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop14a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop14a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop14a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop15a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop15a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop15a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop16a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop16a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop16a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop17a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop17a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop17a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop18a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop18a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop18a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop19a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop19a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop19a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop1a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop1a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop1a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop20a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop20a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop20a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop21a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop21a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop21a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop22a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop22a.wav</Path>
+    <Size>88184</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop22a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop2a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop2a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop2a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop3a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop3a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop3a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop4a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop4a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop4a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop5a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop5a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop5a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop6a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop6a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop6a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop7a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop7a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop7a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop8a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop8a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop8a.wav</URL>
+  </File>
+
+  <File>
+    <Name>radioloop9a.wav</Name>
+    <Path>sound/portalgun/radioloop/radioloop9a.wav</Path>
+    <Size>88244</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/radioloop/radioloop9a.wav</URL>
+  </File>
+
+  <File>
+    <Name>superphys_small_zap1.ogg</Name>
+    <Path>sound/portalgun/superphys_small_zap1.ogg</Path>
+    <Size>10480</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>superphys_small_zap2.ogg</Name>
+    <Path>sound/portalgun/superphys_small_zap2.ogg</Path>
+    <Size>11363</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>superphys_small_zap3.ogg</Name>
+    <Path>sound/portalgun/superphys_small_zap3.ogg</Path>
+    <Size>10062</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>superphys_small_zap4.ogg</Name>
+    <Path>sound/portalgun/superphys_small_zap4.ogg</Path>
+    <Size>10588</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/superphys_small_zap4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor1.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor1.ogg</Path>
+    <Size>10074</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor10.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor10.ogg</Path>
+    <Size>10108</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor11.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor11.ogg</Path>
+    <Size>10251</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor11.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor2.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor2.ogg</Path>
+    <Size>8886</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor3.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor3.ogg</Path>
+    <Size>8848</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor4.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor4.ogg</Path>
+    <Size>12618</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor5.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor5.ogg</Path>
+    <Size>12339</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor6.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor6.ogg</Path>
+    <Size>10864</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor7.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor7.ogg</Path>
+    <Size>10062</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor8.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor8.ogg</Path>
+    <Size>10843</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>bulletltor9.ogg</Name>
+    <Path>sound/portalgun/turret/bulletltor9.ogg</Path>
+    <Size>14455</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/bulletltor9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce1.ogg</Path>
+    <Size>21215</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce2.ogg</Path>
+    <Size>14576</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce3.ogg</Path>
+    <Size>27333</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce4.ogg</Path>
+    <Size>28382</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce5.ogg</Path>
+    <Size>20167</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce6.ogg</Path>
+    <Size>25828</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce7.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce7.ogg</Path>
+    <Size>21938</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_bounce8.ogg</Name>
+    <Path>sound/portalgun/turret/defective_bounce8.ogg</Path>
+    <Size>35431</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_bounce8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy1.ogg</Path>
+    <Size>18954</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy2.ogg</Path>
+    <Size>18984</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy3.ogg</Path>
+    <Size>23410</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy4.ogg</Path>
+    <Size>33357</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy5.ogg</Path>
+    <Size>23396</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy6.ogg</Path>
+    <Size>32068</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_deploy7.ogg</Name>
+    <Path>sound/portalgun/turret/defective_deploy7.ogg</Path>
+    <Size>17317</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_deploy7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire1.ogg</Path>
+    <Size>17753</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire2.ogg</Path>
+    <Size>9437</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire3.ogg</Path>
+    <Size>11930</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire4.ogg</Path>
+    <Size>18792</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire5.ogg</Path>
+    <Size>13219</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire6.ogg</Path>
+    <Size>9208</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire7.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire7.ogg</Path>
+    <Size>10714</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire8.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire8.ogg</Path>
+    <Size>15106</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_dryfire9.ogg</Name>
+    <Path>sound/portalgun/turret/defective_dryfire9.ogg</Path>
+    <Size>12999</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_dryfire9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_entityaround1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_entityaround1.ogg</Path>
+    <Size>22085</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_entityaround2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_entityaround2.ogg</Path>
+    <Size>14853</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_entityaround3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_entityaround3.ogg</Path>
+    <Size>44360</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_entityaround4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_entityaround4.ogg</Path>
+    <Size>49953</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_entityaround5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_entityaround5.ogg</Path>
+    <Size>17622</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_entityaround5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro1.ogg</Path>
+    <Size>11176</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro2.ogg</Path>
+    <Size>9916</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro3.ogg</Path>
+    <Size>16719</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro4.ogg</Path>
+    <Size>12020</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro5.ogg</Path>
+    <Size>10857</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_intro6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_intro6.ogg</Path>
+    <Size>12965</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_intro6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget1.ogg</Path>
+    <Size>19046</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget10.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget10.ogg</Path>
+    <Size>14668</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget11.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget11.ogg</Path>
+    <Size>14524</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget11.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget2.ogg</Path>
+    <Size>17313</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget3.ogg</Path>
+    <Size>13728</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget4.ogg</Path>
+    <Size>21738</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget5.ogg</Path>
+    <Size>25902</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget6.ogg</Path>
+    <Size>22643</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget7.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget7.ogg</Path>
+    <Size>12745</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget8.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget8.ogg</Path>
+    <Size>17247</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_losttarget9.ogg</Name>
+    <Path>sound/portalgun/turret/defective_losttarget9.ogg</Path>
+    <Size>15607</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_losttarget9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_pickup1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_pickup1.ogg</Path>
+    <Size>32790</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_pickup2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_pickup2.ogg</Path>
+    <Size>36667</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_pickup3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_pickup3.ogg</Path>
+    <Size>13086</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_pickup4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_pickup4.ogg</Path>
+    <Size>16104</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_pickup5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_pickup5.ogg</Path>
+    <Size>10578</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_pickup5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire1.ogg</Path>
+    <Size>12407</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire2.ogg</Path>
+    <Size>39974</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire3.ogg</Path>
+    <Size>29903</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire4.ogg</Path>
+    <Size>13675</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire5.ogg</Path>
+    <Size>28212</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_retire6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_retire6.ogg</Path>
+    <Size>16925</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_retire6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound1.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound1.ogg</Path>
+    <Size>24452</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound10.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound10.ogg</Path>
+    <Size>15752</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound2.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound2.ogg</Path>
+    <Size>27217</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound3.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound3.ogg</Path>
+    <Size>26567</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound4.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound4.ogg</Path>
+    <Size>12537</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound5.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound5.ogg</Path>
+    <Size>13373</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound6.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound6.ogg</Path>
+    <Size>27265</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound7.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound7.ogg</Path>
+    <Size>22874</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound8.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound8.ogg</Path>
+    <Size>55279</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>defective_targetfound9.ogg</Name>
+    <Path>sound/portalgun/turret/defective_targetfound9.ogg</Path>
+    <Size>41175</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/defective_targetfound9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>deploy.ogg</Name>
+    <Path>sound/portalgun/turret/deploy.ogg</Path>
+    <Size>6486</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/deploy.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_death.ogg</Name>
+    <Path>sound/portalgun/turret/different_death.ogg</Path>
+    <Size>17549</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_death.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_intro.ogg</Name>
+    <Path>sound/portalgun/turret/different_intro.ogg</Path>
+    <Size>22465</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_intro.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret1.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret1.ogg</Path>
+    <Size>13102</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret10.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret10.ogg</Path>
+    <Size>25690</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret11.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret11.ogg</Path>
+    <Size>9687</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret11.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret2.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret2.ogg</Path>
+    <Size>17486</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret3.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret3.ogg</Path>
+    <Size>22622</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret4.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret4.ogg</Path>
+    <Size>108167</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret5.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret5.ogg</Path>
+    <Size>16596</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret6.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret6.ogg</Path>
+    <Size>21472</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret7.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret7.ogg</Path>
+    <Size>17630</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret8.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret8.ogg</Path>
+    <Size>17234</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>different_turret9.ogg</Name>
+    <Path>sound/portalgun/turret/different_turret9.ogg</Path>
+    <Size>29265</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/different_turret9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>flesh_impact_bullet1.ogg</Name>
+    <Path>sound/portalgun/turret/flesh_impact_bullet1.ogg</Path>
+    <Size>6683</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>flesh_impact_bullet2.ogg</Name>
+    <Path>sound/portalgun/turret/flesh_impact_bullet2.ogg</Path>
+    <Size>8787</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>flesh_impact_bullet3.ogg</Name>
+    <Path>sound/portalgun/turret/flesh_impact_bullet3.ogg</Path>
+    <Size>8142</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>flesh_impact_bullet4.ogg</Name>
+    <Path>sound/portalgun/turret/flesh_impact_bullet4.ogg</Path>
+    <Size>6370</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>flesh_impact_bullet5.ogg</Name>
+    <Path>sound/portalgun/turret/flesh_impact_bullet5.ogg</Path>
+    <Size>6681</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/flesh_impact_bullet5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>retract.ogg</Name>
+    <Path>sound/portalgun/turret/retract.ogg</Path>
+    <Size>6746</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/retract.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ric1.ogg</Name>
+    <Path>sound/portalgun/turret/ric1.ogg</Path>
+    <Size>18958</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ric2.ogg</Name>
+    <Path>sound/portalgun/turret/ric2.ogg</Path>
+    <Size>16748</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ric3.ogg</Name>
+    <Path>sound/portalgun/turret/ric3.ogg</Path>
+    <Size>15952</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ric4.ogg</Name>
+    <Path>sound/portalgun/turret/ric4.ogg</Path>
+    <Size>19636</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>ric5.ogg</Name>
+    <Path>sound/portalgun/turret/ric5.ogg</Path>
+    <Size>13545</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/ric5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>shoot1.ogg</Name>
+    <Path>sound/portalgun/turret/shoot1.ogg</Path>
+    <Size>9719</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/shoot1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>shoot2.ogg</Name>
+    <Path>sound/portalgun/turret/shoot2.ogg</Path>
+    <Size>8955</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/shoot2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>shoot3.ogg</Name>
+    <Path>sound/portalgun/turret/shoot3.ogg</Path>
+    <Size>8687</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/shoot3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active1.ogg</Path>
+    <Size>9905</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active2.ogg</Path>
+    <Size>22088</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active3.ogg</Path>
+    <Size>26322</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active4.ogg</Path>
+    <Size>13814</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active5.ogg</Path>
+    <Size>38755</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active6.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active6.ogg</Path>
+    <Size>15782</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_active7.ogg</Name>
+    <Path>sound/portalgun/turret/turret_active7.ogg</Path>
+    <Size>24519</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_active7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_autosearch1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_autosearch1.ogg</Path>
+    <Size>16492</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_autosearch2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_autosearch2.ogg</Path>
+    <Size>13976</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_autosearch3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_autosearch3.ogg</Path>
+    <Size>31653</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_autosearch4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_autosearch4.ogg</Path>
+    <Size>33882</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_autosearch5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_autosearch5.ogg</Path>
+    <Size>31098</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_autosearch5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_collide1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_collide1.ogg</Path>
+    <Size>21948</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_collide2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_collide2.ogg</Path>
+    <Size>17114</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_collide3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_collide3.ogg</Path>
+    <Size>15325</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_collide4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_collide4.ogg</Path>
+    <Size>17137</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_collide5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_collide5.ogg</Path>
+    <Size>12227</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_collide5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_deploy1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_deploy1.ogg</Path>
+    <Size>11538</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_deploy1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_deploy2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_deploy2.ogg</Path>
+    <Size>16478</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_deploy2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_deploy3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_deploy3.ogg</Path>
+    <Size>20231</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_deploy3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_deploy4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_deploy4.ogg</Path>
+    <Size>20371</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_deploy4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_deploy5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_deploy5.ogg</Path>
+    <Size>26064</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_deploy5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled1.ogg</Path>
+    <Size>33999</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled2.ogg</Path>
+    <Size>20827</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled3.ogg</Path>
+    <Size>21451</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled4.ogg</Path>
+    <Size>20492</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled5.ogg</Path>
+    <Size>28057</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_disabled6.ogg</Name>
+    <Path>sound/portalgun/turret/turret_disabled6.ogg</Path>
+    <Size>23796</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_disabled6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_fizzler1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_fizzler1.ogg</Path>
+    <Size>28044</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_fizzler1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire1.ogg</Path>
+    <Size>9723</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire10.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire10.ogg</Path>
+    <Size>15712</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire2.ogg</Path>
+    <Size>11571</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire3.ogg</Path>
+    <Size>16217</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire4.ogg</Path>
+    <Size>14560</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire5.ogg</Path>
+    <Size>15796</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire6.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire6.ogg</Path>
+    <Size>24810</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire7.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire7.ogg</Path>
+    <Size>12855</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire8.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire8.ogg</Path>
+    <Size>19488</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_onfire9.ogg</Name>
+    <Path>sound/portalgun/turret/turret_onfire9.ogg</Path>
+    <Size>19621</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_onfire9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_1.ogg</Path>
+    <Size>22947</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_10.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_10.ogg</Path>
+    <Size>24184</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_2.ogg</Path>
+    <Size>26083</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_3.ogg</Path>
+    <Size>36965</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_4.ogg</Path>
+    <Size>36952</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_5.ogg</Path>
+    <Size>45394</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_6.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_6.ogg</Path>
+    <Size>36214</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_7.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_7.ogg</Path>
+    <Size>21511</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_8.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_8.ogg</Path>
+    <Size>41645</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_pickup_9.ogg</Name>
+    <Path>sound/portalgun/turret/turret_pickup_9.ogg</Path>
+    <Size>23595</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_pickup_9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire1.ogg</Path>
+    <Size>13571</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire2.ogg</Path>
+    <Size>30697</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire3.ogg</Path>
+    <Size>24356</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire4.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire4.ogg</Path>
+    <Size>16904</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire5.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire5.ogg</Path>
+    <Size>22232</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_retire6.ogg</Name>
+    <Path>sound/portalgun/turret/turret_retire6.ogg</Path>
+    <Size>20253</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_retire6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_search1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_search1.ogg</Path>
+    <Size>13583</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_search1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_search2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_search2.ogg</Path>
+    <Size>21309</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_search2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_search3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_search3.ogg</Path>
+    <Size>18651</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_search3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_shotat1.ogg</Name>
+    <Path>sound/portalgun/turret/turret_shotat1.ogg</Path>
+    <Size>35846</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_shotat1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_shotat2.ogg</Name>
+    <Path>sound/portalgun/turret/turret_shotat2.ogg</Path>
+    <Size>26896</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_shotat2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_shotat3.ogg</Name>
+    <Path>sound/portalgun/turret/turret_shotat3.ogg</Path>
+    <Size>29404</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turret_shotat3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched1.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched1.ogg</Path>
+    <Size>12911</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched1.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched10.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched10.ogg</Path>
+    <Size>19201</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched10.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched11.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched11.ogg</Path>
+    <Size>12842</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched11.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched2.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched2.ogg</Path>
+    <Size>22842</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched2.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched3.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched3.ogg</Path>
+    <Size>20001</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched3.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched4.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched4.ogg</Path>
+    <Size>20901</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched4.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched5.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched5.ogg</Path>
+    <Size>13745</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched5.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched6.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched6.ogg</Path>
+    <Size>14964</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched6.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched7.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched7.ogg</Path>
+    <Size>14387</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched7.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched8.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched8.ogg</Path>
+    <Size>12563</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched8.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turretlaunched9.ogg</Name>
+    <Path>sound/portalgun/turret/turretlaunched9.ogg</Path>
+    <Size>23195</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/turret/turretlaunched9.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_b01.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_b01.ogg</Path>
+    <Size>32109</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_b01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_b02.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_b02.ogg</Path>
+    <Size>41356</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_b02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_b03.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_b03.ogg</Path>
+    <Size>38475</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_b03.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_r01.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_r01.ogg</Path>
+    <Size>63165</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_r01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_r02.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_r02.ogg</Path>
+    <Size>46134</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_r02.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_gun_fire_r03.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_gun_fire_r03.ogg</Path>
+    <Size>34708</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_gun_fire_r03.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portal_reset_01.ogg</Name>
+    <Path>sound/portalgun/wpn_portal_reset_01.ogg</Path>
+    <Size>26503</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portal_reset_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wpn_portalgun_active_01.ogg</Name>
+    <Path>sound/portalgun/wpn_portalgun_active_01.ogg</Path>
+    <Size>56644</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/sound/portalgun/wpn_portalgun_active_01.ogg</URL>
+  </File>
+
+  <File>
+    <Name>radioloop.ogg</Name>
+    <Path>streaming/portalgun/radioloop.ogg</Path>
+    <Size>226303</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/radioloop.ogg</URL>
+  </File>
+
+  <File>
+    <Name>stillalive.ogg</Name>
+    <Path>streaming/portalgun/stillalive.ogg</Path>
+    <Size>3417825</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/stillalive.ogg</URL>
+  </File>
+
+  <File>
+    <Name>turret_wife_serenade.ogg</Name>
+    <Path>streaming/portalgun/turret_wife_serenade.ogg</Path>
+    <Size>1540437</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/turret_wife_serenade.ogg</URL>
+  </File>
+
+  <File>
+    <Name>wantyougone.ogg</Name>
+    <Path>streaming/portalgun/wantyougone.ogg</Path>
+    <Size>2603891</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/streaming/portalgun/wantyougone.ogg</URL>
+  </File>
+
+  <File>
+    <Name>2</Name>
+    <Path>version/1.4.5/2</Path>
+    <Size>0</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/version/1.4.5/2</URL>
+  </File>
+
+  <File>
+    <Name>7</Name>
+    <Path>version/1.4.6/7</Path>
+    <Size>0</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/version/1.4.6/7</URL>
+  </File>
+
+  <File>
+    <Name>3</Name>
+    <Path>version/1.5.0/3</Path>
+    <Size>0</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/version/1.5.0/3</URL>
+  </File>
+
+  <File>
+    <Name>2</Name>
+    <Path>version/1.6.0/2</Path>
+    <Size>0</Size>
+    <URL>https://dist.creeper.host/ichun/portalgun/resources/version/1.6.0/2</URL>
+  </File>
+
+</Files>

@@ -3,9 +3,9 @@ filename = "NEI_RedPowerPlugin 1.4.3.1.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/2233/253/NEI_RedPowerPlugin%201.4.3.1.jar"
 hash-format = "sha256"
 hash = "cb415b19bc2fda4404fcab5e4bde33f3b7091af421fca8673ebfdce1183ca5a7"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

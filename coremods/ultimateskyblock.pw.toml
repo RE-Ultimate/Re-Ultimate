@@ -3,7 +3,7 @@ filename = "UltimateSkyblock.jar"
 side = "both"
 
 [download]
-url = "https://rewindmc.com/packwiz/upsilon/coremods/UltimateSkyblock.jar"
+url = "https://re-ultimate.github.io/Re-Ultimate/coremods/UltimateSkyblock.jar"
 hash-format = "sha256"
 hash = "34f282987d6563fc709a5ca87bd7156054a4fb3e73ced7fc5fbe60182aa6a11a"
 

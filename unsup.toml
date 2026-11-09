@@ -1,9 +1,9 @@
 [features]
-metafiles_zip = true
+metafiles_zip = false
 
 [flavor_groups.flavor]
 name = "Flavor"
-description = "How do you want to play Rewind Upsilon?"
+description = "How do you want to play Re:Ultimate?"
 side = "both"
 [[flavor_groups.flavor.choices]]
 id = "standard"
@@ -37,7 +37,7 @@ description = "What menu music do you want?"
 side = "client"
 [[flavor_groups.music.choices]]
 id = "music_upsilon"
-name = "Upsilon"
+name = "Chiptunes"
 description = "Use CC-licensed happy chiptunes chosen by the Rewind project, created by xyce and radix."
 [[flavor_groups.music.choices]]
 id = "music_voxel"

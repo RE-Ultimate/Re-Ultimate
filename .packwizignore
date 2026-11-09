@@ -12,6 +12,8 @@ config/extrabiomes/extrabiomes.cfg
 config/extrabiomes/extrabiomes.cfg.ultimateCompat
 scripts/dartcraft.zs
 icon.png
+mods/XyCraft.zip
+portalgun.xml
 README.md
 unsup.toml
 .woodpecker
@@ -20,9 +22,24 @@ unsup.sig
 unsup-metafiles.zip.br
 update.sh
 .gitmodules
+lang/UPSTREAM.md
 .git
 ids
-# ----- >8 cut here - empty lang files autogen'd by weblate ----- #
+
+# Re:Ultimate maintenance files and superseded NEI integration
+tools
+docs
+branding
+build-support
+dist
+.github
+LICENSE
+THIRD_PARTY.md
+coremods/notenoughitems.pw.toml
+coremods/vanilla-nei-fix.pw.toml
+mods/NEIPlugins.jar
+mods/nei-redpower-plugin.pw.toml
+# ----- >8 cut here - empty lang files ----- #
 lang/AdvancedMachines/cs_CZ.json
 lang/AdvancedMachines/cy_GB.json
 lang/AdvancedMachines/de_DE.json

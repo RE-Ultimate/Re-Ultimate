@@ -3,9 +3,9 @@ filename = "CodeChickenCore 0.8.1.6.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/2233/216/CodeChickenCore%200.8.1.6.jar"
 hash-format = "sha256"
 hash = "164008958bfb6ca8eedf9686589bd511f515524ef9cdaffdccd25bbff89d984e"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

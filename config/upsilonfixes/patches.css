@@ -1,5 +1,5 @@
 /*
- * UpsilonFixes configuration file
+ * Re:Ultimate Fixes configuration file
  * Any unrecognized keys or comments you add will be lost!
  */
 
@@ -85,7 +85,7 @@ features {
 	tubestuff-autocrafter-mk2-logisticspipes-import: on;
 
 	/*
-	 * Enables the Rewind Upsilon modpack branding.
+	 * Enables the Re:Ultimate modpack branding.
 	 */
 	upsilon-branding: on;
 
@@ -337,7 +337,7 @@ remove {
 	/*
 	 * Prevent Portal Gun from attempting to download resources. Alternative to
 	 * fixes.portalgun-resources that prevents server connections, but is incapable of
-	 * bootstrapping. Used in Rewind Upsilon as that distributes the Portal Gun
+	 * bootstrapping. Used in Re:Ultimate as that distributes the Portal Gun
 	 * resources via unsup.
 	 */
 	portalgun-resource-downloader: on;

@@ -1,4 +1,4 @@
 [submodule "lang"]
 	path = lang
-	url = https://git.sleeping.town/Rewind/UpsilonLang.git
-	branch = release
+	url = https://github.com/RE-Ultimate/translations.git
+	branch = main
