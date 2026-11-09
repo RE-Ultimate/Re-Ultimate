@@ -16,7 +16,7 @@ description = "You want to load an existing FTB Ultimate world and continue wher
 [[flavor_groups.flavor.choices]]
 id = "skyblock"
 name = "Skyblock"
-description = "You want to create a new world with Emi's 1.4.7 skyblock challenge, or join a server using this flavor.\n<ul><li>PowerConverters disabled</li><li>Emi's Skyblock enabled</li></ul><b>Emi's skyblock challenge is <i>very hard</i>.</b> You will need an intimate familiarity with the mods and judicious use of NEI to get anywhere.\n\n<i>Hint:</i> You can get drones from Scrapboxes, and Alveary Swarmer princesses <i>will not</i> die."
+description = "You want to create a new world with Emi's 1.4.7 skyblock challenge, or join a server using this flavor.\n<ul><li>PowerConverters disabled</li><li>Emi's Skyblock enabled</li></ul><b>Emi's skyblock challenge is <i>very hard</i>.</b> You will need an intimate familiarity with the mods and judicious use of the recipe viewer to get anywhere.\n\n<i>Hint:</i> You can get drones from Scrapboxes, and Alveary Swarmer princesses <i>will not</i> die."
 
 [flavor_groups.minimap]
 name = "Minimap"
@@ -38,7 +38,7 @@ side = "client"
 [[flavor_groups.music.choices]]
 id = "music_upsilon"
 name = "Chiptunes"
-description = "Use CC-licensed happy chiptunes chosen by the Rewind project, created by xyce and radix."
+description = "CC-licensed chiptunes by xyce and radix, retained from the original pack."
 [[flavor_groups.music.choices]]
 id = "music_voxel"
 name = "Classic"
