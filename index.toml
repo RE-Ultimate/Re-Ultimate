@@ -353,7 +353,7 @@ hash = "fff739b5ce9727a32eb0fb7f737d45de983d7e35560e283d0f0aa756c2e2b141"
 
 [[files]]
 file = "config/upsilonfixes/patches.css"
-hash = "2f88a81a5578c1ab3e7f1e93aea8f209e652d53f9f503203f5be3e11c85922c8"
+hash = "3e0777fb59ea15ed930b075d37de751665e33fe64577a33afd9680305ba73a37"
 
 [[files]]
 file = "coremods/MiscPeripherals.jar"
@@ -1371,7 +1371,7 @@ hash = "489d6d43cd7ce55551409b0d5a5a8e1d0180eb3fdc58c950bb972508d68ae1f4"
 
 [[files]]
 file = "nilmods/UpsilonFixes.jar"
-hash = "acd44d625aea8d572554889acd0accc441323ba0f9d6af0e498d2ed6c02a7e4f"
+hash = "e3ed76c02a137871b4e0f4495e43ee1c23c9780fbef074f8e5a87377582dcb41"
 
 [[files]]
 file = "nilmods/niteloader.pw.toml"

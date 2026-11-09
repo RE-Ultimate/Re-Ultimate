@@ -52,7 +52,7 @@ features {
 	/*
 	 * Patch FML and various mods to be compatible with newer versions of the
 	 * JVM.
-	 * 
+	 *
 	 * "auto" acts as "off" on Java 8, and "on" otherwise.
 	 */
 	modern-java-support: auto;
@@ -118,7 +118,7 @@ fixes {
 	/*
 	 * Prevents CodeChickenCore from allocating a stencil buffer. May cause rendering
 	 * issues. Fixes the game not rendering at all on macOS.
-	 * 
+	 *
 	 * "auto" acts as "on" on
 	 * macOS, and "off" otherwise.
 	 */
@@ -294,7 +294,7 @@ hacks {
 	 * Makes ASM 4.0 pretend to be able to understand Java 8 class files. Necessary
 	 * when using NilLoader via hijacking. Breaks on newer Java, as it causes Forge to
 	 * strip all interface hints on invokes.
-	 * 
+	 *
 	 * "auto" acts as "on" on Java 8, and "off"
 	 * otherwise.
 	 */
@@ -309,7 +309,7 @@ hacks {
 	/*
 	 * Swap the red and blue channels in the main framebuffer. Fixes the game rendering
 	 * with incorrect colors on Apple Silicon Macs.
-	 * 
+	 *
 	 * "auto" acts as "on" on macOS, and
 	 * "off" otherwise.
 	 */
